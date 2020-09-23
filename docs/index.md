@@ -1,5 +1,9 @@
 # General
 
+## Installation and upgrade
+
+Please follow instructions [here](./prereq.md).
+
 ## Support
 
 > "How do I contact Arrigo Support group?"
