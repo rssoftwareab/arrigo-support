@@ -14,8 +14,6 @@ Verify following steps:
 - EXOscada is *started*.
 - Start a browser and navigate to `https://localhost/arrigo` . 
 
-
-
 # Project Upgrade
 
 An `EXOscada` project needs upgrade. For now, we don't yet have all templates needed in EXOdesigner to make this work.  A couple of manual steps is needed to get online and going. 
@@ -36,11 +34,10 @@ Add a file called `.foldermeta` in the EXOdesigner folder. If the file is missin
 
 The value of type can be whatever you want, we refer to this later on. 
 
-In runtime the `Shared:Arrigo/FolderTypes/.folders.json` is used to match the folder type to obtain the correct folder configuration. See [this](youtube) explaination of how foldermeta files works.
+In runtime the `Shared:Arrigo/FolderTypes/.folders.json` is used to match the folder type to obtain the correct folder configuration.
 
 If a local `folder.rwaf` exists, this file will be used .
 
 > "I have already a dashboard configuration, what do i do?"
 
 You must rename your `filename.rwaf` to `folder.rwaf`. Only one `.rwaf` file is allowed.
-
