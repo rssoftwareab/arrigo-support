@@ -10,7 +10,7 @@ Verify following steps:
 - License for above version of `EXO` is installed. 
 - Arrigo Local is installed. For early bird users, this step is automatically done by RS Software. Separate E-mail is sent out.
 - Project is attached.
-- Project is patched according to [these](#Patch project) instructions
+- Project is patched according to [these](#Project-Upgrade) instructions
 - EXOscada is *started*.
 - Start a browser and navigate to `https://localhost/arrigo` . 
 
