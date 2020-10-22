@@ -1,6 +1,1 @@
-[
-  {
-    "name": "ArrigoLocalInstaller",
-    "version": "1.0.211"
-  }
-]
+[{"name":"ArrigoLocalInstaller","version":["1.0.223"],"url":"https://something/$(latestInstaller)"}]
