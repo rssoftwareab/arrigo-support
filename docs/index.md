@@ -1,3 +1,8 @@
+---
+layout: page
+title: Home
+---
+
 # General
 This is the main collection page for Tutorials and Release notes. 
 Releases can be found [here](./releases/)
