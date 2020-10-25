@@ -3,11 +3,11 @@
 @import "{{ site.theme }}";
 .page-header{
   background-color:#1f2128;
-  background-image: none;
+  background-image: none !important;
 }
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
   color: #328bff;
 }
 .page-header a {
-  display:none;
+  display:none !important;
 }
