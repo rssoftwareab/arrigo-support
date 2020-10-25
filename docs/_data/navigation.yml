@@ -1,0 +1,9 @@
+# Site navigation links
+- title: Home
+  url: /
+ 
+- title: Tutorials
+  url: /tutorials/
+  
+- title: Releases
+  url: /releases/
