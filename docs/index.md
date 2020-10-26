@@ -4,8 +4,7 @@ title: Arrigo.
 description: Releases and Tutorials
 ---
 ## Releases
-We have always the [latest](https://arrigo.blob.core.windows.net/arrigo/EXO-2019-Edition-2-Arrigo-0731.exe) release.
-Change log can be found [here](./releases.html)
+Links to releases and changelog can be found [here](./releases.html)
 
 ## Installation and upgrade
 
