@@ -1,3 +1,7 @@
+--
+layout: main
+title: Installation
+--
 # How Do I start?
 
 `Arrigo Local` needs `EXO2019 Edition 2, latest service release` to run. 
