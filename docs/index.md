@@ -1,7 +1,8 @@
 ---
 layout: main
+title: Arrigo.
+description: Releases and Tutorials
 ---
-
 # General
 This is the main collection page for Tutorials and Release notes. 
 Releases can be found [here](./releases/)
