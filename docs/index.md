@@ -1,6 +1,5 @@
 ---
 layout: main
-title: Home
 ---
 
 # General
