@@ -5,7 +5,7 @@ description: instructions and binaries
 ---
 # How Do I start?
 
-`Arrigo Local` needs `EXO2019 Edition 2, latest service release` to run. 
+`Arrigo Local` needs `EXO2019 Edition 3` to run. 
 
 > "I installed Arrigo Local but it won't work!
 
