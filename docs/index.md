@@ -3,9 +3,10 @@ layout: main
 title: Arrigo.
 description: Releases and Tutorials
 ---
-# General
-This is the main collection page for Tutorials and Release notes. 
-Releases can be found [here](./releases.html)
+## Releases
+We have always the [latest](https://arrigo.blob.core.windows.net/arrigo/EXO-2019-Edition-2-Arrigo-0731.exe) release.
+Change log can be found [here](./releases.html)
+
 ## Installation and upgrade
 
 Please follow instructions [here](./prereq.md).
