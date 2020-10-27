@@ -6,9 +6,25 @@ description: Releases and Change Log
 # Download
 The latest release can always be downloaded [here](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller-EXO2019Edition3_737-1.0.239.exe).
 
-# Change Log
+# Arrigo Local Change Log
+## `1.0.239` 
+This is the first release targeting EXO 2019 Edition 3. 
 
-## `1.0.233` - Arrigo Local
+### Installer 
+- Check for new version automatically
+- Targets EXO 2019 Edition 3
+
+### FolderTool
+- Fix: icons
+- Fix: icon suggests
+
+### FolderViewsTool
+- Fix: icons
+
+### Templates
+- Minor fixes.
+
+## `1.0.233`
 The first one. The hot stuff. So hot that we haven't even tried every aspect of it ourselves. Try it out, you will not be disappointed.
 - Widgets
 - Link icons in groups
