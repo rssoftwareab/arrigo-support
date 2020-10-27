@@ -8,7 +8,7 @@ The latest release can always be downloaded [here](https://arrigo.blob.core.wind
 
 # Change Log
 
-## Arrigo Local `1.0.233`
+## `1.0.233` - Arrigo Local
 The first one. The hot stuff. So hot that we haven't even tried every aspect of it ourselves. Try it out, you will not be disappointed.
 - Widgets
 - Link icons in groups
