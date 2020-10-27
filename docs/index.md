@@ -12,7 +12,7 @@ Please follow instructions [here](./prereq.md).
 
 ## Tutorials
 
-Here are all tutorials... 
+Powered by Regin: [Tutorials playlist](https://www.youtube.com/playlist?list=PL21UY3hLzF-pxuEDU6kqiGy8_zmlJGp_a)
 
 ## Support
 
