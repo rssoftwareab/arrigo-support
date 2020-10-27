@@ -4,7 +4,7 @@ title: Releases.
 description: Releases and Change Log
 ---
 # Download
-The latest release can always be downloaded [here](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller-EXO2019Edition2-Arrigo_716-1.0.233.exe).
+The latest release can always be downloaded [here](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller-EXO2019Edition3_737-1.0.239.exe).
 
 # Change Log
 
