@@ -5,6 +5,7 @@ description: Releases and Change Log
 ---
 # Download
 The latest release can always be downloaded [here](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe).
+Early Bird uninstaller can be found [here](https://arrigo.blob.core.windows.net/arrigo/ArrigoEarlybirdUninstaller-1.0.11.exe).
 
 # Arrigo Local Change Log
 ## `1.0.239` 
