@@ -12,10 +12,10 @@ description: instructions and binaries
 Verify following steps:
 
 - EXO2019 Edition 3 is installed.
-- License for above version of `EXO` is installed. 
+- License for `EXOscada 2019` is installed. 
 - Arrigo Local is installed.
 - Project is attached.
-- Project is patched according to [these](#Project-Upgrade) instructions
+- Project is updated according to [these](#Project-Upgrade) instructions
 - The "Arrigo BMS" Scada Function is added to the Main Computer
 - EXOscada is *started*.
 - Start a browser and navigate to `https://localhost/arrigo` . 
