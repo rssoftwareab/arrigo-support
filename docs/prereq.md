@@ -22,10 +22,10 @@ Verify following steps:
 
 # Project Upgrade
 
-An `EXOscada` project needs upgrade. For now, we don't yet have all templates needed in EXOdesigner to make this work.  A couple of manual steps is needed to get online and going. 
+An `EXOscada` project needs upgrade. A couple of manual steps are needed to get online and going. 
 
-- Patch your project with [this](./arrigo_local_project_patch.zip) file. It is a zip file. Unpack , Copy and overwrite the files to the EXO project root folder. 
-- In `EXO designer`, open `Scada functions` and add the `Arrigo BMS` function. 
+- In `Project Builder`, add the object `Arrigo BMS` from the `General objects` category. This will copy necessary files to the project and give access to the new tools.
+- In `Project Builder`, select the `Main Computer` and open `Scada functions` - add the `Arrigo BMS` function. 
 - Restart your `EXOscada`. 
 
 ## Folder classification
