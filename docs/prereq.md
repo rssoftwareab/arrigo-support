@@ -20,7 +20,7 @@ Verify following steps:
 - EXOscada is *started*.
 - Start a browser and navigate to `https://localhost/arrigo` . 
 
-# Project Upgrade
+# Add Arrigo BMS to your project
 
 An `EXOscada` project needs upgrade. A couple of manual steps are needed to get online and going. 
 
