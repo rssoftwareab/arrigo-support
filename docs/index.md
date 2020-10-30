@@ -5,11 +5,13 @@ description: Releases and Change Log
 ---
 # Download
 
-The latest release can always be downloaded [here](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe).
+Download EXO2019 Edition 3 from FTP.
 
-Early Bird uninstaller can be found [here](https://arrigo.blob.core.windows.net/arrigo/ArrigoEarlybirdUninstaller-1.0.11.exe).
+[Arrigo Local Installation](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe).
 
-Installation instructions can be found [here](./prereq.html)
+[Early Bird uninstaller](https://arrigo.blob.core.windows.net/arrigo/ArrigoEarlybirdUninstaller-1.0.11.exe).
+
+[Installation instructions](./prereq.html)
 
 # Arrigo Local Change Log
 ## `1.0.239` 
