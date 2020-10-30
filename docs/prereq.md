@@ -20,9 +20,9 @@ Verify following steps:
 - EXOscada is *started*.
 - Start a browser and navigate to `https://localhost/arrigo` . 
 
-# Add Arrigo BMS to your project
+# Adding Arrigo BMS to your project
 
-An `EXOscada` project needs upgrade. A couple of manual steps are needed to get online and going. 
+An `EXOscada` project needs the additional Arrigo BMS object to work. A couple of manual steps are needed to get online and going. 
 
 - In `Project Builder`, add the object `Arrigo BMS` from the `General objects` category. This will copy necessary files to the project and give access to the new tools.
 - In `Project Builder`, select the `Main Computer` and open `Scada functions` - add the `Arrigo BMS` function. 
