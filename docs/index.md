@@ -9,6 +9,8 @@ The latest release can always be downloaded [here](https://arrigo.blob.core.wind
 
 Early Bird uninstaller can be found [here](https://arrigo.blob.core.windows.net/arrigo/ArrigoEarlybirdUninstaller-1.0.11.exe).
 
+Installation instructions can be found [here](./prereq.html)
+
 # Arrigo Local Change Log
 ## `1.0.239` 
 This is the first release targeting EXO 2019 Edition 3. 
