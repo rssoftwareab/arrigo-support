@@ -9,7 +9,7 @@ Download EXO2019 Edition 3 from FTP.
 
 [Arrigo Local Installation](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe).
 
-[Early Bird uninstaller](https://arrigo.blob.core.windows.net/arrigo/ArrigoEarlybirdUninstaller-1.0.11.exe).
+[Early Bird uninstaller](https://arrigo.blob.core.windows.net/arrigo/ArrigoEarlybirdUninstaller-1.0.19.exe).
 
 [Installation instructions](./prereq.html)
 
