@@ -15,7 +15,7 @@ Download EXO2019 Edition 3 from FTP.
 
 # Arrigo Local Change Log
 
-## `1.0.247` 
+## `1.0.247` (2020-11-06)
 ### Installer
 - Preparing for Windows update KB4577586 (Flash removal). 
 - Args passing when installation upgrade
@@ -40,7 +40,7 @@ Download EXO2019 Edition 3 from FTP.
 - Fix bug in arguments in many instances of same shared viewfile. 
 
 
-## `1.0.239` 
+## `1.0.239` (2020-10-27)
 This is the first release targeting EXO 2019 Edition 3. 
 
 ### Installer 
@@ -57,7 +57,7 @@ This is the first release targeting EXO 2019 Edition 3.
 ### Templates
 - Minor fixes.
 
-## `1.0.233`
+## `1.0.233` (2020-10-26)
 The first one. The hot stuff. So hot that we haven't even tried every aspect of it ourselves. Try it out, you will not be disappointed.
 - Widgets
 - Link icons in groups
