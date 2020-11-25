@@ -37,6 +37,7 @@ Download EXO2019 Edition 3 from FTP.
 - Subscribed OneShots are only returned when they have a "valid" value, i.e. they're not "Pending"
 - Reading variables is now approx. 40-200 times faster
 - Added a new mutation for writing data based on keys in the view content
+- Writing to variables from within an SVG now works as expected
 
 
 ## Stable
