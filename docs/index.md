@@ -17,7 +17,11 @@ Download EXO2019 Edition 3 from FTP.
 
 ## Latest
 
-### `1.0.269` (*2020-12-03*)
+*(Same as "stable")*
+
+## Stable
+
+### `1.0.269` (*2020-12-07*)
 
 #### Installer
 
@@ -32,34 +36,6 @@ Download EXO2019 Edition 3 from FTP.
 - Fixed a bug where long startup times could deadlock the Arrigo BMS Scada function
 - Fixed a bug that prevented the User Log/History from showing
 - Fixed a bug that made logins fail under certain conditions
-
-
-## Stable
-### `1.0.247` (*2020-11-06*)
-
-#### Installer
-
-- Preparing for Windows update KB4577586 (Flash removal). 
-- Args passing when installation upgrade
-- Folders were created in the disk root if the installer was run directly after a fresh EXO installation.
-- Powershell version check
-- Unsafe Mode flag added. Lets you try to install on unsupported OS'es. 
-- Added a "press any key to continue" when running in unsafe mode
-
-#### Tools
-- Greater support for Shared: in tools. 
-- Hotfix: Chart arguments did not show up in folder views tool
-- Hotfix: Argument template missing in FolderViewsTool.
-
-#### Templates
-- ViewAppLib+ListViewTemplates+ViewDesignerTemplates:PTS19054:New fan,pump and compressor symbol
-- Icon-path error in station's ArrigoBMS.Exocommands
-- Preparing for area types
-- New Corrigo 5.0 template and related files
-
-
-#### Runtime
-- Fix bug in arguments in many instances of same shared viewfile. 
 
 ## Older releases
 
@@ -86,6 +62,35 @@ Download EXO2019 Edition 3 from FTP.
 - Reading variables is now approx. 40-200 times faster
 - Added a new mutation for writing data based on keys in the view content
 - Writing to variables from within an SVG now works as expected
+
+### `1.0.247` (*2020-11-06*)
+
+#### Installer
+
+- Preparing for Windows update KB4577586 (Flash removal). 
+- Args passing when installation upgrade
+- Folders were created in the disk root if the installer was run directly after a fresh EXO installation.
+- Powershell version check
+- Unsafe Mode flag added. Lets you try to install on unsupported OS'es. 
+- Added a "press any key to continue" when running in unsafe mode
+
+#### Tools
+
+- Greater support for Shared: in tools. 
+- Hotfix: Chart arguments did not show up in folder views tool
+- Hotfix: Argument template missing in FolderViewsTool.
+
+#### Templates
+
+- ViewAppLib+ListViewTemplates+ViewDesignerTemplates:PTS19054:New fan,pump and compressor symbol
+- Icon-path error in station's ArrigoBMS.Exocommands
+- Preparing for area types
+- New Corrigo 5.0 template and related files
+
+
+#### Runtime
+
+- Fix bug in arguments in many instances of same shared viewfile. 
 
 ### `1.0.239` (*2020-10-27*)
 
