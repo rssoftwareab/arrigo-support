@@ -1,8 +1,0 @@
-{
-    "exoBaseVersion":  "670",
-    "exoBuildVersion":  "1.0.0",
-    "arrigoApiVersion":  "1.0.125",
-	"arrigoFrontendVersion":  "1.0.125",
-	"exoProductName":"EXO 2019 Edition 3",
-	"versionCheckUri":"https://rssoftwareab.github.io/arrigo-support/releases/latest.json"
-}
