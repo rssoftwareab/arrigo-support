@@ -21,6 +21,16 @@ Download EXO2019 Edition 3 from FTP.
 
 ## Stable
 
+### `1.0.277` (*2020-12-16*)
+
+
+#### Runtime
+
+- Fixed a bug that could crash the Arrigo BMS Scada function when unadvising variables.
+
+
+## Older releases
+
 ### `1.0.269` (*2020-12-07*)
 
 #### Installer
@@ -36,8 +46,6 @@ Download EXO2019 Edition 3 from FTP.
 - Fixed a bug where long startup times could deadlock the Arrigo BMS Scada function
 - Fixed a bug that prevented the User Log/History from showing
 - Fixed a bug that made logins fail under certain conditions
-
-## Older releases
 
 ### `1.0.265` (*2020-11-24*)
 
