@@ -5,9 +5,9 @@ description: Releases and Change Log
 ---
 # Download
 
-Download EXO2019 Edition 3 from FTP.
+Manually check for the latest service release of EXO2019 Edition 3 on the FTP server.
 
-[Arrigo Local Installation](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe).
+[Arrigo Local Installation](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe). ArrigoLocalInstaller will automatically download and run the latest stable version.
 
 [Early Bird uninstaller](https://arrigo.blob.core.windows.net/arrigo/ArrigoEarlybirdUninstaller-1.0.19.exe).
 
@@ -20,6 +20,8 @@ Download EXO2019 Edition 3 from FTP.
 *(Same as "stable")*
 
 ## Stable
+
+**Note: This version requires EXO 2019 Ed3 release 767**
 
 ### `1.0.277` (*2020-12-16*)
 
