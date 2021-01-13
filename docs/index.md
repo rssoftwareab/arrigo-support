@@ -23,15 +23,24 @@ Manually check for the latest service release of EXO2019 Edition 3 on the FTP se
 
 **Note: This version requires EXO 2019 Ed3 release 767**
 
+### `1.0.295` (*2021-01-13*)
+
+
+#### Installer
+
+- Fixed a bug where the Arrigo BMS SCADA Function could be downgraded by the EXO installation.
+
+- Removed the old Flash fix from the installer. Use FlashEnabler-1.0.7 instead!
+
+
+## Older releases
+
 ### `1.0.277` (*2020-12-16*)
 
 
 #### Runtime
 
 - Fixed a bug that could crash the Arrigo BMS Scada function when unadvising variables.
-
-
-## Older releases
 
 ### `1.0.269` (*2020-12-07*)
 
