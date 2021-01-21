@@ -18,36 +18,38 @@ Manually check for the latest service release of EXO2019 Edition 3 on the FTP se
 
 **2021-01-20**
 
--EMS Fixes/Improvements
--Meter Value Reading validation now allowing inputed value to be the same as the previous one
--Added translations to Meter Value validation
--Generic formatting of Numeric input values
--Improved OfflineSync view, and redirects when going online again
--Scrolling inputs into view when using number inputs
+**EMS Fixes/Improvements**
+
+- Meter Value Reading validation now allowing inputed value to be the same as the previous one
+
+- Added translations to Meter Value validation
+
+- Generic formatting of Numeric input values
+
+- Improved Offline Sync view, and redirects when going online again
+
+- Scrolling inputs into view when using number inputs
+
+  
 
 **2021-01-15**
 
-Features:
+**Features:**
 Account Selector
 Now displaying an Account Selector when switching between different accounts in multiple tabs.
 
-Fixes:
-QR scanning
-QR scanning should now redirect to the correct meter when scanning a QR code containing a meter number
+**Fixes:**
 
-Maps
-Moving the building/meter location-pin on the map will now trigger a confirmation box, this is to prevent unintentional clicks in the map, resulting in changing location.
-
-Feedback when verifying formula for Calculated meters
-Now giving some additional feedback when verifying a formula for calculated meters.
-
-Offline mode
-Now supports offline mode for meter-list.
-
-Other
-Several bugfixes for added stability, security and performance.
-
-
+- QR scanning
+  QR scanning should now redirect to the correct meter when scanning a QR code containing a meter number
+- Maps
+  Moving the building/meter location-pin on the map will now trigger a confirmation box, this is to prevent unintentional clicks in the map, resulting in changing location.
+- Feedback when verifying formula for Calculated meters
+  Now giving some additional feedback when verifying a formula for calculated meters.
+- Offline mode
+  Now supports offline mode for meter-list.
+- Other
+  Several bugfixes for added stability, security and performance.
 
 ### Current build: 
 - Frontend: [1.0.82](./frontend.html#1.0.82)
