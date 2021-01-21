@@ -1,5 +1,15 @@
 # Change Log
 
+### `1.0.89` (*2021-01-20*)
+
+#### **Fixes/Improvements**
+
+Meter Value validation fixes
+
+Validation fixes for meter values
+
+Added translations to reading validation
+
 ### `1.0.82` (*2021-01-13*)
 
 #### New Features

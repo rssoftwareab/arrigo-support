@@ -52,7 +52,7 @@ Now displaying an Account Selector when switching between different accounts in 
   Several bugfixes for added stability, security and performance.
 
 ### Current build: 
-- Frontend: [1.0.82](./frontend.html#1.0.82)
+- Frontend: [1.0.89](./frontend.html#1.0.89)
 - Arrigo API: [1.0.26](./arrigoapi.html#1.0.26)
 
 # Arrigo Local
