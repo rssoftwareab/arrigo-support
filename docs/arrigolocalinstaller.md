@@ -1,5 +1,33 @@
 # Change Log
 
+### `1.0.299` (*2021-01-22*)
+
+- Frontend: [1.0.91](./frontend.html#1.0.91)
+
+- Arrigo Local API: [1.0.154]()
+
+- Required EXO installation: EXO 2019 Edition 3  Build 793
+
+  
+
+#### Installer
+
+No Changes.
+
+#### Views
+
+- Major improved speed and performance
+- Persistent links to all routes. You are now free to bookmark anything
+- Support for 2D rotation in views
+- %Include("file", arg1,  arg2)% macro in views and config files
+- Lots of bug fixes and improvements
+
+#### Tools
+
+- Bug fixes
+- Chart tool opens correctly from link icons
+- Improved link icon feature list
+
 ### `1.0.295` (*2021-01-13*)
 
 - Frontend: []()
