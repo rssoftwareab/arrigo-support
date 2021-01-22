@@ -1,3 +1,8 @@
+---
+layout: main
+title: Releases - Frontend
+description: Change Log
+---
 # Change Log
 
 ### `1.0.90` (2021-01-22)

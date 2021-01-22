@@ -1,3 +1,8 @@
+---
+layout: main
+title: Releases - Arrigo API
+description: Change Log
+---
 # Change Log
 
 ### `1.0.26` (*2021-01-13*)

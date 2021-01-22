@@ -1,3 +1,8 @@
+---
+layout: main
+title: Releases - Arrigo Local
+description: Change Log
+---
 # Change Log
 
 ### `1.0.299` (*2021-01-22*)
