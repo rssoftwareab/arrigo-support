@@ -7,6 +7,8 @@ description: Releases and Change Log
 
 Manually check for the latest service release of EXO2019 Edition 3 on the FTP server.
 
+[System requirements](./systemrequirements.md)
+
 [Arrigo Local Installation](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe). ArrigoLocalInstaller will automatically download and run the latest stable version.
 
 [Early Bird uninstaller](https://arrigo.blob.core.windows.net/arrigo/ArrigoEarlybirdUninstaller-1.0.19.exe).
