@@ -1,7 +1,7 @@
 ---
 layout: main
-title:Themes
-description: Put this in your theme folder :)
+title: Themes
+description: Put this in your theme folder
 ---
 
 # Theme files
