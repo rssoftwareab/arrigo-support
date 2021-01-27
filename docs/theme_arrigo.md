@@ -13,7 +13,7 @@ All theme settings resides in the theme file, in frontend folder.
 
 In Arrigo Local the theme folder should be overridden in `Program Files\Arrigo\Arrigo Local\Frontend\theme`. Create that folder.
 
-Copy the theme files [here](./theme_arrigo/) and put them in the newly created folder above.  
+Copy the theme files [here](./theme_arrigo/index.md) and put them in the newly created folder above.  
 
 You can now override the theme settings.
 
