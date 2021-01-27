@@ -1,0 +1,68 @@
+{
+  "backgrounds": {
+    "colors": {
+      "primary": "#2b2f37",
+      "alt": "#1f2128"
+    }
+  },
+  "colors": {
+    "order": [
+      "primary.default",
+      "primary.info",
+      "primary.additional_1",
+      "primary.additional_2",
+      "primary.additional_3"
+    ],
+    "primary": {
+      "default": "#328BFF",
+      "title": "#eaeaeb",
+      "text": "#eaeaeb",
+      "okay": "#06C8A1",
+      "info": "#ca63ff",
+      "warn": "#FFAE50",
+      "error": "#FF4C62",
+      "additional_1": "#43D8FF",
+      "additional_2": "#FF6AE2",
+      "additional_3": "#FDD52C"
+    },
+    "alt": {
+      "default": "#286ECA",
+      "okay": "#1CA388",
+      "info": "#834BCB",
+      "warn": "#D7821E",
+      "error": "#DE5162"
+    },
+    "opacity": 0.2
+  },
+  "grayscale": {
+    "primary": {
+      "default": "#eaeaeb",
+      "accent": "#ffffff",
+      "neutral": "#85919D"
+    },
+    "alt": {
+      "default": "#78AEFF",
+      "accent": "#c6c7c8",
+      "neutral": "#1A1D35"
+    },
+    "opacity": 0.2
+  },
+  "borders": {
+    "color": "#3d404a"
+  },
+  "shadows": {
+    "color": "#000",
+    "opacity": 0.6
+  },
+  "inputs": {
+    "backgrounds": {
+      "normal": "#282a31",
+      "disabled": "#30343c"
+    }
+  },
+  "buttons": {
+    "icon": {
+      "color": "#FFFFFF"
+    }
+  }
+}

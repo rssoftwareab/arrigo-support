@@ -1,0 +1,51 @@
+# Theme settings in Arrigo
+
+All theme settings resides in the theme file, in frontend folder.
+
+In Arrigo Local the theme folder should be overridden in `Program Files\Arrigo\Arrigo Local\Frontend\theme`
+
+Copy the theme files [here](here) and put them in the theme folder above. 
+
+You can now override the theme settings.
+
+## Change pictures on login page
+
+Imagine you want to change the splash images. The big image at the right on desktop is called `splash` and the small waves below login form is called `small_splash`. 
+
+Put your new `mySplash.png` and `mySmallSplash.png` in  `images` folder.
+
+Change `theme.json ` in `theme` folder:
+
+```
+  "login": {
+    "images": {
+      "splash": "mySplash.png",
+      "small_splash": "mySmallSplash.png",
+      "show_small_splash_on_desktop": false
+    }
+```
+
+If you want to show the small splash on desktop and big screens, set `show_small_splash_on_desktop` to `true`.
+
+Save the file. Reload Arrigo with `Ctrl+F5` to fetch the new theme settings. 
+
+## Change logo in header
+
+Put your new `myLogo.png` in `images` folder. 
+
+If you need to adjust the height of the header, simply increase the numbers in the `height` section of the `theme.json`. `small`  is mobile settings, and `normal` is desktop.
+
+Change `theme.json` in `theme` folder to set the new logo:
+
+```
+ "header": {
+    "images": {
+      "logo": "myLogo.png"
+    },
+    "height": {
+      "normal": "70px",
+      "small": "55px"
+    }
+  },
+```
+
