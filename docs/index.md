@@ -18,14 +18,27 @@ Manually check for the latest service release of EXO2019 Edition 3 on the FTP se
 # www.arrigo.se
 ### Latest changes
 
-- Improved QR code scanning support.
-- Improved Offline mode.
-- Improved Calculated Meter Formula validation.
-- Several bugfixes for added stability, security and performance.
+**EMS Features**
+
+- Added toolbox feature to Calculated meters
+
+**EMS Fixes/Improvements**
+
+- Meters list offline support updated
+
+- Offline mode notifications updated 
+
+- Auto scroll input
+
+- Reset the input to default after offline input
+
+- Network error messages updated
+
+  
 
 ### Current build: 
-- Frontend: [1.0.90](./frontend.html#1.0.90)
-- Arrigo API: [1.0.26](./arrigoapi.html#1.0.26)
+- Frontend: [1.0.94](./frontend.html#1.0.94)
+- Arrigo API: [1.0.27](./arrigoapi.html#1.0.27)
 
 # Arrigo Local
 ### Latest changes
