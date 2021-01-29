@@ -5,6 +5,39 @@ description: Change Log
 ---
 # Change Log
 
+### `1.0.94` (2021-01-27)
+
+#### New Features
+
+- Feature: Added toolbox feature to Calculated meters (#472)
+
+**Fixes/Improvements**
+
+- Fix: Meterslist offline support (#471)
+- Fix: Offline mode notification (#477)
+- Fix: Auto scroll input into view (#481)
+- Reset inputs to default after offline mutation. (#483)
+- Fix: Network errors update (#476)
+- Hotfix: Allow longer meter texts in MeterRow (#495)
+- Fix: Reading validation now compares the correct values (#494)
+- Hotfix: Remove validation while offline (#498)
+- Clear all notifications after discard or sync offline mutations
+- No validation of readings while offline
+- Hotfix: Auto-reload application if new version has been published to the server (#497)
+- Add initial version check middleware to GraphQLManager
+- Remove unused ApolloWrapper component
+- Add new translations for Version detection
+- Display notification and reload browser if new X-Frontend-Version header mismatches with value in localStorage
+- Add new LongPressContainer component to show a notification of current version number
+- Add link to release notes from version notification
+- Pass a hard reload argument to location.reload to assure source reload from server
+- Update version message
+- Tweek timing of logo long press
+- Update public/translations.json
+- Hotfix: Clear all notifications after discard or sync offline mutations (#496)
+- Hotfix: Null check X-Frontend-Version header on login (#499)
+- 
+
 ### `1.0.90` (2021-01-22)
 
 #### New Features

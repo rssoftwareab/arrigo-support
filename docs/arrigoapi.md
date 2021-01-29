@@ -5,6 +5,22 @@ description: Change Log
 ---
 # Change Log
 
+### 1.0.27 *(2021-01-28)*
+
+**Features**
+
+- Log mutations
+  Mutations are loged. 
+
+  ```
+   query MyQuery {
+    mutationlog
+  }
+  ```
+
+  
+
+
 ### `1.0.26` (*2021-01-13*)
 
 **Features**
@@ -16,6 +32,7 @@ description: Change Log
 - Refactor Consumption filters to not query DB twice.
 
 **Changes**
+
 - Now using constants where possible.
 - `ReadUID()` Now takes an account name to verify UID against.
 - Added ENV (prod, beta, ...) to GQL error responses.
