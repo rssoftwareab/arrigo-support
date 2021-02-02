@@ -5,9 +5,11 @@ description: Change Log
 ---
 # Change Log
 
-### `1.0.94` (2021-01-27)
+## 1.0.94
 
-#### New Features
+*2021-01-27*
+
+### New Features
 
 - Feature: Added toolbox feature to Calculated meters (#472)
 
@@ -38,13 +40,15 @@ description: Change Log
 - Hotfix: Null check X-Frontend-Version header on login (#499)
 - 
 
-### `1.0.90` (2021-01-22)
+## 1.0.90
 
-#### New Features
+*2021-01-22*
+
+### New Features
 Account Selector
 Now displaying an Account Selector when switching between different accounts in multiple tabs
 
-#### Fixes/Improvements
+### Fixes/Improvements
 
 - Meter Value Reading validation now allowing inputed value to be the same as the previous one
 - Added translations to Meter Value validation
@@ -62,9 +66,11 @@ Now displaying an Account Selector when switching between different accounts in 
 - Other
   Several bugfixes for added stability, security and performance.
 
-### `1.0.82` (*2021-01-13*)
+## 1.0.82
 
-#### New Features
+*2021-01-13*
+
+### New Features
 
 **Mobile Overlay Panel**
 – Allows for listed content to be displayed in a more mobile-friendly panel on mobile devices.
@@ -103,7 +109,7 @@ The panel pops from the bottom in overlay mode to get all the focus until action
 **Applied filters indicator**
 – Visual indicator that is displayed near the filter toggle so the user knows there are filters applied
 
-#### Fixes/Improvements
+### Fixes/Improvements
 
 - Format of numbers depending on localization.
 - Meter Reading validation on `MeterChanges`.

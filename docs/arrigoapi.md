@@ -5,7 +5,9 @@ description: Change Log
 ---
 # Change Log
 
-### 1.0.27 *(2021-01-28)*
+## 1.0.27
+
+*2021-01-28*
 
 **Features**
 
@@ -18,10 +20,9 @@ description: Change Log
   }
   ```
 
-  
+## 1.0.26
 
-
-### `1.0.26` (*2021-01-13*)
+*2021-01-13*
 
 **Features**
 - Implement GQL query resolve tree.

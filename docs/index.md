@@ -37,8 +37,8 @@ Manually check for the latest service release of EXO2019 Edition 3 on the FTP se
   
 
 ### Current build: 
-- Frontend: [1.0.94](./frontend.html#1.0.94)
-- Arrigo API: [1.0.27](./arrigoapi.html#1.0.27)
+- Frontend: [1.0.94](./frontend.html#1094)
+- Arrigo API: [1.0.27](./arrigoapi.html#1027)
 
 # Arrigo Local
 ### Latest changes
@@ -50,8 +50,8 @@ Manually check for the latest service release of EXO2019 Edition 3 on the FTP se
 - Tool improvements
 
 ### Builds
-- Latest: [1.0.299](./arrigolocalinstaller.html#1.0.299)
-- Stable: [1.0.295](./arrigolocalinstaller.html#1.0.295)
+- Latest: [1.0.299](./arrigolocalinstaller.html#10299)
+- Stable: [1.0.295](./arrigolocalinstaller.html#10295)
 
 
 
