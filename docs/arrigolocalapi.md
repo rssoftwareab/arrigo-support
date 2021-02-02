@@ -6,7 +6,7 @@ description: Change Log
 
 # Change Log
 
-## `1.0.158`
+## 1.0.158
 *2021-02-02*
 
 * Added support for opening the EXOscada UserAdmin page 
@@ -14,12 +14,12 @@ description: Change Log
 * More resolvers and endpoints are now async for faster responses
 * SystemInfo now contains versions for all Arrigo Local components
 
-## `1.0.154`
+## 1.0.154
 *2021-01-18*
 
 * Minor fixes
 
-## `1.0.153`
+## 1.0.153
 *2021-01-06*
 
 * Optimized the common SQL queries for analogs and digitals to improve speed

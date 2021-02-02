@@ -5,7 +5,7 @@ description: Change Log
 ---
 # Change Log
 
-## `1.0.xxx`
+## 1.0.xxx
 *2021-02-xx*
 
 - Frontend: [1.0.94](./frontend.html#1.0.94)
@@ -31,7 +31,7 @@ description: Change Log
 - Arrigo Folder tools can now be opened from the project/account node in Project Builder
 - Added a template for the project/account folder
 
-## `1.0.299`
+## 1.0.299
 *2021-01-22*
 
 - Frontend: [1.0.91](./frontend.html#1.0.91)
@@ -61,7 +61,7 @@ No Changes.
 - Chart tool opens correctly from link icons
 - Improved link icon feature list
 
-## `1.0.295`
+## 1.0.295
 *2021-01-13*
 
 - Frontend: 1.0.68
@@ -75,7 +75,7 @@ No Changes.
 
 - Removed the old Flash fix from the installer. Use FlashEnabler-1.0.7 instead!
 
-## `1.0.277`
+## 1.0.277
 *2020-12-16*
 
 
@@ -83,7 +83,7 @@ No Changes.
 
 - Fixed a bug that could crash the Arrigo BMS Scada function when unadvising variables.
 
-## `1.0.269`
+## 1.0.269
 *2020-12-07*
 
 ### Installer
@@ -100,7 +100,7 @@ No Changes.
 - Fixed a bug that prevented the User Log/History from showing
 - Fixed a bug that made logins fail under certain conditions
 
-## `1.0.265`
+## 1.0.265
 *2020-11-24*
 
 ### Installer
@@ -124,7 +124,7 @@ No Changes.
 - Added a new mutation for writing data based on keys in the view content
 - Writing to variables from within an SVG now works as expected
 
-## `1.0.247`
+## 1.0.247
 *2020-11-06*
 
 ### Installer
@@ -154,7 +154,7 @@ No Changes.
 
 - Fix bug in arguments in many instances of same shared viewfile. 
 
-## `1.0.239`
+## 1.0.239
 *2020-10-27*
 
 This is the first release targeting EXO 2019 Edition 3. 
@@ -173,7 +173,7 @@ This is the first release targeting EXO 2019 Edition 3.
 ### Templates
 - Minor fixes.
 
-## `1.0.233`
+## 1.0.233
 *2020-10-26*
 The first one. The hot stuff. So hot that we haven't even tried every aspect of it ourselves. Try it out, you will not be disappointed.
 - Widgets

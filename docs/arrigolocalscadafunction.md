@@ -6,12 +6,12 @@ description: Change Log
 
 # Change Log
 
-## `1.1.70`
+## 1.1.70
 *2021-02-02*
 
 * Fix to resolve changes when files are renamed or moved
 
-## `1.1.69`
+## 1.1.69
 *2021-01-05*
 
 * Improved the caching of files, which makes navigation much faster and lets you bookmark favourites etc. in the frontend
