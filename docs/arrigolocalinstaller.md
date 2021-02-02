@@ -5,15 +5,41 @@ description: Change Log
 ---
 # Change Log
 
+### `1.0.xxx` (*2021-02-xx*)
+
+- Frontend: [1.0.94](./frontend.html#1.0.94)
+
+- Arrigo Local API: [1.0.158](./arrigolocalapi.html#1.0.158)
+
+- Arrigo Local Scada Function: [1.0.70](./arrigolocalscadafunction.html#1.0.70)
+
+- Required EXO installation: EXO 2019 Edition 3  Build 793
+
+#### Installer
+
+* The ReginAppPool is stopped when installing EXO components to prevent issues where files are in use
+* The install log is now copied by the bootstrapper instead of the scripts
+* The theme and images folders are excluded from deletion when installing a new frontend
+
+#### Views
+
+- 
+
+#### Tools
+
+- Arrigo Folder tools can now be opened from the project/account node in Project Builder
+- Added a template for the project/account folder
+
 ### `1.0.299` (*2021-01-22*)
 
 - Frontend: [1.0.91](./frontend.html#1.0.91)
 
-- Arrigo Local API: [1.0.154]()
+- Arrigo Local API: [1.0.154](./arrigolocalapi.html#1.0.154)
+
+- Arrigo Local Scada Function: [1.0.69](./arrigolocalscadafunction.html#1.0.69)
 
 - Required EXO installation: EXO 2019 Edition 3  Build 793
 
-  
 
 #### Installer
 
@@ -35,13 +61,11 @@ No Changes.
 
 ### `1.0.295` (*2021-01-13*)
 
-- Frontend: []()
+- Frontend: 1.0.68
+- Arrigo Local API: 1.0.147
+- Arrigo Local Scada Function: 1.1.60
+- Required EXO installation: EXO 2019 Edition 3  Build 767
 
-- Arrigo Local API: []()
-
-- Required EXO installation: 
-
-  
 
 
 #### Installer
