@@ -52,7 +52,7 @@ No Changes.
 - Major improved speed and performance
 - Persistent links to all routes. You are now free to bookmark anything
 - Support for 2D rotation in views
-- %Include("file", arg1,  arg2)% macro in views and config files
+- %Include(file, arg1,  arg2)% macro in views and config files
 - Lots of bug fixes and improvements
 
 ### Tools
