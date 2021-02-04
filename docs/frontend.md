@@ -9,47 +9,48 @@ description: Change Log
 
 ### New Features
 - Feature: Added toolbox feature to Calculated meters (#472)
-    - When custom formula is used, a small set of logic in a toolbox is presented
+  When custom formula is used, a small set of logic in a toolbox is presented
 - Feature: Account changer (#464)
-    - If you are logged in on multiple accounts, you have an option to select account during startup.
+	If you are logged in on multiple accounts, you have an option to select account during startup.
 - Feature: Extension of clear functionality for FilterFeature (#492)
-    - Improved Reset options in filters
+	Improved Reset options in filters
 - Feature: User admin view EXOScada (#491)
-    - Finally you can get User Administration View from Arrigo Local! Feature is located at top right in popupmenu on user avatar.
+	Finally you can get User Administration View from Arrigo Local! Feature is located at top right in popupmenu on user avatar.
 - Feature: Fix a typo in the cookie string (#502)
-    - Improved browserupdate when new version exist on server
+	Improved browserupdate when new version exist on server
 - Feature: Chart Ruler and Controls (#501)
-    - Improved data detail in charts, hover to se details of data points
+	Improved data detail in charts, hover to se details of data points
 - Feature: Convert command bar (#507)
-    - Conversion of command bar element in views is now supported
+	Conversion of command bar element in views is now supported
 - Feature: Collect signals for chart (#506)
-    - Add signals to chart view. For now Digital and Analog history values is supported.
-    - Alarm history and Real time values is near future.
+	Add signals to chart view. For now Digital and Analog history values is supported.
+	Alarm history and Real time values is near future.
 
 ### Fixes/Improvements
-- - Fix: Sidepanel overlapping content (#446)
-    - Sidepanel pushes content so overlapping of information is avoided. All buttons is visible always.
+- Fix: Sidepanel overlapping content (#446)
+  Sidepanel pushes content so overlapping of information is avoided. All buttons is visible always.
+
 - Fix: Scanning QR with meternumber should now redirect correctly (#460)
 - Fix: Added verification feedback to Calculated meters (#459)
-    - You will be notified in UI.
+    You will be notified in UI.
 - Fix: Moving the pin on map will now trigger a confirmation box (#462)
-    - Cards with map and location will now confirm your reposition of the map pin.
+    Cards with map and location will now confirm your reposition of the map pin.
 
 - Fix: Widgets patch (#461)
-    - Minor fixes.
+    Minor fixes.
 - Fix: Navigation node loading (#469)
-    - Sometimes the tree got stuck in loading state. 
+    Sometimes the tree got stuck in loading state. 
 - Fix: Meterslist offline support (#471)
-    - Improved offline experience
+    Improved offline experience
 - Fix: Offline mode notification (#477)
-    - Automatically close offline notifications
+    Automatically close offline notifications
 - Fix: Auto scroll input into view (#481)
-    - Scroll meter value input into view, if not visible.
+    Scroll meter value input into view, if not visible.
 - Fix: Reset inputs to default after offline change of value. (#483)
-    - Reset to defaults after offline mutation.
+    Reset to defaults after offline mutation.
 - Fix: Network errors update (#476)
 - Hotfix: View observer & Network errors (#490)
-    - Avoids broken pictures in animation views due to long session time
+    Avoids broken pictures in animation views due to long session time
 - Hotfix: Fixed a stylingissue in the Meter Details calendar (#509)
 - Hotfix: Added null check in admin view (#510)
 - Hotfix: Increased width of meter value inputs on phone (#511)
