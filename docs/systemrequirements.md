@@ -22,3 +22,18 @@ If using the 'unsafe mode' flag you can also install on these OS'es, but we do n
 *Arrigo Local cannot be installed or run on Windows 7 / Windows 2008 Server or earlier.*
 
 ## Chromium Installer
+
+Chromium Installer is tested and supported on the following OS'es:
+
+* Windows 10
+* Windows Server 2016
+* Windows Server 2019
+
+You can also install on these OS'es, but we do not actively test the installer or the browser on them:
+
+* Windows Server 2012
+* Windows Server 2012 R2
+* Windows 8
+* Windows 8.1
+
+*Chromium Installer cannot be installed or run on Windows 7 / Windows 2008 Server or earlier.*
