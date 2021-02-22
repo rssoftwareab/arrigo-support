@@ -5,12 +5,12 @@ description: Change Log
 ---
 # Change Log
 
-## 1.0.xxx
-*2021-02-xx*
+## 1.0.312
+*2021-02-12*
 
 - Frontend: [1.0.94](./frontend.html#1.0.94)
 
-- Arrigo Local API: [1.0.158](./arrigolocalapi.html#10158)
+- Arrigo Local API: [1.0.161](./arrigolocalapi.html#10161)
 
 - Arrigo Local Scada Function: [1.0.70](./arrigolocalscadafunction.html#1070)
 
