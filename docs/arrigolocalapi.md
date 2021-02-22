@@ -6,6 +6,12 @@ description: Change Log
 
 # Change Log
 
+## 1.0.161
+
+*2021-02-11*
+
+* Fixed a bug regarding subscriptions (#92)
+
 ## 1.0.158
 *2021-02-02*
 
