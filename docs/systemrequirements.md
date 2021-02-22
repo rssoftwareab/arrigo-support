@@ -1,3 +1,8 @@
+---
+layout: main
+title: System requirements.
+description: instructions and binaries
+---
 # System requirements
 
 ## Arrigo Local
