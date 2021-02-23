@@ -39,7 +39,8 @@ Returns a list of Elements:
 | id             | String   | The configuration id                                         |
 | public         | bool     | Indicates if the configuration is a public or private configuration |
 | lastAccessTime | DateTime |                                                              |
-| lastWriteTime  | DateTime |                                                              |
+| lastWriteTime  | DateTime |  
+| HasWriteAccess | bool     | If the user has access to write configurations (for now is hardcoded to true|
 
 ### Example
 
@@ -52,6 +53,7 @@ const list = session.call('accounts.[account].services.charts.list', ['QVMc=']);
 //     type: "success",
 //     result:[
 //     {
+//       HasWriteAccess: true,
 //       name: "my_private_config",
 //       id: "QVMx.VaqKB6YwcY",
 //       public: false,
@@ -59,6 +61,7 @@ const list = session.call('accounts.[account].services.charts.list', ['QVMc=']);
 //       lastWriteTime: "2021-02-11T12:15:22Z" 
 //     	},
 //		{
+//       HasWriteAccess: true,
 //       name: "public_config_no_1",
 //       id: "QVMx.TXlOaWNlQ2hhcnQ=",
 //       public: true,
@@ -119,7 +122,27 @@ const result = session.call('accounts.[account].services.charts.set', ['QVMx', '
 //   }
 // }
 ```
+## delete
 
+Delete a chart configuration for an area.
+
+| Param    | Type   | Description                                                  |
+| -------- | ------ | ------------------------------------------------------------ |
+| id       | String | A base64 encoded id for the configuration. Use the id from [`list`](#list)                         |
+
+### Example
+
+```javascript
+const result = session.call('accounts.[account].services.charts.delete', ['QVMx.VaqKB6YwcY']);
+
+// result =>
+// {
+//   {
+//     type: "success",
+//     result: {id}
+//   }
+// }
+```
 ## Connection
 
 To access the chart procedures a valid jwt must be set to `session._options.authid`
