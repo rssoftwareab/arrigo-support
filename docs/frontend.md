@@ -8,6 +8,42 @@ description: Change Log
 ## Next release
 
 ### New Features
+- Feature: Alarm signals collection (#515)
+- Feature: CSV export in charts (#517)
+- Feature: Make linkicon accept full url-paths as feature. (#526)
+- Feature: Global CSV Export (#531)
+- Feature: Custom default route (#529)
+- Feature: Chart axis/grid improvements (#532)
+- Feature: Historical charts help side panel (#536)
+- Feature: Multi language support (#540)
+
+### Fixes/Improvments
+- Fix: Calculated meters drag and drop (#535)
+
+## 1.0.113
+
+*2021-02-22*
+
+- Hotfix: YMS new messages (#538)
+- Hotfix: Fix overflow issue with AlarmRow title text (#537)
+- Hotfix: View feature now expands more dynamic to viewport (#534)
+- Hotfix: Allow ETreport to show temperature with decimals (#533)
+- Hotfix: YMS Issues from Feedback (#530)
+- Hotfix: Rotate2D stopped working after changes in cw2 package 1.0.30 (#528)
+- Hotfix: Indication in meters list (#524)
+- Hotfix: Refetch navigation list data on updates. (#525)
+- Hotfix: Add missing translations to UserCredentials in admin view (#520)
+- Hotfix: Fix reload loop when changing API's (#522)
+- Hotfix: Bump CW2 to fix issue when loading non-svg symbols (#523)
+- HotFix: Hiding User Admin and Collection cart from EMS. (#521)
+- Hotfix: Corrected LinkIcon order (#519)
+- Hotfix: Resolve async issues with large SVGs (#518)
+- Hotfix: Solved dead image due to pop (#516)
+
+## 1.0.98
+
+*2021-02-04*
+### New Features
 - Feature: Added toolbox feature to Calculated meters (#472)
   When custom formula is used, a small set of logic in a toolbox is presented
 - Feature: Account changer (#464)

@@ -24,20 +24,10 @@ Manually check for the latest service release of EXO2019 Edition 3 on the FTP se
 
 **EMS Fixes/Improvements**
 
-- Meters list offline support updated
-
-- Offline mode notifications updated 
-
-- Auto scroll input
-
-- Reset the input to default after offline input
-
-- Network error messages updated
-
-  
+- Lots of hot fixes in new frontend version
 
 ### Current build: 
-- Frontend: [1.0.94](./frontend.html#1094)
+- Frontend: [1.0.113](./frontend.html#10113)
 - Arrigo API: [1.0.27](./arrigoapi.html#1027)
 
 # Arrigo Local
