@@ -21,13 +21,16 @@ Manually check for the latest service release of EXO2019 Edition 3 on the FTP se
 **EMS Features**
 
 - Added toolbox feature to Calculated meters
+- Chart axis/grid improvements
+- Alarm signals collection
+- Global CSV Export
 
 **EMS Fixes/Improvements**
 
 - Lots of hot fixes in new frontend version
 
 ### Current build: 
-- Frontend: [1.0.113](./frontend.html#10113)
+- Frontend: [1.0.114](./frontend.html#10114)
 - Arrigo API: [1.0.27](./arrigoapi.html#1027)
 
 # Arrigo Local
@@ -40,8 +43,8 @@ Manually check for the latest service release of EXO2019 Edition 3 on the FTP se
 - Tool improvements
 
 ### Builds
-- Latest: [1.0.299](./arrigolocalinstaller.html#10299)
-- Stable: [1.0.295](./arrigolocalinstaller.html#10295)
+- Latest: [1.0.312](./arrigolocalinstaller.html#10312)
+- Stable: [1.0.312](./arrigolocalinstaller.html#10312)
 
 
 

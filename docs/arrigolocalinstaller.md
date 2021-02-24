@@ -8,7 +8,7 @@ description: Change Log
 ## 1.0.312
 *2021-02-12*
 
-- Frontend: [1.0.109](./frontend.html#1.0.94)
+- Frontend: [1.0.109](./frontend.html#10109)
 
 - Arrigo Local API: [1.0.161](./arrigolocalapi.html#10161)
 

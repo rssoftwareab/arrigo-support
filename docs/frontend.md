@@ -7,6 +7,12 @@ description: Change Log
 
 ## Next release
 
+Nothing new yet!
+
+## 1.0.114
+
+*2021-02-24*
+
 ### New Features
 - Feature: Alarm signals collection (#515)
 - Feature: CSV export in charts (#517)
@@ -19,6 +25,7 @@ description: Change Log
 
 ### Fixes/Improvments
 - Fix: Calculated meters drag and drop (#535)
+- Fix: Add condition for language change in translationManager (#542)
 
 ## 1.0.113
 
@@ -29,6 +36,11 @@ description: Change Log
 - Hotfix: View feature now expands more dynamic to viewport (#534)
 - Hotfix: Allow ETreport to show temperature with decimals (#533)
 - Hotfix: YMS Issues from Feedback (#530)
+
+## 1.0.109
+
+*2021-02-12*
+
 - Hotfix: Rotate2D stopped working after changes in cw2 package 1.0.30 (#528)
 - Hotfix: Indication in meters list (#524)
 - Hotfix: Refetch navigation list data on updates. (#525)
