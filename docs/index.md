@@ -26,11 +26,10 @@ Manually check for the latest service release of EXO2019 Edition 3 on the FTP se
 - Global CSV Export
 
 **EMS Fixes/Improvements**
-
-- Lots of hot fixes in new frontend version
+- Font too big in area Views has been fixed with the possibility to display views in Legacy theme mode.
 
 ### Current build: 
-- Frontend: [1.0.114](./frontend.html#10114)
+- Frontend: [1.0.117](./frontend.html#10117)
 - Arrigo API: [1.0.27](./arrigoapi.html#1027)
 
 # Arrigo Local

@@ -9,6 +9,15 @@ description: Change Log
 
 Nothing new yet!
 
+## 1.0.117
+
+*2021-02-26*
+
+### Fixes/Improvments
+Hotfix: Font too big in area Views (Issue: 19275) (#546) 
+Hotfix: Factor as default on meter (#544) 
+Hotfix: Default to correct date in meterDetails panel (#545)
+Hotfix: Add indicator to MeterValueRow instead of italic numbers (#543)
 ## 1.0.114
 
 *2021-02-24*
