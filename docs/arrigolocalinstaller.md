@@ -5,6 +5,42 @@ description: Change Log
 ---
 # Change Log
 
+## 1.0.315
+*2021-03-01*
+
+- Frontend: [1.0.118](./frontend.html#10118)
+
+- Arrigo Local API: [1.0.161](./arrigolocalapi.html#10161)
+
+- Arrigo Local Scada Function: [1.0.70](./arrigolocalscadafunction.html#1070)
+
+- Required EXO installation: EXO 2019 Edition 3  Build 793
+
+### Installer
+
+
+### Views
+
+- ArrigoFolderViews/View Designer templates: Visual updates for Contol Curve Editor
+- ArrigoFolderViews templates: Calendar view and link icon added
+- ArrigoFolderViews/View Designer templates: New features and visual updates regarding the Time Channel Editor
+- Undo button (reverts to current controller time channel set-up)
+- Manual text-editing of times possible
+- Added touch functionality
+- Visual feedback after time editing and download to controller
+- Added a line showing current time and weekday/holiday.
+- Added read/write support for analog, digial, integer ComputerSignals (only numerics) in Arrigo
+
+### Tools
+
+- Bug fix: "Open file" in ArrigoFolderView tool open wrong folder
+- Always open an existing ArrigoFolderViewsFile in the area even if the current path in AreaProperties not exist
+- Hot fix: ProjectBuilder crash when trying to open ArrigoFolder on project level
+- Hot fix: CW2 Fonts is not updated when new theme file is loaded
+- ArrigoConvertTool minor fix.
+
+
+
 ## 1.0.312
 *2021-02-12*
 
