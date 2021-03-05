@@ -7,7 +7,7 @@ description: Change Log
 
 ## Next release
 
-Nothing new yet!
+Hotfix: Web socket connectivity in views (#554)
 
 ## 1.0.118
 
