@@ -29,7 +29,7 @@ Manually check for the latest service release of EXO2019 Edition 3 on the FTP se
 - Font too big in area Views has been fixed with the possibility to display views in Legacy theme mode.
 
 ### Current build: 
-- Frontend: [1.0.118](./frontend.html#10118)
+- Frontend: [1.0.120](./frontend.html#10120)
 - Arrigo API: [1.0.27](./arrigoapi.html#1027)
 
 # Arrigo Local
@@ -42,7 +42,7 @@ Manually check for the latest service release of EXO2019 Edition 3 on the FTP se
 - Tool improvements
 
 ### Builds
-- Latest: [1.0.315](./arrigolocalinstaller.html#10315)
+- Latest: [1.0.316](./arrigolocalinstaller.html#10316)
 - Stable: [1.0.312](./arrigolocalinstaller.html#10312)
 
 
