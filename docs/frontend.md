@@ -5,9 +5,19 @@ description: Change Log
 ---
 # Change Log
 
-## Next release
+## Next Release
 
-Hotfix: Web socket connectivity in views (#554)
+
+
+## 1.0.120
+
+2021-03-09
+
+- Hotfix: Web socket connectivity in views (#554)
+
+- Hotfix: Menuitems will now grow in height if they are really long. (#552)
+- Hotfix: Confirmation when creating new building or meter (#550)
+- Hotfix: Added translation for meter icon hovering (#551)
 
 ## 1.0.118
 
