@@ -5,7 +5,7 @@ description: Change Log
 ---
 # Change Log
 
-## 1.0.316
+## 1.0.317
 
 2021-03-09
 
@@ -14,7 +14,15 @@ description: Change Log
 - Arrigo Local Scada Function: [1.0.70](./arrigolocalscadafunction.html#1070)
 - Required EXO installation: EXO 2019 Edition 3  Build 793
 
+### Views
 
+- Arrigo BMS/CW2: Button Yellow when variable connected to Visible
+
+### Tools/Templates
+
+- Hotfix: Fixed "Browse" for the "Select controller" in template wizard step.
+
+  
 
 ## 1.0.315
 
