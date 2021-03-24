@@ -11,12 +11,12 @@ description: Change Log
 
 2021-03-24
 
-- HotFix: No longer cutting edges on add menu (#569)
-- HotFix: Plus button no longer overlaps delete button (#568)
+- Hotfix: No longer cutting edges on add menu (#569)
+- Hotfix: Plus button no longer overlaps delete button (#568)
 - Hotfix: Symbol cache in listview (#566)
-- HotFix: Filling in User correctly when entering admin view (#564)
-- HotFix: Numeric Maneuver Backspace Fail (#563)
-- HotFix: More contrast on radio buttons and checkboxes (#562)
+- Hotfix: Filling in User correctly when entering admin view (#564)
+- Hotfix: Numeric Maneuver Backspace Fail (#563)
+- Hotfix: More contrast on radio buttons and checkboxes (#562)
 
 ## 1.0.123
 
