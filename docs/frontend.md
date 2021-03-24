@@ -7,7 +7,28 @@ description: Change Log
 
 ## Next Release
 
+## 1.0.127
 
+2021-03-24
+
+- HotFix: No longer cutting edges on add menu (#569)
+- HotFix: Plus button no longer overlaps delete button (#568)
+- Hotfix: Symbol cache in listview (#566)
+- HotFix: Filling in User correctly when entering admin view (#564)
+- HotFix: Numeric Maneuver Backspace Fail (#563)
+- HotFix: More contrast on radio buttons and checkboxes (#562)
+
+## 1.0.123
+
+2021-03-17
+
+- Hotfix: Bump CW2 to fix button icon centering in Views (#565)
+
+## 1.0.121
+
+2021-03-12
+
+- Hotfix: Search in selectlist on meter (#558)
 
 ## 1.0.120
 
