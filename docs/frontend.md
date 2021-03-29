@@ -7,6 +7,11 @@ description: Change Log
 
 ## Next Release
 
+## 1.0.130
+- Hotfix: YMS History should not display closed or welcome events (#573)
+- Hotfix: Undefined variables in animation views (#572)
+- Hotfix: Closing time for YMS screen (#571)
+
 ## 1.0.127
 
 2021-03-24
