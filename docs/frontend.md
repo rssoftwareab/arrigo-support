@@ -11,7 +11,7 @@ description: Change Log
 
 ## 1.0.130
 
-2021-03-29
+*2021-03-29*
 
 - Hotfix: YMS History should not display closed or welcome events (#573)
 - Hotfix: Undefined variables in animation views (#572)
@@ -19,7 +19,7 @@ description: Change Log
 
 ## 1.0.127
 
-2021-03-24
+*2021-03-24*
 
 - Hotfix: No longer cutting edges on add menu (#569)
 - Hotfix: Plus button no longer overlaps delete button (#568)
@@ -30,19 +30,19 @@ description: Change Log
 
 ## 1.0.123
 
-2021-03-17
+*2021-03-17*
 
 - Hotfix: Bump CW2 to fix button icon centering in Views (#565)
 
 ## 1.0.121
 
-2021-03-12
+*2021-03-12*
 
 - Hotfix: Search in selectlist on meter (#558)
 
 ## 1.0.120
 
-2021-03-09
+*2021-03-09*
 
 - Hotfix: Web socket connectivity in views (#554)
 
