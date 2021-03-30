@@ -7,7 +7,12 @@ description: Change Log
 
 ## Next Release
 
+- Hotfix: Portgroup with sortorder, edit order only selected terminal portgroups (#575)
+
 ## 1.0.130
+
+2021-03-29
+
 - Hotfix: YMS History should not display closed or welcome events (#573)
 - Hotfix: Undefined variables in animation views (#572)
 - Hotfix: Closing time for YMS screen (#571)
