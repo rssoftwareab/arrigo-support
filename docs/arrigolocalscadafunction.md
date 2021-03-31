@@ -6,6 +6,11 @@ description: Change Log
 
 # Change Log
 
+## 1.1.72
+*2021-03-29*
+
+* Fixed issue with global arguments and parent folders 
+
 ## 1.1.70
 *2021-02-02*
 
