@@ -6,6 +6,12 @@ description: Change Log
 
 # Change Log
 
+## 1.0.162
+
+*2021-03-24*
+
+* Optimized SQL queries for analogs
+
 ## 1.0.161
 
 *2021-02-11*
