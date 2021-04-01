@@ -6,6 +6,14 @@ description: Change Log
 
 # Change Log
 
+
+## 1.0.164
+
+*2021-04-01*
+
+* Hotfix: Resolve folderId for static resources in views (Fix Popup window issue)
+
+
 ## 1.0.162
 
 *2021-03-24*

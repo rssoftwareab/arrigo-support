@@ -37,12 +37,8 @@ Manually check for the latest service release of EXO2019 Edition 3 on the FTP se
 
 - Improved speed and stability
 
-- New Rotate 2D style for symbols
-
-- Tool improvements
-
 ### Builds
-- Latest: [1.0.322](./arrigolocalinstaller.html#10322)
+- Latest: [1.0.323](./arrigolocalinstaller.html#10323)
 - Stable: [1.0.312](./arrigolocalinstaller.html#10312)
 
 

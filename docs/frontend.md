@@ -4,9 +4,11 @@ title: Releases - Frontend
 description: Change Log
 ---
 # Change Log
+## Next Releases
 
-## Next Release
-
+## 1.0.136
+- Minor improvements
+- Hotfix: Added path to static resources (#584)
 - Hotfix: Portgroup with sortorder, edit order only selected terminal portgroups (#575)
 
 ## 1.0.130
