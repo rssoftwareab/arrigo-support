@@ -6,6 +6,18 @@ description: Change Log
 # Change Log
 ## Next Releases
 
+## 1.0.140
+
+*2021-04-08*
+
+- Hotfix: Add building name to CMA-input plus some restyling (#588)
+- Hotfix: Add more descriptive placeholders to meter inputs (#589)
+- Feature: Queries/Mutations errors handling (#581) 
+- Fix: QR scanner (#586) 
+- Hotfix: Fix issue with folder configs that was not cleared when logging out of Arrigo (#587)
+- Fix: Feature toggle Load/Save signals feature (#583) 
+- Feature: ETreport addons (#570) 
+
 ## 1.0.136
 - Minor improvements
 - Hotfix: Added path to static resources (#584)
