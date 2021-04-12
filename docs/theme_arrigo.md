@@ -9,11 +9,11 @@ description: It's all about style
 >
 > The Theme folder needs to be copied into the product after upgrade. We know this and have a plan. 
 
-All theme settings resides in the theme file, in frontend folder.
+All theme settings resides in the theme file, in frontend folder. Prepare with the following steps:
 
-In Arrigo Local the theme folder should be overridden in `Program Files\Arrigo\Arrigo Local\Frontend\theme`. Create that folder.
+- In Arrigo Local the theme folder should be overridden in `Program Files\Arrigo\Arrigo Local\Frontend\theme`. Create that folder.
 
-Copy the theme files [here](./theme_arrigo/index.md) and put them in the newly created folder above.  
+- Copy the theme files [here](./theme_arrigo/index.md) and put them in the newly created folder above.  
 
 You can now override the theme settings.
 
