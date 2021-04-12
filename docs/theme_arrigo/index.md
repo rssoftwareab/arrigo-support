@@ -119,6 +119,7 @@ description: Put this in your theme folder
   },
   "helpers": {}
 }
+
 ```
 
 `colors.light.json`
@@ -137,7 +138,10 @@ description: Put this in your theme folder
       "primary.info",
       "primary.additional_1",
       "primary.additional_2",
-      "primary.additional_3"
+      "primary.additional_3",
+      "primary.additional_4",
+      "primary.additional_5",
+      "primary.additional_6"
     ],
     "primary": {
       "default": "#328BFF",
@@ -149,7 +153,10 @@ description: Put this in your theme folder
       "error": "#FF4C62",
       "additional_1": "#43D8FF",
       "additional_2": "#FF6AE2",
-      "additional_3": "#FDD52C"
+      "additional_3": "#FDD52C",
+      "additional_4": "#BDCEBE",
+      "additional_5": "#B9936C",
+      "additional_6": "#C94C4C"
     },
     "alt": {
       "default": "#286ECA",
@@ -184,6 +191,9 @@ description: Put this in your theme folder
     "backgrounds": {
       "normal": "#FFFFFF",
       "disabled": "#F7F8F9"
+    },
+    "border": {
+      "color": "#bec5cb"
     }
   },
   "buttons": {
@@ -211,7 +221,10 @@ description: Put this in your theme folder
       "primary.info",
       "primary.additional_1",
       "primary.additional_2",
-      "primary.additional_3"
+      "primary.additional_3",
+      "primary.additional_4",
+      "primary.additional_5",
+      "primary.additional_6"
     ],
     "primary": {
       "default": "#328BFF",
@@ -222,8 +235,11 @@ description: Put this in your theme folder
       "warn": "#FFAE50",
       "error": "#FF4C62",
       "additional_1": "#43D8FF",
-      "additional_2": "#FF6AE2",
-      "additional_3": "#FDD52C"
+      "additional_2": "#FFAAFF",
+      "additional_3": "#FDD52C",
+      "additional_4": "#BDCEBE",
+      "additional_5": "#B9936C",
+      "additional_6": "#C94C4C"
     },
     "alt": {
       "default": "#286ECA",
@@ -258,6 +274,9 @@ description: Put this in your theme folder
     "backgrounds": {
       "normal": "#282a31",
       "disabled": "#30343c"
+    },
+    "border": {
+      "color": "#595d6b"
     }
   },
   "buttons": {
