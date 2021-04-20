@@ -4,8 +4,18 @@ title: Releases - Frontend
 description: Change Log
 ---
 # Change Log
+
 ## Next Releases
 
+## 1.0.149
+
+*2021-04-20*
+
+- Feature: Add support for static resource in link icons (#593)
+- Feature: Generic SVG views and ServerSideFunctions (#601)
+- Feature: Real time value collections (#602)
+- Hotfix: RPC names should always be lowercased (#603)
+- Fix: Minor changes to popup button (#605)
 ## 1.0.140
 
 *2021-04-08*
