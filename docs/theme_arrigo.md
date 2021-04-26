@@ -19,6 +19,12 @@ You can now override the theme settings.
 
 > Remember to back up your theme settings, including the images in the image folder. Easiest way is to create a backupfolder with two folders inside, one for images, and one for theme folder. 
 
+## Arrigo BMS legazy theme from EXOscada.
+
+We now support legacy theming in views!
+
+By inserting //LegacyTheme as the first row in the OnOpen-attribute of the View in ViewDesigner, Arrigo theming will be ignored when opening the view, letting font families and sizes be determined from the Shared/theme/Standard.cwvt.json-file instead.
+
 ## Change pictures on login page
 
 Imagine you want to change the splash images. The big image at the right on desktop is called `splash` and the small waves below login form is called `small_splash`. 
