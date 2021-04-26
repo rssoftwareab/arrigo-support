@@ -16,6 +16,8 @@ Start a `cmd` window as administrator and run following commands to investigate 
 | `pm2 restart [serviceName]` | Restart  a service                                           |      |
 | `pm2 logs [serviceName]`    | View the service logs in realtime, useful for debugging serverside functions |      |
 | `pm2 flush`                 | Erases all logs                                              |      |
+| `pm2 stop all`              | Stops all services                                           |      |
+| `pm2 start all`             | Starts all services                                          |      |
 
 #### Debugging ServerSideFunctions
 
