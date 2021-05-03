@@ -7,6 +7,25 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.164
+
+*2021-05-03*
+
+Hotfix: #TP7799 Text of signals overlapping in chart (#630)
+
+## 1.0.163
+
+*2021-04-27*
+
+Hotfix: Close navigation on navigate (#626)
+Hotfix: Call autobahn list topic only when chart is in viewMode (#625)
+Hotfix: More Generic SVG view fixes and enable Load/Save Work feature (#623)
+Hotfix: Loader in generic SVGs (#622)
+Hotfix: Add minutes to the bmsGetDate function (#621)
+Hotfix: Do not pin navigation on mobile devices (#620)
+Hotfix: Chart resize down (#619)
+Hotfix: Alarms view and widget crash when alarms status update (#611)
+
 ## 1.0.149
 
 *2021-04-20*
