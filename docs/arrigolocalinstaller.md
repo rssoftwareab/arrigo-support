@@ -4,6 +4,32 @@ title: Releases - Arrigo Local
 description: Change Log
 ---
 # Change Log
+
+## 1.1.45 
+2021-04-30 
+- Frontend: [1.0.163](./frontend.html#10163)
+- Arrigo Local API: [1.0.164](./arrigolocalapi.html#10164)
+- Arrigo Local Scada Function: [1.1.80](./arrigolocalscadafunction.html#1180)
+- Required EXO installation: EXO 2019 Edition 4  Build 29
+
+### Views
+- Report view
+- Generic svg view
+- Custom filter in svg view
+- Charts Save load works
+- Open document in link icons
+
+### Tools
+- Added generic svg views
+- Support for ServerSide Functions in generic svg views, view designer and list view tools
+- Reports service
+- State service
+- Database service
+- Fetch service
+- Templates for reports
+
+
+
 ## 1.0.323
 
 2021-04-01

@@ -35,10 +35,9 @@ Manually check for the latest service release of EXO2019 Edition 3 on the FTP se
 # Arrigo Local
 ### Latest changes
 
-- Improved speed and stability
 
 ### Builds
-- Latest: [1.0.323](./arrigolocalinstaller.html#10323)
+- Latest: [1.1.45](./arrigolocalinstaller.html#1145)
 - Stable: [1.0.312](./arrigolocalinstaller.html#10312)
 
 
