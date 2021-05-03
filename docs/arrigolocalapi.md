@@ -6,6 +6,18 @@ description: Change Log
 
 # Change Log
 
+## 1.0.166
+
+*2021-04-29*
+
+* The 'Account' and 'Root' areas now share the same access level (#95)
+
+## 1.0.165
+
+*2021-04-29*
+
+* Fix: Only alarms from areas with ShowInScada set to true are shown (#98)
+
 
 ## 1.0.164
 
