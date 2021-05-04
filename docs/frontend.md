@@ -7,24 +7,34 @@ description: Change Log
 
 ## Next Releases
 
+- Feature: New Login and Logo.
+- Hotfix: Revert to set user filter when navigating away from the reports view
+- Hotfix: Add finnish translations
+- Hotfix: Set densityfactor for Arrigo BMS
+- Hotfix: Fixes issue where create order would not work for Swedish users
+- Hotfix: Map location coordinates
+- Hotfix: Translation Change
+- Hotfix: Meter and Building Default Route
+- Hotfix: Allow zero as consumption / reading value
+
 ## 1.0.164
 
 *2021-05-03*
 
-Hotfix: #TP7799 Text of signals overlapping in chart (#630)
+- Hotfix: #TP7799 Text of signals overlapping in chart (#630)
 
 ## 1.0.163
 
 *2021-04-27*
 
-Hotfix: Close navigation on navigate (#626)
-Hotfix: Call autobahn list topic only when chart is in viewMode (#625)
-Hotfix: More Generic SVG view fixes and enable Load/Save Work feature (#623)
-Hotfix: Loader in generic SVGs (#622)
-Hotfix: Add minutes to the bmsGetDate function (#621)
-Hotfix: Do not pin navigation on mobile devices (#620)
-Hotfix: Chart resize down (#619)
-Hotfix: Alarms view and widget crash when alarms status update (#611)
+- Hotfix: Close navigation on navigate (#626)
+- Hotfix: Call autobahn list topic only when chart is in viewMode (#625)
+- Hotfix: More Generic SVG view fixes and enable Load/Save Work feature (#623)
+- Hotfix: Loader in generic SVGs (#622)
+- Hotfix: Add minutes to the bmsGetDate function (#621)
+- Hotfix: Do not pin navigation on mobile devices (#620)
+- Hotfix: Chart resize down (#619)
+- Hotfix: Alarms view and widget crash when alarms status update (#611)
 
 ## 1.0.149
 
