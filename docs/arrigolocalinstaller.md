@@ -5,11 +5,28 @@ description: Change Log
 ---
 # Change Log
 
+## 1.1.51 
+2021-05-04 
+
+- Frontend: [1.0.164](./frontend.html#10164)
+- Arrigo Local API: [1.0.166](./arrigolocalapi.html#10166)
+- Arrigo Local Scada Function: [1.1.81](./arrigolocalscadafunction.html#1181)
+- Arrigo Local Services: [1.0.176](./arrigolocalservices.html#10176)
+- Required EXO installation: EXO 2019 Edition 4  Build 29
+
+### Views
+- ControlCurve view - better place for texts and values
+
+### Tools
+- Copying templates (account and default) when running the command "Upgrade project to current Arrigo BMS version". Remove the existing "Proj:EXOscada/ArrigoBMSProjectVersion.ExoXml" if the tool doesn't start
+- Bug fix: File arguments in FolderViewsTool now work as expected
+
 ## 1.1.45 
 2021-04-30 
 - Frontend: [1.0.163](./frontend.html#10163)
 - Arrigo Local API: [1.0.164](./arrigolocalapi.html#10164)
 - Arrigo Local Scada Function: [1.1.80](./arrigolocalscadafunction.html#1180)
+- Arrigo Local Services: [1.0.136](./arrigolocalservices.html#10136)
 - Required EXO installation: EXO 2019 Edition 4  Build 29
 
 ### Views
