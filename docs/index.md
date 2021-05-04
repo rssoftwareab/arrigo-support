@@ -5,7 +5,7 @@ description: Releases and Change Log
 ---
 # Download
 
-Manually check for the latest service release of EXO2019 Edition 3 on the FTP server.
+Contact your sales representative for the latest service release of EXO2019 Edition 4.
 
 [System requirements](./systemrequirements.md)
 
