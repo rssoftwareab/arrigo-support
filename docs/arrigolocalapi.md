@@ -6,6 +6,13 @@ description: Change Log
 
 # Change Log
 
+## 1.0.168
+
+*2021-05-05*
+
+* Implemented untriggered signals in alarm/digital list (#100)
+* Fix: App error "t.map is not a function'  (#99)
+
 ## 1.0.166
 
 *2021-04-29*
