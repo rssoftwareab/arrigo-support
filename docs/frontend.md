@@ -8,14 +8,24 @@ description: Change Log
 ## Next Releases
 
 - Feature: New Login and Logo.
+
+- Hotfix: Hide legend footer if user access level is below operator
+- Hotfix: TP-7887 - Issue clicking on filter button touch device
 - Hotfix: Revert to set user filter when navigating away from the reports view
-- Hotfix: Add finnish translations
-- Hotfix: Set densityfactor for Arrigo BMS
+
+
+## 1.0.168
+
+*2021-05-05*
+
+- Hotfix: TP-7644 Open popup view from list in viewcontainer not working (#639)
+- Hotfix: Add finnish translations (#635)
+- Hotfix: Set densityfactor for Arrigo BMS (#633)
 - Hotfix: Fixes issue where create order would not work for Swedish users
-- Hotfix: Map location coordinates
-- Hotfix: Translation Change
-- Hotfix: Meter and Building Default Route
-- Hotfix: Allow zero as consumption / reading value
+- Hotfix: Map location coordinates (#631)
+- Hotfix: Translation Change (#629)
+- Hotfix: Meter and Building Default Route (#628)
+- Hotfix: Allow zero as consumption / reading value (#627)
 
 ## 1.0.164
 
