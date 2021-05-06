@@ -31,6 +31,7 @@ description: Change Log
 *2021-04-01*
 
 * Hotfix: Resolve folderId for static resources in views (Fix Popup window issue)
+* Fixed a bug that could result in failed login attempts (concurrency issues) (#97)
 
 
 ## 1.0.162
