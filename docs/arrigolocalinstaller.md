@@ -4,7 +4,8 @@ title: Releases - Arrigo Local
 description: Change Log
 ---
 # Change Log
-## 1.1.XX 
+
+## 1.1.56 
 2021-05-06
 
 - Frontend: [1.0.168](./frontend.html#10168)
@@ -17,6 +18,7 @@ description: Change Log
 
 
 ### Tools
+Hotfix: Folder Tool checks for existing .foldermeta file
 
 
 ## 1.1.51 
