@@ -10,7 +10,7 @@ description: Change Log
 
 *2021-05-07*
 
-* Fixed a bug that sometimes causes writing error in OnManeuvre scripts (#101)
+* Fixed a bug that causes Block of Write function when using Script with ¤ and same value not listed in the view (#101)
 
 ## 1.0.168
 
