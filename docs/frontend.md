@@ -7,12 +7,13 @@ description: Change Log
 
 ## Next Releases
 
-## 1.0.172
+## 1.0.173
 
 *2021-05-07*
 
 - Feature: Show empty result info in list views (#642)
 - Feature: New Login and Logo (#634)
+- Hotfix: Issue when history is missing in DigitalDetails and AlarmDetails (#646)
 - Hotfix: Replace finnish square flag with a round one. #645
 - Hotfix: Chart axis multiple units (#641)
 - Hotfix: Hide legend footer if user access level is below operator (#640)
