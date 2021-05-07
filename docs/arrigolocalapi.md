@@ -6,6 +6,12 @@ description: Change Log
 
 # Change Log
 
+## 1.0.169
+
+*2021-05-07*
+
+* Fixed a bug that sometimes causes writing error in OnManeuvre scripts (#101)
+
 ## 1.0.168
 
 *2021-05-05*
