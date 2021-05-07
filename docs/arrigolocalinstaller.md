@@ -4,6 +4,22 @@ title: Releases - Arrigo Local
 description: Change Log
 ---
 # Change Log
+
+## 1.1.XX
+
+2021-05-XX
+
+- Frontend: [1.0.168](./frontend.html#10168)
+- Arrigo Local API: [1.0.168](./arrigolocalapi.html#10168)
+- Arrigo Local Scada Function: [1.1.81](./arrigolocalscadafunction.html#1181)
+- Arrigo Local Services: [1.0.176](./arrigolocalservices.html#10176)
+- Required EXO installation: EXO 2019 Edition 4  Build 29
+
+### Installer
+
+* Downloading the Dotnet Hosting Bundle instead of bundling it
+* Added error codes, and links to descriptions, on all fatal errors
+
 ## 1.1.56
 2021-05-06
 
@@ -17,7 +33,8 @@ description: Change Log
 
 
 ### Tools
-Hotfix: Folder Tool checks for existing .foldermeta file
+* Hotfix: Folder Tool checks for existing .foldermeta file
+* Fix: Copying the correct files when creating an Area in Project Builder
 
 
 ## 1.1.51 
