@@ -7,12 +7,16 @@ description: Change Log
 
 ## Next Releases
 
-- Feature: New Login and Logo.
+## 1.0.171
 
-- Hotfix: Hide legend footer if user access level is below operator
-- Hotfix: TP-7887 - Issue clicking on filter button touch device
-- Hotfix: Revert to set user filter when navigating away from the reports view
+*2021-05-07*
 
+- Feature: Show empty result info in list views (#642)
+- Feature: New Login and Logo (#634)
+- Hotfix: Chart axis multiple units (#641)
+- Hotfix: Hide legend footer if user access level is below operator (#640)
+- Hotfix: TP-7887 Issue clicking on filter button touch device (#638)
+- Hotfix: Revert to set user filter when navigating away from the reports view (#636)
 
 ## 1.0.168
 
