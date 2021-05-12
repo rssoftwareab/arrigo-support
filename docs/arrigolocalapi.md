@@ -6,6 +6,18 @@ description: Change Log
 
 # Change Log
 
+## 1.0.171
+
+*2021-05-11*
+
+* Fixed a bug that could prevent the selected folder from being included in filter queries
+
+## 1.0.170
+
+*2021-05-11*
+
+* Hotfix: Reverted fix regarding alarms and ShowInScada from 1.0.165
+
 ## 1.0.169
 
 *2021-05-07*

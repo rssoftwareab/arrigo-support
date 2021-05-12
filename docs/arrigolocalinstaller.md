@@ -5,9 +5,37 @@ description: Change Log
 ---
 # Change Log
 
-## 1.1.XX
+## 1.1.61
 
-2021-05-XX
+2021-05-12
+
+- Frontend: [1.0.172](./frontend.html#10172)
+- Arrigo Local API: [1.0.171](./arrigolocalapi.html#10171)
+- Arrigo Local Scada Function: [1.1.81](./arrigolocalscadafunction.html#1181)
+- Arrigo Local Services: [1.0.176](./arrigolocalservices.html#10176)
+- Required EXO installation: EXO 2019 Edition 4  Build 29
+
+### Installer
+
+* Fixed a bug which could cause the console output to stop even though the installer was running correctly
+
+## 1.1.60
+
+2021-05-11
+
+- Frontend: [1.0.172](./frontend.html#10172)
+- Arrigo Local API: [1.0.171](./arrigolocalapi.html#10171)
+- Arrigo Local Scada Function: [1.1.81](./arrigolocalscadafunction.html#1181)
+- Arrigo Local Services: [1.0.176](./arrigolocalservices.html#10176)
+- Required EXO installation: EXO 2019 Edition 4  Build 29
+
+### Installer
+
+* Trying different ways of detecting if the Dotnet Hosting Bundle is installed before failing
+
+## 1.1.58
+
+2021-05-07
 
 - Frontend: [1.0.168](./frontend.html#10168)
 - Arrigo Local API: [1.0.169](./arrigolocalapi.html#10169)
