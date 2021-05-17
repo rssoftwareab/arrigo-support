@@ -7,6 +7,17 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.175
+
+*2021-05-17*
+
+- Hotfix: Minor changes to calculated meters (#652)
+- Hotfix: TP #7590 Max and min values on symbols where not bound (#651)
+- Hotfix: Generic svg update (#650)
+- Hotfix: Saved work overflow (#649)
+- Hotfix: Reconnecting issue (#648)
+- Hotfix: Energy widget not displaying values (#647)
+
 ## 1.0.173
 
 *2021-05-07*
