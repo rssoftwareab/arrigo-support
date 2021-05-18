@@ -5,6 +5,20 @@ description: Change Log
 ---
 # Change Log
 
+## 1.1.XX
+
+2021-XX-XX
+
+- Frontend: [1.0.172](./frontend.html#10172)
+- Arrigo Local API: [1.0.171](./arrigolocalapi.html#10171)
+- Arrigo Local Scada Function: [1.1.81](./arrigolocalscadafunction.html#1181)
+- Arrigo Local Services: [1.0.176](./arrigolocalservices.html#10176)
+- Required EXO installation: EXO 2019 Edition 4  Build 29
+
+### Installer
+
+* Fix: Not all files are copied correctly if EXO is installed in a custom location (i.e. not ProgramFiles/Regin)
+
 ## 1.1.64
 
 2021-05-12
