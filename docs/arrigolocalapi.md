@@ -6,9 +6,9 @@ description: Change Log
 
 # Change Log
 
-## 1.0.XXX
+## 1.0.173
 
-*2021-XX-XX*
+*2021-05-19*
 
 * Users who are blocked or need to change their password are now prevented from logging in.
   **Note!** Passwords are changed using the EXOscada login page (which doesn't require Flash) 
