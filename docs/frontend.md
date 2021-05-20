@@ -7,6 +7,17 @@ description: Change Log
 
 ## Next Releases
 
+- Fix: Scroll container restyling (#653)
+
+## 1.0.178
+
+*2021-05-20*
+
+- Hotfix: TP-8721 Chart RulerLegend timezone (#659)
+- Hotfix: TP-8530 User feedback for login status 403 and 409 (#658)
+- Hotfix: Fix hang up issue when logging in (#657)
+- Hotfix: TP-8994 Restrict climate city and degree days (#655)
+- Hotfix: TP-8999 Class C alarms should be active in filter as default (#654)
 ## 1.0.175
 
 *2021-05-17*
