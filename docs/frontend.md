@@ -18,6 +18,7 @@ description: Change Log
 - Hotfix: Fix hang up issue when logging in (#657)
 - Hotfix: TP-8994 Restrict climate city and degree days (#655)
 - Hotfix: TP-8999 Class C alarms should be active in filter as default (#654)
+
 ## 1.0.175
 
 *2021-05-17*
