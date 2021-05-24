@@ -10,13 +10,13 @@ description: Change Log
 
 *2021-05-20*
 
-* Hotfix: ReadData now returns the correct order of the variables list (compared to the input arguments)
+* Hotfix: ReadData now returns the correct order of the variables list (compared to the input arguments) (TP#9033)
 
 ## 1.0.173
 
 *2021-05-19*
 
-* Users who are blocked or need to change their password are now prevented from logging in.
+* Users who are blocked or need to change their password are now prevented from logging in. (TP#8503)
   **Note!** Passwords are changed using the EXOscada login page (which doesn't require Flash) 
 
 ## 1.0.171
