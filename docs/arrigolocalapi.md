@@ -6,6 +6,12 @@ description: Change Log
 
 # Change Log
 
+## 1.0.174
+
+*2021-05-20*
+
+* Hotfix: ReadData now returns the correct order of the variables list (compared to the input arguments)
+
 ## 1.0.173
 
 *2021-05-19*
