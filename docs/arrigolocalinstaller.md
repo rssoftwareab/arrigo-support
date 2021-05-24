@@ -7,17 +7,27 @@ description: Change Log
 
 ## 1.1.XX
 
-2021-XX-XX
+2021-05-24
 
-- Frontend: [1.0.172](./frontend.html#10172)
-- Arrigo Local API: [1.0.171](./arrigolocalapi.html#10171)
+- Frontend: [1.0.179](./frontend.html#10179)
+- Arrigo Local API: [1.0.174](./arrigolocalapi.html#10174)
 - Arrigo Local Scada Function: [1.1.81](./arrigolocalscadafunction.html#1181)
 - Arrigo Local Services: [1.0.176](./arrigolocalservices.html#10176)
 - Required EXO installation: EXO 2019 Edition 4  Build 29
 
 ### Installer
 
-* Fix: Not all files are copied correctly if EXO is installed in a custom location (i.e. not ProgramFiles/Regin)
+* Fix: Better handling of major upgrades of EXOscada (no need to `-force` the installation) (TP#8998)
+
+### Tools
+
+* Time Channel editor: Fixed create new period when 0 periods in chart. Progress feedback during download. Rescaling to small screens ("phone view").
+* Calendar: Fixed no. of holiday periods. Progress feedback during download. Rescaling to small screens - "one month mode"
+* Max and min Values are now bound in RwUiSymbol (TP\#7590)
+* Time Channel editor: New list view template for Time channel editor
+* HolidayCalendar: New list view template for holiday calendar (for use in e.g. controller web)
+* CommandBar convert error fix. ViewTitle on ClickArea convert to Window Title (TP#8996)
+* View Designer: Template for Fan Man/Auto fixed (TP#8407)
 
 ## 1.1.64
 
