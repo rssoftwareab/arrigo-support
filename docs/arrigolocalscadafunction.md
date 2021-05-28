@@ -6,6 +6,12 @@ description: Change Log
 
 # Change Log
 
+## 1.1.82
+
+*2021-05-26*
+
+* Fixed a bug that prevented the Scada Function to start up if the pm2 services was not running (this caused `wamp.error`s in the frontend)
+
 ## 1.1.81
 
 *2021-04-28*
