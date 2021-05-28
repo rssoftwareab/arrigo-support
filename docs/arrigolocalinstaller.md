@@ -5,13 +5,13 @@ description: Change Log
 ---
 # Change Log
 
-## 1.1.XX
+## 1.1.76
 
-2021-05-24
+2021-05-28
 
-- Frontend: [1.0.179](./frontend.html#10179)
+- Frontend: [1.0.180](./frontend.html#10180)
 - Arrigo Local API: [1.0.174](./arrigolocalapi.html#10174)
-- Arrigo Local Scada Function: [1.1.81](./arrigolocalscadafunction.html#1181)
+- Arrigo Local Scada Function: [1.1.82](./arrigolocalscadafunction.html#1182)
 - Arrigo Local Services: [1.0.176](./arrigolocalservices.html#10176)
 - Required EXO installation: EXO 2019 Edition 4  Build 29
 
@@ -28,6 +28,8 @@ description: Change Log
 * HolidayCalendar: New list view template for holiday calendar (for use in e.g. controller web)
 * CommandBar convert error fix. ViewTitle on ClickArea convert to Window Title (TP#8996)
 * View Designer: Template for Fan Man/Auto fixed (TP#8407)
+* BACnet signals through OPC are now writable (TP#9045)
+* Writing to string types in Computer Signals is now supported (TP#9053)
 
 ## 1.1.64
 
