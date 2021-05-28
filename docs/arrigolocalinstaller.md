@@ -30,6 +30,9 @@ description: Change Log
 * View Designer: Template for Fan Man/Auto fixed (TP#8407)
 * BACnet signals through OPC are now writable (TP#9045)
 * Writing to string types in Computer Signals is now supported (TP#9053)
+* Various fixes in the "Upgrade Arrigo BMS" tool
+* Fix for Bargraph and OpenViewInTab for LinkIcons
+* Fix for TimeChannel file lookup when converting area
 
 ## 1.1.64
 
