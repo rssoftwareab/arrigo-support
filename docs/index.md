@@ -29,7 +29,7 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 - Font too big in area Views has been fixed with the possibility to display views in Legacy theme mode.
 
 ### Current build: 
-- Frontend: [1.0.178](./frontend.html#10178)
+- Frontend: [1.0.180](./frontend.html#10180)
 - Arrigo API: [1.0.27](./arrigoapi.html#1027)
 
 # Arrigo Local

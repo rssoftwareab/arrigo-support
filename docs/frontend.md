@@ -9,6 +9,14 @@ description: Change Log
 
 - Fix: Scroll container restyling (#653)
 
+## 1.0.180
+
+*2021-05-28*
+
+- Hotfix: Scrolling behavior in Charts (#662)
+- Hotfix: Honor auto scale from config (#664)
+- Hotfix: Admin radio select will now only trigger once on click (#663)
+
 ## 1.0.178
 
 *2021-05-20*
