@@ -18,6 +18,7 @@ description: Change Log
 ### Installer
 
 * Fix: Better handling of major upgrades of EXOscada (no need to `-force` the installation) (TP#8998)
+* Fix: Handling Cyrillic characters in usernames
 
 ### Tools
 
