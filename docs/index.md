@@ -20,17 +20,15 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 
 **EMS Features**
 
-- Added toolbox feature to Calculated meters
-- Chart axis/grid improvements
-- Alarm signals collection
-- Global CSV Export
+-
 
 **EMS Fixes/Improvements**
-- Font too big in area Views has been fixed with the possibility to display views in Legacy theme mode.
+- Speed improvements for tree structure/folders query
+- Refactoring and improvements for Calculated Meter Application
 
 ### Current build: 
 - Frontend: [1.0.180](./frontend.html#10180)
-- Arrigo API: [1.0.27](./arrigoapi.html#1027)
+- Arrigo API: [1.0.37](./arrigoapi.html#1037)
 
 # Arrigo Local
 ### Latest changes
