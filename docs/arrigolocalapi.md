@@ -6,6 +6,10 @@ description: Change Log
 
 # Change Log
 
+## Next relese
+
+* Fix: Audit info is now stored correctly (TP#8668)
+
 ## 1.0.174
 
 *2021-05-20*
