@@ -54,6 +54,8 @@ The installer was run on a machine without the required EXOscada edition install
 
 The installer was run on a machine with the correct EXOscada edition installed but with the wrong specific release.
 
+The `Release number` may contain two digits (ex: `4.29`) and this simply means "Edition 4, Release 29".
+
 ## 1008
 
 `Installation aborted by user`
