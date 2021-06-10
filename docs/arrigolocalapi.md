@@ -14,7 +14,7 @@ description: Change Log
 
 *2021-06-10*
 
-* Hotfix : `readData` now handles duplicates of same element in variable list
+* Hotfix : `readData` now handles duplicates of same element in variable list (TP#9509)
 
 ## 1.0.175
 
