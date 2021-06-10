@@ -5,6 +5,25 @@ description: Change Log
 ---
 # Change Log
 
+## 1.1.80
+
+2021-06-10
+
+- Frontend: [1.0.187](./frontend.html#10187)
+- Arrigo Local API: [1.0.176](./arrigolocalapi.html#10176)
+- Arrigo Local Scada Function: [1.1.84](./arrigolocalscadafunction.html#1184)
+- Arrigo Local Services: [1.0.176](./arrigolocalservices.html#10176)
+- Required EXO installation: EXO 2019 Edition 4  Build 29
+
+### Installer
+
+* Running with `-force` disables the check for newer versions online
+* We now do a strict check of the specific EXO release installed on the machine. If it differs from the version ALI is built against in we notify the user and abort.
+
+### Tools
+
+*More info to come...*
+
 ## 1.1.76
 
 2021-05-28
