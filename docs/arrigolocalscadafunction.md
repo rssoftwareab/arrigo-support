@@ -10,7 +10,7 @@ description: Change Log
 
 *2021-06-10*
 
-* Fixed argument updating issue when changing the binding arguments from the parent window (#9277)
+* Fixed argument updating issue when changing the binding arguments from the parent window (TP#9277)
 
 ## 1.1.83
 
