@@ -6,7 +6,19 @@ description: Change Log
 
 # Change Log
 
-## Next relese
+## Upcoming releases
+
+*No info yet...*
+
+## 1.0.176
+
+*2021-06-10*
+
+* Hotfix : `readData` now handles duplicates of same element in variable list
+
+## 1.0.175
+
+*2021-05-20*
 
 * Fix: Audit info is now stored correctly (TP#8668)
 
