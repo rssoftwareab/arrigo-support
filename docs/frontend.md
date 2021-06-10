@@ -7,7 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.186
+
+2021-06-09
+
 - Fix: Scroll container restyling (#653)
+- Hotfix: Admin views navigation issue (#668)
+- Hotfix: Chart axis error when no axis present (#670)
+- Hotfix: Serverside functions in popup views, viewcontainers and popup windows (#672)
 
 ## 1.0.180
 
