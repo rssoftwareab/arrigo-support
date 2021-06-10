@@ -6,6 +6,12 @@ description: Change Log
 
 # Change Log
 
+## 1.1.84
+
+*2021-06-10*
+
+* Fixed argument updating issue when changing the binding arguments from the parent window (#9277)
+
 ## 1.1.83
 
 *2021-06-07*
