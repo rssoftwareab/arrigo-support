@@ -12,9 +12,9 @@ description: Change Log
 2021-06-09
 
 - Fix: Scroll container restyling (#653)
-- Hotfix: Admin views navigation issue (#668)
-- Hotfix: Chart axis error when no axis present (#670)
-- Hotfix: Serverside functions in popup views, viewcontainers and popup windows (#672)
+- Hotfix: TP#9427 Admin views navigation issue (#668)
+- Hotfix: TP#9141 Chart axis error when no axis present (#670)
+- Hotfix: TP#9087 Serverside functions in popup views, viewcontainers and popup windows (#672)
 
 ## 1.0.180
 
@@ -28,18 +28,18 @@ description: Change Log
 
 *2021-05-20*
 
-- Hotfix: TP-8721 Chart RulerLegend timezone (#659)
-- Hotfix: TP-8530 User feedback for login status 403 and 409 (#658)
+- Hotfix: TP#8721 Chart RulerLegend timezone (#659)
+- Hotfix: TP#8530 User feedback for login status 403 and 409 (#658)
 - Hotfix: Fix hang up issue when logging in (#657)
-- Hotfix: TP-8994 Restrict climate city and degree days (#655)
-- Hotfix: TP-8999 Class C alarms should be active in filter as default (#654)
+- Hotfix: TP#8994 Restrict climate city and degree days (#655)
+- Hotfix: TP#8999 Class C alarms should be active in filter as default (#654)
 
 ## 1.0.175
 
 *2021-05-17*
 
 - Hotfix: Minor changes to calculated meters (#652)
-- Hotfix: TP #7590 Max and min values on symbols where not bound (#651)
+- Hotfix: TP#7590 Max and min values on symbols where not bound (#651)
 - Hotfix: Generic svg update (#650)
 - Hotfix: Saved work overflow (#649)
 - Hotfix: Reconnecting issue (#648)
@@ -54,7 +54,7 @@ description: Change Log
 - Hotfix: Issue when history is missing in DigitalDetails and AlarmDetails (#646)
 - Hotfix: Chart axis multiple units (#641)
 - Hotfix: Hide legend footer if user access level is below operator (#640)
-- Hotfix: TP-7887 Issue clicking on filter button touch device (#638)
+- Hotfix: TP#7887 Issue clicking on filter button touch device (#638)
 - Hotfix: Revert to set user filter when navigating away from the reports view (#636)
 
 ## 1.0.172
@@ -67,7 +67,7 @@ description: Change Log
 
 *2021-05-05*
 
-- Hotfix: TP-7644 Open popup view from list in viewcontainer not working (#639)
+- Hotfix: TP#7644 Open popup view from list in viewcontainer not working (#639)
 - Hotfix: Add finnish translations (#635)
 - Hotfix: Set densityfactor for Arrigo BMS (#633)
 - Hotfix: Fixes issue where create order would not work for Swedish users
