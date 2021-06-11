@@ -5,7 +5,7 @@ description: Change Log
 ---
 # Change Log
 
-## 1.1.80
+## 1.1.81
 
 2021-06-10
 
@@ -17,12 +17,22 @@ description: Change Log
 
 ### Installer
 
-* Running with `-force` disables the check for newer versions online
-* We now do a strict check of the specific EXO release installed on the machine. If it differs from the version ALI is built against in we notify the user and abort.
+* Starting the installer with `-force` disables the check for newer versions online
+* We now do a strict check of the specific EXO release installed on the machine. If it differs from the version the installer is built against in we notify the user and abort.
 
 ### Tools
 
-*More info to come...*
+* Various template fixes (TP#8259, 9425)
+* "Select/Append picture from shared folder" now opens the correct folder (TP#8355)
+* New icons for various tools and templates
+* First day of week and language in calendar is selected based on the language/locale of the browser (TP#7796)
+* Added support for "ViewType Widget" in ListViewTool. Attributes for Lists are limited or disabled when ViewType=Widget
+* FolderViewsTool: Only view files with ViewType=Widget can be added/selected/picked in Widget File attribute (TP#8262)
+* "Use legacy theme" as an option when converting Area (TP#9114)
+* Support for multiple calls to include with same arguments in the same view
+* Both View Designers now handle high DPI modes (TP#9099)
+* Fixed issue regarding multiple Control Curve windows (TP#9106)
+* Dialog boxes for numeric, textselect etc. now have multiline text elements for description text
 
 ## 1.1.76
 
