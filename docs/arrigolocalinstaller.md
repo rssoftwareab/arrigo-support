@@ -18,7 +18,7 @@ description: Change Log
 ### Installer
 
 * Starting the installer with `-force` disables the check for newer versions online
-* We now do a strict check of the specific EXO release installed on the machine. If it differs from the version the installer is built against in we notify the user and abort.
+* The installer now does a strict check of the specific EXO release installed on the machine. If it differs from the version the installer is built against it notifies the user and aborts.
 
 ### Tools
 
