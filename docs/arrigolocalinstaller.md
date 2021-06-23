@@ -7,7 +7,7 @@ description: Change Log
 
 ## Next release
 
-## 1.1.95
+## 1.1.96
 
 2021-06-23
 
