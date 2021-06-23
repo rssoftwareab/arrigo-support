@@ -24,7 +24,7 @@ description: Change Log
 
 ### Tools
 
-*See the EXOscada change log for details*
+* Template fixes (TP#9643)
 
 ## 1.1.84
 
