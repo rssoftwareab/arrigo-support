@@ -62,6 +62,14 @@ The `Release number` may contain two digits (ex: `4.29`) and this simply means "
 
 The installer wanted to close all open EXO programs but the user aborted.
 
+## 1009
+
+`Incompatible effective ExecutionPolicy for Powershell.`
+
+The current effective ExecutionPolicy for Powershell will prevent the rest of the installer from running correctly. It must be one of: Undefined, Unrestricted or RemoteSigned.
+
+These settings can be found in the Windows Group Policy Editor or by running the Powershell command `Set-ExecutionPolicy`
+
 ## 2000
 
 `Installation aborted by user`
