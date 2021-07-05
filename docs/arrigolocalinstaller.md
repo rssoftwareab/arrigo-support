@@ -7,6 +7,11 @@ description: Change Log
 
 ## Next release
 
+### Installer
+
+* All bulky file copy operations now display progress and log copied files
+* ALI checks if the Powershell ExecutionPolicy is compatible when staring up, and exists the installer if it isn't
+
 ## 1.1.98
 
 2021-06-23
