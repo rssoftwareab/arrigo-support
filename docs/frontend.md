@@ -8,10 +8,20 @@ description: Change Log
 ## Next Releases
 
 - Feature: Drag 'n Drop - CRUD behaviour in Nagivation tree
+
 - Feature: TP#9503 Keep last tab in navigation for Meter and Buildings
+
 - Feature: Add audit info to Set- and WriteData mutations for views
+
 - HotFix: TP#9574 Chart export date range
+
 - HotFix: TP#9567 Login label
+
+## 1.0.187
+
+  2021-06-10
+
+  - HotFix: Updated visuals on login screen (#665)
 
 ## 1.0.186
 
