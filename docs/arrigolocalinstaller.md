@@ -10,7 +10,7 @@ description: Change Log
 ### Installer
 
 * All bulky file copy operations now display progress and log copied files
-* ALI checks if the Powershell ExecutionPolicy is compatible when staring up, and exists the installer if it isn't
+* ALI checks that the effective Powershell ExecutionPolicy is correct when starting up, and exists the installer if it isn't
 
 ## 1.1.98
 
