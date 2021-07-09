@@ -18,6 +18,11 @@ description: Change Log
 * All bulky file copy operations now display progress and log copied files
 * ALI checks that the effective Powershell ExecutionPolicy is correct when starting up, and exists the installer if it isn't
 
+### Tools
+
+* Added more Arrigo tools options in project builder (detach, view instructions, view status,view logs)
+
+
 ## 1.1.98
 
 2021-06-23
