@@ -6,6 +6,12 @@ description: Change Log
 
 # Change Log
 
+## Upcoming releases
+
+* Fix: queueing callbacks from the kernel (#68)
+* Sets the account title to account name if the title is empty from Project.Exo (#66)
+* We handle any initial advise updates/callbacks better (than before) by adding variables to the internal list early. (#65)
+
 ## 1.1.84
 
 *2021-06-10*
