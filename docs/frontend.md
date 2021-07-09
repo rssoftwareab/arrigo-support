@@ -7,6 +7,8 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.199
+
 - Hotfix: Fix Swedish characters in username (#691)
 - HotFix: Folder config loading (#690)
 - HotFix: Fire Icon (#689)
