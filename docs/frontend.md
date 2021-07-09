@@ -7,14 +7,19 @@ description: Change Log
 
 ## Next Releases
 
+- Hotfix: Fix Swedish characters in username (#691)
+- HotFix: Folder config loading (#690)
+- HotFix: Fire Icon (#689)
+- Hotfix: TP#9605 Arrigo BMS and Controller Web - Password style in List View not working (#687)
+-
+
+## 1.0.191
+
 - Feature: Drag 'n Drop - CRUD behaviour in Nagivation tree
-
 - Feature: TP#9503 Keep last tab in navigation for Meter and Buildings
-
 - Feature: Add audit info to Set- and WriteData mutations for views
-
+- 
 - HotFix: TP#9574 Chart export date range
-
 - HotFix: TP#9567 Login label
 
 ## 1.0.187
