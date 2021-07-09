@@ -6,6 +6,10 @@ description: Change Log
 
 # Change Log
 
+## Upcoming releases
+
+* Fixed reports for account
+
 ## 1.0.176
 
 *2021-05-03*
