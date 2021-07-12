@@ -20,8 +20,10 @@ description: Change Log
 
 ### Tools
 
-* Added more Arrigo tool options in project builder (detach, view instructions, view status,view logs)
-
+* Various template fixes (TP#8833, 9425)
+* Added more Arrigo tool options in project builder (detach, view instructions, view status,view logs) (TP#9220)
+* Arrigo Link icon Single Timechannel (TP#9811)
+* Arrigo BMS and Controller Web - Password style in List View not working (TP#9605)
 
 ## 1.1.98
 
