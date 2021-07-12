@@ -13,7 +13,6 @@ description: Change Log
 - HotFix: Folder config loading (#690)
 - HotFix: Fire Icon (#689)
 - Hotfix: TP#9605 Arrigo BMS and Controller Web - Password style in List View not working (#687)
--
 
 ## 1.0.191
 
