@@ -9,7 +9,7 @@ description: Change Log
 ## Upcoming releases
 
 * Action templates for audit log (#106)
-* Optimized SQL queries for analogs,digitals,analogs (#105)
+* Optimized SQL queries for alarms,digitals,analogs (#105)
 * Moved the api setting files to  %programdata%\Arrigo\Arrigo local\settings (#105)
 
 ## 1.0.176
