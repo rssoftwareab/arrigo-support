@@ -8,7 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.183
+
+*2021-07-09*
+
 * Fixed reports for account
+* Fixed verbosity input parameter
 
 ## 1.0.176
 
