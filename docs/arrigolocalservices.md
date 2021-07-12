@@ -12,8 +12,8 @@ description: Change Log
 
 *2021-07-09*
 
-* Fixed reports for account
-* Fixed verbosity input parameter
+* Fix: Reports for account
+* Fix: Verbosity logging level
 
 ## 1.0.176
 
