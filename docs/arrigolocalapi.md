@@ -13,7 +13,7 @@ description: Change Log
 *2021-07-11*
 
 * Action templates for audit log (#106)
-* Optimized SQL queries for alarms,digitals,analogs (TP#9505)
+* Optimized SQL queries for alarms,digitals,analogs (TP#9505) (To test experimental optimization, enable the flag by setting  `sqlquery_version2` to `true` in `%ProgramData%/Arrigo/Arrigo Local/settings/arrigo-api.json`.)
 * Moved the api setting files to  %programdata%\Arrigo\Arrigo local\settings (#105)
 
 ## 1.0.176
