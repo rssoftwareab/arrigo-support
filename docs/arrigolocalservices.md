@@ -8,7 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
-* Fixed reports for account
+## 1.0.183
+
+*2021-07-09*
+
+* Fix: Reports for account
+* Fix: Verbosity logging level
 
 ## 1.0.176
 

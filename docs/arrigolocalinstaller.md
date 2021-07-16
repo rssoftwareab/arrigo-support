@@ -12,9 +12,9 @@ description: Change Log
 2021-07-16
 
 - Frontend: [1.0.201](./frontend.html#10201)
-- Arrigo Local API: [1.0.181](./arrigolocalapi.html#10181)
-- Arrigo Local Scada Function: [1.1.88](./arrigolocalscadafunction.html#1188)
-- Arrigo Local Services: [1.0.180](./arrigolocalservices.html#10180)
+- Arrigo Local API: [1.0.182](./arrigolocalapi.html#10182)
+- Arrigo Local Scada Function: [1.1.87](./arrigolocalscadafunction.html#1187)
+- Arrigo Local Services: [1.0.183](./arrigolocalservices.html#10183)
 - Required EXO installation: EXO 2019 Edition 4 Build 108
 
 ### Installer
@@ -26,15 +26,22 @@ description: Change Log
 2021-07-14
 
 - Frontend: [1.0.199](./frontend.html#10199)
-- Arrigo Local API: [1.0.181](./arrigolocalapi.html#10181)
+- Arrigo Local API: [1.0.182](./arrigolocalapi.html#10182)
 - Arrigo Local Scada Function: [1.1.87](./arrigolocalscadafunction.html#1187)
-- Arrigo Local Services: [1.0.180](./arrigolocalservices.html#10180)
+- Arrigo Local Services: [1.0.183](./arrigolocalservices.html#10183)
 - Required EXO installation: EXO 2019 Edition 4 Build 108
 
 ### Installer
 
 * All bulky file copy operations now display progress and log copied files
 * ALI checks that the effective Powershell ExecutionPolicy is correct when starting up, and exists the installer if it isn't
+
+### Tools
+
+* Various template fixes (TP#8833, 9425)
+* Added more Arrigo tool options in project builder (detach, view instructions, view status,view logs) (TP#9220)
+* Arrigo Link icon Single Timechannel (TP#9811)
+* Arrigo BMS and Controller Web - Password style in List View not working (TP#9605)
 
 ## 1.1.98
 
