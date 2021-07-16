@@ -7,13 +7,18 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.201
+
+- Hotfix: Access control on widget visibility (#693)
+- Hotfix: Fixed infinite scroll (#692)
+- Hotfix: Don't show send to port when already at port (#688)
+
 ## 1.0.199
 
 - Hotfix: Fix Swedish characters in username (#691)
 - HotFix: Folder config loading (#690)
 - HotFix: Fire Icon (#689)
 - Hotfix: TP#9605 Arrigo BMS and Controller Web - Password style in List View not working (#687)
--
 
 ## 1.0.191
 
