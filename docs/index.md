@@ -35,7 +35,7 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 
 
 ### Builds
-- Latest: [1.1.118](./arrigolocalinstaller.html#11118)
+- Latest: [1.1.121](./arrigolocalinstaller.html#11121)
 - Stable: [1.1.98](./arrigolocalinstaller.html#1198)
 
 
