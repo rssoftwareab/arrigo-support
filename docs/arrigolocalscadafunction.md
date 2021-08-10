@@ -8,6 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.1.88
+
+*2021-07-16*
+
+* Minor internal fixes
+
 ## 1.1.87
 
 *2021-07-09*
