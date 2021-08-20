@@ -153,22 +153,22 @@ async function setStates(kwargs, callInfo){
     await state.set({ key1:"value1", key2:[1,2,3,4,5] })
     
     //set complex data to the state for this path
-    await state.set(['a','b','c'])
+    await state.set({data:['a','b','c']})
     
     //set complex data for a key
-    await state.set([1,2,3], { key:"key2" })
+    await state.set({data: [1,2,3], key:"key2" })
     
     //set complex data for a key in a file
-    await state.set([1,2,3], { key:"key2", file:"Shared:/globalsettings.json" })
+    await state.set({data:[1,2,3], key:"key2", file:"Shared:/globalsettings.json" })
     
     //erase data for a key
-    await state.set(null, { key:"key1" })
+    await state.set({data: null, key:"key1" })
     
-    //erase state for the path
+    //erase state for the entire state
     await state.set(null)
     
     //erase state for a file (removes the file as well)
-    await state.set(null, { file:"Shared:/globalsettings.json" })
+    await state.set({ data:null, file:"Shared:/globalsettings.json" })
     
     return 0
 }
