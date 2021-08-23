@@ -8,6 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.184
+
+*2021-08-23*
+
+* Fix: Access in area for users without ExplicitAccess
+
 ## 1.0.183
 
 *2021-07-09*
