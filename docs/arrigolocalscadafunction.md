@@ -8,6 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.1.89
+
+*2021-08-19*
+
+* Fix/updating variable stopworking (TP#10202)
+
 ## 1.1.88
 
 *2021-07-16*
