@@ -8,6 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.183
+
+*2021-08-10*
+
+* Folder->AccessLevel is now a string and not an enum
+
 ## 1.0.182
 
 *2021-07-11*
