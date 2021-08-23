@@ -7,6 +7,22 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.205
+
+- Hotfix: Remove fullscreen loader when fetching folder config (#700)
+
+## 1.0.204
+
+- Hotfix: Ramberg fixes (#699)
+
+## 1.0.203
+
+- Increase default end year with +1 (#697)
+
+## 1.0.202
+
+- Update the Dutch, German and French translation files (#695)
+
 ## 1.0.201
 
 - Hotfix: Access control on widget visibility (#693)
