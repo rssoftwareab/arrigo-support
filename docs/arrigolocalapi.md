@@ -8,6 +8,16 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.18?
+
+*2021-08-23*
+
+* Optimized subscriptions (reading variables in views)
+
+*2021-08-10*
+
+* Folder->AccessLevel is now a string and not an enum
+
 ## 1.0.183
 
 *2021-08-10*
