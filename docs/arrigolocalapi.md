@@ -8,11 +8,11 @@ description: Change Log
 
 ## Upcoming releases
 
-## 1.0.18?
+## 1.0.184
 
 *2021-08-23*
 
-* Optimized subscriptions (reading variables in views)
+* Optimized read
 
 
 ## 1.0.183
