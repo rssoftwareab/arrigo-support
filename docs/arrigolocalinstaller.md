@@ -64,6 +64,20 @@ description: Change Log
 * Arrigo Link icon Single Timechannel (TP#9811)
 * Arrigo BMS and Controller Web - Password style in List View not working (TP#9605)
 
+## 1.1.99
+
+2021-08-19
+
+- Frontend: [1.0.187](./frontend.html#10187)
+- Arrigo Local API: [1.0.176](./arrigolocalapi.html#10176)
+- Arrigo Local Scada Function: [1.1.84](./arrigolocalscadafunction.html#1184)
+- Arrigo Local Services: [1.0.176](./arrigolocalservices.html#10176)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+### Installer
+
+* Fix: Download versions higher than 1.1.99
+
 ## 1.1.98
 
 2021-06-23
