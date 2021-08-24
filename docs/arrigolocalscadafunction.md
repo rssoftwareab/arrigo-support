@@ -8,6 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.1.90
+
+*2021-08-24*
+
+* Optimized read (#70)
+
 ## 1.1.89
 
 *2021-08-19*
