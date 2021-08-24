@@ -76,7 +76,7 @@ description: Change Log
 
 ### Installer
 
-* Fix: Download versions higher than 1.1.99
+* Fix: Better version handling
 
 ## 1.1.98
 
