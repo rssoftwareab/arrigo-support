@@ -5,6 +5,10 @@ description: Change Log
 ---
 # Change Log
 
+### General
+
+* Added global arguments support for embedded views
+
 ## Next release
 
 ## 1.1.127
