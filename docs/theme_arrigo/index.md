@@ -21,9 +21,11 @@ description: Put this in your theme folder
   },
   "login": {
     "images": {
-      "splash": "",
-      "small_splash": "",
-      "show_small_splash_on_desktop": false
+      "main_top_right_splash": "",
+      "main_bottom_left_splash": "",
+      "left_bottom_splash": "",
+      "mobile_splash": "",
+      "logo": ""
     }
   },
   "general": {
@@ -120,6 +122,7 @@ description: Put this in your theme folder
   "helpers": {}
 }
 
+
 ```
 
 `colors.light.json`
@@ -129,7 +132,12 @@ description: Put this in your theme folder
   "backgrounds": {
     "colors": {
       "primary": "#FFFFFF",
-      "alt": "#F7F8F9"
+      "alt": "#F7F8F9",
+      "login": "#FFFFFF",
+      "gradient": {
+        "from": "#191c33",
+        "to": "#242848"
+      }
     }
   },
   "colors": {
@@ -156,7 +164,8 @@ description: Put this in your theme folder
       "additional_3": "#FDD52C",
       "additional_4": "#BDCEBE",
       "additional_5": "#B9936C",
-      "additional_6": "#C94C4C"
+      "additional_6": "#C94C4C",
+      "login_label": "#85919D"
     },
     "alt": {
       "default": "#286ECA",
@@ -203,6 +212,7 @@ description: Put this in your theme folder
   }
 }
 
+
 ```
 
 `colors.dark.json`
@@ -212,7 +222,12 @@ description: Put this in your theme folder
   "backgrounds": {
     "colors": {
       "primary": "#2b2f37",
-      "alt": "#1f2128"
+      "alt": "#1f2128",
+      "login": "#85919D",
+      "gradient": {
+        "from": "#090c1b",
+        "to": "#2b2f37"
+      }
     }
   },
   "colors": {
@@ -239,7 +254,8 @@ description: Put this in your theme folder
       "additional_3": "#FDD52C",
       "additional_4": "#BDCEBE",
       "additional_5": "#B9936C",
-      "additional_6": "#C94C4C"
+      "additional_6": "#C94C4C",
+      "login_label": "#eaeaeb"
     },
     "alt": {
       "default": "#286ECA",
@@ -285,6 +301,7 @@ description: Put this in your theme folder
     }
   }
 }
+
 
 ```
 
