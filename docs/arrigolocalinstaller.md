@@ -5,10 +5,6 @@ description: Change Log
 ---
 # Change Log
 
-### General
-
-* Added global arguments support for embedded views
-
 ## Next release
 
 ## 1.1.130
@@ -23,7 +19,7 @@ description: Change Log
 
 ### General
 
-* Fix: Passing all view arguments (local and global) to all embedded views
+* Added global arguments support for embedded views
 
 ## 1.1.127
 
