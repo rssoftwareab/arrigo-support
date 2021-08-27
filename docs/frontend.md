@@ -7,6 +7,9 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.206
+- Hotfix: Right/Left axis misalign when toggling navigation bar
+
 ## 1.0.205
 
 - Hotfix: Remove fullscreen loader when fetching folder config (#700)
