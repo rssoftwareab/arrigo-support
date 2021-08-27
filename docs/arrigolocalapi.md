@@ -8,6 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.185
+
+*2021-08-27*
+
+* Hotfix: Better handling for variable updates in views
+
 ## 1.0.184
 
 *2021-08-23*
