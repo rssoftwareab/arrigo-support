@@ -8,6 +8,13 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.186
+
+*2021-08-27*
+
+* Fix: Sql query V2 date ranges (TP#10593)
+
+
 ## 1.0.185
 
 *2021-08-27*
