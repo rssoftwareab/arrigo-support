@@ -12,7 +12,7 @@ description: Change Log
 
 *2021-08-27*
 
-* Hotfix: Better handling for variable updates in views (TP#10593)
+* Fix: Updating values in views (TP#10593)
 
 ## 1.0.184
 
