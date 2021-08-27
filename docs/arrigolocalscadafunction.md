@@ -8,6 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.1.91
+
+*2021-08-24*
+
+* Optimized subscription
+
 ## 1.1.90
 
 *2021-08-24*
