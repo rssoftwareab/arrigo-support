@@ -11,6 +11,20 @@ description: Change Log
 
 ## Next release
 
+## 1.1.130
+
+2021-08-27
+
+- Frontend: [1.0.206](./frontend.html#10206)
+- Arrigo Local API: [1.0.185](./arrigolocalapi.html#10185)
+- Arrigo Local Scada Function: [1.1.91](./arrigolocalscadafunction.html#1191)
+- Arrigo Local Services: [1.0.184](./arrigolocalservices.html#10184)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+### General
+
+* Fix: Passing all view arguments (local and global) to all embedded views
+
 ## 1.1.127
 
 2021-08-24
