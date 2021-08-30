@@ -8,6 +8,30 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.1.91
+
+*2021-08-24*
+
+* Optimized subscription
+
+## 1.1.90
+
+*2021-08-24*
+
+* Optimized read (#70)
+
+## 1.1.89
+
+*2021-08-19*
+
+* Fix/updating variable stopworking (TP#10202)
+
+## 1.1.88
+
+*2021-07-16*
+
+* Minor internal fixes
+
 ## 1.1.87
 
 *2021-07-09*

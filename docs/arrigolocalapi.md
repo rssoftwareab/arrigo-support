@@ -8,6 +8,32 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.186
+
+*2021-08-27*
+
+* Fix: Sql query V2 date ranges (TP#10593)
+
+
+## 1.0.185
+
+*2021-08-27*
+
+* Fix: Updating values in views (TP#10593)
+
+## 1.0.184
+
+*2021-08-23*
+
+* Optimized read
+
+
+## 1.0.183
+
+*2021-08-10*
+
+* Folder->AccessLevel is now a string and not an enum
+
 ## 1.0.182
 
 *2021-07-11*

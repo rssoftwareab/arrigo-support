@@ -7,17 +7,66 @@ description: Change Log
 
 ## Next release
 
-## 1.1.118
+## 1.1.131
 
-2021-07-16
+2021-08-27
+
+- Frontend: [1.0.206](./frontend.html#10206)
+- Arrigo Local API: [1.0.186](./arrigolocalapi.html#10186)
+- Arrigo Local Scada Function: [1.1.91](./arrigolocalscadafunction.html#1191)
+- Arrigo Local Services: [1.0.184](./arrigolocalservices.html#10184)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+### General
+
+- Support for OpenUserArea and OpenTab in conversion - no information is lost. (no support in runtime yet, more to come)
+
+## 1.1.130
+
+2021-08-27
+
+- Frontend: [1.0.206](./frontend.html#10206)
+- Arrigo Local API: [1.0.185](./arrigolocalapi.html#10185)
+- Arrigo Local Scada Function: [1.1.91](./arrigolocalscadafunction.html#1191)
+- Arrigo Local Services: [1.0.184](./arrigolocalservices.html#10184)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+### General
+
+* Added global arguments support for embedded views
+
+## 1.1.127
+
+2021-08-24
+
+- Frontend: [1.0.205](./frontend.html#10205)
+- Arrigo Local API: [1.0.184](./arrigolocalapi.html#10184)
+- Arrigo Local Scada Function: [1.1.90](./arrigolocalscadafunction.html#1190)
+- Arrigo Local Services: [1.0.184](./arrigolocalservices.html#10184)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+
+## 1.1.126
+
+2021-08-23
+
+- Frontend: [1.0.205](./frontend.html#10205)
+- Arrigo Local API: [1.0.183](./arrigolocalapi.html#10183)
+- Arrigo Local Scada Function: [1.1.89](./arrigolocalscadafunction.html#1189)
+- Arrigo Local Services: [1.0.184](./arrigolocalservices.html#10184)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+## 1.1.121
+
+2021-08-10
 
 - Frontend: [1.0.201](./frontend.html#10201)
 - Arrigo Local API: [1.0.182](./arrigolocalapi.html#10182)
-- Arrigo Local Scada Function: [1.1.87](./arrigolocalscadafunction.html#1187)
+- Arrigo Local Scada Function: [1.1.88](./arrigolocalscadafunction.html#1188)
 - Arrigo Local Services: [1.0.183](./arrigolocalservices.html#10183)
 - Required EXO installation: EXO 2019 Edition 4 Build 108
 
-### Installer
+### General
 
 * Support for global arguments in tools
 
@@ -42,6 +91,20 @@ description: Change Log
 * Added more Arrigo tool options in project builder (detach, view instructions, view status,view logs) (TP#9220)
 * Arrigo Link icon Single Timechannel (TP#9811)
 * Arrigo BMS and Controller Web - Password style in List View not working (TP#9605)
+
+## 1.1.99
+
+2021-08-19
+
+- Frontend: [1.0.187](./frontend.html#10187)
+- Arrigo Local API: [1.0.176](./arrigolocalapi.html#10176)
+- Arrigo Local Scada Function: [1.1.84](./arrigolocalscadafunction.html#1184)
+- Arrigo Local Services: [1.0.176](./arrigolocalservices.html#10176)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+### Installer
+
+* Fix: Better version handling
 
 ## 1.1.98
 

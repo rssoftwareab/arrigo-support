@@ -22,10 +22,43 @@ description: Change Log
 - Hotfix: YMS Alphanumeric sorting of ports (#705)
 - Hotfix: YMS sms number validation (#704)
 - Hotfix: Yms create and send order (#703)
+
+## 1.0.206
+
+*2021-08-24*
+
+### Fixes/Improvments
+
 - Hotfix: TP-9142 Right axis misalign when unpinning navigation (#696)
+
+
+## 1.0.205
+
+*2021-08-20*
+
+### Fixes/Improvments
 - Hotfix: Remove fullscreen loader when fetching folder config (#700)
+
+
+## 1.0.204
+
+*2021-08-19*
+
+### Fixes/Improvments
 - Hotfix: YMS Ramberg fixes (#699)
+
+## 1.0.203
+
+*2021-08-11*
+
+### Fixes/Improvments
 - Hotfix: YMS Increase default end year with +1 (#697)
+
+## 1.0.202
+
+*2021-08-09*
+
+### Fixes/Improvments
 - Hotfix: Update the Dutch, German and French translation files (#695)
 
 ## 1.0.201
