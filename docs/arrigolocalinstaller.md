@@ -17,6 +17,10 @@ description: Change Log
 - Arrigo Local Services: [1.0.184](./arrigolocalservices.html#10184)
 - Required EXO installation: EXO 2019 Edition 4 Build 108
 
+### General
+
+- Support for OpenUserArea and OpenTab in conversion - no information is lost. (no support in runtime yet, more to come)
+
 ## 1.1.130
 
 2021-08-27
