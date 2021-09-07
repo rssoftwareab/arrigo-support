@@ -175,7 +175,6 @@ The file is a std. ExoConfig xml file which must conform to a specified format w
 ## Reference
 
 ***This section should be considered obsolete but remains in this document for reference.***
-***See [Creation of `Heating.rwaf`](#Creation of `Heating.rwaf`) for instructions on how to create the file using existing tools.***
 
 *The `GlobalArgument`object is not used in the API (yet) and will not be explained further in this document.*
 
@@ -233,13 +232,12 @@ An ArrigoFolderViews file contains the widgets and link icons definitions for th
 The type of widgets available are:
 
 * AlarmWidget
-* [ChartWidget](#Creation of `HeatingChartWidget.rwtv`)
-* [DynamicWidget](Creation of `HeatingWidget.rwlv`)
+* ChartWidget
+* DynamicWidget
 
 ## Reference
 
 ***This section should be considered obsolete but remains in this document for reference.***
-***See [Creation of `Heating.rwafv`](#Creation of `Heating.rwafv`) for instructions on how to create the file using existing tools.***
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -377,9 +375,6 @@ A "complete" file might look like this:
 
 The star/asterisk (`*`) prefix of the address denotes a binding. This means that that the variable will be included in the [Subscription](#Subscriptions) of the Pvl file, and that value updates (for that variable) will be published to the client.
 
-**Note!**
-As for now the API only supports bound variables. OneShot bindings and plain client-initiated polling is planned but not yet implemented.
-
 ### Access
 
 If the user lacks the minimum access level needed for reading a variable then no subscription will be set up for that variable. This also implies that you shouldn't create a variable with a higher access level on reading than on writing since this variable then effectively will be "filtered out".
@@ -506,7 +501,7 @@ returns
 
 ## Subscriptions
 
-The **path* also lets you set up subscriptions for updates/advises from a Pvl file. There is a limit in the API of one update per second per variable to prevent clients from choking on massive and rapid update bursts. If you have a lot of bound variables in a file you can still get bursts of multiple updates simultaneously, but we guarantee that they don't come more frequent than in 1 second intervals.
+The **path** also lets you set up subscriptions for updates/advises from a Pvl file. There is a limit in the API of one update per second per variable to prevent clients from choking on massive and rapid update bursts. If you have a lot of bound variables in a file you can still get bursts of multiple updates simultaneously, but we guarantee that they don't come more frequent than in 1 second intervals.
 
 You are also guaranteed to get an initial value/state for each bound variable directly when you start a subscription. If there is (or just recently has been) another ongoing subscription (by you or another user) which include one of "your" bound variables you will get the last sent update for that variable, otherwise you'll probably get a "[Value pending](#Update types)" result.
 
@@ -659,10 +654,8 @@ Please note that you'll probably get a "[Value pending](#Update types)" result a
 
 ### Hash check (check if the file has been changed )
 
-The hash` field` for the `data` query should be compared to the `hash` field for `node` query to verify that the file not has been changed.
+The `hash` field for the `data` query should be compared to the `hash` field for `node` query to verify that the file not has been changed.
 If the hash is not equal , the source file has been changed and the content (node query) needs to be reload for full synchronization between content and the data.
-
-
 
 
 ```json
@@ -673,8 +666,6 @@ If the hash is not equal , the source file has been changed and the content (nod
   }
 }
 ```
-
-
 
 ### Poll interval
 
@@ -727,7 +718,7 @@ But if the Scada Function doesn't know about the `uid` (or if it is invalid) you
 
 # Arrigo Dynamics Client
 
-The repository for the client is located on https://github.com/rssoftwareab/arrigo-dynamics-client/tree/master. It is free to use, and contributes to the code base is welcome. 
+The repository for the client is located on https://github.com/rssoftwareab/arrigo-dynamics-client/tree/master. It is free to use, and contributions to the code base is welcome. 
 
 To get up and running with a client, make sure you have git installed and clone the repository in your favorite folder
 
@@ -766,74 +757,6 @@ yarn example
 And view the output. 
 
 The example is located in `src/examples/index.ts`
-
-# How to create Widgets
-
-## Creation of `Heating.rwaf`
-
-Start `ExoConfigDataReader.exe` located under "C:\Program Files\Regin\Program"
-
-![](1156_Arrigo_BMS_API_Usage_Instructions/ECDR1.png)
-
-Select **File** > **New** and select `ArrigoFolder`. Click **OK**.
-
-![](1156_Arrigo_BMS_API_Usage_Instructions/ECDR2.png)
-
-Select `Folder Views Files` in tree and select **Object** > **Add**...
-
-Select `FolderViewsFile` in dialog and click **Add**.
-
-![](1156_Arrigo_BMS_API_Usage_Instructions/ECDR3.png)
-
-Select `UnnamedFolderViewsFile` and double-click `File` in the list.
-
-Edit `File` to a Folder Views file (for instance `Area:\Heating.rwafv`) and click **Change**.
-
-![](1156_Arrigo_BMS_API_Usage_Instructions/ECDR4.png)
-
-Save the file in an area in your project, with the name `Heating.rwaf`
-
-## Creation of `Heating.rwafv`
-
-Use the same tool as in previous guide.
-
-* Select **File** > **New** and select `ArrigoFolderViews`. Click **OK**
-* Select `Widgets` in tree and select **Object** > **Add...**
-* Select `Widgets` in dialog and click **Add**
-* Select `UnnamedWidget` and double-click `WidgetType` in the list.
-* Edit `WidgetType` to `DynamicWidget` and click **Change**
-* Edit `WidgetFile` to a ListView file (for instance `Area:\HeatingWidget.rwlv`) and click **Change**
-* Select `Widgets` in tree and select **Object** > **Add...**
-* Select `Widgets` in dialog and click **Add**
-* Select `UnnamedWidget` and double-click `WidgetType` in the list.
-* Edit `WidgetType` to `ChartWidget` and click **Change**
-* Edit `WidgetFile` to a ListView file (for instance `Area:\HeatingChartWidget.rwtv`) and click **Change**
-* Save the file in the same area as your newly created `Heating.rwaf` with the name `Heating.rwafv`
-
-
-## Creation of `HeatingWidget.rwlv`
-
-Use ListView tool `RwListViewTool.exe` to create widget.
-
-Rules
-
-* Create one or two lists
-* Use `Symbol` elements in the first list (can be combined with a value `Numeric`)
-* Use `Numeric` elements in the second list
-
-![](1156_Arrigo_BMS_API_Usage_Instructions/ECDR5.png)
-
-## Creation of `HeatingChartWidget.rwtv`
-
-Use EXOscada trend tool `EXOscadaTrendTool.exe` to create widget.
-
-Rules
-
-* Only analog chart is used
-* Save the file as `HeatingChartWidget.estv` and rename it in `(File Explorer)` to `HeatingChartWidget.rwtv`
-* Open the file and rename `format="Estv"` to `format="Rwtv"`
-
-![](1156_Arrigo_BMS_API_Usage_Instructions/ECDR6.png)
 
 # Accessing the API from the command line
 
