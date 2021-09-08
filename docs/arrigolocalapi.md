@@ -8,11 +8,17 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.190
+
+*2021-09-07*
+
+* Fix: Case-insensitive variable handling (TP#9937)
+
 ## 1.0.186
 
 *2021-08-27*
 
-* Fix: Sql query V2 date ranges (TP#10593)
+* Fix: Sql query V2 date ranges
 
 
 ## 1.0.185

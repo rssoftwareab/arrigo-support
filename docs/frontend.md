@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.213
+
+*2021-08-30*
+
+### Fixes/Improvments
+
+- Hotfix: Fix a crash when a helper got overridden (#709)
+
 ## 1.0.212
 
 *2021-08-30*
