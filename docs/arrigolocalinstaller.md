@@ -7,7 +7,7 @@ description: Change Log
 
 ## Next release
 
-## 1.1.138
+## 1.1.139
 
 2021-09-17
 
