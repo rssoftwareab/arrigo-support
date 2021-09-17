@@ -7,6 +7,16 @@ description: Change Log
 
 ## Next release
 
+## 1.1.138
+
+2021-09-17
+
+- Frontend: [1.0.224](./frontend.html#10224)
+- Arrigo Local API: [1.0.191](./arrigolocalapi.html#10191)
+- Arrigo Local Scada Function: [1.1.91](./arrigolocalscadafunction.html#1191)
+- Arrigo Local Services: [1.0.184](./arrigolocalservices.html#10184)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
 ## 1.1.137
 
 2021-09-13
