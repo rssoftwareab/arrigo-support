@@ -14,7 +14,7 @@ description: Change Log
 ### New Features
 
 - Feature: Logo size now set by theme (#718) 
-- Feature: Added Splash login (#717) 
+- Feature: TP-10942 Added Splash login (#717) 
 - Feature: TP-10589 View popup bring to front not working (#719)
 
 ### Fixes/Improvments
@@ -28,7 +28,7 @@ description: Change Log
 - Hotfix: Change Default client to Arrigo (#714)
 - Hotfix: YMS add account to crossbar name space (#713) 
 - Hotfix: YMS shorter minimum length on phone number (#710)
-- Fix: Sizes logo based on height instead of width (#716) 
+- Fix: TP-10942 Sizes logo based on height instead of width (#716) 
 - Fix: Use local time in create order + cleanup (#711)
 - Fix: Logofix in header (#723)
 
