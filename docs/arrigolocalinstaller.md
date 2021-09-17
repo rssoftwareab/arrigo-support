@@ -7,6 +7,20 @@ description: Change Log
 
 ## Next release
 
+## 1.1.137
+
+2021-09-13
+
+- Frontend: [1.0.224](./frontend.html#10224)
+- Arrigo Local API: [1.0.190](./arrigolocalapi.html#10190)
+- Arrigo Local Scada Function: [1.1.91](./arrigolocalscadafunction.html#1191)
+- Arrigo Local Services: [1.0.184](./arrigolocalservices.html#10184)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+### Installer
+
+- Feature: TP-10983 Try set ExecutionPolicy on startup (#20)
+
 ## 1.1.135
 
 2021-09-08
