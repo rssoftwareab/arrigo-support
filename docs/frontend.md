@@ -7,6 +7,31 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.224
+
+*2021-09-13*
+
+### New Features
+
+- Feature: Logo size now set by theme (#718) 
+- Feature: Added Splash login (#717) 
+- Feature: TP-10589 View popup bring to front not working (#719)
+
+### Fixes/Improvments
+
+- Hotfix: Enhance offline mode support (#725) 
+- Hotfix: Adds chart zoom limit (#720) 
+- Hotfix: TP#9278 and TP#9994: Broken images in views (#726) 
+- Hotfix: Dynamic page title (#722) 
+- Hotfix: TP-10734 Prevent create event from creating multiple meters (#715)
+- Hotfix: Add validation messages if custom theme file contains unparsable json (#712)
+- Hotfix: Change Default client to Arrigo (#714)
+- Hotfix: YMS add account to crossbar name space (#713) 
+- Hotfix: YMS shorter minimum length on phone number (#710)
+- Fix: Sizes logo based on height instead of width (#716) 
+- Fix: Use local time in create order + cleanup (#711)
+- Fix: Logofix in header (#723)
+
 ## 1.0.213
 
 *2021-08-30*
