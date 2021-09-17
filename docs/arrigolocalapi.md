@@ -8,6 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.191
+
+*2021-09-15*
+
+* Fix: User log crashes when entries does not belong to a folder/area (TP#11085)
+
 ## 1.0.190
 
 *2021-09-07*
