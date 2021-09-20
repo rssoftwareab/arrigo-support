@@ -5,6 +5,26 @@ description: Change Log
 ---
 # Change Log
 
+## 1.0.46
+
+2021-09-20
+
+##### Features
+
+User and access capabilities
+
+Improved logging
+
+Permissions for meter values
+
+HotFix: Tree issue (#348)
+
+Hotfix:MeterUnit fx for tsc (#350)
+
+TimeZone for containers fixed malfunction in calculations of metervalues
+
+
+
 ## 1.0.27
 
 *2021-01-28*
