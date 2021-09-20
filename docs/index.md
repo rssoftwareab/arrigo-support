@@ -27,8 +27,8 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 - Refactoring and improvements for Calculated Meter Application
 
 ### Current build: 
-- Frontend: [1.0.209](./frontend.html#10209)
-- Arrigo API: [1.0.37](./arrigoapi.html#1037)
+- Frontend: [1.0.228](./frontend.html#10228)
+- Arrigo API: [1.0.46](./arrigoapi.html#1046)
 
 # Arrigo Local
 ### Latest changes

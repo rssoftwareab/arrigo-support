@@ -7,6 +7,17 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.228
+
+*2021-09-14*
+
+### Fixes/Improvments
+
+- Fix: Added permissions for MeterValues (#721)
+- Hotfix: MeterValue Permission fix (#728)
+- Hotfix: Minor fixes for MetersList (#729)
+- Hotfix: YMS send order to port without specific port (#730)
+
 ## 1.0.224
 
 *2021-09-13*
