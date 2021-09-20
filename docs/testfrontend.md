@@ -7,6 +7,16 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.224
+
+*2021-09-20*
+
+### Fixes/Improvments
+
+- Hotfix: Enhance offline mode support (#725)
+- Hotfix: Adds chart zoom limit (#720)
+- Hotfix: TP#9278 and TP#9994: Broken images in views  (#726)
+
 ## 1.0.228
 
 *2021-09-14*
