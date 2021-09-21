@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.229
+
+*2021-09-21*
+
+### Fixes/Improvements
+
+- Publishing new ALI build info
+
 ## 1.0.228
 
 *2021-09-14*
