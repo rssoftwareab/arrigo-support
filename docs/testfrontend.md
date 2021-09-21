@@ -9,6 +9,14 @@ description: Change Log
 
 ## 1.0.228
 
+*2021-09-21*
+
+### Fixes/Improvements
+
+- Hotfix: send order to port without specific port (#730)
+
+## 1.0.228
+
 *2021-09-14*
 
 ### Fixes/Improvments
