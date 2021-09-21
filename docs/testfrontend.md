@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.192
+
+*2021-09-21*
+
+### Fixes/Improvements
+
+- Test purposes
+
 ## 1.0.229
 
 *2021-09-21*
