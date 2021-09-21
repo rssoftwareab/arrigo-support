@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.228
+
+*2021-09-21*
+
+### Fixes/Improvements
+
+- Hotfix: send order to port without specific port (#730)
+
 [//]: # (Test)
 
 ## 1.0.224
