@@ -13,7 +13,7 @@ description: instructions and binaries
 
 Arrigo Local is tested and supported on the following OS'es:
 
-* Windows 10
+* Windows 10 Pro
 * Windows Server 2016
 * Windows Server 2019
 
