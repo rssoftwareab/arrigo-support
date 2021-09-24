@@ -136,7 +136,7 @@ So with all of that said: how much RAM do you need? That is, how much RAM is nec
 
 Arrigo is only supported on 64-bit Windows platform. For any installation we recommend using Windows Server 2019. Windows 10 Pro may be used for engineering, configuration and commissioning but is not recommended for running installations.
 
-Please refer to System Requirements for a complete list of supported operating systems.
+Please refer to [System Requirements](./systemrequirements.md) for a complete list of supported operating systems.
 
 ### SQL server
 
