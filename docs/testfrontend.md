@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.234
+
+*2021-09-27*
+
+### Fixes/Improvements
+
+- Hotfix: Bump CW2 to 1.0.45 (#742)
+
 ## 1.0.231
 
 *2021-09-27*
