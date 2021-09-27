@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.231
+
+*2021-09-27*
+
+### Fixes/Improvements
+
+- Hotfix: User Admin Create/Update fix (#740)
+
 ## 1.0.192
 
 *2021-09-21*
