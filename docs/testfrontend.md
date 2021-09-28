@@ -7,6 +7,31 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.235
+
+*2021-09-28*
+
+### Fixes/Improvements
+
+- Hotfix: TP#10255 Chart with "small" numbers shows flat lines (#732)
+
+* fix: Chart API requests use signal tolerances
+
+Co-authored-by: Jonas Johansson <jonas@RSS.local>
+
+- Hotfix: TP#9567 Changed behavior on mobile login input labels (#733)
+
+* changed behaviour on mobile login input labels
+
+* Update src/external/packages/eos/components/login/styles/StyledLoginContainer.js
+
+* Update src/external/packages/eos/components/login/styles/StyledLoginContainer.js
+
+Co-authored-by: TeodorAndersson <teodor.andersson@rssoftware.se>
+Co-authored-by: Mikael Ohlsson <69139850+mikael-rssoftware@users.noreply.github.com>
+
+- Hotfix: TP#11037 Update meter value inputs to take another decimal (#731)
+
 ## 1.0.234
 
 *2021-09-27*
