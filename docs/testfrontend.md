@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.193
+
+*2021-09-29*
+
+### Fixes/Improvements
+
+- Fix: Now we log all unhandled exceptions for better debugging (#111) (TP#11134)
+
 ## 1.0.235
 
 *2021-09-28*
