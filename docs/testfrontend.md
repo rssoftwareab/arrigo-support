@@ -7,6 +7,58 @@ description: Change Log
 
 ## Next Releases
 
+## 1.1.144
+
+*2021-10-01*
+
+### Fixes/Improvements
+
+- Fix: Machine global installation of npm/pm2 to handle multiple users (TP#11425) (#21)
+
+* WIP
+
+* Need to uninstall pm2 service before we reinstall the service
+
+* Creating npm folder if it doesn't exist
+
+* SetFolderPermissions is now generic-ish
+
+* Minor text output fixes
+
+* Killing pm2 after stopping it to ensure it starts up as SYSTEM
+
+* Null-checking to prevent errors
+
+* Minor text output fixes
+
+* Minor textual changes and refactoring
+
+* Refactored EnsureFolders
+
+* Moved folder creation from InstallPm2 to EnsureFolders
+
+* Minor text output fixes
+
+* Minor text output fixes
+
+* Added correct npm location as global variable
+
+* Comparing current and correct npm prefix
+
+* Minor text output fixes
+
+* Fixed folder issue
+
+* Minor text output fixes
+
+* Moved all npm-fix stuff to one file
+
+* Minor text output fixes
+
+* Minor text output fixes
+
+Co-authored-by: Danne <daniel.lindstrom@rssoftware.se>
+
 ## 1.0.194
 
 *2021-10-01*
