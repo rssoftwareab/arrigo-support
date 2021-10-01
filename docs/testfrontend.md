@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.194
+
+*2021-10-01*
+
+### New Features
+
+- Feature: Added icon support for folder icons (#113)
+
 ## 1.0.193
 
 *2021-09-29*
