@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.195
+
+*2021-10-04*
+
+### Fixes/Improvements
+
+- Fix: We accidentally treated all static resources as folder icons. This is now fixed. We also return 404 if a folder icon isn't found.
+
 ## 1.1.144
 
 *2021-10-01*
