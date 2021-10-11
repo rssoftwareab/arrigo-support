@@ -7,6 +7,10 @@ description: Change Log
 
 ## Next release
 
+### Installer
+
+- Fix: Machine global installation of npm/pm2 to handle multiple users (TP#11425) (#21)
+
 ## 1.1.139
 
 2021-09-17
