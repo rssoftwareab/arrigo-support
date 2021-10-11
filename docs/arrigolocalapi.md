@@ -8,6 +8,18 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.195
+
+*2021-10-04*
+
+* Feature: Added support for folder icons (only svg's) (#113)
+
+## 1.0.193
+
+*2021-09-29*
+
+* Fix: All unhandled exceptions are logged to ease debugging (#111) (TP#11134)
+
 ## 1.0.191
 
 *2021-09-15*
