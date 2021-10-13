@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.240
+
+*2021-10-13*
+
+### Fixes/Improvements
+
+- Hotfix: YMS - Added loading icons in widgets and text when empty (#752)
+
 ## 1.0.239
 
 *2021-10-13*
