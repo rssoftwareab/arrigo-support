@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.236
+
+*2021-10-13*
+
+### Fixes/Improvements
+
+- Hotfix: TP#8366 Change to Transparent color for empty values #745
+
 ## 1.0.195
 
 *2021-10-04*
