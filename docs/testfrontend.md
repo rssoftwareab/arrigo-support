@@ -7,6 +7,18 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.238
+
+*2021-10-13*
+
+### Fixes/Improvements
+
+- Hotfix: YMS - Fixed size for filters (#749)
+
+- Hotfix: YMS - Open gate loading indicator (#751)
+
+- Hotfix: YMS - Align buttons (#748)
+
 ## 1.0.237
 
 *2021-10-13*
