@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.237
+
+*2021-10-13*
+
+### Fixes/Improvements
+
+- Hotfix: TP#11348 SVGs smaller than 15px misaligned in view (#756)
+
 ## 1.0.196
 
 *2021-10-13*
