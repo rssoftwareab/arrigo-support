@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.239
+
+*2021-10-13*
+
+### Fixes/Improvements
+
+- Hotfix: YMS - Added z-index to icon (#750)
+
 ## 1.0.238
 
 *2021-10-13*
