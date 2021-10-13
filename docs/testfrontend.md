@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.241
+
+*2021-10-13*
+
+### Fixes/Improvements
+
+- Hotfix: UsePreviousRoute support for BMS (#755)
+
 ## 1.0.240
 
 *2021-10-13*
