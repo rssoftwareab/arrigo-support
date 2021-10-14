@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.1.151
+
+*2021-10-14*
+
+### Fixes/Improvements
+
+- Removed the Unblock-File stuff since it (for some reason) prevented pm2 to stop under certain circumstances
+
 ## 1.1.149
 
 *2021-10-14*
