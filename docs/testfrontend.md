@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.1.148
+
+*2021-10-14*
+
+### Fixes/Improvements
+
+- Adding dependency to Microsoft.Win32.Registry to fix broken references in the PS nuget
+
 ## 1.1.147
 
 *2021-10-14*
