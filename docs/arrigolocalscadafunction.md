@@ -8,6 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.1.92
+
+*2021-10-13*
+
+* Hotfix: Cwav and Cwlv format files are embedded as resources (TP#11464) (#72)
+
 ## 1.1.91
 
 *2021-08-24*
