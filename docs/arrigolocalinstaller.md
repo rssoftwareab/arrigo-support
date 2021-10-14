@@ -7,6 +7,10 @@ description: Change Log
 
 ## Next release
 
+## 1.1.151
+
+2021-10-14
+
 - Frontend: [1.0.245](./frontend.html#10245)
 - Arrigo Local API: [1.0.196](./arrigolocalapi.html#10196)
 - Arrigo Local Scada Function: [1.1.92](./arrigolocalscadafunction.html#1192)
