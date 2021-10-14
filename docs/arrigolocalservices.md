@@ -8,6 +8,8 @@ description: Change Log
 
 ## Upcoming releases
 
+* Feature: 'require' is now exposed in SSF function definitions (#3)
+
 ## 1.0.184
 
 *2021-08-23*
