@@ -18,10 +18,17 @@ description: Change Log
 - Fix: Setting the ExecutionPolicy to Bypass at startup (TP#11426) (#22)
 - Fix: Machine global installation of npm/pm2 to handle multiple users (TP#11425) (#21)
 
-### Tools
+### Tools and Runtime
 
 - Improvements in how 'Arrigo Attach' handles pm2 (processes are always run as SYSTEM)
 - 'Arrigo Attch' now sets permissions on the project folder to prevent API read/write errors
+- DateDialogBox referred to non-existing textfile (exists only for CW) for month names (TP#11554)
+- Fixed file copy section for PIDBasic_Operation_Legacy.Rwlv in Template 'Update Template Views' (TP#11555)
+- New attribute for previous route in Arrigo (UsePreviousRoute) (TP#9503)
+- Reports: Corrected from and to date in filter option (TP#11460)
+- Arrigo BMS and Controller Web - Password style in List View not working (TP#9605)
+- Added a new attribute (Tolerance) for chart customization (TP#10255)
+- View popup bring to front not working (TP#10589)
 
 ## 1.1.139
 
