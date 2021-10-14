@@ -12,7 +12,7 @@ description: Change Log
 - Arrigo Local Scada Function: [1.1.92](./arrigolocalscadafunction.html#1192)
 - Arrigo Local Services: [1.0.185](./arrigolocalservices.html#10185)
 - Required EXO installation: EXO 2019 Edition 4 Build 108
-- 
+
 ### Installer
 
 - Fix: Setting the ExecutionPolicy to Bypass at startup (TP#11426) (#22)
