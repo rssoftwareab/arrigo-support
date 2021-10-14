@@ -7,13 +7,21 @@ description: Change Log
 
 ## Next release
 
+- Frontend: [1.0.245](./frontend.html#10245)
+- Arrigo Local API: [1.0.196](./arrigolocalapi.html#10196)
+- Arrigo Local Scada Function: [1.1.92](./arrigolocalscadafunction.html#1192)
+- Arrigo Local Services: [1.0.185](./arrigolocalservices.html#10185)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+- 
 ### Installer
 
+- Fix: Setting the ExecutionPolicy to Bypass at startup (TP#11426) (#22)
 - Fix: Machine global installation of npm/pm2 to handle multiple users (TP#11425) (#21)
 
 ### Tools
 
 - Improvements in how 'Arrigo Attach' handles pm2 (processes are always run as SYSTEM)
+- 'Arrigo Attch' now sets permissions on the project folder to prevent API read/write errors
 
 ## 1.1.139
 
