@@ -8,6 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.196
+
+*2021-10-13*
+
+* Fix: Date range filters are disabled (in the underlying sql query) for all status lists (TP#11459) (#112)
+
 ## 1.0.195
 
 *2021-10-04*
