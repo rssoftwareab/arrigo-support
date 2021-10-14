@@ -7,6 +7,46 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.243
+
+*2021-10-14*
+
+### New Features
+
+- Feature: TP-11139 Chart min/max values for each signal (#747)
+
+- Feature: Panel mode LinkIcon size and new align attribute (#746)
+
+- Feature: Breakout and merge axis on collected signals (#737)
+
+- Feature: Panel mode (#738)
+
+- Feature: Removed login text from Splash login layout (#727)
+
+### Fixes/Improvements
+
+- Merge pull request #761 from rssoftwareab/beta
+
+- Merge pull request #758 from rssoftwareab/dev
+
+- Hotfix: UsePreviousRoute fix (#760)
+
+- Hotfix: Tree permissions fix (#759)
+
+- Mobile fixes (#757)
+
+- Merge branch 'beta' into dev
+
+- Merge branch 'beta' into dev
+
+- Fix: Panel mode menu not showing in collectionmode (#743)
+
+- Feature/pagetitle fix (#735)
+
+- Add header to README.md
+
+- Added mobile fixes for splash (#724)
+
 ## 1.0.242
 
 *2021-10-14*
