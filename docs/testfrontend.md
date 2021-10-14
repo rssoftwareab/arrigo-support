@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.242
+
+*2021-10-14*
+
+### Fixes/Improvements
+
+- Hotfix: Permissions in navigationtree (#754)
+
 ## 1.0.241
 
 *2021-10-13*
