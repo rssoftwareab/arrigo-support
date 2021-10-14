@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.1.147
+
+*2021-10-14*
+
+### Fixes/Improvements
+
+- Fix: Setting the ExecutionPolicy to Bypass at startup (TP#11426) (#22)
+
 ## 1.0.243
 
 *2021-10-14*
