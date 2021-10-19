@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.197
+
+*2021-10-19*
+
+### Fixes/Improvements
+
+- Fix: Removes tolerance limitations (#114)
+
 ## 1.1.151
 
 *2021-10-14*
