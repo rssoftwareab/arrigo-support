@@ -7,6 +7,20 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.246
+
+*2021-10-21*
+
+### New Features
+
+- Feature: Dynamic image scaling (#744)
+
+### Fixes/Improvements
+
+- Release: 2021.10.21
+
+- Beta Release: 2021.10.21
+
 ## 1.0.198
 
 *2021-10-21*
