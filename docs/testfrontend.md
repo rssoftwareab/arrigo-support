@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.245
+
+*2021-10-21*
+
+### Fixes/Improvements
+
+- Hotfix: Splash login mobile fixes (#766)
+
 ## 1.0.244
 
 *2021-10-21*
