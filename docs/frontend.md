@@ -7,6 +7,19 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.248
+
+*2021-10-21*
+
+### New Features
+
+- Feature: Dynamic image scaling (#744)
+
+### Fixes/Improvements
+
+- Hotfix: Logo fix (#764)
+- Hotfix: Splash login mobile fixes (#766)
+
 ## 1.0.245
 
 *2021-10-14*
