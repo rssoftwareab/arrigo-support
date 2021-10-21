@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.198
+
+*2021-10-21*
+
+### Fixes/Improvements
+
+- Fix/signallist exoscadastyle (#115)
+
 ## 1.0.245
 
 *2021-10-21*
