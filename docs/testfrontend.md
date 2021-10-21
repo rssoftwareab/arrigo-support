@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.244
+
+*2021-10-21*
+
+### Fixes/Improvements
+
+- Hotfix: Logo fix (#764)
+
 ## 1.0.197
 
 *2021-10-19*
