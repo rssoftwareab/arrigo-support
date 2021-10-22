@@ -7,6 +7,18 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.248
+
+*2021-10-22*
+
+### Fixes/Improvements
+
+- Hotfix: YMS - Resolve hard references from eos package to eos-yms (#762)
+
+- Hotfix: TP#11997 Climate Data mismatch (#765)
+
+- Hotfix: TP#10539 Signals without a unit are not shown in the graph (#767)
+
 ## 1.0.247
 
 *2021-10-22*
