@@ -7,6 +7,18 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.247
+
+*2021-10-22*
+
+### Fixes/Improvements
+
+- Hotfix: TP#12025 Prevent empty GraphQL clients from being created (#769)
+
+- Hotfix: TP#10955 Add filters for digitals status and history list (#770)
+
+- Hotfix: TP#11107 AccessLevel Sort Order (#768)
+
 ## 1.0.246
 
 *2021-10-21*
