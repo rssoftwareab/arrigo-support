@@ -66,17 +66,22 @@ The installer wanted to close all open EXO programs but the user aborted.
 
 `Failed to modify the ExecutionPolicy settings.`
 
-The current effective ExecutionPolicy for Powershell will prevent the rest of the installer from running correctly. It must be one of: Undefined, Unrestricted or RemoteSigned.
+The installer tried to modify the PowerShell ExecutionPolicy settings but failed. Please verify that you have write permissions to the Registry section `HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\PowerShell`.
 
-These settings can be found in the Windows Group Policy Editor or by running the Powershell command `Set-ExecutionPolicy`
+You can also use the Windows Group Policy Editor (gpedit.msc) to change the policy. Navigate to `Local Computer Policy\Computer Configuration\Administrative Templates\Windows Components\Windows PowerShell\Turn on Script Execution`, select **Enable**, select the Execution Policy **Allow all scripts** and click **OK**.
+
+*Please note that your system administrator or IT organization might have disabled your access to the Group Policy Editor.*
 
 ## 1010
 
 `Failed to restore the ExecutionPolicy settings.`
 
-The current effective ExecutionPolicy for Powershell will prevent the rest of the installer from running correctly. It must be one of: Undefined, Unrestricted or RemoteSigned.
+The installer tried to modify the PowerShell ExecutionPolicy settings but failed. Please verify that you have write permissions to the Registry section `HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\PowerShell`.
 
-These settings can be found in the Windows Group Policy Editor or by running the Powershell command `Set-ExecutionPolicy`
+*Note: the following instruction will reset the MachinePolicy to Undefined.*  
+You can also use the Windows Group Policy Editor (gpedit.msc) to change the policy. Navigate to `Local Computer Policy\Computer Configuration\Administrative Templates\Windows Components\Windows PowerShell\Turn on Script Execution`, select **Not Configured** and click **OK**.
+
+*Please note that your system administrator or IT organization might have disabled your access to the Group Policy Editor.*
 
 ## 2000
 

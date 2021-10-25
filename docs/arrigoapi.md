@@ -5,9 +5,19 @@ description: Change Log
 ---
 # Change Log
 
+## 1.0.49
+
+*2021-10-14* 
+
+##### Features
+
+- Hotfix: Consumptions Query (#358)
+- Hotfix: Updated OrderBy for Credentials (#357)
+- Hotfix: User Admin Create/Update fix (#356)
+
 ## 1.0.46
 
-2021-09-20
+*2021-09-20* 
 
 ##### Features
 
