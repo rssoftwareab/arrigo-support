@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.1.161
+
+*2021-10-27*
+
+### Fixes/Improvements
+
+- Added new switch -unsignedcadafunction that install unsigned Scada function
+
 ## 1.0.248
 
 *2021-10-22*
