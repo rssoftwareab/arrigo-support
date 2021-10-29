@@ -7,6 +7,20 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.249
+
+*2021-10-29*
+
+### Fixes/Improvements
+
+- Hotfix: TP#11974 Chart x-grid markers illogical (#777)
+
+- Hotfix: TP#12139 Wants the alarm text to show before the area (#778)
+
+- Hotfix: TP#11385 Future timestamps in chart legend (#780)
+
+- Hotfix: TP#11108 MeterValue readonly icon adjustments (#776)
+
 ## 1.1.161
 
 *2021-10-27*
