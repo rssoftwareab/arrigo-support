@@ -7,6 +7,24 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.251
+
+*2021-10-29*
+
+### Fixes/Improvements
+
+- Hotfix: TP#11974 Chart x-grid markers illogical (#777)
+- Hotfix: TP#12139 Wants the alarm text to show before the area (#778)
+- Hotfix: TP#11385 Future timestamps in chart legend (#780)
+- Hotfix: TP#11108 MeterValue readonly icon adjustments (#776)
+- Hotfix: YMS - Resolve hard references from eos package to eos-yms (#762)
+- Hotfix: TP#11997 Climate Data mismatch (#765)
+- Hotfix: TP#10539 Signals without a unit are not shown in the graph (#767)
+- Hotfix: TP#12025 Prevent empty GraphQL clients from being created (#769)
+- Hotfix: TP#10955 Add filters for digitals status and history list (#770)
+- Hotfix: TP#11107 AccessLevel Sort Order (#768)
+
+
 ## 1.0.248
 
 *2021-10-21*
