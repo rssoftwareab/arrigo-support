@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.251
+
+*2021-11-05*
+
+### Fixes/Improvements
+
+- Hotfix: TP#11038 Datepicker fixes (#786)
+
 ## 1.0.250
 
 *2021-11-05*
