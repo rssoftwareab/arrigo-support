@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.250
+
+*2021-11-05*
+
+### Fixes/Improvements
+
+- Hotfix: Update the import_key and import_key_exists translations (#785)
+
 ## 1.0.249
 
 *2021-10-29*
