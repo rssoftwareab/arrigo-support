@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.199
+
+*2021-11-08*
+
+### New Features
+
+- Feature: No authentication required on known image formats (#117)
+
 ## 1.0.251
 
 *2021-11-05*
