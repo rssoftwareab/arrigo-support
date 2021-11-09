@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.252
+
+*2021-11-09*
+
+### Fixes/Improvements
+
+- Hotfix: Order gateentries-query by id and limit to 10 (#788)
+
 ## 1.0.199
 
 *2021-11-08*
