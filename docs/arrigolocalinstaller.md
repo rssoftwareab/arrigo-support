@@ -5,7 +5,23 @@ description: Change Log
 ---
 # Change Log
 
-## Next release
+## 1.1.163
+
+2021-11-09
+- Frontend: [1.0.251](./frontend.html#10251)
+- Arrigo Local API: [1.0.196](./arrigolocalapi.html#10196)
+- Arrigo Local Scada Function: [1.1.92](./arrigolocalscadafunction.html#1192)
+- Arrigo Local Services: [1.0.185](./arrigolocalservices.html#10185)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+### Installer
+
+- Fix: Setting the ExecutionPolicy to Bypass for CurrentUser at startup (TP#11426)
+
+### ArrigoAttach
+
+- Fix: Saving pm2 configuration when attaching project (TP#11425)
+
 ## 1.1.155
 
 2021-10-21
