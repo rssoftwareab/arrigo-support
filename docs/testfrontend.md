@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.253
+
+*2021-11-10*
+
+### Fixes/Improvements
+
+- Hotfix: YMS - Gate entries query sort on time (#794)
+
 ## 1.0.252
 
 *2021-11-09*
