@@ -5,13 +5,13 @@ description: instructions and binaries
 ---
 # How Do I start?
 
-`Arrigo Local` needs `EXO2019 Edition 3` to run. 
+`Arrigo Local` needs `EXO2019 Edition 4` to run. 
 
 > "I installed Arrigo Local but it won't work!
 
 Verify following steps:
 
-- EXO2019 Edition 3 is installed.
+- EXO2019 Edition 4 is installed.
 - License for `EXOscada 2019` is installed. 
 - Arrigo Local is installed.
 - Project is attached.
