@@ -7,6 +7,22 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.257
+
+*2021-11-11*
+
+### Fixes/Improvements
+
+- HotFix: Arrigo BMS ApolloClient cache (#789)
+- HotFix: TP#12355 Datepicker state (#790)
+- Hotfix: TP#12356 MeterValue delete fix (#791)
+- Hotfix: TP#12370 ET report XAxis. (#792)
+- Hotfix: TP#11495 Arrigo alarm status view texts on iPhone (#793)
+- Hotfix: YMS - Gate entries query sort on time (#794)
+- Hotfix: YMS - Order gateentries-query by id and limit to 10 (#788)
+- Hotfix: TP#11038 Datepicker fixes (#786)
+- Hotfix: TP#12312 Update the import_key and import_key_exists translations (#785)
+
 ## 1.0.251
 
 *2021-10-29*
