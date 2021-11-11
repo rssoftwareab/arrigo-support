@@ -7,6 +7,16 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.255
+
+*2021-11-11*
+
+### Fixes/Improvements
+
+- HotFix: ArrigoBMS ApolloClient cache (#789)
+
+- HotFix: datepicker in meter reading state (#790)
+
 ## 1.0.254
 
 *2021-11-11*
