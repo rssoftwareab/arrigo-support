@@ -7,6 +7,18 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.254
+
+*2021-11-11*
+
+### Fixes/Improvements
+
+- Hotfix: MeterValue delete fix (#791)
+
+- Hotfix: TP#12370 ET report XAxis. (#792)
+
+- Hotfix: Fixed resizing issues with the alarm cards. (#793)
+
 ## 1.0.253
 
 *2021-11-10*
