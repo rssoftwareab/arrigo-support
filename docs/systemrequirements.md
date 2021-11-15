@@ -13,7 +13,8 @@ description: instructions and binaries
 
 Arrigo Local is tested and supported on the following OS'es:
 
-* Windows 10/11 Pro (for engineering, configuration or commissioning and in products delivered by Regin)
+* Windows 10 Pro (for engineering, configuration or commissioning and in products delivered by Regin)
+* Windows 11 Pro (for engineering, configuration or commissioning and in products delivered by Regin)
 * Windows Server 2019
 * Windows Server 2022
 
