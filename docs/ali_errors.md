@@ -83,6 +83,13 @@ You can also use the Windows Group Policy Editor (gpedit.msc) to change the poli
 
 *Please note that your system administrator or IT organization might have disabled your access to the Group Policy Editor.*
 
+## 1011
+
+`Installation aborted by user`
+
+The current user is not a member of the Administrators group and the user aborted.  
+Re-run the installer as another user to prevent this warning.
+
 ## 2000
 
 `Installation aborted by user`
