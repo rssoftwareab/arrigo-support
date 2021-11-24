@@ -20,7 +20,7 @@ The highlights from this paper are:
 | Item          | Description                                                  |
 | ------------- | ------------------------------------------------------------ |
 | Arrigo Local  | On-premise installation of Arrigo                            |
-| Arrigo.se     | Cloud installation of Arrigo                                 |
+| Arrigo.se     | Cloud instance of Arrigo                                 |
 | Arrigo        | General Arrigo platform and its functionality in either or both Arrigo Local and Arrigo.se |
 | ArrigoConnect | Data connection between Arrigo Local and Arrigo.se for retrieval of energy related data |
 
