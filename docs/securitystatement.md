@@ -1,6 +1,6 @@
 # Arrigo Security Statement
 
-ver 1.0 - 17 Nov, 2021
+ver DRAFT - 24 Nov, 2021
 
 author: Daniel Strand, Product Owner Arrigo
 
