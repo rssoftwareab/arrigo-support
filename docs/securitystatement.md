@@ -46,7 +46,7 @@ Arrigo is specifically coded at the time of creation to be as secure as possible
 
 Since Arrigo's front-end only uses the API or its microservices, the access control is a secure and efficient security level that cannot be by-passed regardless of access method. Access is not possible without authentication and authorization.
 
-![image-20211124091203891](C:\Users\daniel.strand\AppData\Roaming\Typora\typora-user-images\image-20211124091203891.png)
+![Access](./images/securitystatement_2.png)
 
 Arrigo's security model is built around JWT (JSON web tokens) and on the methodology of OAuth2. Through a combination of *accessToken* and *refreshToken* Arrigo enables long-term connections with retained security, otherwise one of the risks with web-solutions.
 
@@ -68,7 +68,7 @@ Data in transit can be separated into three categories: information that flows o
 
 With an installed certificate, all data flows to and from Arrigo are encrypted using SSL/TLS over HTTP (HTTPS) on port 443 using Advanced Encryption Standard (AES) 256-bit encryption with secure 2048-bit X.509 certificates. Our secure and publicly available API using graphQL/REST is also using this security scheme.
 
-![image-20211119114324836](C:\Users\daniel.strand\AppData\Roaming\Typora\typora-user-images\image-20211119114324836.png)
+![Encryption](./images/securitystatement_1.png)
 
 Communication between Arrigo's microservices within a single Arrigo Local is not required to be encrypted, but still retains authentication and authorization for access.
 
