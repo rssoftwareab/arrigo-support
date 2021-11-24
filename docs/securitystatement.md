@@ -34,7 +34,7 @@ Our top priority is the safety and security of your data. The industry and our c
 
 We continuously monitor our operations to identify and mitigate any new threats or vulnerabilities. 
 
-## IT Friendly
+## IT friendly
 
 Arrigo Local only requires a single, open and unidirectional port 443 to communicate securely with SSL/TLS encryption over HTTP. Our real-time data sources do not receive inbound connections, only outbound connections are initiated from the on-premise system and never the other way around. All data from Arrigo can be safely routed through traditional firewalls and IT equipment as well as the use of antivirus software, intrusion detection systems and segmented network zones. Our services do not auto-update any OS components, all updates are controlled manually by our customers.
 
@@ -50,7 +50,7 @@ Since Arrigo's front-end only uses the API or its microservices, the access cont
 
 Arrigo's security model is built around JWT (JSON web tokens) and on the methodology of OAuth2. Through a combination of *accessToken* and *refreshToken* Arrigo enables long-term connections with retained security, otherwise one of the risks with web-solutions.
 
-## Data Security
+## Data security
 
 ### Data at rest
 
