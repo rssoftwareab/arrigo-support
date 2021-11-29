@@ -7,57 +7,129 @@ description: Change Log
 
 ## Next Releases
 
-## 1.0.258
+## 1.0.260
 
 *2021-11-29*
 
 ### New Features
 
 - Feature: TP#12149 - Permissions in LinkIcons and Widgets (#807)
-
 - Feature: Link icons from project (#784)
-
 - Feature: Chart dynamic date filter (#774)
-
 - Feature: Fixed width for fullscreen icon (#775)
-
 - Feature: Link icons in URL (#773)
-
 - Feature: TP#11396 Edit tolerance in frontend for selected signals (#763)
 
 ### Fixes/Improvements
 
-- Release 2021.11.29 (#811)
-
-- Beta Release 2021.11.29 (#810)
-
 - Fix: Invert hidden element check in ChartContainer #809
-
 - Fix: Do additional check for chart width on mobile devices (#808)
-
-- Merge branch 'beta' into dev
-
 - Fix: FileId filter fix (#795)
-
 - Fix: TP#12148 Chart axis units and signal titles (#787)
-
-- Merge branch 'beta' into dev
-
-- Merge remote-tracking branch 'origin/beta' into dev
-
-- Merge branch 'production' into beta
-
-- Merge branch 'production' into beta
-
-- Merge remote-tracking branch 'origin/production' into beta
-
 - Fix: Conditional content wrapper based on feature (#783)
-
-- Beta Release 2021.11.01
-
-- Merge branch 'production' into dev
-
 - Fix: Link icon routing (#781)
+
+## 1.0.259
+
+*2021-11-25*
+
+### Fixes/Improvements
+- Hotfix: TP#12053 - Now hides hidden signals (#806)
+- Hotfix: TP#12536 - Enable signal name copy for alarms and digitals (#805)
+- Hotfix: TP#11035 - Enable Datepicker when click on table report title (#804)
+- Hotfix: TP#12724 - Find and use THmeterValue with latest timestamp (#800)
+- Hotfix: TP#11482 - added username from token in views (#803)
+- Hotfix: TP#12767 - Create folder under account level (#801)
+- Hotfix: TP#11945 - Restores mobile swipe acknowledge/block/unblock (#799)
+- Hotfix: TP#12646 - Use subscription instead of polling for dynamicWidgets (#798)
+- Hotfix: Navigation tree checkbox issue and alarms widget filtering (#797)
+- Hotfix: TP#11390 - Decimals from config not showing in chart legend (#796)
+
+## 1.0.257
+
+*2021-11-11*
+
+### Fixes/Improvements
+
+- HotFix: Arrigo BMS ApolloClient cache (#789)
+- HotFix: TP#12355 Datepicker state (#790)
+- Hotfix: TP#12356 MeterValue delete fix (#791)
+- Hotfix: TP#12370 ET report XAxis. (#792)
+- Hotfix: TP#11495 Arrigo alarm status view texts on iPhone (#793)
+- Hotfix: YMS - Gate entries query sort on time (#794)
+- Hotfix: YMS - Order gateentries-query by id and limit to 10 (#788)
+- Hotfix: TP#11038 Datepicker fixes (#786)
+- Hotfix: TP#12312 Update the import_key and import_key_exists translations (#785)
+
+## 1.0.251
+
+*2021-10-29*
+
+### Fixes/Improvements
+
+- Hotfix: TP#11974 Chart x-grid markers illogical (#777)
+- Hotfix: TP#12139 Wants the alarm text to show before the area (#778)
+- Hotfix: TP#11385 Future timestamps in chart legend (#780)
+- Hotfix: TP#11108 MeterValue readonly icon adjustments (#776)
+- Hotfix: YMS - Resolve hard references from eos package to eos-yms (#762)
+- Hotfix: TP#11997 Climate Data mismatch (#765)
+- Hotfix: TP#10539 Signals without a unit are not shown in the graph (#767)
+- Hotfix: TP#12025 Prevent empty GraphQL clients from being created (#769)
+- Hotfix: TP#10955 Add filters for digitals status and history list (#770)
+- Hotfix: TP#11107 AccessLevel Sort Order (#768)
+
+## 1.0.248
+
+*2021-10-21*
+
+### New Features
+
+- Feature: Dynamic image scaling (#744)
+
+### Fixes/Improvements
+
+- Hotfix: Logo fix (#764)
+- Hotfix: Splash login mobile fixes (#766)
+
+## 1.0.245
+
+*2021-10-14*
+
+### New Features
+
+- Feature: Removed login text from Splash login layout (#727) 
+- Feature: Pagetitle fix (#735) 
+- Feature: Panel mode (#738) 
+- Feature: Breakout and merge axis on collected signals (#737)
+- Feature: Panel mode LinkIcon size and new align attribute (#746) 
+- Feature: TP#11139 Chart min/max values for each signal (#747) 
+
+### Fixes/Improvements
+
+- Fix: Added mobile fixes for splash (#724)
+- Fix: Panel mode menu not showing in collectionmode (#743) 
+- Fix: Mobile style fixes (#757) 
+- Hotfix: Tree permissions fix (#759)
+- Hotfix: UsePreviousRoute fix (#760)
+- Hotfix: Permissions in navigationtree (#754)
+- Hotfix: UsePreviousRoute support for BMS (#755)
+- Hotfix: YMS - Added loading icons in widgets and text when empty (#752)
+- Hotfix: YMS - Added z-index to icon (#750)
+- Hotfix: YMS - Fixed size for filters (#749)
+- Hotfix: YMS - Open gate loading indicator (#751)
+- Hotfix: YMS - Align buttons (#748)
+- Hotfix: TP#11348 SVGs smaller than 15px misaligned in view (#756)
+- Hotfix: TP#8366 Change to Transparent color for empty values (#745)
+- Hotfix: TP#10255 Chart with "small" numbers shows flat lines (#732)
+- Hotfix: TP#9567 Changed behavior on mobile login input labels (#733)
+- Hotfix: TP#11037 Update meter value inputs to take another decimal (#731)
+- Hotfix: Bump CW2 to 1.0.45 (#742)
+- Hotfix: TP#9605-Password style in List View not working (#739)
+- Hotfix: User Admin Create/Update fix (#740)
+- Hotfix: Shows correct confirm password text (#736)
+- Hotfix: send order to port without specific port (#730)
+- Hotfix: Minor fixes for MetersList (#729)
+- Hotfix: MeterValue Permission fix (#728)
 
 ## 1.0.228
 
