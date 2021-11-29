@@ -8,6 +8,24 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.199
+
+*2021-11-08*
+
+* Feature: No authentication required on known image formats (#117)
+
+## 1.0.198
+
+*2021-10-21*
+
+* Fix: It is now possible to toggle between Arrigo- and EXOscada style signals lists (#115)
+
+## 1.0.197
+
+*2021-10-19*
+
+* Fix: Removes tolerance limitations (#114)
+
 ## 1.0.196
 
 *2021-10-13*
