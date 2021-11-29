@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.263
+
+*2021-11-29*
+
+### Fixes/Improvements
+
+- Fix: View resizing with navigation attached and panel mode active (#812)
+- Hotfix: Also check if attributes.Title equals attributes.Name (#814)
+
 ## 1.0.260
 
 *2021-11-29*
@@ -22,7 +31,7 @@ description: Change Log
 
 ### Fixes/Improvements
 
-- Fix: Invert hidden element check in ChartContainer #809
+- Fix: Invert hidden element check in ChartContainer (#809)
 - Fix: Do additional check for chart width on mobile devices (#808)
 - Fix: FileId filter fix (#795)
 - Fix: TP#12148 Chart axis units and signal titles (#787)
