@@ -8,7 +8,7 @@ description: Change Log
 ## 1.1.168
 
 2021-11-09
-- Frontend: [1.0.251](./frontend.html#10251)
+- Frontend: [1.0.260](./frontend.html#10260)
 - Arrigo Local API: [1.0.199](./arrigolocalapi.html#10199)
 - Arrigo Local Scada Function: [1.1.96](./arrigolocalscadafunction.html#1196)
 - Arrigo Local Services: [1.0.186](./arrigolocalservices.html#10186)
