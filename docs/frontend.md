@@ -7,6 +7,44 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.260
+
+*2021-11-29*
+
+### New Features
+
+- Feature: TP#12149 - Permissions in LinkIcons and Widgets (#807)
+- Feature: Link icons from project (#784)
+- Feature: Chart dynamic date filter (#774)
+- Feature: Fixed width for fullscreen icon (#775)
+- Feature: Link icons in URL (#773)
+- Feature: TP#11396 Edit tolerance in frontend for selected signals (#763)
+
+### Fixes/Improvements
+
+- Fix: Invert hidden element check in ChartContainer #809
+- Fix: Do additional check for chart width on mobile devices (#808)
+- Fix: FileId filter fix (#795)
+- Fix: TP#12148 Chart axis units and signal titles (#787)
+- Fix: Conditional content wrapper based on feature (#783)
+- Fix: Link icon routing (#781)
+
+## 1.0.259
+
+*2021-11-25*
+
+### Fixes/Improvements
+- Hotfix: TP#12053 - Now hides hidden signals (#806)
+- Hotfix: TP#12536 - Enable signal name copy for alarms and digitals (#805)
+- Hotfix: TP#11035 - Enable Datepicker when click on table report title (#804)
+- Hotfix: TP#12724 - Find and use THmeterValue with latest timestamp (#800)
+- Hotfix: TP#11482 - added username from token in views (#803)
+- Hotfix: TP#12767 - Create folder under account level (#801)
+- Hotfix: TP#11945 - Restores mobile swipe acknowledge/block/unblock (#799)
+- Hotfix: TP#12646 - Use subscription instead of polling for dynamicWidgets (#798)
+- Hotfix: Navigation tree checkbox issue and alarms widget filtering (#797)
+- Hotfix: TP#11390 - Decimals from config not showing in chart legend (#796)
+
 ## 1.0.257
 
 *2021-11-11*
@@ -39,7 +77,6 @@ description: Change Log
 - Hotfix: TP#12025 Prevent empty GraphQL clients from being created (#769)
 - Hotfix: TP#10955 Add filters for digitals status and history list (#770)
 - Hotfix: TP#11107 AccessLevel Sort Order (#768)
-
 
 ## 1.0.248
 
