@@ -8,6 +8,42 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.199
+
+*2021-11-08*
+
+* Feature: No authentication required on known image formats (#117)
+
+## 1.0.198
+
+*2021-10-21*
+
+* Fix: It is now possible to toggle between Arrigo- and EXOscada style signals lists (#115)
+
+## 1.0.197
+
+*2021-10-19*
+
+* Fix: Removes tolerance limitations (#114)
+
+## 1.0.196
+
+*2021-10-13*
+
+* Fix: Date range filters are disabled (in the underlying sql query) for all status lists (TP#11459) (#112)
+
+## 1.0.195
+
+*2021-10-04*
+
+* Feature: Added support for folder icons (only svg's) (#113)
+
+## 1.0.193
+
+*2021-09-29*
+
+* Fix: All unhandled exceptions are logged to ease debugging (#111) (TP#11134)
+
 ## 1.0.191
 
 *2021-09-15*

@@ -5,7 +5,73 @@ description: Change Log
 ---
 # Change Log
 
-## Next release
+## 1.1.168
+
+2021-11-29
+- Frontend: [1.0.260](./frontend.html#10260)
+- Arrigo Local API: [1.0.199](./arrigolocalapi.html#10199)
+- Arrigo Local Scada Function: [1.1.96](./arrigolocalscadafunction.html#1196)
+- Arrigo Local Services: [1.0.186](./arrigolocalservices.html#10186)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+### Installer
+
+- Fix: Fixed argument typo (unsignedcadafunction vs unsigned**s**cadafunction)
+- Fix: Checking if the running user is member of BUILTIN\Administrators (#25)
+
+## 1.1.165
+
+2021-11-09
+- Frontend: [1.0.251](./frontend.html#10251)
+- Arrigo Local API: [1.0.196](./arrigolocalapi.html#10196)
+- Arrigo Local Scada Function: [1.1.92](./arrigolocalscadafunction.html#1192)
+- Arrigo Local Services: [1.0.185](./arrigolocalservices.html#10185)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+### Installer
+
+- Fix: Setting the ExecutionPolicy to Bypass for CurrentUser at startup (TP#11426)
+
+### ArrigoAttach
+
+- Fix: Saving pm2 configuration when attaching project (TP#11425)
+
+## 1.1.155
+
+2021-10-21
+- Frontend: [1.0.248](./frontend.html#10248)
+- Arrigo Local API: [1.0.196](./arrigolocalapi.html#10196)
+- Arrigo Local Scada Function: [1.1.92](./arrigolocalscadafunction.html#1192)
+- Arrigo Local Services: [1.0.185](./arrigolocalservices.html#10185)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+
+## 1.1.151
+
+2021-10-14
+
+- Frontend: [1.0.245](./frontend.html#10245)
+- Arrigo Local API: [1.0.196](./arrigolocalapi.html#10196)
+- Arrigo Local Scada Function: [1.1.92](./arrigolocalscadafunction.html#1192)
+- Arrigo Local Services: [1.0.185](./arrigolocalservices.html#10185)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+### Installer
+
+- Fix: Setting the ExecutionPolicy to Bypass at startup (TP#11426) (#22)
+- Fix: Machine global installation of npm/pm2 to handle multiple users (TP#11425) (#21)
+
+### Tools and Runtime
+
+- Improvements in how 'Arrigo Attach' handles pm2 (processes are always run as SYSTEM)
+- 'Arrigo Attch' now sets permissions on the project folder to prevent API read/write errors
+- DateDialogBox referred to non-existing textfile (exists only for CW) for month names (TP#11554)
+- Fixed file copy section for PIDBasic_Operation_Legacy.Rwlv in Template 'Update Template Views' (TP#11555)
+- New attribute for previous route in Arrigo (UsePreviousRoute) (TP#9503)
+- Reports: Corrected from and to date in filter option (TP#11460)
+- Arrigo BMS and Controller Web - Password style in List View not working (TP#9605)
+- Added a new attribute (Tolerance) for chart customization (TP#10255)
+- View popup bring to front not working (TP#10589)
 
 ## 1.1.139
 

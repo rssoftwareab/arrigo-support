@@ -13,20 +13,23 @@ description: instructions and binaries
 
 Arrigo Local is tested and supported on the following OS'es:
 
-* Windows 10
-* Windows Server 2016
+* Windows 10 Pro (for engineering, configuration or commissioning and in products delivered by Regin)
+* Windows 11 Pro (for engineering, configuration or commissioning and in products delivered by Regin)
 * Windows Server 2019
+* Windows Server 2022
 
 ## Chromium Installer
 
 Chromium Installer is tested and supported on the following OS'es:
 
 * Windows 10
-* Windows Server 2016
+* Windows 11
 * Windows Server 2019
+* Windows Server 2022
 
 You can also install on these OS'es, but we do not actively test the installer or the browser on them:
 
+* Windows Server 2016
 * Windows Server 2012
 * Windows Server 2012 R2
 * Windows 8

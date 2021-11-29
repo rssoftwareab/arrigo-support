@@ -5,9 +5,32 @@ description: Change Log
 ---
 # Change Log
 
+## 1.0.54
+
+*2021-11-11*
+
+##### Fixes
+
+- Hotfix: TP #12096 Prevent deleted users to be able to login (#364)
+- Hotfix: Add missing "mandatory" protocols option in Autobahn connection (#366)
+- Hotfix: Add yarn.lock file (#365)
+- Hotfix: Add new selection that makes use of the dbo.getFolderIDs on userId (#355)
+- Hotfix: Update MeterValueInputs.ts (#359)
+- Hotfix: TP#11107 AccessLevel Sort Order (#360)
+
+## 1.0.49
+
+*2021-10-14* 
+
+##### Features
+
+- Hotfix: Consumptions Query (#358)
+- Hotfix: Updated OrderBy for Credentials (#357)
+- Hotfix: User Admin Create/Update fix (#356)
+
 ## 1.0.46
 
-2021-09-20
+*2021-09-20* 
 
 ##### Features
 
