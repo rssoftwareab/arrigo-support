@@ -5,6 +5,20 @@ description: Change Log
 ---
 # Change Log
 
+## 1.1.168
+
+2021-11-09
+- Frontend: [1.0.251](./frontend.html#10251)
+- Arrigo Local API: [1.0.199](./arrigolocalapi.html#10199)
+- Arrigo Local Scada Function: [1.1.96](./arrigolocalscadafunction.html#1196)
+- Arrigo Local Services: [1.0.186](./arrigolocalservices.html#10186)
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+### Installer
+
+- Fix: Fixed argument typo (unsignedcadafunction vs unsigned**s**cadafunction)
+- Fix: Checking if the running user is member of BUILTIN\Administrators (#25)
+
 ## 1.1.165
 
 2021-11-09
