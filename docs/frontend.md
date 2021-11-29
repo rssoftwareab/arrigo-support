@@ -7,6 +7,58 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.258
+
+*2021-11-29*
+
+### New Features
+
+- Feature: TP#12149 - Permissions in LinkIcons and Widgets (#807)
+
+- Feature: Link icons from project (#784)
+
+- Feature: Chart dynamic date filter (#774)
+
+- Feature: Fixed width for fullscreen icon (#775)
+
+- Feature: Link icons in URL (#773)
+
+- Feature: TP#11396 Edit tolerance in frontend for selected signals (#763)
+
+### Fixes/Improvements
+
+- Release 2021.11.29 (#811)
+
+- Beta Release 2021.11.29 (#810)
+
+- Fix: Invert hidden element check in ChartContainer #809
+
+- Fix: Do additional check for chart width on mobile devices (#808)
+
+- Merge branch 'beta' into dev
+
+- Fix: FileId filter fix (#795)
+
+- Fix: TP#12148 Chart axis units and signal titles (#787)
+
+- Merge branch 'beta' into dev
+
+- Merge remote-tracking branch 'origin/beta' into dev
+
+- Merge branch 'production' into beta
+
+- Merge branch 'production' into beta
+
+- Merge remote-tracking branch 'origin/production' into beta
+
+- Fix: Conditional content wrapper based on feature (#783)
+
+- Beta Release 2021.11.01
+
+- Merge branch 'production' into dev
+
+- Fix: Link icon routing (#781)
+
 ## 1.0.228
 
 *2021-09-14*
