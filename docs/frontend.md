@@ -31,7 +31,7 @@ description: Change Log
 
 ### Fixes/Improvements
 
-- Fix: Invert hidden element check in ChartContainer #809
+- Fix: Invert hidden element check in ChartContainer (#809)
 - Fix: Do additional check for chart width on mobile devices (#808)
 - Fix: FileId filter fix (#795)
 - Fix: TP#12148 Chart axis units and signal titles (#787)
