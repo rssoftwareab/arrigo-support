@@ -19,70 +19,16 @@ description: Change Log
 ### Fixes/Improvements
 
 - Fix: Optimizing permissions on LinkIcons (#813)
-- Thanks to frippovic89 who pointed out that we missed to remove some redundant access checks.
-
-## 1.0.268
-
-*2021-12-02*
-
-### Fixes/Improvements
-
 - Hotfix: Analog queries check for EMS (#823)
-
-## 1.0.267
-
-*2021-12-02*
-
-### Fixes/Improvements
-
 - Hotfix: Made SubMenu link icons always show the title (#822)
-
-## 1.0.266
-
-*2021-12-02*
-
-### Fixes/Improvements
-
 - Hotfix: TP#12724 THmeters disconnect (#821)
 - Hotfix: TP#12922 - Empty chart default handling (#820)
-
-## 1.0.265
-
-*2021-12-02*
-
-### Fixes/Improvements
-
 - Hotfix: Documents is now displayed properly in tabs and lists (#817)
 - Hotfix: Disable generic filter on ETReport (#816)
 - Hotfix: TP#12267 - Arrigo wants to go to Area via Alarmstatus view (#802)
-
-## 1.0.264
-
-*2021-12-02*
-
-### Fixes/Improvements
-
 - Hotfix: TP#12058 - Arrigo Alarm Status view sad smiley (#779)
 
 ## 1.0.263
-
-*2021-11-29*
-
-### Fixes/Improvements
-
-- Fix: View resizing with navigation attached and panel mode active (#812)
-- Hotfix: Also check if attributes.Title equals attributes.Name (#814)
-
-## 1.0.263
-
-*2021-11-29*
-
-### Fixes/Improvements
-
-- Fix: View resizing with navigation attached and panel mode active (#812)
-- Hotfix: Also check if attributes.Title equals attributes.Name (#814)
-
-## 1.0.260
 
 *2021-11-29*
 
@@ -97,12 +43,16 @@ description: Change Log
 
 ### Fixes/Improvements
 
+- Fix: View resizing with navigation attached and panel mode active (#812)
+- Hotfix: Also check if attributes.Title equals attributes.Name (#814)
 - Fix: Invert hidden element check in ChartContainer (#809)
 - Fix: Do additional check for chart width on mobile devices (#808)
 - Fix: FileId filter fix (#795)
 - Fix: TP#12148 Chart axis units and signal titles (#787)
 - Fix: Conditional content wrapper based on feature (#783)
 - Fix: Link icon routing (#781)
+
+
 
 ## 1.0.259
 
