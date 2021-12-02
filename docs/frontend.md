@@ -7,16 +7,28 @@ description: Change Log
 
 ## Next Releases
 
-## 1.0.263
+## 1.0.269
 
-*2021-11-29*
+*2021-12-02*
 
+### New Features
+
+- Feature: Splash login - Fixes for phone and tablets (#819)
+- Feature: Enable custom icons to navigation tree (#815)
+- Feature: Panel mode navigation with back button (#818)
 ### Fixes/Improvements
 
-- Fix: View resizing with navigation attached and panel mode active (#812)
-- Hotfix: Also check if attributes.Title equals attributes.Name (#814)
+- Fix: Optimizing permissions on LinkIcons (#813)
+- Hotfix: Analog queries check for EMS (#823)
+- Hotfix: Made SubMenu link icons always show the title (#822)
+- Hotfix: TP#12724 THmeters disconnect (#821)
+- Hotfix: TP#12922 - Empty chart default handling (#820)
+- Hotfix: Documents is now displayed properly in tabs and lists (#817)
+- Hotfix: Disable generic filter on ETReport (#816)
+- Hotfix: TP#12267 - Arrigo wants to go to Area via Alarmstatus view (#802)
+- Hotfix: TP#12058 - Arrigo Alarm Status view sad smiley (#779)
 
-## 1.0.260
+## 1.0.263
 
 *2021-11-29*
 
@@ -31,12 +43,16 @@ description: Change Log
 
 ### Fixes/Improvements
 
+- Fix: View resizing with navigation attached and panel mode active (#812)
+- Hotfix: Also check if attributes.Title equals attributes.Name (#814)
 - Fix: Invert hidden element check in ChartContainer (#809)
 - Fix: Do additional check for chart width on mobile devices (#808)
 - Fix: FileId filter fix (#795)
 - Fix: TP#12148 Chart axis units and signal titles (#787)
 - Fix: Conditional content wrapper based on feature (#783)
 - Fix: Link icon routing (#781)
+
+
 
 ## 1.0.259
 
