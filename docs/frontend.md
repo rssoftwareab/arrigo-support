@@ -7,6 +7,16 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.265
+
+*2021-12-02*
+
+### Fixes/Improvements
+
+- Hotfix: Documents is now displayed properly in tabs and lists (#817)
+- Hotfix: Disable generic filter on ETReport (#816)
+- Hotfix: TP#12267 - Arrigo wants to go to Area via Alarmstatus view (#802)
+
 ## 1.0.264
 
 *2021-12-02*
