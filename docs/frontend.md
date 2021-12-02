@@ -7,6 +7,20 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.269
+
+*2021-12-02*
+
+### New Features
+
+- Feature: Splash login - Fixes for phone and tablets (#819)
+- Feature: Enable custom icons to navigation tree (#815)
+- Feature: Panel mode navigation with back button (#818)
+### Fixes/Improvements
+
+- Fix: Optimizing permissions on LinkIcons (#813)
+- Thanks to frippovic89 who pointed out that we missed to remove some redundant access checks.
+
 ## 1.0.268
 
 *2021-12-02*
