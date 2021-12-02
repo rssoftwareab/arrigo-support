@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.266
+
+*2021-12-02*
+
+### Fixes/Improvements
+
+- Hotfix: TP#12724 THmeters disconnect (#821)
+- Hotfix: TP#12922 - Empty chart default handling (#820)
+
 ## 1.0.265
 
 *2021-12-02*
