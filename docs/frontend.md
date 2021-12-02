@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.264
+
+*2021-12-02*
+
+### Fixes/Improvements
+
+- Hotfix: TP#12058 - Arrigo Alarm Status view sad smiley (#779)
+
 ## 1.0.263
 
 *2021-11-29*
