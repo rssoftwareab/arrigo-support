@@ -73,6 +73,15 @@ description: Change Log
 - Fix: View resizing with navigation attached and panel mode active (#812)
 - Hotfix: Also check if attributes.Title equals attributes.Name (#814)
 
+## 1.0.263
+
+*2021-11-29*
+
+### Fixes/Improvements
+
+- Fix: View resizing with navigation attached and panel mode active (#812)
+- Hotfix: Also check if attributes.Title equals attributes.Name (#814)
+
 ## 1.0.260
 
 *2021-11-29*

@@ -30,7 +30,6 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 
 ### Current build: 
 - Frontend: [1.0.269](./frontend.html#10269)
-
 - Arrigo API: [1.0.54](./arrigoapi.html#1054)
 
 # Arrigo Local
@@ -38,7 +37,7 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 
 
 ### Builds
-- Latest: [1.1.165](./arrigolocalinstaller.html#11165)
+- Latest: [1.1.169](./arrigolocalinstaller.html#11169)
 - Stable: [1.1.139](./arrigolocalinstaller.html#11139)
 
 
