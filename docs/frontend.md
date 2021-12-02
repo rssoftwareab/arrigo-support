@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.267
+
+*2021-12-02*
+
+### Fixes/Improvements
+
+- Hotfix: Made SubMenu link icons always show the title (#822)
+
 ## 1.0.266
 
 *2021-12-02*
