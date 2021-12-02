@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.268
+
+*2021-12-02*
+
+### Fixes/Improvements
+
+- Hotfix: Analog queries check for EMS (#823)
+
 ## 1.0.267
 
 *2021-12-02*
