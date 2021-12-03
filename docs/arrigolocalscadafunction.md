@@ -7,6 +7,9 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+## 1.1.103
+
+* Feature: New fast transpiler. Handle startup/teardown of transpiler instances. 
 
 ## 1.1.96
 
