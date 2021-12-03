@@ -34,11 +34,23 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 
 # Arrigo Local
 ### Latest changes
+We have replaced the core template parser (also known as transpiler, or maker). This means that performance is improved for all views and routes in the system. 
 
+We have also a breaking change: 
+- `Web:` translates to `Shared:/web` in all views.
+Make sure you copy all your resources to your project Shared folder before.
+
+We also have a **known issue** with *Icon support in Buttons*. We are working on that issue now.
+
+We have upgraded stable to our latest version. The latest is the new version including above changes.
+
+We strongly recommend that you test out our (really fast) latest version.
+
+If you encounter problems in your project, don't hesitate to get in touch with us.
 
 ### Builds
-- Latest: [1.1.169](./arrigolocalinstaller.html#11169)
-- Stable: [1.1.139](./arrigolocalinstaller.html#11139)
+- Latest: [1.1.175](./arrigolocalinstaller.html#11169)
+- Stable: [1.1.169](./arrigolocalinstaller.html#11139)
 
 
 
