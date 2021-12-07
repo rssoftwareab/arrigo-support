@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.270
+
+*2021-12-07*
+
+### Fixes/Improvements
+
+- Hotfix: Link icons no longer gets a title if resized to mobile and back (#827)
+
 ## 1.0.269
 
 *2021-12-02*
