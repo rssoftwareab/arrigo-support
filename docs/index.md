@@ -49,7 +49,7 @@ We strongly recommend that you test out our (really fast) latest version.
 If you encounter problems in your project, don't hesitate to get in touch with us.
 
 ### Builds
-- Latest: [1.1.182](./arrigolocalinstaller.html#11182)
+- Latest: [1.1.185](./arrigolocalinstaller.html#11185)
 - Stable: [1.1.169](./arrigolocalinstaller.html#11169)
 
 

@@ -7,6 +7,16 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.271
+
+*2021-12-07*
+
+### New Features
+
+- Feature: Navigation in animation views (#829)
+  - Use click action `OpenLink` in buttons/menuItems. In Link URL, specify `Folder:TheUserArea` for navigation to the default route for that user area. Specify `Folder:TheUserArea:LinkIcon:TheLinkIcon` for navigation to the default route for that user area and directly to link icon. Specify `LinkIcon:TheLinkIcon` for navigation within the same user area to another link icon.
+
+
 ## 1.0.269
 
 *2021-12-02*
