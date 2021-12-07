@@ -57,3 +57,4 @@ If you encounter problems in your project, don't hesitate to get in touch with u
 # Tips and tricks
 
 - [Theming in Arrigo](./theme_arrigo.md)
+- [Common questions and answers](./support/index.md)
