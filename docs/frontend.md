@@ -7,6 +7,17 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.271
+
+*2021-12-07*
+
+### New Features
+
+- Feature: Navigation from animation views (#828)
+### Fixes/Improvements
+
+- Fix:  Updated Navigation in links (#829)
+
 ## 1.0.270
 
 *2021-12-07*
