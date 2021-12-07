@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.272
+
+*2021-12-07*
+
+### Fixes/Improvements
+
+- Hotfix: Added case insensitivity for OpenLink (#831)
+
 ## 1.0.271
 
 *2021-12-07*
