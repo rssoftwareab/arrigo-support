@@ -252,7 +252,6 @@ const  Request = 0,
         Expired = 6,
         AboutToExpire = 7,
         UnknownError = 8;
-    
 ```
 
 ###### `read`
