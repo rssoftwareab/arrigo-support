@@ -258,7 +258,8 @@ const  Request = 0,
 ###### `read`
 call read. The function returns immediately with an response array containing variable responses. Check the type for each response. If this is the first time the variable is read, the value is still pending, and type for object is 5, according to the definition above. You have  to manually enumerate and check if you need to read again, to make sure that every variable has its value before proceeding.
 > if you set upp an interval in the view, which periodically calls the function, the type will update and client side can be updated when variables is read.
-> We strongly recommend that you use these functions with caution, as a last resort. Use expressions and OneShot bindings in OnOpen. This is only for variables which you not know during compile time.
+We strongly recommend that you use these functions with caution, as a last resort. Use expressions and OneShot bindings in OnOpen. This is only for variables which you not know during compile time.
+
 ```javascript
 async function readFromController(args, callInfo){
     const read = callInfo.context.legacy.read;
@@ -269,6 +270,7 @@ async function readFromController(args, callInfo){
 }
 ```
 variables contains an array of read results. Each entry is the response for corresponding read variable in the array sent in. 
+
 ```javascript 
 [{
     "value": 40,
