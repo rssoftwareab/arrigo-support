@@ -194,7 +194,7 @@ Example
 
 ```javascript
 async function getAlarms(kwargs, callInfo){
-    const db = callInfo.db.analogs;
+    const db = callInfo.context.db.analogs;
     const top10rows = await db.query("select top 10 * from [Analog Register]")
     
     //use named params
@@ -224,7 +224,7 @@ A nice feature here is that the Arrigo Local API can be fetched from the server 
 
 ```javascript
 async function getFromHttp(kwargs, callInfo){
-    const fetch = callInfo.fetch;
+    const fetch = callInfo.context.fetch;
     
     //fetch the resource
     const response = await fetch('http://localhost/api/login')
@@ -236,5 +236,70 @@ async function getFromHttp(kwargs, callInfo){
 return { getFromHttp }
 ```
 
+###### `async function context.legacy.read|write|execute`
+
+A portal to the legacy(existing EXOscada) domain. Use these functions while you are waiting for the proper datasource interface for advanced read/write to variables. 
+Be careful! This is raw read/write. No access control at all. make sure that your client code does NOT send in the variables as strings. Define the variables in the serverside function. Make sure the variable values are within boundaries before write.
+
+request/response Message type definition for  variable quality. 
+```javascript
+const  Request = 0,
+        Response = 1,
+        Update = 2,
+        ErrorNotExist = 3,
+        ErrorUnreachable = 4,
+        Pending = 5,
+        Expired = 6,
+        AboutToExpire = 7,
+        UnknownError = 8;
+    
+```
+
+###### `read`
+call read. The function returns immediately with an response array containing variable responses. Check the type for each response. If this is the first time the variable is read, the value is still pending, and type for object is 5, according to the definition above. You have  to manually enumerate and check if you need to read again, to make sure that every variable has its value before proceeding.
+> if you set upp an interval in the view, which periodically calls the function, the type will update and client side can be updated when variables is read.
+> We strongly recommend that you use these functions with caution, as a last resort. Use expressions and OneShot bindings in OnOpen. This is only for variables which you not know during compile time.
+```javascript
+async function readFromController(args, callInfo){
+    const read = callInfo.context.legacy.read;
+    const variables = ["Controller_A1.QSystem.Sec"];
+    const readResult = await read(variables);
+    console.log(readResult);
+    return readResult;
+}
+```
+variables contains an array of read results. Each entry is the response for corresponding read variable in the array sent in. 
+```javascript 
+[{
+    "value": 40,
+    "variable": "Controller_A1.QSystem.Sec",
+    "type": 1,
+    "timestamp": "2021-12-08T14:59:29.777131Z"
+}]
+
+```
+###### `write`
+Same as read. Only difference is that only one variable is possible to write at a time. The write method has same response object as above, but is not an array. 
+
+```javascript
+async function writeToController(args, callInfo){
+    const write = callInfo.context.legacy.write;
+    const variable = {variable: "Controller.DigOut(7)", value: 1};
+    const writeResult = await write(variable);
+    console.log(writeResult);
+    return writeResult;
+}
+```
+
+###### `execute`
+This method can execute EXObasic snippets, or oneliners. This can be used for synchronizing controllers, block/unblock alarms e.t.c.
+```javascript
+async function blockAlarm(args, callInfo){
+    const execute = callInfo.context.legacy.execute;
+    const executeResult = await execute("UnreachableAlarms.Controller_A1.Block");
+    console.log(executeResult);
+    return executeResult;
+}
+```
 
 
