@@ -269,6 +269,7 @@ async function readFromController(args, callInfo){
     return readResult;
 }
 ```
+
 variables contains an array of read results. Each entry is the response for corresponding read variable in the array sent in. 
 
 ```javascript 
@@ -280,6 +281,7 @@ variables contains an array of read results. Each entry is the response for corr
 }]
 
 ```
+
 ###### `write`
 Same as read. Only difference is that only one variable is possible to write at a time. The write method has same response object as above, but is not an array. 
 
