@@ -7,6 +7,14 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+
+
+## 1.1.103
+
+*2021-12-08*
+
+* Feature: Support for execute exobasic over WAMP
+
 ## 1.1.103
 
 * Feature: New fast transpiler. Handle startup/teardown of transpiler instances. 
