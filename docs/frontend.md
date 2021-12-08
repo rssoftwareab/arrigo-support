@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.273
+
+*2021-12-08*
+
+### Fixes/Improvements
+
+- Hotfix: Create order from unidentified vehicle (#832)
+
 ## 1.0.272
 
 *2021-12-07*
