@@ -239,7 +239,7 @@ return { getFromHttp }
 ###### `async function context.legacy.read|write|execute`
 
 A portal to the legacy (existing EXOscada) domain. Use these functions while you are waiting for the proper datasource interface for advanced read/write to variables. 
-Be careful! This is raw read/write. No access control at all. make sure that your client code does NOT send in the variables as strings. Define the variables in the serverside function. Make sure the variable values are within boundaries before write.
+**Be careful! This is raw read/write. No access control at all.** Make sure that your client code (`OnManeuver`, `OnChanged`, `OnOpen`) does **NOT** send in the variables as strings. Define the variables in the serverside function. Make sure the variable values are within boundaries before write.
 
 request/response Message type definition for  variable quality. 
 ```javascript
