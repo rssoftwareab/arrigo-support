@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.274
+
+*2021-12-09*
+
+### Fixes/Improvements
+
+- Fix: TP-12277 arrigo text select (#833)
+
 ## 1.0.273
 
 *2021-12-08*
