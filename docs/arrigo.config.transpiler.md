@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Releases - Arrigo config transpiler
+title: Releases - Arrigo Config Transpiler
 description: Change Log
 ---
 
