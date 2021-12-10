@@ -36,7 +36,11 @@ We continuously monitor our operations to identify and mitigate any new threats 
 
 ## IT friendly
 
-Arrigo Local only requires a single, open and unidirectional port 443 to communicate securely with SSL/TLS encryption over HTTP. Our real-time data sources do not receive inbound connections, only outbound connections are initiated from the on-premise system and never the other way around. All data from Arrigo can be safely routed through traditional firewalls and IT equipment as well as the use of antivirus software, intrusion detection systems and segmented network zones. Our services do not auto-update any OS components, all updates are controlled manually by our customers.
+Arrigo Local only requires a single, inbound port (443) to communicate securely with TLS encryption over HTTP (also known as *https*). 
+
+> Detta nedanför stämmer inte riktigt. OM EXO är installerat (vilket det ju är, krävs åtminstone port 26486 öppen för inkommande trafik). Om Datasourcen (i teorin) ligger på internet kräver den den ovan inkommande anslutningen. generellt kan man nog säga attt alla datasources kräver inkommande anslutning om devicen ligger på WAN (ute i byggnaden)
+
+Our real-time data sources do not receive inbound connections, only outbound connections are initiated from the on-premise system and never the other way around. All data from Arrigo can be safely routed through traditional firewalls and IT equipment as well as the use of antivirus software, intrusion detection systems and segmented network zones. Our services do not auto-update any OS components, all updates are controlled manually by our customers.
 
 Arrigo.se is hosted on Microsoft Azure, a leading public cloud service provider. Azure have a range of physical and environmental security to data privacy and security controls. Azure complies to a number of standards such as ISO 27001/27017/27018 and AICPA SOC 2.
 
