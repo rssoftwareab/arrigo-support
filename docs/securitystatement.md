@@ -64,6 +64,8 @@ Because of its nature, data at rest, is of increasing concern to businesses , go
 
 Arrigo encrypts all sensitive customer data and ensures it is logically segregated and segmented in a multi-tenant architecture. This prevents data visibility in the event of unauthorized access. The data encryption uses strong encryption method - AES. 
 
+>vi krypterar ingenting som ligger på disk eller i long term storage. Det enda som kryperas är användarens lösenord - inget annat. 
+
 ### Data in transit
 
 *"Piece of data or information that is moving from one place to another, e.g. via an email, Slack or any type of public or private communication channel."* 
