@@ -12,7 +12,7 @@ description: Change Log
 
 *2021-12-09*
 
-* Updated internal nuget packages*
+* Updated internal nuget packages
 
 ## 1.1.106
 
