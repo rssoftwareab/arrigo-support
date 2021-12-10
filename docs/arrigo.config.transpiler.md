@@ -14,4 +14,9 @@ description: Change Log
 
 * Fix: Swedish letters for eventcode and expressions (#5)
 
+## 1.1.155
+
+*2021-12-19*
+
+* Fix: Translate language (defaults to english if the language file is missing)
 
