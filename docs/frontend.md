@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.275
+
+*2021-12-10*
+
+### Fixes/Improvements
+
+- Hotfix: Filter and panelmode css fixes (#835)
+
 ## 1.0.274
 
 *2021-12-09*
