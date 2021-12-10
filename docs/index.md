@@ -60,8 +60,8 @@ If you encounter problems in your project, don't hesitate to get in touch with u
 - [Common questions and answers](./support/index.md)
 
 
+
 # Offline licensing (beta)
 
-- [Activate license](./theme_arrigo.md)
+- [Activate license](www.activationportal.me/selfservice/activation.aspx?Type=1&cid=7544&pid=9211&lang=en-US)
 - [Deactivate license](./theme_arrigo.md)
-- 
