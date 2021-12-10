@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.278
+
+*2021-12-10*
+
+### Fixes/Improvements
+
+- Hotfix: TP#13206 Create THmeter from Building (#836)
+
 ## 1.0.277
 
 *2021-12-10*
