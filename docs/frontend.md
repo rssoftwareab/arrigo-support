@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.276
+
+*2021-12-10*
+
+### Fixes/Improvements
+
+- Hotfix: Add custom icon to parent link in panel mode (#837)
+
 ## 1.0.275
 
 *2021-12-10*
