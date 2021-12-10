@@ -63,5 +63,6 @@ If you encounter problems in your project, don't hesitate to get in touch with u
 
 # Offline licensing (beta)
 
-- [Activate license](www.activationportal.me/selfservice/activation.aspx?Type=1&cid=7544&pid=9211&lang=en-US)
-- [Deactivate license](./theme_arrigo.md)
+- [Instructions](./offline_licensing.md)
+- [Activate license](https://www.activationportal.me/selfservice/activation.aspx?Type=1&cid=7544&pid=9211&lang=en-US)
+- [Deactivate license](https://www.activationportal.me/selfservice/deactivation.aspx?Type=2&cid=7544&pid=9211&lang=en-US)
