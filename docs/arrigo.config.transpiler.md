@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Releases - Arrigo Local Scada Function
+title: Releases - Arrigo config transpiler
 description: Change Log
 ---
 
