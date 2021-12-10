@@ -8,6 +8,9 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.1.197
+*2021-12-10*
+
 ## 1.1.194
 *2021-12-08*
 * Feature: legacy read/write/execute support in server side functions.
