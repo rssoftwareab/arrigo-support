@@ -1,4 +1,4 @@
-# Offline licensving
+# Offline licensing
 
 As part of Arrigo's licensing system (expected to be available q2, 2022) it is possible for Dark Sites (on-premise installations without internet connection) to activate and deactivate their licenses manually.
 
