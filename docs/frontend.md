@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.277
+
+*2021-12-10*
+
+### Fixes/Improvements
+
+- Hotfix: TP#12914 Add axis domain to saved work (#834)
+
 ## 1.0.276
 
 *2021-12-10*
