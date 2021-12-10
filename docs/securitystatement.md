@@ -10,10 +10,10 @@ Arrigo has been designed to utilize web security technologies in the best possib
 
 The highlights from this paper are:
 
-- Arrigo Local only requires a single and unidirectional port 443 on the local IIS 
-- Arrigo users and accounts can be secured with MFA and SSO (release Q1, 2022)
+- Arrigo Local only requires an inbound port 443 when accessed from WAN
+- Arrigo users and accounts can be secured with MFA and SSO (release Q1, 2022), this requires an outbound port 443
 - Arrigo.se is hosted on Azure and has a comprehensive access, support and backup policy
-- ArrigoConnect is an end-point secured and encrypted (TLS 1.2) connection
+- ArrigoConnect is an end-point secured and encrypted (TLS 1.2) connection, this requires an outbound port 443
 
 ## Dictionary
 
