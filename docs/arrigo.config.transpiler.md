@@ -12,4 +12,6 @@ description: Change Log
 
 *2021-12-10*
 
+* Fix: Swedish letters for eventcode and expressions (#5)
+
 
