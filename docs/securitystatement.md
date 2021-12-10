@@ -72,7 +72,7 @@ Arrigo encrypts all sensitive customer data and ensures it is logically segregat
 
 Data in transit can be separated into three categories: information that flows over the public or untrusted network such as the Internet, data that flows in the confines of a private network such as a corporate or enterprise local area network (LAN), and data that flows between Arrigo's microservices.
 
-With an installed certificate, all data flows to and from Arrigo are encrypted using SSL/TLS over HTTP (HTTPS) on port 443 using Advanced Encryption Standard (AES) 256-bit encryption with secure 2048-bit X.509 certificates. Our secure and publicly available API using graphQL/REST is also using this security scheme.
+With an installed certificate, all data flows to and from Arrigo are encrypted using SSL/TLS over HTTP (HTTPS) on port 443 using Advanced Encryption Standard (AES) 256-bit encryption with secure 2048-bit X.509 certificates. Our secure and publicly available API using graphQL/REST is also using this security scheme, as well as our websocket connections.
 
 ![Encryption](./images/securitystatement_1.png)
 
@@ -84,8 +84,7 @@ Communication between Arrigo's microservices within a single Arrigo Local is not
 
 Because of its nature, data in use is of increasing concern to businesses, government agencies and other institutions. Data in use, or memory, can contain sensitive data including digital certificates, encryption keys, intellectual property (software algorithms, design data), and personally identifiable information. Compromising data in use enables access to encrypted data at rest and data in motion. For example, someone with access to random access memory can parse that memory to locate the encryption key for data at rest. Once they have obtained that encryption key, they can decrypt encrypted data at rest. Threats to data in use can come in the form of cold boot attacks, malicious hardware devices, rootkits and bootkits.
 
-**(mer text på hur Arrigo skyddar data in use eller hur det mitigeras)**
-
+>någonting om att device som används skall vara autenticierade, aldrig lämnade obevakade, mobila enheter måste ha faceID eller kod för att låsa upp, arbetsstationer och laptops skall låsas vid rast, etc. 
 ## GDPR and data protection
 
 In 2016, the European Parliament and Council agreed on the General Data Protection Regulation (GDPR). In the spring of 2018, the GDPR began requiring companies to:
