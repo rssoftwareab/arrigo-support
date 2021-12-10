@@ -16,7 +16,7 @@ description: Change Log
 
 - Arrigo Local Services: [1.0.197](./arrigolocalservices.html#10197)
 
-- Arrigo config transpiler:
+- Arrigo config transpiler: [1.0.156](./arrigo.config.transpiler.html#10156)
 
 - Required EXO installation: EXO 2019 Edition 4 Build 108
 
