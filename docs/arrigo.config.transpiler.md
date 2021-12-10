@@ -16,7 +16,7 @@ description: Change Log
 
 ## 1.1.155
 
-*2021-12-19*
+*2021-12-09*
 
 * Fix: Translate language (defaults to english if the language file is missing)
 
