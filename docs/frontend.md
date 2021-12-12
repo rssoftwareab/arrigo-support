@@ -7,6 +7,20 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.278
+
+*2021-12-10*
+
+### New Features
+
+- Hotfix: TP#13206 Create THmeter from Building (#836)
+- Hotfix: TP#12914 Add axis domain to saved work (#834)
+- Hotfix: Add custom icon to parent link in panel mode (#837)
+- Hotfix: Filter and panelmode css fixes (#835)
+- Fix: TP#12277 arrigo text select (#833)
+- Hotfix: Create order from unidentified vehicle (#832)
+- Hotfix: Added case insensitivity for OpenLink (#831)
+
 ## 1.0.271
 
 *2021-12-07*

@@ -7,6 +7,12 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+## 1.0.204
+
+*2021-12-09*
+
+* Fix: The locale from the old token is now carried over to the new (#122)
+
 ## 1.0.203
 
 *2021-12-03*

@@ -49,7 +49,7 @@ We strongly recommend that you test out our (really fast) latest version.
 If you encounter problems in your project, don't hesitate to get in touch with us.
 
 ### Builds
-- Latest: [1.1.187](./arrigolocalinstaller.html#11187)
+- Latest: [1.1.188](./arrigolocalinstaller.html#11188)
 - Stable: [1.1.169](./arrigolocalinstaller.html#11169)
 
 
@@ -58,3 +58,11 @@ If you encounter problems in your project, don't hesitate to get in touch with u
 
 - [Theming in Arrigo](./theme_arrigo.md)
 - [Common questions and answers](./support/index.md)
+
+
+
+# Offline licensing (beta)
+
+- [Instructions](./offline_licensing.md)
+- [Activate license](https://www.activationportal.me/selfservice/activation.aspx?Type=1&cid=7544&pid=9211&lang=en-US)
+- [Deactivate license](https://www.activationportal.me/selfservice/deactivation.aspx?Type=2&cid=7544&pid=9211&lang=en-US)
