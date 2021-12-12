@@ -36,7 +36,7 @@ We continuously monitor our operations to identify and mitigate any new threats 
 
 ## IT friendly
 
-Arrigo Local only requires a single, open and unidirectional port 443 to communicate securely with SSL/TLS encryption over HTTP. Our real-time data sources do not receive inbound connections, only outbound connections are initiated from the on-premise system and never the other way around. All data from Arrigo can be safely routed through traditional firewalls and IT equipment as well as the use of antivirus software, intrusion detection systems and segmented network zones. Our services do not auto-update any OS components, all updates are controlled manually by our customers.
+Arrigo Local only requires an inbound port 443 to communicate securely with SSL/TLS encryption over HTTP. IF EXO is used, then inbound port 26486 is also required for EXO device communications. All data from Arrigo can be safely routed through traditional firewalls and IT equipment as well as the use of antivirus software, intrusion detection systems and segmented network zones. Our services do not auto-update any OS components, all updates are controlled manually by our customers.
 
 Arrigo.se is hosted on Microsoft Azure, a leading public cloud service provider. Azure have a range of physical and environmental security to data privacy and security controls. Azure complies to a number of standards such as ISO 27001/27017/27018 and AICPA SOC 2.
 
@@ -58,7 +58,7 @@ Arrigo's security model is built around JWT (JSON web tokens) and on the methodo
 
 Because of its nature, data at rest, is of increasing concern to businesses , governments and other institutions. The longer data is left unused in storage, the more likely it might be retrieved by unauthorized people outside the organization. 
 
-Arrigo encrypts all sensitive customer data and ensures it is logically segregated and segmented in a multi-tenant architecture. This prevents data visibility in the event of unauthorized access. The data encryption uses strong encryption method - AES. 
+Arrigo Local encrypts user passwords (AES). All encryption of data storage is up to the discretion of the customer to implement as well as any requirements for backup and redundancy. 
 
 ### Data in transit
 
@@ -66,7 +66,7 @@ Arrigo encrypts all sensitive customer data and ensures it is logically segregat
 
 Data in transit can be separated into three categories: information that flows over the public or untrusted network such as the Internet, data that flows in the confines of a private network such as a corporate or enterprise local area network (LAN), and data that flows between Arrigo's microservices.
 
-With an installed certificate, all data flows to and from Arrigo are encrypted using SSL/TLS over HTTP (HTTPS) on port 443 using Advanced Encryption Standard (AES) 256-bit encryption with secure 2048-bit X.509 certificates. Our secure and publicly available API using graphQL/REST is also using this security scheme.
+With an installed certificate, all data flows to and from Arrigo are encrypted using SSL/TLS over HTTP (HTTPS) on port 443 using Advanced Encryption Standard (AES) 256-bit encryption with secure 2048-bit X.509 certificates. Our secure and publicly available API using graphQL/REST is also using this security scheme as well as our websocket communications.
 
 ![Encryption](./images/securitystatement_1.png)
 
@@ -78,7 +78,7 @@ Communication between Arrigo's microservices within a single Arrigo Local is not
 
 Because of its nature, data in use is of increasing concern to businesses, government agencies and other institutions. Data in use, or memory, can contain sensitive data including digital certificates, encryption keys, intellectual property (software algorithms, design data), and personally identifiable information. Compromising data in use enables access to encrypted data at rest and data in motion. For example, someone with access to random access memory can parse that memory to locate the encryption key for data at rest. Once they have obtained that encryption key, they can decrypt encrypted data at rest. Threats to data in use can come in the form of cold boot attacks, malicious hardware devices, rootkits and bootkits.
 
-**(mer text på hur Arrigo skyddar data in use eller hur det mitigeras)**
+Basic protection and common sense should be used such as authetication on all devices, mobile devices should have faceID or be locked with a code, workstations should be locked during breaks or when unattended.
 
 ## GDPR and data protection
 
