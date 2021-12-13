@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.279
+
+*2021-12-13*
+
+### New Features
+
+- Feature: Fullscreen mode for tablets and mobiles (#826)
+
 ## 1.0.278
 
 *2021-12-10*
