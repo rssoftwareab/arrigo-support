@@ -8,6 +8,22 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.1.107
+
+*2021-12-09*
+
+* Updated internal nuget packages
+
+## 1.1.106
+
+*2021-12-08*
+
+* Feature: Support for execute exobasic over WAMP
+
+## 1.1.103
+
+* Feature: New fast transpiler. Handle startup/teardown of transpiler instances. 
+
 ## 1.1.96
 
 2021-11-26

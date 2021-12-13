@@ -82,6 +82,30 @@ description: Change Log
 
 - Hotfix: Link icons no longer gets a title if resized to mobile and back (#827)
 
+## 1.0.278
+
+*2021-12-10*
+
+### New Features
+
+- Hotfix: TP#13206 Create THmeter from Building (#836)
+- Hotfix: TP#12914 Add axis domain to saved work (#834)
+- Hotfix: Add custom icon to parent link in panel mode (#837)
+- Hotfix: Filter and panelmode css fixes (#835)
+- Fix: TP#12277 arrigo text select (#833)
+- Hotfix: Create order from unidentified vehicle (#832)
+- Hotfix: Added case insensitivity for OpenLink (#831)
+
+## 1.0.271
+
+*2021-12-07*
+
+### New Features
+
+- Feature: Navigation in animation views (#829)
+  - Use click action `OpenLink` in buttons/menuItems. In Link URL, specify `Folder:TheUserArea` for navigation to the default route for that user area. Specify `Folder:TheUserArea:LinkIcon:TheLinkIcon` for navigation to the default route for that user area and directly to link icon. Specify `LinkIcon:TheLinkIcon` for navigation within the same user area to another link icon.
+
+
 ## 1.0.269
 
 *2021-12-02*

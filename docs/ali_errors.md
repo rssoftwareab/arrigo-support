@@ -87,8 +87,10 @@ You can also use the Windows Group Policy Editor (gpedit.msc) to change the poli
 
 `Installation aborted by user`
 
-The current user is not a member of the Administrators group and the user aborted.  
-Re-run the installer as another user to prevent this warning.
+The current user is not a member of the Administrators group on the machine (BUILTIN\Administrators) and the user aborted.  
+Re-run the installer as another user to prevent this warning.  
+  
+If you are running ALI on a domain connected machine, please contact system administrator or IT organization to verify that you are also a local administrator.
 
 ## 2000
 

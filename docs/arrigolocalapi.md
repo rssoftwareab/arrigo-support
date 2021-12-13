@@ -7,6 +7,18 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+## 1.0.204
+
+*2021-12-09*
+
+* Fix: The locale from the old token is now carried over to the new (#122)
+
+## 1.0.203
+
+*2021-12-03*
+
+* Feature: Fix: Now the account access level is the same as the user's RootArea access level (#121)	
+* Feature: Reading the command timout from settings, or defaulting to 60 seconds (Dapper default is 30 seconds). (#119)
 
 ## 1.0.199
 

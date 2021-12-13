@@ -5,6 +5,60 @@ description: Change Log
 ---
 # Change Log
 
+## 1.1.188
+
+2021-12-10
+- Frontend: [1.0.278](./frontend.html#10278)
+
+- Arrigo Local API: [1.0.204](./arrigolocalapi.html#10204)
+
+- Arrigo Local Scada Function: [1.1.107](./arrigolocalscadafunction.html#11107)
+
+- Arrigo Local Services: [1.0.197](./arrigolocalservices.html#10197)
+
+- Arrigo config transpiler: [1.0.156](./arrigo.config.transpiler.html#10156)
+
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+## 1.1.187
+
+2021-12-08
+- Frontend: [1.0.271](./frontend.html#10271)
+
+- Arrigo Local API: [1.0.203](./arrigolocalapi.html#10203)
+
+- Arrigo Local Scada Function: [1.1.106](./arrigolocalscadafunction.html#11106)
+
+- Arrigo Local Services: [1.0.194](./arrigolocalservices.html#10194)
+
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+## 1.1.185
+2021-12-03
+- Frontend: [1.0.271](./frontend.html#10271)
+
+- Arrigo Local API: [1.0.203](./arrigolocalapi.html#10203)
+
+- Arrigo Local Scada Function: [1.1.103](./arrigolocalscadafunction.html#11102)
+
+- Arrigo Local Services: [1.0.193](./arrigolocalservices.html#10193)
+
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+
+## 1.1.182
+2021-12-03
+- Frontend: [1.0.269](./frontend.html#10269)
+
+- Arrigo Local API: [1.0.203](./arrigolocalapi.html#10203)
+
+- Arrigo Local Scada Function: [1.1.103](./arrigolocalscadafunction.html#11102)
+
+- Arrigo Local Services: [1.0.193](./arrigolocalservices.html#10193)
+
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+
 ## 1.1.169
 
 2021-11-29
