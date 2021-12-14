@@ -60,8 +60,6 @@ Because of its nature, data at rest, is of increasing concern to businesses , go
 
 Arrigo Local encrypts user passwords (AES). All encryption of data storage is up to the discretion of the customer to implement as well as any requirements for backup and redundancy. 
 
->vi krypterar ingenting som ligger på disk eller i long term storage. Det enda som kryperas är användarens lösenord - inget annat. 
-
 ### Data in transit
 
 *"Piece of data or information that is moving from one place to another, e.g. via an email, Slack or any type of public or private communication channel."* 
