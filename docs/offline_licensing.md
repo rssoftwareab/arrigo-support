@@ -46,7 +46,9 @@ Once activated successfully, the license should appear in the "Active keys" list
 
 ## Deactivate license
 
-### Retrieve deactivation certificate
+![image-20211210113334199](./images/deactivation_process.png)
+
+### 1. Retrieve deactivation certificate
 
 In the License Manager, select and drag the appropriate license key from "Active keys" to "Inactive keys". A prompt will appear where you can select "Deactivate".
 
@@ -58,6 +60,6 @@ Select "Download" and save the deactivation certificate on a removable media.
 
 The license is not inactive on the on-premise computer. Please deactivate the license on the license server to free up the license to be used on another machine. If not, the license can still be activated on the current machine by dragging it to "Active keys" and selecting "Activate"
 
-### Deactivate license on license server
+### 2. Deactivate license on license server
 
 Go to https://www.activationportal.me/selfservice/activation.aspx?Type=2&cid=7544&pid=9211&lang=en-US  and enter the computers deactivation certificate in the space provided, then select "Dactivate". Upon successful generation the license is now also deactivated in hte license server and can be used on another machine if required.
