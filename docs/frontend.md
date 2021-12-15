@@ -7,6 +7,18 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.280
+
+*2021-12-15*
+
+### Fixes/Improvements
+
+- Hotfix: THMeters fix (#844)
+- Hotfix: Panel mode gets stuck during navigation (#843)
+- Hotfix: Alarm notifications includes all priorities (#842)
+- Hotfix: TP#13288 Missing translation in tree (#841)
+- Hotfix: Adjust spacing between header and content in panelmode (#840)
+
 ## 1.0.279
 
 *2021-12-13*
