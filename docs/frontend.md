@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.281
+
+*2021-12-15*
+
+### Fixes/Improvements
+
+- Hotifix: Add prefix to get correct translation for favorites (#846)
+- Hotfix: TP#12299 DefaultType and DefaultResolution on meter create (#845)
+
 ## 1.0.280
 
 *2021-12-15*
