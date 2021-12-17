@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.283
+
+*2021-12-17*
+
+### Fixes/Improvements
+
+- Hotfix: TP#12914 - Saved axis domain on charts with generic filter (#847)
+
 ## 1.0.282
 
 *2021-12-17*
