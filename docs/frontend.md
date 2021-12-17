@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.282
+
+*2021-12-17*
+
+### Fixes/Improvements
+
+- Hotfix: Christmas spirit (#848)
+
 ## 1.0.281
 
 *2021-12-15*
