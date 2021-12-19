@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.285
+
+*2021-12-19*
+
+### Fixes/Improvements
+
+- bump version (#850)
+
 ## 1.0.284
 
 *2021-12-19*
