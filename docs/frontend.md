@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.284
+
+*2021-12-19*
+
+### Fixes/Improvements
+
+- Hotfix: Added default values to CWAV behavior for maneuver styles (#849)
+
 ## 1.0.283
 
 *2021-12-17*
