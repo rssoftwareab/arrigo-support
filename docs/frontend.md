@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.286
+
+*2021-12-20*
+
+### Fixes/Improvements
+
+- Hotfix: Fixup of invalid value and empty icons (#851)
+
 ## 1.0.285
 
 *2021-12-19*
