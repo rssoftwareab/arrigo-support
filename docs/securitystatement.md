@@ -30,7 +30,7 @@ Arrigo challenges the boundaries of cyber and information security as its users 
 
 Arrigo has multiple connection points and applications that communicate and transfers information. This information is distributed via wi-fi, Bluetooth, RS-485 networks, traditional networks, internet and sometimes through media such as USB keys. The information is then available on different devices such as desktops, phones, mobile devices or tablets. Each and every customer has to consider its own requirements and risks in order to apply end-to-end security.
 
-Our top priority is the safety and security of your data. The industry and our customers demands a rigorous set of operating standards and we are committed to ensuring the highest standard s of cyber security throughout our codebase and across our customer base.
+Our top priority is the safety and security of your data. The industry and our customers demands a rigorous set of operating standards and we are committed to ensuring the highest standards of cyber security throughout our codebase and across our customer base.
 
 We continuously monitor our operations to identify and mitigate any new threats or vulnerabilities. 
 
@@ -42,13 +42,13 @@ Arrigo.se is hosted on Microsoft Azure, a leading public cloud service provider.
 
 ## Application security
 
-Arrigo is specifically coded at the time of creation to be as secure as possible, to help ensure Arrigo is not vulnerable to attacks. All connections within Arrigo are designed to be secure through access control on the application Tree (i.e. folderID) not the actual writing or reading of a value. This enables Arrigo to be extremely efficient in controlling access regardless of devices used. A user may be assigned different access levels/attributes in different parts of the application tree and all subnodes inherit these attributes automatically. 
+Arrigo is specifically coded at the time of creation to be as secure as possible, to help ensure Arrigo is not vulnerable to attacks. All connections within Arrigo are designed to be secure through access control on the application tree (i.e. folderID) not the actual writing or reading of a value. This enables Arrigo to be extremely efficient in controlling access regardless of devices used. A user may be assigned different access levels/attributes in different parts of the application tree and all subnodes inherit these attributes automatically. 
 
 Since Arrigo's front-end only uses the API or its microservices, the access control is a secure and efficient security level that cannot be by-passed regardless of access method. Access is not possible without authentication and authorization.
 
 ![Access](./images/securitystatement_2.png)
 
-Arrigo's security model is built around JWT (JSON web tokens) and on the methodology of OAuth2. Through a combination of *accessToken* and *refreshToken* Arrigo enables long-term connections with retained security, otherwise one of the risks with web-solutions.
+Arrigo's security model is built around JWT (JSON web tokens) and on the methodology of OAuth2. Through a combination of *accessToken* and *refreshToken* Arrigo enables long-term connections with retained security. Otherwise one of the bigger risks with web-solutions.
 
 ## Data security
 
