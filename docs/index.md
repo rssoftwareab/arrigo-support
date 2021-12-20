@@ -11,6 +11,8 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 
 [Hardware recommendations](./hardware_recommendations.md)
 
+[Security Statement](./securitystatement.md)
+
 [Arrigo Local Installation](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe). ArrigoLocalInstaller will automatically download and run the latest stable version.
 
 [Early Bird uninstaller](https://arrigo.blob.core.windows.net/arrigo/ArrigoEarlybirdUninstaller-1.0.19.exe).
