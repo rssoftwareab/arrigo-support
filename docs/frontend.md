@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.287
+
+*2021-12-20*
+
+### Fixes/Improvements
+
+- Hotfix: Text select suggest list no defaults (#852)
+
 ## 1.0.286
 
 *2021-12-20*
