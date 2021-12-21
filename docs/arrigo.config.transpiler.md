@@ -7,7 +7,9 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
-
+## 1.1.157
+*2021-12-21*
+- Hotfix: added callback attributes to list of nondefault values. Fixes issues with visible&enabled binding in expressions.
 ## 1.1.156
 
 *2021-12-10*

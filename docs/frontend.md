@@ -7,6 +7,23 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.287
+
+*2021-12-21*
+
+- Feature: Fullscreen mode for tablets and mobiles (#826)
+
+- Hotfix: Text select suggest list no defaults (#852)
+- Hotfix: Fixup of invalid value and empty icons (#851)
+- Hotfix: TP#12914 - Saved axis domain on charts with generic filter (#847)
+- Hotfix: Christmas spirit (#848)
+- Hotfix: Add prefix to get correct translation for favorites (#846)
+- Hotfix: TP#12299 DefaultType and DefaultResolution on meter create (#845)
+- Hotfix: THMeters fix (#844)
+- Hotfix: Panel mode gets stuck during navigation (#843)
+- Hotfix: Alarm notifications includes all priorities (#842)
+- Hotfix: Adjust spacing between header and content in panelmode (#840)
+- Hotfix: TP#13288 Missing translation in tree (#841)
 ## 1.0.278
 
 *2021-12-10*
