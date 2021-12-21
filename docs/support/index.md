@@ -7,7 +7,7 @@ description: QnA
 # Common questions and answers
 [Broken image links](https://github.com/rssoftwareab/arrigo-support/blob/master/docs/support/index.md#broken-image-links)
 
-Scheduled Windows task to run in backgroun
+[Scheduled Windows task to run in background](https://github.com/rssoftwareab/arrigo-support/blob/master/docs/support/index.md#my-scheduled-task-runs-in-foreground-blue-box)
 
 ## Broken image links
 
