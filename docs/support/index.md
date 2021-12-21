@@ -45,4 +45,4 @@ When I setup a scheduled task in windows, the task runs in the foreground. I can
 ### Answer
 
 Excellent article that explains how to configure your scheduled task.
-[How do I set a Windows scheduled task to run in the background?](https://stackoverflow.com/questions/6568736/how-do-i-set-a-windows-scheduled-task-to-run-in-the-background)
+See [How do I set a Windows scheduled task to run in the background?](https://stackoverflow.com/questions/6568736/how-do-i-set-a-windows-scheduled-task-to-run-in-the-background)
