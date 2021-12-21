@@ -40,7 +40,7 @@ Restart the computer for the changes to take effect.
 
 ### Question 
 
-When I setup a scheduled task in windows, the task runs in the foreground. I can't seem to configure the task to run hidden and not disturd the user.
+When I setup a scheduled task in windows, the task runs in the foreground. I can't seem to configure the task to run hidden and not disturb the user.
 
 ### Answer
 
