@@ -35,3 +35,14 @@ Set its value to 400 hex or 1024 decimal.
 ![Registry Editor](./images/broken_image_links_3.png)
 
 Restart the computer for the changes to take effect.
+
+## My scheduled task runs in foreground (blue box)
+
+### Question 
+
+When I setup a scheduled task in windows, the task runs in the foreground. I can't seem to configure the task to run hidden and not disturd the user.
+
+### Answer
+
+Excellent article that explains how to configure your scheduled task.
+[How do I set a Windows scheduled task to run in the background?](https://stackoverflow.com/questions/6568736/how-do-i-set-a-windows-scheduled-task-to-run-in-the-background)
