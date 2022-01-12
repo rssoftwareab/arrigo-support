@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.288
+
+*2022-01-12*
+
+### Fixes/Improvements
+
+- Hotfix: Schedule Christmas (#853)
+
 ## 1.0.287
 
 *2021-12-20*
