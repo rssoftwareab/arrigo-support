@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.289
+
+*2022-01-13*
+
+### Fixes/Improvements
+
+- Added audit info from cw2 (#856)
+
 ## 1.0.288
 
 *2022-01-12*
