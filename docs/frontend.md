@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.290
+
+*2022-01-14*
+
+### Fixes/Improvements
+
+- Hotfix: User administration (#857)
+
 ## 1.0.289
 
 *2022-01-13*
