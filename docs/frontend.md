@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.291
+
+*2022-01-14*
+
+### Fixes/Improvements
+
+- Hotfix: Updates CMA Toolbox (#854)
+
 ## 1.0.290
 
 *2022-01-14*
