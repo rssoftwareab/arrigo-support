@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.292
+
+*2022-01-14*
+
+### Fixes/Improvements
+
+- Add support for meterslist on folderlevel (#855)
+
 ## 1.0.291
 
 *2022-01-14*
