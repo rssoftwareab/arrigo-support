@@ -11,7 +11,7 @@ description: Change Log
 
 *2022-01-14*
 
-* Fix: Audit Log entries are now written correctly (with titles)
+* Fix: Audit Log entries are now written correctly (with titles) (TP#8504)
 
 ## 1.0.204
 
