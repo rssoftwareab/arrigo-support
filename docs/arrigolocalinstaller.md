@@ -6,6 +6,20 @@ description: Change Log
 # Change Log
 ## 1.1.196
 2021-12-21
+- Frontend: [1.0.289](./frontend.html#10289)
+
+- Arrigo Local API: [1.0.205](./arrigolocalapi.html#10205)
+
+- Arrigo Local Scada Function: [1.1.107](./arrigolocalscadafunction.html#11107)
+
+- Arrigo Local Services: [1.0.201](./arrigolocalservices.html#10201)
+
+- Arrigo config transpiler: [1.0.157](./arrigo.config.transpiler.html#10157)
+
+- Required EXO installation: EXO 2019 Edition 4 Build 108
+
+## 1.1.196
+2021-12-21
 - Frontend: [1.0.287](./frontend.html#10287)
 
 - Arrigo Local API: [1.0.204](./arrigolocalapi.html#10204)

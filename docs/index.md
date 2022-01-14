@@ -31,7 +31,7 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 - Refactoring and improvements for Calculated Meter Application
 
 ### Current build: 
-- Frontend: [1.0.287](./frontend.html#10287)
+- Frontend: [1.0.289](./frontend.html#10287)
 - Arrigo API: [1.0.54](./arrigoapi.html#1054)
 
 # Arrigo Local
@@ -42,7 +42,7 @@ We have also a breaking change:
 - `Web:` translates to `Shared:/web` in all views.
 Make sure you copy all your resources to your project Shared folder before.
 
-We also have a **known issue** with *Icon support in Buttons*. We are working on that issue now.
+We also have a **known issue** with *Icon support in Buttons*.
 
 We have upgraded stable to our latest version. The latest is the new version including above changes.
 
@@ -51,7 +51,7 @@ We strongly recommend that you test out our (really fast) latest version.
 If you encounter problems in your project, don't hesitate to get in touch with us.
 
 ### Builds
-- Latest: [1.1.196](./arrigolocalinstaller.html#11196)
+- Latest: [1.1.199](./arrigolocalinstaller.html#11199)
 - Stable: [1.1.169](./arrigolocalinstaller.html#11169)
 
 

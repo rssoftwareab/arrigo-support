@@ -6,7 +6,10 @@ description: Change Log
 # Change Log
 
 ## Next Releases
-
+## 1.0.289
+*2022-01-14*
+- Hotfix: Hotfix: Schedule Christmas login screen (#853)
+- Hotfix: Added support for audit info in views. (#856)
 ## 1.0.287
 
 *2021-12-21*
