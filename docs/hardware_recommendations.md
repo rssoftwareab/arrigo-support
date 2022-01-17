@@ -27,7 +27,7 @@ As a summary let's consider 3 levels of applications. Here is an indication of s
 
 | Hardware/OS recommendations |                            |
 | --------------------------- | -------------------------- |
-| OS                          | Windows Server [System Requirements](./systemrequirements.md) |
+| OS                          | Windows Server, see [System Requirements](./systemrequirements.md) |
 | Processor                   | i5, 2-4 Cores              |
 | Harddrive                   | 200 Gb, preferably SSD     |
 | RAM                         | 8 Gb                       |
@@ -48,7 +48,7 @@ As a summary let's consider 3 levels of applications. Here is an indication of s
 
 | Hardware/OS recommendations |                            |
 | --------------------------- | -------------------------- |
-| OS                          | Windows Server [System Requirements](./systemrequirements.md) |
+| OS                          | Windows Server, see [System Requirements](./systemrequirements.md) |
 | Processor                   | i5, 4-8 Cores              |
 | Harddrive                   | 2Tb Gb, preferably SSD     |
 | RAM                         | 16 Gb                      |
@@ -69,7 +69,7 @@ As a summary let's consider 3 levels of applications. Here is an indication of s
 
 | Hardware/OS recommendations |                            |
 | --------------------------- | -------------------------- |
-| OS                          | Windows Server [System Requirements](./systemrequirements.md) |
+| OS                          | Windows Server, see [System Requirements](./systemrequirements.md) |
 | Processor                   | i7, 8-32 Cores             |
 | Harddrive                   | 5Tb Gb, preferably SSD     |
 | RAM                         | 32 Gb                      |
