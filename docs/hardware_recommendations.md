@@ -27,7 +27,7 @@ As a summary let's consider 3 levels of applications. Here is an indication of s
 
 | Hardware/OS recommendations |                            |
 | --------------------------- | -------------------------- |
-| OS                          | Windows Server 2019 64-bit |
+| OS                          | Windows Server [System Requirements](./systemrequirements.md) |
 | Processor                   | i5, 2-4 Cores              |
 | Harddrive                   | 200 Gb, preferably SSD     |
 | RAM                         | 8 Gb                       |
@@ -48,7 +48,7 @@ As a summary let's consider 3 levels of applications. Here is an indication of s
 
 | Hardware/OS recommendations |                            |
 | --------------------------- | -------------------------- |
-| OS                          | Windows Server 2019 64-bit |
+| OS                          | Windows Server [System Requirements](./systemrequirements.md) |
 | Processor                   | i5, 4-8 Cores              |
 | Harddrive                   | 2Tb Gb, preferably SSD     |
 | RAM                         | 16 Gb                      |
@@ -69,7 +69,7 @@ As a summary let's consider 3 levels of applications. Here is an indication of s
 
 | Hardware/OS recommendations |                            |
 | --------------------------- | -------------------------- |
-| OS                          | Windows Server 2019 64-bit |
+| OS                          | Windows Server [System Requirements](./systemrequirements.md) |
 | Processor                   | i7, 8-32 Cores             |
 | Harddrive                   | 5Tb Gb, preferably SSD     |
 | RAM                         | 32 Gb                      |
@@ -134,9 +134,9 @@ So with all of that said: how much RAM do you need? That is, how much RAM is nec
 
 ### Operating System
 
-Arrigo is only supported on 64-bit Windows platform. For any installation we recommend using Windows Server 2019. Windows 10 Pro may be used for engineering, configuration and commissioning but is not recommended for running installations.
+Arrigo is only supported on 64-bit Windows platforms. Please refer to [System Requirements](./systemrequirements.md) for the latest list of supported operating systems. For any installation we recommend using Windows Server platforms. Windows versions such as Windows 11 Pro may be used for engineering, configuration and commissioning but is not recommended for running installations.
 
-Please refer to [System Requirements](./systemrequirements.md) for a complete list of supported operating systems.
+
 
 ### SQL server
 
