@@ -20,7 +20,7 @@ Arrigo Local is tested and supported on the following OSs:
 
 ## Chromium Installer
 
-Chromium Installer is tested and supported on the following OS'es:
+Chromium Installer is tested and supported on the following OSs:
 
 * Windows 10
 * Windows 11
