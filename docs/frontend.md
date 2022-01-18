@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.293
+
+*2022-01-18*
+
+### Fixes/Improvements
+
+- Hotfix: TP#13827 - Upgraded version of instascan (#860)
+
 ## 1.0.292
 
 *2022-01-14*
