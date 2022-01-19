@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.294
+
+*2022-01-19*
+
+### Fixes/Improvements
+
+- Hotfix: TP#13753 THmeter connectServer fix (#859)
+
 ## 1.0.293
 
 *2022-01-18*
