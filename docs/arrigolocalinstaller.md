@@ -16,7 +16,7 @@ description: Change Log
 
 - Arrigo config transpiler: [1.0.157](./arrigo.config.transpiler.html#10157)
 
-- Required EXO installation: EXO 2019 Edition 4 Build 226
+- Required EXO installation: EXO 2019 Edition 4 Build [226](./arrigo.exo.releases.html#226)
 
 
 
