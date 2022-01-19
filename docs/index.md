@@ -30,7 +30,7 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 - Speed improvements for tree structure/folders query
 - Refactoring and improvements for Calculated Meter Application
 
-### Current build: 
+### Current build (change logs): 
 - Frontend: [1.0.289](./frontend.html#10287)
 - Arrigo API: [1.0.54](./arrigoapi.html#1054)
 
@@ -50,7 +50,7 @@ We strongly recommend that you test out our (really fast) latest version.
 
 If you encounter problems in your project, don't hesitate to get in touch with us.
 
-### Builds (change log)
+### Builds (change logs)
 - Latest: [1.1.199](./arrigolocalinstaller.html#11199)
 - Stable: [1.1.169](./arrigolocalinstaller.html#11169)
 
