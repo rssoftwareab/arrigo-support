@@ -11,5 +11,5 @@ description: Change Log
 - Arrigo Legacy Templates for PID and ManAuto views.
 - Fixed text-issue in dialog box for setting dates. 
 - Calendar view - fixed issue with periods spanning over a month change.
-- **Project Builder: TP-#12969**  Changed shortcut-keys for Arrigo Folder Views Tool to Control+Shift+X
+- Project Builder: Changed shortcut-keys for Arrigo Folder Views Tool to Control+Shift+X (TP-12969)
 
