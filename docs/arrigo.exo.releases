@@ -1,22 +1,14 @@
 ---
 layout: main
-title: Releases - Arrigo Config Transpiler
+title: Releases - Exo 2019 Edition 4
 description: Change Log
 ---
 
 # Change Log
 
-## Upcoming releases
-## 1.1.157
-*2021-12-21*
-- Hotfix: added callback attributes to list of nondefault values. Fixes issues with visible&enabled binding in expressions.
+## 226
+*2022-01-19*
+- Arrigo Legacy Templates for PID and ManAuto views.
+- Fixed text-issue in dialog box for setting dates. 
+- Calendar view - fixed issue with periods spanning over a month change.
 
-## 1.1.156
-*2021-12-10*
-
-* Fix: Swedish letters for eventcode and expressions (#5)
-
-## 1.1.155
-*2021-12-09*
-
-* Fix: Translate language (defaults to english if the language file is missing)
