@@ -50,9 +50,9 @@ We strongly recommend that you test out our (really fast) latest version.
 
 If you encounter problems in your project, don't hesitate to get in touch with us.
 
-### Builds
-- Latest: [1.1.199](./arrigolocalinstaller.html#11199) (change log)
-- Stable: [1.1.169](./arrigolocalinstaller.html#11169) (change log)
+### Builds (change log)
+- Latest: [1.1.199](./arrigolocalinstaller.html#11199)
+- Stable: [1.1.169](./arrigolocalinstaller.html#11169)
 
 
 
