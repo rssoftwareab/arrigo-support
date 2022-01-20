@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.296
+
+*2022-01-20*
+
+### Fixes/Improvements
+
+- Hotfix: PackageLoader Problem (#866)
+
 ## 1.0.295
 
 *2022-01-20*
