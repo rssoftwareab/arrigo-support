@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.295
+
+*2022-01-20*
+
+### Fixes/Improvements
+
+- Hotfix: ADO#152 - Rerender panelmode data on componentDidUpdate (#864)
+- Hotfix: TP#12999 - Default to undefined unit if signals unit evaluates to empty string (#863)
+
 ## 1.0.294
 
 *2022-01-19*
