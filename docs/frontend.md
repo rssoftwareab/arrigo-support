@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.297
+
+*2022-01-21*
+
+### Fixes/Improvements
+
+- Hotfix: Signal tolerance as float (#862)
+
 ## 1.0.296
 
 *2022-01-20*
