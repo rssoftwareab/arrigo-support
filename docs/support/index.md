@@ -9,7 +9,7 @@ description: QnA
 
 [Scheduled Windows task to run in background](https://releases.arrigo.se/support/index.html#my-scheduled-task-runs-in-foreground-blue-box)
 
-[Controllers Web swipe does not work on panel PC](https://releases.arrigo.se/support/index.html#Controllers-Web-swipe-does-not-work-on-panel-PC)
+[Controllers Web swipe does not work on panel PC](https://releases.arrigo.se/support/index.html#question-2)
 
 [Arrigo button in view maneuver open document does not work](https://releases.arrigo.se/support/index.html#Arrigo-button-in-view-maneuver-open-document-does-not-work)
 
@@ -64,6 +64,7 @@ To enable touch events add --touch-events as an argument in Target of the shortc
  
 Chrome shortcut > Properties > 
 Target: "C:\Program Files\Google\Chrome\Application\chrome.exe" --touch-events
+
 ![Chrome shortcut](./images/image.png)
 
 ## Arrigo button in view maneuver open document does not work
