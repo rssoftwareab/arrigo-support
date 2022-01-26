@@ -63,3 +63,4 @@ To enable touch events add --touch-events as an argument in Target of the shortc
  
 Chrome shortcut > Properties > 
 Target: "C:\Program Files\Google\Chrome\Application\chrome.exe" --touch-events
+![Chrome shortcut](./images/image.png)
