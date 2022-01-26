@@ -9,6 +9,9 @@ description: QnA
 
 [Scheduled Windows task to run in background](https://releases.arrigo.se/support/index.html#my-scheduled-task-runs-in-foreground-blue-box)
 
+[Controllers Web swipe does not work on panel PC](https://releases.arrigo.se/support/index.html#Controllers-Web-swipe-does-not-work-on-panel-PC)
+
+
 ## Broken image links
 
 ### Question
@@ -49,3 +52,14 @@ When I setup a scheduled task in windows, the task runs in the foreground. I can
 
 Excellent article that explains how to configure your scheduled task.
 See [How do I set a Windows scheduled task to run in the background?](https://stackoverflow.com/questions/6568736/how-do-i-set-a-windows-scheduled-task-to-run-in-the-background)
+
+## Controllers Web swipe does not work on panel PC
+
+### Question
+Controller Web touch scroll does not work on DP156NX panel pc. However if a mouse is installed it all works fine.
+
+### Answer
+To enable touch events add --touch-events as an argument in Target of the shortcut to your Chrome browser.
+ 
+Chrome shortcut > Properties > 
+Target: "C:\Program Files\Google\Chrome\Application\chrome.exe" --touch-events
