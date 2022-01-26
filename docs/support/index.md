@@ -11,6 +11,7 @@ description: QnA
 
 [Controllers Web swipe does not work on panel PC](https://releases.arrigo.se/support/index.html#Controllers-Web-swipe-does-not-work-on-panel-PC)
 
+[Arrigo button in view maneuver open document does not work](https://releases.arrigo.se/support/index.html#Arrigo-button-in-view-maneuver-open-document-does-not-work)
 
 ## Broken image links
 
@@ -64,3 +65,12 @@ To enable touch events add --touch-events as an argument in Target of the shortc
 Chrome shortcut > Properties > 
 Target: "C:\Program Files\Google\Chrome\Application\chrome.exe" --touch-events
 ![Chrome shortcut](./images/image.png)
+
+## Arrigo button in view maneuver open document does not work
+
+### Question
+Open document work with link icons, why doesn't it work in view buttons?
+
+### Answer
+We recommend instead to use the OpenLink option in the button and redirect to the configured linkIcon with the document.
+During 2022/2023 we will build Arrigo Studio with the new viewdesigner, therefore we do not want to alter too much in the existing view designer as it is legacy code.
