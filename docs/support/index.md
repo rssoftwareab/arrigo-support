@@ -11,7 +11,7 @@ description: QnA
 
 [Controllers Web swipe does not work on panel PC](https://releases.arrigo.se/support/index.html#question-2)
 
-[Arrigo button in view maneuver open document does not work](https://releases.arrigo.se/support/index.html#Arrigo-button-in-view-maneuver-open-document-does-not-work)
+[Arrigo button in view maneuver open document does not work](https://releases.arrigo.se/support/index.html#arrigo-button-in-view-maneuver-open-document-does-not-work)
 
 ## Broken image links
 
