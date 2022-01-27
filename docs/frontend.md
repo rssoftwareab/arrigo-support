@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.300
+
+*2022-01-27*
+
+### Fixes/Improvements
+
+- Hotfix: TP#12936 Now accepts both . and , as delimiter. (#869)
+
 ## 1.0.299
 
 *2022-01-27*
