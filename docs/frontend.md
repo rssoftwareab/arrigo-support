@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.298
+
+*2022-01-27*
+
+### Fixes/Improvements
+
+- Hotfix: TP#13915 Remove old default route logic to make way for new linkicon routing (#870)
+- Hotfix: TP#13357 Moved delete building icon to settings (#871)
+
 ## 1.0.297
 
 *2022-01-21*
