@@ -28,7 +28,7 @@ Select "Download" and save the activation certificate on a removable media.
 
 ### 3. Generate the license certificate
 
-Go to https://www.activationportal.me/selfservice/activation.aspx?Type=1&cid=7544&pid=9211&lang=en-US  and enter the computers activation certificate in the space provided, then select "Activate". Upon successful generation, a license certificate is generated and can be selected and saved on your removable media.
+Go to [activate license](https://www.activationportal.me/selfservice/activation.aspx?Type=1&cid=7544&pid=9211&lang=en-US)  and enter the computers activation certificate in the space provided, then select "Activate". Upon successful generation, a license certificate is generated and can be selected and saved on your removable media.
 
 ![image-20211210115742855](./images/generate_license.png)
 
@@ -62,4 +62,4 @@ The license is not inactive on the on-premise computer. Please deactivate the li
 
 ### 2. Deactivate license on license server
 
-Go to https://www.activationportal.me/selfservice/activation.aspx?Type=2&cid=7544&pid=9211&lang=en-US  and enter the computers deactivation certificate in the space provided, then select "Dactivate". Upon successful generation the license is now also deactivated in hte license server and can be used on another machine if required.
+Go to [deactivate license](https://www.activationportal.me/selfservice/activation.aspx?Type=2&cid=7544&pid=9211&lang=en-US)  and enter the computers deactivation certificate in the space provided, then select "Dactivate". Upon successful generation the license is now also deactivated in hte license server and can be used on another machine if required.
