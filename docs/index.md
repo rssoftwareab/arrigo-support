@@ -70,7 +70,7 @@ If you encounter problems in your project, don't hesitate to get in touch with u
 - [Deactivate license](https://www.activationportal.me/selfservice/deactivation.aspx?Type=2&cid=7544&pid=9211&lang=en-US)
 
 
-# Get notification on updates (beta)
+# Subscribe to notifications (beta)
 
 We are trialing using an automated notification service for your convenience. By subscribing we will notify you as soon as we have a new release available of Arrigo or any other applicable information in regards to Arrigo or its services.
 
