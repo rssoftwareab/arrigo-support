@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.299
+
+*2022-01-27*
+
+### Fixes/Improvements
+
+- Hotfix: ADO#185 Set initial folder to first child if users toggles panel mode (#867)
+- Hotfix: TP#13870 Chart colors and visible attribute (#868)
+
 ## 1.0.298
 
 *2022-01-27*
