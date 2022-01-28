@@ -7,7 +7,9 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
-
+## 1.1.202
+*2021-12-10*
+- Hotfix: Corrected return value when calling register in ssf service
 ## 1.1.201
 *2021-12-10*
 - Fix: Volumes fileInfo contains correct data.
