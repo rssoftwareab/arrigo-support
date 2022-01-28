@@ -19,3 +19,6 @@ description: Change Log
 - **TP #11348** SVG:s smaller than 15 px misaligned in view.
 - **TP #12277** TextSelect texts and Symbol pictures supports ExoScada default value syntax (||) .
 
+## 108
+
+_Since June 2021_
