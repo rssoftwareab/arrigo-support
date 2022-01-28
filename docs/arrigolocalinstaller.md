@@ -4,7 +4,7 @@ title: Releases - Arrigo Local
 description: Change Log
 ---
 # Change Log
-## 1.1.201
+## 1.1.202
 2022-01-28
 - Frontend: [1.0.300](./frontend.html#10300)
 
