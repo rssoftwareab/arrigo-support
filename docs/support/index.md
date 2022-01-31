@@ -13,6 +13,8 @@ description: QnA
 
 [Arrigo button in view maneuver open document does not work](https://releases.arrigo.se/support/index.html#arrigo-button-in-view-maneuver-open-document-does-not-work)
 
+[Use Arrigo's process management for my own services](sdfsd)
+
 ## Broken image links
 
 ### Question
@@ -75,3 +77,17 @@ Open document work with link icons, why doesn't it work in view buttons?
 ### Answer
 We recommend instead to use the OpenLink option in the button and redirect to the configured linkIcon with the document.
 During 2022/2023 we will build Arrigo Studio with the new viewdesigner, therefore we do not want to alter too much in the existing view designer as it is legacy code.
+
+## Use Arrigo's process management for my own services
+
+### Question
+If I have my own Node.JS application, can I piggy-back on Arrigo's services to manage startup and shutdown
+
+### Answer
+Arrigo uses a process manager called PM2 for its process management. At a glance it is an advanced process manager for production Node.js applications with load balancer, logs facility, startup script and micro service management.
+
+PM2 uses a file called ecosystem.config.js and it is located in your project folder (eg. C:\EXO Projects\Regin\Arrigo\pm2). All documentation about the file is located here: 
+[https://pm2.keymetrics.io/docs/usage/quick-start/](https://pm2.keymetrics.io/docs/usage/quick-start/)
+
+In short, add an entry (the command line command) to that file with the information of the Node.JS application you wish to run with Arrigo. 
+Attach the project again and the Node.JS application should be started. 
