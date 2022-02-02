@@ -63,14 +63,7 @@ If you encounter problems in your project, don't hesitate to get in touch with u
 
 
 
-# Offline licensing (beta)
-
-- [Instructions](./offline_licensing.md)
-- [Activate license](https://www.activationportal.me/selfservice/activation.aspx?Type=1&cid=7544&pid=9211&lang=en-US)
-- [Deactivate license](https://www.activationportal.me/selfservice/deactivation.aspx?Type=2&cid=7544&pid=9211&lang=en-US)
-
-
-# Subscribe to notifications (beta)
+# Subscribe to notifications
 
 We are trialing using an automated notification service for your convenience. By subscribing we will notify you as soon as we have a new release available of Arrigo or any other applicable information in regards to Arrigo or its services.
 
@@ -79,4 +72,13 @@ You may unsubscribe at anytime with the same link.
 [Sign-up link](http://eepurl.com/hTdlmX)
 
 [Latest Notification](https://mailchi.mp/b85beff88650/final-test-arrigo-update-8974037)
+
+
+
+# Offline licensing (beta)
+
+- [Instructions](./offline_licensing.md)
+- [Activate license](https://www.activationportal.me/selfservice/activation.aspx?Type=1&cid=7544&pid=9211&lang=en-US)
+- [Deactivate license](https://www.activationportal.me/selfservice/deactivation.aspx?Type=2&cid=7544&pid=9211&lang=en-US)
+
 
