@@ -65,7 +65,7 @@ If you encounter problems in your project, don't hesitate to get in touch with u
 
 # Subscribe to notifications
 
-We are trialing using an automated notification service for your convenience. By subscribing we will notify you as soon as we have a new release available of Arrigo or any other applicable information in regards to Arrigo or its services.
+We have an automated notification service for your convenience. By subscribing we will notify you as soon as we have a new release available of Arrigo or any other applicable information in regards to Arrigo or its services.
 
 You may unsubscribe at anytime with the same link.
 
