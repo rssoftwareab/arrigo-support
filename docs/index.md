@@ -22,7 +22,7 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 # www.arrigo.se
 ### Latest changes
 
-**EMS Featuress**
+**EMS Features**
 
 -
 
