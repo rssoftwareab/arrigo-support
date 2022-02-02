@@ -10,6 +10,7 @@ description: Put this in your theme folder
 
 ```json
 {
+  "page_title": "",
   "header": {
     "images": {
       "logo": ""
@@ -17,9 +18,20 @@ description: Put this in your theme folder
     "height": {
       "normal": "70px",
       "small": "55px"
-    }
+    },
+    "logo_height": {
+      "normal": "24px",
+      "small": "15px"
+    },
+    "link_icons_height": ""
   },
   "login": {
+    "layout": {
+      "name": "",
+      "left_splash_image": "",
+      "top_center_image": "",
+      "bottom_right_image": ""
+    },
     "images": {
       "main_top_right_splash": "",
       "main_bottom_left_splash": "",
@@ -123,6 +135,7 @@ description: Put this in your theme folder
 }
 
 
+
 ```
 
 `colors.light.json`
@@ -165,7 +178,8 @@ description: Put this in your theme folder
       "additional_4": "#BDCEBE",
       "additional_5": "#B9936C",
       "additional_6": "#C94C4C",
-      "login_label": "#85919D"
+      "login_label": "#85919D",
+      "login_label_mobile": "#FFF"
     },
     "alt": {
       "default": "#286ECA",
@@ -188,6 +202,44 @@ description: Put this in your theme folder
       "neutral": "#1A1D35"
     },
     "opacity": 0.2
+  },
+  "legacy": {
+    "primary": {
+      "red": "#800000",
+      "lightRed": "#FF0000",
+      "green": "#008000",
+      "lightGreen": "#00FF00",
+      "darkAqua": "#209090",
+      "blue": "#000080",
+      "lightBlue": "#0000FF",
+      "cyan": "#008080",
+      "lightCyan": "#00FFFF",
+      "magenta": "#800080",
+      "lightMagenta": "#FF00FF",
+      "brown": "#808000",
+      "olive": "#808040",
+      "yellow": "#FFFF00",
+      "black": "#000000",
+      "darkGray": "#606060",
+      "gray": "#808080",
+      "lightGray": "#C0C0C0",
+      "white": "#FFFFFF",
+      "paleDarkRed": "#C04040",
+      "paleRed": "#FF8080",
+      "palePink": "#FFA0C0",
+      "paleOrange": "#FFC040",
+      "paleDarkPink": "#C000C0",
+      "paleDarkOrange": "#FF6020",
+      "paleBrown": "#C08020",
+      "paleYellow": "#FFFF80",
+      "paleDarkBlue": "#4040C0",
+      "paleBlue": "#8080FF",
+      "paleLightBlue": "#C0FFFF",
+      "palePurple": "#C0A0FF",
+      "paleDarkPurple": "#8040C0",
+      "paleGreen": "#80C080",
+      "paleDarkGreen": "#408040"
+    }
   },
   "borders": {
     "color": "#E9EDF1"
@@ -255,7 +307,8 @@ description: Put this in your theme folder
       "additional_4": "#BDCEBE",
       "additional_5": "#B9936C",
       "additional_6": "#C94C4C",
-      "login_label": "#eaeaeb"
+      "login_label": "#eaeaeb",
+      "login_label_mobile": "#FFF"
     },
     "alt": {
       "default": "#286ECA",
@@ -279,6 +332,44 @@ description: Put this in your theme folder
     },
     "opacity": 0.2
   },
+  "legacy": {
+    "primary": {
+      "red": "#800000",
+      "lightRed": "#FF0000",
+      "green": "#008000",
+      "lightGreen": "#00FF00",
+      "darkAqua": "#209090",
+      "blue": "#000080",
+      "lightBlue": "#0000FF",
+      "cyan": "#008080",
+      "lightCyan": "#00FFFF",
+      "magenta": "#800080",
+      "lightMagenta": "#FF00FF",
+      "brown": "#808000",
+      "olive": "#808040",
+      "yellow": "#FFFF00",
+      "black": "#000000",
+      "darkGray": "#606060",
+      "gray": "#808080",
+      "lightGray": "#C0C0C0",
+      "white": "#FFFFFF",
+      "paleDarkRed": "#C04040",
+      "paleRed": "#FF8080",
+      "palePink": "#FFA0C0",
+      "paleOrange": "#FFC040",
+      "paleDarkPink": "#C000C0",
+      "paleDarkOrange": "#FF6020",
+      "paleBrown": "#C08020",
+      "paleYellow": "#FFFF80",
+      "paleDarkBlue": "#4040C0",
+      "paleBlue": "#8080FF",
+      "paleLightBlue": "#C0FFFF",
+      "palePurple": "#C0A0FF",
+      "paleDarkPurple": "#8040C0",
+      "paleGreen": "#80C080",
+      "paleDarkGreen": "#408040"
+    }
+  },
   "borders": {
     "color": "#3d404a"
   },
@@ -301,7 +392,6 @@ description: Put this in your theme folder
     }
   }
 }
-
 
 ```
 
