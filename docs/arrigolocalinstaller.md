@@ -21,8 +21,8 @@ description: Change Log
 - Required EXO installation: EXO 2019 Edition 4 Build [226](./arrigo.exo.releases.html#226)
 
 **Note**  
-This version will install a newer version of the [.NET Windows Hosting Bundle](https://download.visualstudio.microsoft.com/download/pr/5b681079-0068-4c70-be77-af30f1154a83/cd5d074d8328fbc0b3bebf87c88ae082/dotnet-hosting-3.1.22-win.exe) (3.1.22).
-If you need install this version on an offline server you also must download and install the Hosting Bundle manually on the target machine.
+This release will install a newer version of the [.NET Windows Hosting Bundle](https://download.visualstudio.microsoft.com/download/pr/5b681079-0068-4c70-be77-af30f1154a83/cd5d074d8328fbc0b3bebf87c88ae082/dotnet-hosting-3.1.22-win.exe) (3.1.22).  
+To succeessfully install this release on an _offline server_ you must also first download and install the Hosting Bundle manually on the target machine.
 
 ## 1.1.202
 2022-01-28
