@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.301
+
+*2022-02-04*
+
+### Fixes/Improvements
+
+- Hotfix: Update Dutch, French and German translations (#872)
+
 ## 1.0.300
 
 *2022-01-27*
