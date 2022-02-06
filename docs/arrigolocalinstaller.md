@@ -138,7 +138,7 @@ To succeessfully install this release on an _offline server_ you must also first
 - Required EXO installation: EXO 2019 Edition 4 Build 108
 
 
-## 1.1.169 - EXO Service Release 226
+## 1.1.169
 
 2022-02-07
 - Frontend: [1.0.263](./frontend.html#10263)
@@ -152,7 +152,7 @@ To succeessfully install this release on an _offline server_ you must also first
 - Fix: Fixed argument typo (unsignedcadafunction vs unsigned**s**cadafunction)
 - Fix: Checking if the running user is member of BUILTIN\Administrators (#25)
 
-## 1.1.169 - EXO Service Release 108
+## 1.1.169
 
 2021-11-29
 - Frontend: [1.0.263](./frontend.html#10263)
