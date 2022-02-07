@@ -7,6 +7,16 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.302
+
+*2022-02-07*
+
+### Fixes/Improvements
+
+- Hotfix: #12831 Add "clear all" button to chart legend for collected signals (#873)
+- Hotfix: TP#8453 Use name if title attribute is missing (#874)
+- Hotfix: TP#11478 Numeric inputs and formats must follow language setting (#875)
+
 ## 1.0.301
 
 *2022-02-04*
