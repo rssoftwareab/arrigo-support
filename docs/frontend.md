@@ -7,6 +7,16 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.303
+
+*2022-02-10*
+
+### Fixes/Improvements
+
+- Hotfix: TP#12945 Columns percentage width not respected (#881)
+- Hotfix: MeterValues no longer null in listview (#880)
+- Hotfix: TP#14097 Disable native browser zoom event in chart (#879)
+
 ## 1.0.302
 
 *2022-02-07*
