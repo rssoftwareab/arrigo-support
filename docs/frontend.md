@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.304
+
+*2022-02-11*
+
+### Fixes/Improvements
+
+- Hotfix: TP#9640 Poke-Reply (#882)
+
 ## 1.0.303
 
 *2022-02-10*
