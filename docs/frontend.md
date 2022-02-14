@@ -136,35 +136,25 @@ description: Change Log
 
 ## 1.0.289
 
-*2022-01-13*
+*2022-01-14*
 
-### Fixes/Improvements
-
-- Added audit info from cw2 (#856)
-
-## 1.0.288
-
-*2022-01-12*
-
-### Fixes/Improvements
-
-- Hotfix: Schedule Christmas (#853)
+- Hotfix: Schedule Christmas login screen (#853)
+- Hotfix: Added support for audit info in views. (#856)
 
 ## 1.0.287
 
-*2021-12-20*
+*2021-12-21*
+
+- Feature: Fullscreen mode for tablets and mobiles (#826)
 
 ### Fixes/Improvements
 
 - Hotfix: Text select suggest list no defaults (#852)
-
-## 1.0.286
-
-*2021-12-20*
-
-### Fixes/Improvements
-
 - Hotfix: Fixup of invalid value and empty icons (#851)
+- Hotfix: TP#12914 - Saved axis domain on charts with generic filter (#847)
+- Hotfix: Christmas spirit (#848)
+- Hotfix: Add prefix to get correct translation for favorites (#846)
+- Hotfix: TP#12299 DefaultType and DefaultResolution on meter create (#845)
 
 ## 1.0.285
 
@@ -182,31 +172,6 @@ description: Change Log
 
 - Hotfix: Added default values to CWAV behavior for maneuver styles (#849)
 
-## 1.0.283
-
-*2021-12-17*
-
-### Fixes/Improvements
-
-- Hotfix: TP#12914 - Saved axis domain on charts with generic filter (#847)
-
-## 1.0.282
-
-*2021-12-17*
-
-### Fixes/Improvements
-
-- Hotfix: Christmas spirit (#848)
-
-## 1.0.281
-
-*2021-12-15*
-
-### Fixes/Improvements
-
-- Hotifix: Add prefix to get correct translation for favorites (#846)
-- Hotfix: TP#12299 DefaultType and DefaultResolution on meter create (#845)
-
 ## 1.0.280
 
 *2021-12-15*
@@ -218,130 +183,6 @@ description: Change Log
 - Hotfix: Alarm notifications includes all priorities (#842)
 - Hotfix: TP#13288 Missing translation in tree (#841)
 - Hotfix: Adjust spacing between header and content in panelmode (#840)
-
-## 1.0.279
-
-*2021-12-13*
-
-### New Features
-
-- Feature: Fullscreen mode for tablets and mobiles (#826)
-
-## 1.0.300
-
-*2022-01-27*
-
-### Fixes/Improvements
-
-- Hotfix: TP#12936 Now accepts both . and , as delimiter. (#869)
-
-## 1.0.299
-
-*2022-01-27*
-
-### Fixes/Improvements
-
-- Hotfix: ADO#185 Set initial folder to first child if users toggles panel mode (#867)
-- Hotfix: TP#13870 Chart colors and visible attribute (#868)
-
-## 1.0.298
-
-*2022-01-27*
-
-### Fixes/Improvements
-
-- Hotfix: TP#13915 Remove old default route logic to make way for new linkicon routing (#870)
-- Hotfix: TP#13357 Moved delete building icon to settings (#871)
-
-## 1.0.297
-
-*2022-01-21*
-
-### Fixes/Improvements
-
-- Hotfix: Signal tolerance as float (#862)
-
-## 1.0.296
-
-*2022-01-20*
-
-### Fixes/Improvements
-
-- Hotfix: PackageLoader Problem (#866)
-
-## 1.0.295
-
-*2022-01-20*
-
-### Fixes/Improvements
-
-- Hotfix: ADO#152 - Rerender panelmode data on componentDidUpdate (#864)
-- Hotfix: TP#12999 - Default to undefined unit if signals unit evaluates to empty string (#863)
-
-## 1.0.294
-
-*2022-01-19*
-
-### Fixes/Improvements
-
-- Hotfix: TP#13753 THmeter connectServer fix (#859)
-
-## 1.0.293
-
-*2022-01-18*
-
-### Fixes/Improvements
-
-- Hotfix: TP#13827 - Upgraded version of instascan (#860)
-
-## 1.0.292
-
-*2022-01-14*
-
-### Fixes/Improvements
-
-- Add support for meterslist on folderlevel (#855)
-
-## 1.0.291
-
-*2022-01-14*
-
-### Fixes/Improvements
-
-- Hotfix: Updates CMA Toolbox (#854)
-
-## 1.0.290
-
-*2022-01-14*
-
-### Fixes/Improvements
-
-- Hotfix: User administration (#857)
-
-## 1.0.289
-
-*2022-01-14*
-
-- Hotfix: Hotfix: Schedule Christmas login screen (#853)
-- Hotfix: Added support for audit info in views. (#856)
-
-## 1.0.287
-
-*2021-12-21*
-
-- Feature: Fullscreen mode for tablets and mobiles (#826)
-
-- Hotfix: Text select suggest list no defaults (#852)
-- Hotfix: Fixup of invalid value and empty icons (#851)
-- Hotfix: TP#12914 - Saved axis domain on charts with generic filter (#847)
-- Hotfix: Christmas spirit (#848)
-- Hotfix: Add prefix to get correct translation for favorites (#846)
-- Hotfix: TP#12299 DefaultType and DefaultResolution on meter create (#845)
-- Hotfix: THMeters fix (#844)
-- Hotfix: Panel mode gets stuck during navigation (#843)
-- Hotfix: Alarm notifications includes all priorities (#842)
-- Hotfix: Adjust spacing between header and content in panelmode (#840)
-- Hotfix: TP#13288 Missing translation in tree (#841)
 
 ## 1.0.278
 
