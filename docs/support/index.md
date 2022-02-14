@@ -98,15 +98,15 @@ Attach the project again and the Node.JS application should be started.
 
 ### Question
 
-After a reboot of the server views with SSF code (ServerSide Functions) and reports aren't displaying correctly.  
-For example, If I click a report nothing is shown except the loader.
+After a reboot of the server  views with SSF code (ServerSide Functions) and reports aren't displaying correctly.  
+For example, if I click a report nothing is shown except the loader.
 
 ### Answer
 
-Verify (on the server) that the Arrigo Services aren't running:
+Verify (on the server) whether the Arrigo Services are running or not:
 
 * Open the Task Manager
-* Check for processes starting with "arrigo-". These should be running:
+* Check for processes starting with "arrigo-". An example of a working server:
   ![](./images/pm2_resurrect_task_manager_1.png)
 
 If they _are_ running you should instead look at [this document](https://releases.arrigo.se/help/websockets.html) which talks about websockets.
