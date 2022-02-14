@@ -7,6 +7,42 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.304
+
+*2022-02-11*
+
+### Fixes/Improvements
+
+- Hotfix: TP#9640 Poke-Reply (#882)
+
+## 1.0.303
+
+*2022-02-10*
+
+### Fixes/Improvements
+
+- Hotfix: TP#12945 Columns percentage width not respected (#881)
+- Hotfix: MeterValues no longer null in listview (#880)
+- Hotfix: TP#14097 Disable native browser zoom event in chart (#879)
+
+## 1.0.302
+
+*2022-02-07*
+
+### Fixes/Improvements
+
+- Hotfix: #12831 Add "clear all" button to chart legend for collected signals (#873)
+- Hotfix: TP#8453 Use name if title attribute is missing (#874)
+- Hotfix: TP#11478 Numeric inputs and formats must follow language setting (#875)
+
+## 1.0.301
+
+*2022-02-04*
+
+### Fixes/Improvements
+
+- Hotfix: Update Dutch, French and German translations (#872)
+
 ## 1.0.300
 
 *2022-01-27*
@@ -102,7 +138,7 @@ description: Change Log
 
 *2022-01-14*
 
-- Hotfix: Hotfix: Schedule Christmas login screen (#853)
+- Hotfix: Schedule Christmas login screen (#853)
 - Hotfix: Added support for audit info in views. (#856)
 
 ## 1.0.287
@@ -111,17 +147,42 @@ description: Change Log
 
 - Feature: Fullscreen mode for tablets and mobiles (#826)
 
+### Fixes/Improvements
+
 - Hotfix: Text select suggest list no defaults (#852)
 - Hotfix: Fixup of invalid value and empty icons (#851)
 - Hotfix: TP#12914 - Saved axis domain on charts with generic filter (#847)
 - Hotfix: Christmas spirit (#848)
 - Hotfix: Add prefix to get correct translation for favorites (#846)
 - Hotfix: TP#12299 DefaultType and DefaultResolution on meter create (#845)
+
+## 1.0.285
+
+*2021-12-19*
+
+### Fixes/Improvements
+
+- bump version (#850)
+
+## 1.0.284
+
+*2021-12-19*
+
+### Fixes/Improvements
+
+- Hotfix: Added default values to CWAV behavior for maneuver styles (#849)
+
+## 1.0.280
+
+*2021-12-15*
+
+### Fixes/Improvements
+
 - Hotfix: THMeters fix (#844)
 - Hotfix: Panel mode gets stuck during navigation (#843)
 - Hotfix: Alarm notifications includes all priorities (#842)
-- Hotfix: Adjust spacing between header and content in panelmode (#840)
 - Hotfix: TP#13288 Missing translation in tree (#841)
+- Hotfix: Adjust spacing between header and content in panelmode (#840)
 
 ## 1.0.278
 
