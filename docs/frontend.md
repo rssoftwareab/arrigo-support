@@ -99,9 +99,12 @@ description: Change Log
 - Hotfix: User administration (#857)
 
 ## 1.0.289
+
 *2022-01-14*
+
 - Hotfix: Hotfix: Schedule Christmas login screen (#853)
 - Hotfix: Added support for audit info in views. (#856)
+
 ## 1.0.287
 
 *2021-12-21*
@@ -119,6 +122,7 @@ description: Change Log
 - Hotfix: Alarm notifications includes all priorities (#842)
 - Hotfix: Adjust spacing between header and content in panelmode (#840)
 - Hotfix: TP#13288 Missing translation in tree (#841)
+
 ## 1.0.278
 
 *2021-12-10*
