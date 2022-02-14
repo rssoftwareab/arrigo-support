@@ -14,6 +14,7 @@ description: Change Log
 *2021-01-28*
 
 * Hotfix: auto SSF reconnect when attach/detach project(#78)
+
 ## 1.1.107
 
 *2021-12-09*
