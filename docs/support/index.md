@@ -7,13 +7,13 @@ description: QnA
 # Common questions and answers
 [Broken image links](#broken-image-links)
 
-[Scheduled Windows task to run in background](https://releases.arrigo.se/support/index.html#my-scheduled-task-runs-in-foreground-blue-box)
+[Scheduled Windows task to run in background](#my-scheduled-task-runs-in-foreground-blue-box)
 
-[Controllers Web swipe does not work on panel PC](https://releases.arrigo.se/support/index.html#question-2)
+[Controllers Web swipe does not work on panel PC](#question-2)
 
-[Arrigo button in view maneuver open document does not work](https://releases.arrigo.se/support/index.html#arrigo-button-in-view-maneuver-open-document-does-not-work)
+[Arrigo button in view maneuver open document does not work](#arrigo-button-in-view-maneuver-open-document-does-not-work)
 
-[Use Arrigo's process management for my own services](https://github.com/rssoftwareab/arrigo-support/blob/master/docs/support/index.md#use-arrigos-process-management-for-my-own-services)
+[Use Arrigo's process management for my own services](#use-arrigos-process-management-for-my-own-services)
 
 ## Broken image links
 
