@@ -13,7 +13,7 @@ The ArrigoLocal API has *two* specific endpoints for creating new WebSocket conn
 
 ## How to check for errors
 
-Besides the most obvious, checking that the view looks like expected, you can also use the browser DevTools. Go to the Network tab and filter on WebSockets (WS). You should be able to see both the WebSocket upgrade process (handshake) and also inspect the actual messages sent between the browser and the API:
+Besides the most obvious, checking that the view looks like expected, you can also use the browser DevTools. Go to the Network tab and filter on WebSockets (WS). You should be able to see both the WebSocket upgrade process (handshake) and also inspect the actual messages sent between the browser and the API:  
 ![DevTools](./images/ws1.png)
 
 ## Common errors
