@@ -7,6 +7,12 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+## 1.0.205
+
+*2022-01-14*
+
+* Fix: Audit Log entries are now written correctly (with titles) (TP#8504)
+
 ## 1.0.204
 
 *2021-12-09*

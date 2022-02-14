@@ -11,7 +11,7 @@ description: instructions and binaries
 
 *Arrigo Local Installer requires PowerShell 5 or newer to run.*
 
-Arrigo Local is tested and supported on the following OS'es:
+Arrigo Local is tested and supported on the following OSs:
 
 * Windows 10 Pro (for engineering, configuration or commissioning and in products delivered by Regin)
 * Windows 11 Pro (for engineering, configuration or commissioning and in products delivered by Regin)
@@ -20,7 +20,7 @@ Arrigo Local is tested and supported on the following OS'es:
 
 ## Chromium Installer
 
-Chromium Installer is tested and supported on the following OS'es:
+Chromium Installer is tested and supported on the following OSs:
 
 * Windows 10
 * Windows 11
