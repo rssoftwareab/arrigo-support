@@ -139,7 +139,7 @@ These commands will fail if your server isn't connected to the internet. In that
   ![](./images/pm2_resurrect_basic_task_5.png)
 * Select the option "Run whether the user is logged on or not"
   ![](./images/pm2_resurrect_basic_task_6.png)
-* When you click "OK" you will be prompted for the password of the currently logged on user. Enter it and click "OK"
+* When you click "OK" you will be prompted for the password of the currently logged on user. Enter it and click "OK"  
   ![](./images/pm2_resurrect_basic_task_7.png)
 
 Reboot the machine and verify that the Arrigo Services are running.
