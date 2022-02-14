@@ -122,7 +122,7 @@ If the commands ran without errors you can reboot the machine and verify that th
 If the services still aren't running you can try [solution 2](#solution-2).
 
 **Note!**  
-The commands will fail if your server isn't connected to the internet. In that case you can contact arrigosupport@rssoftware.se for further instructions.
+These commands will fail if your server isn't connected to the internet. In that case you can contact arrigosupport@rssoftware.se for further instructions.
 
 #### Solution 2
 
