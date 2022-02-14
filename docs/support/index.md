@@ -5,7 +5,7 @@ description: QnA
 ---
 
 # Common questions and answers
-[Broken image links](https://releases.arrigo.se/support/index.html#broken-image-links)
+[Broken image links](#broken-image-links)
 
 [Scheduled Windows task to run in background](https://releases.arrigo.se/support/index.html#my-scheduled-task-runs-in-foreground-blue-box)
 
