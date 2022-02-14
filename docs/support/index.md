@@ -15,6 +15,8 @@ description: QnA
 
 [Use Arrigo's process management for my own services](#use-arrigos-process-management-for-my-own-services)
 
+[Arrigo Services are not starting up after reboot](#arrigo-services-are-not-starting-up-after-reboot)
+
 ## Broken image links
 
 ### Question
@@ -91,3 +93,38 @@ PM2 uses a file called ecosystem.config.js and it is located in your project fol
 
 In short, add an entry (the command line command) to that file with the information of the Node.JS application you wish to run with Arrigo. 
 Attach the project again and the Node.JS application should be started. 
+
+## Arrigo Services are not starting up after reboot
+
+### Question
+
+After a reboot of the server views with SSF code (ServerSide Functions) and reports aren't displaying correctly.  
+For example, If I click a report nothing is shown except the loader.
+
+### Answer
+
+Verify (on the server) that the Arrigo Services aren't running:
+
+* Open the Task Manager
+* Check for processes starting with "arrigo-". These processes should be running:
+
+If they _are_ running you should instead look at [this document](https://releases.arrigo.se/help/websockets.html) which talks about websockets.
+
+#### Solution 1
+
+* Open a command prompt or PowerShell prompt in **admin mode**
+* Run the command `npm install pm2-windows-startup -g`
+* Run the command `pm2-startup install`
+
+If the commands ran without errors you can reboot the machine and verify that the Arrigo Services are running.
+
+If the services still aren't running you can try [solution 2](#solution-2).
+
+**Note!**  
+The commands will fail if your server isn't connected to the internet. In that case you can contact arrigosupport@rssoftware.se for further instructions.
+
+#### Solution 2
+
+* Open the Task Scheduler in Windows
+* Create a new Basic Task with the name "pm2 resurrect"
+  * 
