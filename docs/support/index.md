@@ -65,7 +65,7 @@ Controller Web touch scroll does not work on DP156NX panel pc. However if a mous
 
 ### Answer
 To enable touch events add --touch-events as an argument in Target of the shortcut to your Chrome browser.
- 
+
 Chrome shortcut > Properties > 
 Target: "C:\Program Files\Google\Chrome\Application\chrome.exe" --touch-events
 
@@ -106,7 +106,8 @@ For example, If I click a report nothing is shown except the loader.
 Verify (on the server) that the Arrigo Services aren't running:
 
 * Open the Task Manager
-* Check for processes starting with "arrigo-". These processes should be running:
+* Check for processes starting with "arrigo-". These should be running:
+  ![](./images/pm2_resurrect_task_manager_1.png)
 
 If they _are_ running you should instead look at [this document](https://releases.arrigo.se/help/websockets.html) which talks about websockets.
 
@@ -127,4 +128,20 @@ The commands will fail if your server isn't connected to the internet. In that c
 
 * Open the Task Scheduler in Windows
 * Create a new Basic Task with the name "pm2 resurrect"
-  * 
+  ![](./images/pm2_resurrect_basic_task_1.png)
+* Configure it to run when the computer starts
+  ![](./images/pm2_resurrect_basic_task_2.png)
+* Select "Start a program" as the Action
+  ![](./images/pm2_resurrect_basic_task_3.png)
+* Enter `pm2` as the Program/script and `resurrect` as an argument
+  ![](./images/pm2_resurrect_basic_task_4.png)
+* Tick the "Open the Properties dialog..." checkbox and click "Finish"
+  ![](./images/pm2_resurrect_basic_task_5.png)
+* Select the option "Run whether the user is logged on or not"
+  ![](./images/pm2_resurrect_basic_task_6.png)
+* When you click "OK" you will be prompted for the password of the currently logged on user. Enter it and click "OK"
+  ![](./images/pm2_resurrect_basic_task_7.png)
+
+Reboot the machine and verify that the Arrigo Services are running.
+
+If the services still aren't running you can can contact arrigosupport@rssoftware.se for further troubleshooting.
