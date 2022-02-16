@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.305
+
+*2022-02-16*
+
+### Fixes/Improvements
+
+- Hotfix: TP#14561 Legacy User Admin fails if hosted on non-standard port (#889)
+
 ## 1.0.304
 
 *2022-02-11*
