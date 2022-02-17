@@ -7,6 +7,8 @@ description: Change Log
 
 ## Next release
 
+
+## 1.1.207
 2022-02-17
 - Frontend: [1.0.307](./frontend.html#10307)
 
@@ -31,7 +33,6 @@ This release will install a newer version of the [.NET Windows Hosting Bundle](h
 To succeessfully install this release on an _offline server_ you must also first download and install the Hosting Bundle manually on the target machine.
 
 ## 1.1.203
-
 2022-02-04
 - Frontend: [1.0.300](./frontend.html#10300)
 
