@@ -9,11 +9,11 @@ description: Change Log
 ## Upcoming releases
 ## 1.1.160
 *2022-02-16*
-- Fix: Poke with multipla bindings in one element (TP#14224)
+- Fix: Poke with multiple bindings in an element (TP#14224)
 
 ## 1.1.158
 *2022-02-09*
-- Fix: comments in code (TP#14108)
+- Fix: //* comments misunderstood in view code (TP#14108)
 
 ## 1.1.157
 *2021-12-21*
