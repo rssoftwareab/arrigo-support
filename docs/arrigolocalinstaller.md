@@ -10,7 +10,7 @@ description: Change Log
 2022-02-XX
 - Frontend: [1.0.307](./frontend.html#10307)
 
-- Arrigo Local API: [1.0.2XX](./arrigolocalapi.html#102XX)
+- Arrigo Local API: [1.0.206](./arrigolocalapi.html#10206)
 
 - Arrigo Local Scada Function: [1.1.111](./arrigolocalscadafunction.html#11111)
 
