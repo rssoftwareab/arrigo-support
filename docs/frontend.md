@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.306
+
+*2022-02-17*
+
+### Fixes/Improvements
+
+- Hotfix: TP#14462 Use id instead of folderID in meterTitleQuery (#887)
+- Hotfix: TP#14324 Correct faulty theme variable and add opacity IOS fix (#886)
+
 ## 1.0.305
 
 *2022-02-16*
