@@ -7,6 +7,12 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+## 1.0.206
+
+*2022-02-17*
+
+* Fix: Writable access in Account views (TP#14557)
+
 ## 1.0.205
 
 *2022-01-14*
