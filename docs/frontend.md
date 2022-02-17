@@ -7,6 +7,19 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.307
+
+*2022-02-17*
+
+### Fixes/Improvements
+
+- Hotfix: TP#14548 Time zone issues when using BMS (#893)
+- Hotfix: TP#14562 Escaping quotes and apostrophes in Text elements (#894)
+- Hotfix: TP#14604 Widgets on account level (#892)
+- Hotfix: TP#14527 EMS: User admin glitch (#891)
+- Hotfix: TP#14602 Numberinput keypad delimiter (#890)
+- Hotfix: TP#14274 View with no elements does not show background (#888)
+
 ## 1.0.306
 
 *2022-02-17*
