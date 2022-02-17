@@ -144,4 +144,11 @@ These commands will fail if your server isn't connected to the internet. In that
 
 Reboot the machine and verify that the Arrigo Services are running.
 
+If the services still aren't running you can try [solution 3](#solution-3).
+
+#### Solution 3
+
+Basically the same as Solution 2 but changing the Scheduled Task to run as SYSTEM.  
+Edit the existing task by following the instructions at [https://stackoverflow.com/a/6568823](https://stackoverflow.com/a/6568823)
+
 If the services still aren't running you can can contact arrigosupport@rssoftware.se for further troubleshooting.
