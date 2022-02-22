@@ -7,6 +7,25 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.308
+
+*2022-02-22*
+
+### New Features
+
+- Feature: More Cypress test ids (#898)
+- Feature: Prepare upgrade of GraphQL backend (#896)
+- Feature: Panel mode retake (#895)
+- Feature: Remove test-package "react-test-attributes" (#884)
+- Feature: Cypress test integration (#883)
+- Feature: Theme toggler (#878)
+- Feature: Cypress test IDs integration (#877)
+### Fixes/Improvements
+
+- Release: 2022-02-22
+- Beta Release: 2022-02-22
+- Fix: Navigation display issue when toggling Panel Mode (#897)
+
 ## 1.0.307
 
 *2022-02-17*
