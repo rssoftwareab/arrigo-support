@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.311
+
+*2022-02-23*
+
+### Fixes/Improvements
+
+- Hotfix: Added trend filter language entrys (#906)
+
 ## 1.0.310
 
 *2022-02-23*
