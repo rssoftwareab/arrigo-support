@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.310
+
+*2022-02-23*
+
+### Fixes/Improvements
+
+- Hotfix: Chart error when loading saved work (#902)
+
 ## 1.0.309
 
 *2022-02-23*
