@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.309
+
+*2022-02-23*
+
+### Fixes/Improvements
+
+- Hotfix: No folder selected when refresh in PanelMode (#901)
+
 ## 1.0.308
 
 *2022-02-22*
