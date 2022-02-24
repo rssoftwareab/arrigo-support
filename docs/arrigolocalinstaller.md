@@ -7,7 +7,7 @@ description: Change Log
 
 ## Next release
 
-## 1.1.211
+## 1.1.212
 2022-02-24
 - Frontend: [1.0.307](./frontend.html#10307)
 
