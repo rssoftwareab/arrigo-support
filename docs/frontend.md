@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.313
+
+*2022-02-24*
+
+### Fixes/Improvements
+
+- Hotfix: TP#14616 Force consumption view for calculated meters (#905)
+
 ## 1.0.312
 
 *2022-02-24*
