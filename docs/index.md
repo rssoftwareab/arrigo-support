@@ -61,7 +61,9 @@ If you encounter problems in your project, don't hesitate to get in touch with u
 - [Theming in Arrigo](./theme_arrigo.md)
 - [Common questions and answers](./support/index.md)
 
+# Video Tutorials
 
+[YouTube playlist](https://www.youtube.com/playlist?list=PLi1Lr1f_Ih7z9Cg7ZH_zZYBwdyMvfj6nq)
 
 # Subscribe to notifications
 
@@ -80,5 +82,4 @@ You may unsubscribe at anytime with the same link.
 - [Instructions](./offline_licensing.md)
 - [Activate license](https://www.activationportal.me/selfservice/activation.aspx?Type=1&cid=7544&pid=9211&lang=en-US)
 - [Deactivate license](https://www.activationportal.me/selfservice/deactivation.aspx?Type=2&cid=7544&pid=9211&lang=en-US)
-
 
