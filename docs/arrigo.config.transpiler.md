@@ -9,7 +9,7 @@ description: Change Log
 ## Upcoming releases
 ## 1.1.161
 *2022-02-24*
-- Fix: 
+- Fix: Better binding handling (underscores etc.) (TP#14758)
 
 ## 1.1.160
 *2022-02-16*
