@@ -71,7 +71,7 @@ You may unsubscribe at anytime with the same link.
 
 [Sign-up link](http://eepurl.com/hTdlmX)
 
-[Latest Notification](https://mailchi.mp/793802f4d472/final-test-arrigo-update-8981233)
+[Latest Notification](https://mailchi.mp/a7a136e1ed14/final-test-arrigo-update-8984193)
 
 
 
