@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.312
+
+*2022-02-24*
+
+### Fixes/Improvements
+
+- Hotfix: Add z-index to toggler-container (#904)
+- Hotfix: TP#14673 Map not displaying pin (#903)
+
 ## 1.0.311
 
 *2022-02-23*
