@@ -7,6 +7,10 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+## 1.1.161
+*2022-02-24*
+- Fix: 
+
 ## 1.1.160
 *2022-02-16*
 - Fix: Poke with multiple bindings in an element (TP#14224)
