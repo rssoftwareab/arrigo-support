@@ -51,7 +51,7 @@ We strongly recommend that you test out our (really fast) latest version.
 If you encounter problems in your project, don't hesitate to get in touch with us.
 
 ### Builds (change logs)
-- Latest: [1.1.212](./arrigolocalinstaller.html#11212)
+- Latest: [1.1.215](./arrigolocalinstaller.html#11215)
 - Stable: [1.1.169](./arrigolocalinstaller.html#11169)
 
 
