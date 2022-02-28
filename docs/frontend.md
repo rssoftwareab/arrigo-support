@@ -6,6 +6,21 @@ description: Change Log
 # Change Log
 
 ## Next Releases
+## 1.0.307
+
+*2022-02-28*
+
+### Fixes/Improvements
+
+- Hotfix: TP#14616 Force consumption view for calculated meters (#905)
+- Hotfix: Add z-index to toggler-container (#904)
+- Hotfix: TP#14673 Map not displaying pin (#903)
+- Hotfix: Added trend filter language entrys (#906)
+- Hotfix: Chart error when loading saved work (#902)
+- Hotfix: No folder selected when refresh in PanelMode (#901)
+- Feature: Panel mode retake (#895)
+- Feature: Cypress test IDs integration (#877)
+- Feature: Theme toggler (#878)
 
 ## 1.0.307
 
