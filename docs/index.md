@@ -44,10 +44,6 @@ Make sure you copy all your resources to your project Shared folder before.
 
 We also have a **known issue** with *Icon support in Buttons*.
 
-We have upgraded stable to our latest version. The latest is the new version including above changes.
-
-We strongly recommend that you test out our (really fast) latest version.
-
 If you encounter problems in your project, don't hesitate to get in touch with us.
 
 ### Builds (change logs)
