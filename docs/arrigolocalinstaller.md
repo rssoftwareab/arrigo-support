@@ -7,25 +7,73 @@ description: Change Log
 
 ## Next release
 
-2022-02-XX
-- Frontend: [1.0.3XX](./frontend.html#103XX)
+## 1.1.216
+2022-02-28
+- Frontend: [1.0.311](./frontend.html#10311)
 
-- Arrigo Local API: [1.0.2XX](./arrigolocalapi.html#102XX)
+- Arrigo Local API: [1.0.206](./arrigolocalapi.html#10206)
 
-- Arrigo Local Scada Function: [1.1.1XX](./arrigolocalscadafunction.html#111XX)
+- Arrigo Local Scada Function: [1.1.112](./arrigolocalscadafunction.html#11112)
 
-- Arrigo Local Services: [1.0.2XX](./arrigolocalservices.html#102XX)
+- Arrigo Local Services: [1.0.202](./arrigolocalservices.html#10202)
 
-- Arrigo config transpiler: [1.0.1XX](./arrigo.config.transpiler.html#101XX)
+- Arrigo config transpiler: [1.0.162](./arrigo.config.transpiler.html#10162)
 
 - Required EXO installation: EXO 2019 Edition 4 Build [226](./arrigo.exo.releases.html#226)
-- 
+
+## 1.1.215
+2022-02-25
+- Frontend: [1.0.307](./frontend.html#10307)
+
+- Arrigo Local API: [1.0.206](./arrigolocalapi.html#10206)
+
+- Arrigo Local Scada Function: [1.1.112](./arrigolocalscadafunction.html#11112)
+
+- Arrigo Local Services: [1.0.202](./arrigolocalservices.html#10202)
+
+- Arrigo config transpiler: [1.0.162](./arrigo.config.transpiler.html#10162)
+
+- Required EXO installation: EXO 2019 Edition 4 Build [226](./arrigo.exo.releases.html#226)
+
+## 1.1.213
+2022-02-24
+- Frontend: [1.0.307](./frontend.html#10307)
+
+- Arrigo Local API: [1.0.206](./arrigolocalapi.html#10206)
+
+- Arrigo Local Scada Function: [1.1.111](./arrigolocalscadafunction.html#11111)
+
+- Arrigo Local Services: [1.0.202](./arrigolocalservices.html#10202)
+
+- Arrigo config transpiler: [1.0.162](./arrigo.config.transpiler.html#10162)
+
+- Required EXO installation: EXO 2019 Edition 4 Build [226](./arrigo.exo.releases.html#226)
+
+## 1.1.208
+2022-02-17
+- Frontend: [1.0.307](./frontend.html#10307)
+
+- Arrigo Local API: [1.0.206](./arrigolocalapi.html#10206)
+
+- Arrigo Local Scada Function: [1.1.111](./arrigolocalscadafunction.html#11111)
+
+- Arrigo Local Services: [1.0.202](./arrigolocalservices.html#10202)
+
+- Arrigo config transpiler: [1.0.160](./arrigo.config.transpiler.html#10160)
+
+- Required EXO installation: EXO 2019 Edition 4 Build [226](./arrigo.exo.releases.html#226)
+
+### Tools and Runtime
+
+- Removed 'SelectColor' suggest in 'ArrigoChartTool'
+
+- Hotfix: Updated default values for reports (TP#13315)
+
 **Note**  
 This release will install a newer version of the [.NET Windows Hosting Bundle](https://download.visualstudio.microsoft.com/download/pr/5b681079-0068-4c70-be77-af30f1154a83/cd5d074d8328fbc0b3bebf87c88ae082/dotnet-hosting-3.1.22-win.exe) (3.1.22).  
 To succeessfully install this release on an _offline server_ you must also first download and install the Hosting Bundle manually on the target machine.
 
 ## 1.1.203
-
 2022-02-04
 - Frontend: [1.0.300](./frontend.html#10300)
 

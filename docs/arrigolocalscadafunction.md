@@ -8,6 +8,11 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.1.112
+
+*2021-02-25*
+
+* Hotfix: Global arguments at account level (TP#14860)
 
 ## 1.1.111
 

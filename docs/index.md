@@ -31,27 +31,23 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 - Refactoring and improvements for Calculated Meter Application
 
 ### Current build (change logs): 
-- Frontend: [1.0.289](./frontend.html#10287)
+- Frontend: [1.0.313](./frontend.html#10313)
 - Arrigo API: [1.0.54](./arrigoapi.html#1054)
 
 # Arrigo Local
 ### Latest changes
-We have replaced the core template parser (also known as transpiler, or maker). This means that performance is improved for all views and routes in the system. 
 
-We have also a breaking change: 
+
+We still have a breaking change: 
 - `Web:` translates to `Shared:/web` in all views.
 Make sure you copy all your resources to your project Shared folder before.
 
-We also have a **known issue** with *Icon support in Buttons*.
-
-We have upgraded stable to our latest version. The latest is the new version including above changes.
-
-We strongly recommend that you test out our (really fast) latest version.
+We have a **known issue** with *Icon support in Buttons*.
 
 If you encounter problems in your project, don't hesitate to get in touch with us.
 
 ### Builds (change logs)
-- Latest: [1.1.203](./arrigolocalinstaller.html#11203)
+- Latest: [1.1.216](./arrigolocalinstaller.html#11216)
 - Stable: [1.1.169](./arrigolocalinstaller.html#11169)
 
 
@@ -61,7 +57,9 @@ If you encounter problems in your project, don't hesitate to get in touch with u
 - [Theming in Arrigo](./theme_arrigo.md)
 - [Common questions and answers](./support/index.md)
 
+# Video Tutorials
 
+[YouTube playlist](https://www.youtube.com/playlist?list=PLi1Lr1f_Ih7z9Cg7ZH_zZYBwdyMvfj6nq)
 
 # Subscribe to notifications
 
@@ -71,7 +69,7 @@ You may unsubscribe at anytime with the same link.
 
 [Sign-up link](http://eepurl.com/hTdlmX)
 
-[Latest Notification](https://mailchi.mp/8965898f7431/final-test-arrigo-update-8975397)
+[Latest update](https://mailchi.mp/a055d48c7233/final-test-arrigo-update-8985397)
 
 
 
@@ -80,5 +78,4 @@ You may unsubscribe at anytime with the same link.
 - [Instructions](./offline_licensing.md)
 - [Activate license](https://www.activationportal.me/selfservice/activation.aspx?Type=1&cid=7544&pid=9211&lang=en-US)
 - [Deactivate license](https://www.activationportal.me/selfservice/deactivation.aspx?Type=2&cid=7544&pid=9211&lang=en-US)
-
 

@@ -7,6 +7,18 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+## 1.1.162
+*2022-02-24*
+- Fix: Better binding handling (underscores etc.) (TP#14758)
+
+## 1.1.160
+*2022-02-16*
+- Fix: Poke with multiple bindings in an element (TP#14224)
+
+## 1.1.158
+*2022-02-09*
+- Fix: //* comments misunderstood in view code (TP#14108)
+
 ## 1.1.157
 *2021-12-21*
 - Hotfix: added callback attributes to list of nondefault values. Fixes issues with visible&enabled binding in expressions.
