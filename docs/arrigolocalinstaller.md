@@ -6,6 +6,12 @@ description: Change Log
 # Change Log
 
 ## Next release
+## 1.1.xxx
+2022-03-03
+
+ArrigoAttach
+Hotfix:  Set IIS AppPool\ArrigoAppPool read rights on exoproject folder  (TP#14558)
+Hotfix: Rewrite pm2 list wrapper using json output. (#6)
 
 ## 1.1.216
 2022-02-28
