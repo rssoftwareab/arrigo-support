@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.314
+
+*2022-03-03*
+
+### Fixes/Improvements
+
+- Hotfix: TP#14804 Arrigo BMS - Chart max 8 signals with colors (#913)
+- Hotfix: TP#14769 Arrigo BMS - Blue reconnect bar (#915)
+
 ## 1.0.313
 
 *2022-02-24*
