@@ -6,21 +6,84 @@ description: Change Log
 # Change Log
 
 ## Next Releases
-## 1.0.311
 
-*2022-02-28*
+## 1.0.315
+
+*2022-03-03*
+
+### Fixes/Improvements
+
+- Hotfix: TP#14875 ET-report year colors (#911)
+- Hotfix: TP#14869 EMS: Spelling resolution, Swedish (#912)
+
+## 1.0.314
+
+*2022-03-03*
+
+### Fixes/Improvements
+
+- Hotfix: TP#14804 Arrigo BMS - Chart max 8 signals with colors (#913)
+- Hotfix: TP#14769 Arrigo BMS - Blue reconnect bar (#915)
+
+## 1.0.313
+
+*2022-02-24*
 
 ### Fixes/Improvements
 
 - Hotfix: TP#14616 Force consumption view for calculated meters (#905)
+
+## 1.0.312
+
+*2022-02-24*
+
+### Fixes/Improvements
+
 - Hotfix: Add z-index to toggler-container (#904)
 - Hotfix: TP#14673 Map not displaying pin (#903)
+
+## 1.0.311
+
+*2022-02-23*
+
+### Fixes/Improvements
+
 - Hotfix: Added trend filter language entrys (#906)
+
+## 1.0.310
+
+*2022-02-23*
+
+### Fixes/Improvements
+
 - Hotfix: Chart error when loading saved work (#902)
+
+## 1.0.309
+
+*2022-02-23*
+
+### Fixes/Improvements
+
 - Hotfix: No folder selected when refresh in PanelMode (#901)
+
+## 1.0.308
+
+*2022-02-22*
+
+### New Features
+
+- Feature: More Cypress test ids (#898)
+- Feature: Prepare upgrade of GraphQL backend (#896)
 - Feature: Panel mode retake (#895)
-- Feature: Cypress test IDs integration (#877)
+- Feature: Remove test-package "react-test-attributes" (#884)
+- Feature: Cypress test integration (#883)
 - Feature: Theme toggler (#878)
+- Feature: Cypress test IDs integration (#877)
+### Fixes/Improvements
+
+- Release: 2022-02-22
+- Beta Release: 2022-02-22
+- Fix: Navigation display issue when toggling Panel Mode (#897)
 
 ## 1.0.307
 
