@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.315
+
+*2022-03-03*
+
+### Fixes/Improvements
+
+- Hotfix: TP#14875 ET-report year colors (#911)
+- Hotfix: TP#14869 EMS: Spelling resolution, Swedish (#912)
+
 ## 1.0.314
 
 *2022-03-03*
