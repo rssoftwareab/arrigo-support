@@ -10,8 +10,9 @@ description: Change Log
 2022-03-03
 
 ArrigoAttach
-Hotfix:  Set IIS AppPool\ArrigoAppPool read rights on exoproject folder  (TP#14558)
-Hotfix: Rewrite pm2 list wrapper using json output. (#6)
+- Hotfix:  Set IIS AppPool\ArrigoAppPool read rights on exoproject folder  (TP#14558)
+
+- Hotfix: Rewrite pm2 list wrapper using json output. (#6)
 
 ## 1.1.216
 2022-02-28
