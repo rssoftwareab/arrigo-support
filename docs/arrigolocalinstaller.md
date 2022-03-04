@@ -19,7 +19,9 @@ description: Change Log
 - Arrigo config transpiler: [1.0.162](./arrigo.config.transpiler.html#10162)
 
 - Required EXO installation: EXO 2019 Edition 4 Build [226](./arrigo.exo.releases.html#226)
+
 ArrigoAttach
+
 - Hotfix:  Set IIS AppPool\ArrigoAppPool read rights on exoproject folder  (TP#14558)
 
 - Hotfix: Rewrite pm2 list wrapper using json output. (#6)
