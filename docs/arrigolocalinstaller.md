@@ -20,7 +20,7 @@ description: Change Log
 
 - Required EXO installation: EXO 2019 Edition 4 Build [226](./arrigo.exo.releases.html#226)
 
-ArrigoAttach
+### ArrigoAttach
 
 - Hotfix:  Set IIS AppPool\ArrigoAppPool read rights on exoproject folder  (TP#14558)
 
