@@ -31,6 +31,8 @@ Imagine you want to change the images on the login page. You can add or modify t
 
 Make sure your images are located in the "images" folder (`Program Files\Arrigo\Arrigo Local\Frontend\images`). Normal graphics formats are supported such as jpg, png, svg.
 
+Make sure the name field is set to "splash" and that the path to the images are included.
+
 Change `theme.json ` in `theme` folder as follows:
 
 ```
