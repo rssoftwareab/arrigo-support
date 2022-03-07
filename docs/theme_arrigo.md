@@ -27,22 +27,20 @@ By inserting //LegacyTheme as the first row in the OnOpen-attribute of the View 
 
 ## Change pictures on login page
 
-Imagine you want to change the splash images. The big image at the right on desktop is called `splash` and the small waves below login form is called `small_splash`. 
+Imagine you want to change the images on the login page. You can add or modify the left large image, the top centered images and an image at the bottom right.
 
-Put your new `mySplash.png` and `mySmallSplash.png` in  `images` folder.
+Make sure your images are located in the "images" folder (`Program Files\Arrigo\Arrigo Local\Frontend\images`). Normal graphics formats are allowed such as jpg, png, svg.
 
-Change `theme.json ` in `theme` folder:
+Change `theme.json ` in `theme` folder as follows:
 
 ```
   "login": {
-    "images": {
-      "splash": "mySplash.png",
-      "small_splash": "mySmallSplash.png",
-      "show_small_splash_on_desktop": false
-    }
+    "layout": {
+      "name": "splash",
+	    "left_splash_image": "/arrigo/images/my_new_left_splash_image.png",
+      "top_center_image": "/arrigo/images/a_logo_or_something_else.png",
+      "bottom_right_image": "/arrigo/images/yet_another_logo_or_image.png"
 ```
-
-If you want to show the small splash on desktop and big screens, set `show_small_splash_on_desktop` to `true`.
 
 Save the file. Reload Arrigo with `Ctrl+F5` to fetch the new theme settings. 
 
