@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.319
+
+*2022-03-07*
+
+### Fixes/Improvements
+
+- Hotfix: TP#14951 Chart doesn't display historical data (#919)
+
 ## 1.0.318
 
 *2022-03-07*
