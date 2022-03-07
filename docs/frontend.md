@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.321
+
+*2022-03-07*
+
+### New Features
+
+- Feature: Add open link functionality to widgets (#920)
+
 ## 1.0.320
 
 *2022-03-07*
