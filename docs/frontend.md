@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.323
+
+*2022-03-07*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15021 Dynamic header icons (#921)
+
 ## 1.0.322
 
 *2022-03-07*
