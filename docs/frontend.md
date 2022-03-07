@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.322
+
+*2022-03-07*
+
+### New Features
+
+- Feature: Theme in animation views follows arrigo theme dark/light (#917)
+
 ## 1.0.321
 
 *2022-03-07*
