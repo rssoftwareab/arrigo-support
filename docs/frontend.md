@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.318
+
+*2022-03-07*
+
+### Fixes/Improvements
+
+- Hotfix: TP#14614 button icon scaling cw2 (#918)
+
 ## 1.0.315
 
 *2022-03-03*
