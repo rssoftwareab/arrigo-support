@@ -37,7 +37,7 @@ Change `theme.json ` in `theme` folder as follows:
   "login": {
     "layout": {
       "name": "splash",
-    "left_splash_image": "/arrigo/images/my_new_left_splash_image.png",
+      "left_splash_image": "/arrigo/images/my_new_left_splash_image.png",
       "top_center_image": "/arrigo/images/a_logo_or_something_else.png",
       "bottom_right_image": "/arrigo/images/yet_another_logo_or_image.png"
 ```
