@@ -29,7 +29,7 @@ By inserting //LegacyTheme as the first row in the OnOpen-attribute of the View 
 
 Imagine you want to change the images on the login page. You can add or modify the left large image, the top centered images and an image at the bottom right.
 
-Make sure your images are located in the "images" folder (`Program Files\Arrigo\Arrigo Local\Frontend\images`). Normal graphics formats are allowed such as jpg, png, svg.
+Make sure your images are located in the "images" folder (`Program Files\Arrigo\Arrigo Local\Frontend\images`). Normal graphics formats are supported such as jpg, png, svg.
 
 Change `theme.json ` in `theme` folder as follows:
 
