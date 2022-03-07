@@ -7,6 +7,54 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.323
+
+*2022-03-07*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15021 Dynamic header icons (#921)
+
+## 1.0.322
+
+*2022-03-07*
+
+### New Features
+
+- Feature: Theme in animation views follows arrigo theme dark/light (#917)
+
+## 1.0.321
+
+*2022-03-07*
+
+### New Features
+
+- Feature: Add open link functionality to widgets (#920)
+
+## 1.0.320
+
+*2022-03-07*
+
+### Fixes/Improvements
+
+- Hotfix: Panel sync from openlink in view and between bookmarks and forward and back buttons (#916)
+
+## 1.0.319
+
+*2022-03-07*
+
+### Fixes/Improvements
+
+- Hotfix: TP#14951 Chart doesn't display historical data (#919)
+
+## 1.0.318
+
+*2022-03-07*
+
+### Fixes/Improvements
+
+- Hotfix: TP#14614 button icon scaling cw2 (#918)
+
 ## 1.0.315
 
 *2022-03-03*
