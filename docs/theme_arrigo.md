@@ -31,8 +31,6 @@ Imagine you want to change the images on the login page. You can add or modify t
 
 Make sure your images are located in the "images" folder (`Program Files\Arrigo\Arrigo Local\Frontend\images`). Normal graphics formats are supported such as jpg, png, svg.
 
-Make sure the name field is set to "splash" and that the path to the images are included.
-
 Change `theme.json ` in `theme` folder as follows:
 
 ```
@@ -43,6 +41,7 @@ Change `theme.json ` in `theme` folder as follows:
       "top_center_image": "/arrigo/images/a_logo_or_something_else.png",
       "bottom_right_image": "/arrigo/images/yet_another_logo_or_image.png"
 ```
+Make sure the name field is set to "splash" and that the path to the images are included.
 
 Save the file. Reload Arrigo with `Ctrl+F5` to fetch the new theme settings. 
 
