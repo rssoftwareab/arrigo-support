@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.320
+
+*2022-03-07*
+
+### Fixes/Improvements
+
+- Hotfix: Panel sync from openlink in view and between bookmarks and forward and back buttons (#916)
+
 ## 1.0.319
 
 *2022-03-07*
