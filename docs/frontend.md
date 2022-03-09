@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.324
+
+*2022-03-09*
+
+### Fixes/Improvements
+
+- Hotfix: Downgrade cw2 package to 1.0.57 (#928)
+
 ## 1.0.323
 
 *2022-03-07*
