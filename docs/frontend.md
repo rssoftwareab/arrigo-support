@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.326
+
+*2022-03-10*
+
+### Fixes/Improvements
+
+- Hotfix: Added theme toggler on splash login feature (#922)
+
 ## 1.0.325
 
 *2022-03-10*
