@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.325
+
+*2022-03-10*
+
+### Fixes/Improvements
+
+- Hotfix: Added icons in buttons again (#929)
+
 ## 1.0.324
 
 *2022-03-09*
