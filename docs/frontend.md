@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.327
+
+*2022-03-11*
+
+### Fixes/Improvements
+
+- Hotfix: Scale fix for dynamic icons in header (#930)
+
 ## 1.0.326
 
 *2022-03-10*
