@@ -31,7 +31,7 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 - Refactoring and improvements for Calculated Meter Application
 
 ### Current build (change logs): 
-- Frontend: [1.0.313](./frontend.html#10313)
+- Frontend: [1.0.326](./frontend.html#10326)
 - Arrigo API: [1.0.54](./arrigoapi.html#1054)
 
 # Arrigo Local
@@ -47,7 +47,7 @@ We have a **known issue** with *Icon support in Buttons*.
 If you encounter problems in your project, don't hesitate to get in touch with us.
 
 ### Builds (change logs)
-- Latest: [1.1.217](./arrigolocalinstaller.html#11217)
+- Latest: [1.1.226](./arrigolocalinstaller.html#11226)
 - Stable: [1.1.169](./arrigolocalinstaller.html#11169)
 
 

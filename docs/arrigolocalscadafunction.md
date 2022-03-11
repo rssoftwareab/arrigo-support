@@ -7,6 +7,11 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+## 1.1.114
+
+*2021-03-09*
+
+* Hotfix: ecQuery-format list is now thread safe (TP#15112)
 
 ## 1.1.112
 

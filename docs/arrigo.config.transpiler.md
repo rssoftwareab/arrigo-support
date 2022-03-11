@@ -7,6 +7,9 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+## 1.1.163
+*2022-02-24*
+- Fix: ClickAction OpenLink in widgets
 ## 1.1.162
 *2022-02-24*
 - Fix: Better binding handling (underscores etc.) (TP#14758)
