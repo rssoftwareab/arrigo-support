@@ -47,7 +47,7 @@ We have a **known issue** with *Icon support in Buttons*.
 If you encounter problems in your project, don't hesitate to get in touch with us.
 
 ### Builds (change logs)
-- Latest: [1.1.223](./arrigolocalinstaller.html#11223)
+- Latest: [1.1.226](./arrigolocalinstaller.html#11226)
 - Stable: [1.1.169](./arrigolocalinstaller.html#11169)
 
 
