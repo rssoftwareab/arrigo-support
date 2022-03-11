@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.329
+
+*2022-03-11*
+
+### Fixes/Improvements
+
+- Hotfix: dark theme again (#932)
+
 ## 1.0.328
 
 *2022-03-11*
