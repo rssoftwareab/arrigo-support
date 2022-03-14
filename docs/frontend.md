@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.330
+
+*2022-03-14*
+
+### Fixes/Improvements
+
+- Hotfix: Support for best fit in views (#933)
+
 ## 1.0.329
 
 *2022-03-11*
