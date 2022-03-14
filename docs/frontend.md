@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.331
+
+*2022-03-14*
+
+### Fixes/Improvements
+
+- Hotfix: removed feature name from breadcrumb (#923)
+
 ## 1.0.330
 
 *2022-03-14*
