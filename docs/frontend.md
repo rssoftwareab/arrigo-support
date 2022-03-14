@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.332
+
+*2022-03-14*
+
+### Fixes/Improvements
+
+- Hotfix: Alarms notification rewrite (#935)
+
 ## 1.0.331
 
 *2022-03-14*
