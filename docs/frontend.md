@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.335
+
+*2022-03-15*
+
+### Fixes/Improvements
+
+- Null check the alarms.notification since it's missing from the localstorage
+
 ## 1.0.334
 
 *2022-03-15*
