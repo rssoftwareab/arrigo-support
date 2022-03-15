@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.334
+
+*2022-03-15*
+
+### Fixes/Improvements
+
+- Hotfix: Add hidePanelModeDivider to theme settings (#936)
+- Hotfix: Fullscreen header icon spacing (#937)
+
 ## 1.0.333
 
 *2022-03-15*
