@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.333
+
+*2022-03-15*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15052 Large formula input field #927
+
 ## 1.0.332
 
 *2022-03-14*
