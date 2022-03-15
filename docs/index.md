@@ -35,8 +35,8 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 - Arrigo API: [1.0.54](./arrigoapi.html#1054)
 
 ### SaaS License Agreement: 
-- [SOFTWARE AS A SERVICE AGREEMENT](./RS_SaaS-Terms 24-03-2021.pdf)
-- [General Terms and Conditions](./2019 - Eng IT Services 2014.pdf)
+- [SOFTWARE AS A SERVICE AGREEMENT](./RS_SaaS-Terms%2024-03-2021.pdf)
+- [General Terms and Conditions](./2019%20-%20Eng%20IT%20Services%202014.pdf)
 
 
 # Arrigo Local
@@ -56,7 +56,7 @@ If you encounter problems in your project, don't hesitate to get in touch with u
 - Stable: [1.1.169](./arrigolocalinstaller.html#11169)
 
 ### End User License Agreement: 
-- [RS SOFTWARE SOFTWARE LICENSE TERMS](./RS_EULA_ 3-04-2021 _for distributionGeneric.pdf)
+- [RS SOFTWARE SOFTWARE LICENSE TERMS](./RS_EULA_%203-04-2021%20_for%20distributionGeneric.pdf)
 - 
 
 # Tips and tricks
