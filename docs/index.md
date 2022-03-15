@@ -57,7 +57,7 @@ If you encounter problems in your project, don't hesitate to get in touch with u
 
 ### End User License Agreement: 
 - [RS SOFTWARE SOFTWARE LICENSE TERMS](./RS_EULA_%203-04-2021%20_for%20distributionGeneric.pdf)
-- 
+
 
 # Tips and tricks
 
