@@ -23,7 +23,8 @@ description: Put this in your theme folder
       "normal": "24px",
       "small": "15px"
     },
-    "link_icons_height": ""
+    "link_icons_height": "",
+    "link_icons_right_margin": "10px"
   },
   "login": {
     "layout": {
@@ -131,6 +132,8 @@ description: Put this in your theme folder
       "lg": "72px"
     }
   },
+  "forcePanelMode": "",
+  "includeAnimationViewsInTheme": "",
   "helpers": {}
 }
 
@@ -155,14 +158,47 @@ description: Put this in your theme folder
   },
   "colors": {
     "order": [
-      "primary.default",
-      "primary.info",
-      "primary.additional_1",
-      "primary.additional_2",
-      "primary.additional_3",
-      "primary.additional_4",
-      "primary.additional_5",
-      "primary.additional_6"
+      "colors.primary.default",
+      "colors.primary.info",
+      "colors.primary.additional_1",
+      "colors.primary.additional_2",
+      "colors.primary.additional_3",
+      "colors.primary.additional_4",
+      "colors.primary.additional_5",
+      "colors.primary.additional_6",
+      "legacy.primary.red",
+      "legacy.primary.lightRed",
+      "legacy.primary.lightGreen",
+      "legacy.primary.darkAqua",
+      "legacy.primary.blue",
+      "legacy.primary.lightBlue",
+      "legacy.primary.cyan",
+      "legacy.primary.lightCyan",
+      "legacy.primary.magenta",
+      "legacy.primary.lightMagenta",
+      "legacy.primary.brown",
+      "legacy.primary.olive",
+      "legacy.primary.yellow",
+      "legacy.primary.black",
+      "legacy.primary.darkGray",
+      "legacy.primary.gray",
+      "legacy.primary.lightGray",
+      "legacy.primary.white",
+      "legacy.primary.paleDarkRed",
+      "legacy.primary.paleRed",
+      "legacy.primary.palePink",
+      "legacy.primary.paleOrange",
+      "legacy.primary.paleDarkPink",
+      "legacy.primary.paleDarkOrange",
+      "legacy.primary.paleBrown",
+      "legacy.primary.paleYellow",
+      "legacy.primary.paleDarkBlue",
+      "legacy.primary.paleBlue",
+      "legacy.primary.paleLightBlue",
+      "legacy.primary.palePurple",
+      "legacy.primary.paleDarkPurple",
+      "legacy.primary.paleGreen",
+      "legacy.primary.paleDarkGreen"
     ],
     "primary": {
       "default": "#328BFF",
@@ -265,6 +301,7 @@ description: Put this in your theme folder
 }
 
 
+
 ```
 
 `colors.dark.json`
@@ -284,14 +321,47 @@ description: Put this in your theme folder
   },
   "colors": {
     "order": [
-      "primary.default",
-      "primary.info",
-      "primary.additional_1",
-      "primary.additional_2",
-      "primary.additional_3",
-      "primary.additional_4",
-      "primary.additional_5",
-      "primary.additional_6"
+      "colors.primary.default",
+      "colors.primary.info",
+      "colors.primary.additional_1",
+      "colors.primary.additional_2",
+      "colors.primary.additional_3",
+      "colors.primary.additional_4",
+      "colors.primary.additional_5",
+      "colors.primary.additional_6",
+      "legacy.primary.red",
+      "legacy.primary.lightRed",
+      "legacy.primary.lightGreen",
+      "legacy.primary.darkAqua",
+      "legacy.primary.blue",
+      "legacy.primary.lightBlue",
+      "legacy.primary.cyan",
+      "legacy.primary.lightCyan",
+      "legacy.primary.magenta",
+      "legacy.primary.lightMagenta",
+      "legacy.primary.brown",
+      "legacy.primary.olive",
+      "legacy.primary.yellow",
+      "legacy.primary.black",
+      "legacy.primary.darkGray",
+      "legacy.primary.gray",
+      "legacy.primary.lightGray",
+      "legacy.primary.white",
+      "legacy.primary.paleDarkRed",
+      "legacy.primary.paleRed",
+      "legacy.primary.palePink",
+      "legacy.primary.paleOrange",
+      "legacy.primary.paleDarkPink",
+      "legacy.primary.paleDarkOrange",
+      "legacy.primary.paleBrown",
+      "legacy.primary.paleYellow",
+      "legacy.primary.paleDarkBlue",
+      "legacy.primary.paleBlue",
+      "legacy.primary.paleLightBlue",
+      "legacy.primary.palePurple",
+      "legacy.primary.paleDarkPurple",
+      "legacy.primary.paleGreen",
+      "legacy.primary.paleDarkGreen"
     ],
     "primary": {
       "default": "#328BFF",
@@ -392,6 +462,7 @@ description: Put this in your theme folder
     }
   }
 }
+
 
 ```
 
