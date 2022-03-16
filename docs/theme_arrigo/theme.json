@@ -106,5 +106,9 @@
       "lg": "72px"
     }
   },
+  "forcePanelMode": "",
+  "hidePanelModeDivider": "",
+  "minimizeContainerPaddingForViewsOnMobile": "",
+  "includeAnimationViewsInTheme": "",
   "helpers": {}
 }

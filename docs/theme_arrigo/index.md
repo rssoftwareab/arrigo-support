@@ -133,6 +133,8 @@ description: Put this in your theme folder
     }
   },
   "forcePanelMode": "",
+  "hidePanelModeDivider": "",
+  "minimizeContainerPaddingForViewsOnMobile": "",
   "includeAnimationViewsInTheme": "",
   "helpers": {}
 }
