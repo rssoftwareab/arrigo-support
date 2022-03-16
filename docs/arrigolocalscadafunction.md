@@ -12,7 +12,7 @@ description: Change Log
 
 *2021-03-16*
 
-* Hotfix: Attribute orders in listviews (TP#14742)
+* Hotfix: Attribute in wrong order in listviews (TP#14742)
 
 ## 1.1.114
 
