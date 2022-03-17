@@ -5,7 +5,7 @@ description: QnA
 ---
 
 # Common questions and answers
-[Adding new chart signal gives "This content was not properly loaded"](#broken-image-links)
+[Adding new chart signal gives "This content was not properly loaded"](#adding-new-chart-signal-gives-this-content-was-not-properly-loaded)
 
 [Broken image links](#broken-image-links)
 
