@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.338
+
+*2022-03-17*
+
+### Fixes/Improvements
+
+- Fix: TP#14949 Conditionally remove container padding from views on mobile (#938)
+
 ## 1.0.337
 
 *2022-03-17*
