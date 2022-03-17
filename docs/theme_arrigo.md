@@ -8,6 +8,7 @@ description: It's all about style
 > NOTE: Theme changes are overwritten during installation of Arrigo Local!
 >
 > The Theme folder needs to be copied into the product after upgrade. We know this and have a plan. 
+> 
 > There is an issue with old theme files (prior to 16 March, 2022), read more [here](https://github.com/rssoftwareab/arrigo-support/blob/master/docs/support/index.md#adding-new-chart-signal-gives-this-content-was-not-properly-loaded).
 
 All theme settings resides in the theme file, in frontend folder. Prepare with the following steps:
