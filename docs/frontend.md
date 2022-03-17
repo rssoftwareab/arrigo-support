@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.337
+
+*2022-03-17*
+
+### Fixes/Improvements
+
+- Hotfix: TP#14622 Display linkicon name in breadcrumb (#939)
+
 ## 1.0.336
 
 *2022-03-17*
