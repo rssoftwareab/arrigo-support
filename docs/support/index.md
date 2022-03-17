@@ -5,6 +5,8 @@ description: QnA
 ---
 
 # Common questions and answers
+[Adding new chart signal gives "This content was not properly loaded"](#broken-image-links)
+
 [Broken image links](#broken-image-links)
 
 [Scheduled Windows task to run in background](#my-scheduled-task-runs-in-foreground-blue-box)
@@ -16,6 +18,14 @@ description: QnA
 [Use Arrigo's process management for my own services](#use-arrigos-process-management-for-my-own-services)
 
 [Arrigo Services are not starting up after reboot](#arrigo-services-are-not-starting-up-after-reboot)
+
+## Adding new chart signal gives "This content was not properly loaded"
+
+### Question
+If I add a new chart signal, I get an error "This content was not properly loaded".
+
+### Answer
+If you are using your own theme this is caused by missing fields in your theme files. Download updated theme files [here](https://releases.arrigo.se/theme_arrigo/) to make sure all theme fields are correct. Specifically, there are missing colors in the "order" section.
 
 ## Broken image links
 
