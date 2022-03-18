@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.340
+
+*2022-03-18*
+
+### Fixes/Improvements
+
+- Hotfix: Panelmode link icons orientation and alignment (#944)
+
 ## 1.0.339
 
 *2022-03-18*
