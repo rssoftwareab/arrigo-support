@@ -7,6 +7,26 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.339
+
+*2022-03-18*
+
+### New Features
+
+- Feature: Activities support and list view (#876)
+### Fixes/Improvements
+
+- Fix: Resolve title getting a boolean value in dynamic widget (#941)
+- Fix: Nordbygg - Open calendar depending on from or to date click (#910)
+- Fix: Nordbygg - Restrict functionality for signals collections based on access (#908)
+- Fix: Nordbygg - Conditionally render AlarmsStatus and AlarmsHistory (#909)
+- Fix: Nordbygg - Filter calendar on mobile (#925)
+- Fix: Nordbygg - Add reset button in filter panel on mobile and tablet devices (#926)
+- Fix: Nordbygg - Padding for chart-view on mobile and tablet devices (#934)
+- Fix: Nordbygg - Favorite icon on mobile (#924)
+- Fix: Nordbygg - Change device detection functionality (#914)
+- Hotfix: Show favorite icon on mobile devices (#907)
+
 ## 1.0.338
 
 *2022-03-17*
