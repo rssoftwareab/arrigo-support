@@ -106,6 +106,10 @@
       "lg": "72px"
     }
   },
+  "notifications": {
+    "width": "370px",
+    "height": "65px"
+  },
   "forcePanelMode": "",
   "hidePanelModeDivider": "",
   "minimizeContainerPaddingForViewsOnMobile": "",
