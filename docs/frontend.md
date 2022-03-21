@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.341
+
+*2022-03-21*
+
+### Fixes/Improvements
+
+- Hotfix: Enviroprocess fixes (#945)
+
 ## 1.0.340
 
 *2022-03-18*
