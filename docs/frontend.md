@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.343
+
+*2022-03-24*
+
+### Fixes/Improvements
+
+- Remove hover:none media query. (#946)
+
 ## 1.0.342
 
 *2022-03-24*
