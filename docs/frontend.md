@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.344
+
+*2022-03-24*
+
+### Fixes/Improvements
+
+- Hotfix: Datepicker fix for non-activities views (#949)
+
 ## 1.0.343
 
 *2022-03-24*
