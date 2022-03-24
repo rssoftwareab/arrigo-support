@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.342
+
+*2022-03-24*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15250 ETreport resolution default value (#947)
+
 ## 1.0.341
 
 *2022-03-21*
