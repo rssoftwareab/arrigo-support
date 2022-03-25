@@ -7,6 +7,155 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.346
+
+*2022-03-25*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15396 TP#15322 Added support for default values in symbols in dynamic widgets #951
+
+## 1.0.345
+
+*2022-03-25*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15322/#15396 - Correct handling of logic bindings in widget ListViews (#950)
+
+## 1.0.344
+
+*2022-03-24*
+
+### Fixes/Improvements
+
+- Hotfix: Datepicker fix for non-activities views (#949)
+
+## 1.0.343
+
+*2022-03-24*
+
+### Fixes/Improvements
+
+- Remove hover:none media query. (#946)
+
+## 1.0.342
+
+*2022-03-24*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15250 ETreport resolution default value (#947)
+
+## 1.0.341
+
+*2022-03-21*
+
+### Fixes/Improvements
+
+- Hotfix: Enviroprocess fixes (#945)
+
+## 1.0.340
+
+*2022-03-18*
+
+### Fixes/Improvements
+
+- Hotfix: Panelmode link icons orientation and alignment (#944)
+
+## 1.0.339
+
+*2022-03-18*
+
+### New Features
+
+- Feature: Activities support and list view (#876)
+### Fixes/Improvements
+
+- Fix: Resolve title getting a boolean value in dynamic widget (#941)
+- Fix: Nordbygg - Open calendar depending on from or to date click (#910)
+- Fix: Nordbygg - Restrict functionality for signals collections based on access (#908)
+- Fix: Nordbygg - Conditionally render AlarmsStatus and AlarmsHistory (#909)
+- Fix: Nordbygg - Filter calendar on mobile (#925)
+- Fix: Nordbygg - Add reset button in filter panel on mobile and tablet devices (#926)
+- Fix: Nordbygg - Padding for chart-view on mobile and tablet devices (#934)
+- Fix: Nordbygg - Favorite icon on mobile (#924)
+- Fix: Nordbygg - Change device detection functionality (#914)
+- Hotfix: Show favorite icon on mobile devices (#907)
+
+## 1.0.338
+
+*2022-03-17*
+
+### Fixes/Improvements
+
+- Fix: TP#14949 Conditionally remove container padding from views on mobile (#938)
+
+## 1.0.337
+
+*2022-03-17*
+
+### Fixes/Improvements
+
+- Hotfix: TP#14622 Display linkicon name in breadcrumb (#939)
+
+## 1.0.336
+
+*2022-03-17*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15105 EMS: Styling of forecast-values (#940)
+
+## 1.0.335
+
+*2022-03-15*
+
+### Fixes/Improvements
+
+- Null check the alarms.notification since it's missing from the localstorage
+
+## 1.0.334
+
+*2022-03-15*
+
+### Fixes/Improvements
+
+- Hotfix: Add hidePanelModeDivider to theme settings (#936)
+- Hotfix: Fullscreen header icon spacing (#937)
+
+## 1.0.333
+
+*2022-03-15*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15052 Large formula input field #927
+
+## 1.0.332
+
+*2022-03-14*
+
+### Fixes/Improvements
+
+- Hotfix: Alarms notification rewrite (#935)
+
+## 1.0.331
+
+*2022-03-14*
+
+### Fixes/Improvements
+
+- Hotfix: removed feature name from breadcrumb (#923)
+
+## 1.0.330
+
+*2022-03-14*
+
+### Fixes/Improvements
+
+- Hotfix: Support for best fit in views (#933)
+
 ## 1.0.329
 
 *2022-03-11*
