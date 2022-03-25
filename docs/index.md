@@ -49,18 +49,18 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 
 # Arrigo Local
 ### Latest changes
-
+We have a new release candidate for a stable version!
 
 We still have a breaking change: 
-- `Web:` translates to `Shared:/web` in all views.
-Make sure you copy all your resources to your project Shared folder before.
-
-We have a **known issue** with *Icon support in Buttons*.
-
-If you encounter problems in your project, don't hesitate to get in touch with us.
+- `Web:` translates to `Shared:/web` in all views. If your project contains Controller web 2 projects, and your intensions are to use the views in Arrigo as well, you should move the shared resources from `web:` to `shared:` and change the file attributes from web to shared in all view files. For compatibility, this translation is a fallback, but not recommended.
 
 ### Builds (change logs)
-- Latest: [1.1.226](./arrigolocalinstaller.html#11226)
+- Latest: [1.1.236](./arrigolocalinstaller.html#11236)
+
+- Stable Release Candidate: [1.1.236](./arrigolocalinstaller.html#11236)
+[Download 1.1.236 here!](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller-EXO2019Edition4_243-1.1.236.exe)
+> Note! This Release Candidate requires EXO service release EXO2019Edition4_243 to install
+
 - Stable: [1.1.169](./arrigolocalinstaller.html#11169)
 
 ### End User License Agreement: 
