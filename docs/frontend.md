@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.347
+
+*2022-03-25*
+
+### Fixes/Improvements
+
+- Hotfix: solved issue with default values #952
+
 ## 1.0.346
 
 *2022-03-25*
