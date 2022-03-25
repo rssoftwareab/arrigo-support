@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.346
+
+*2022-03-25*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15396 TP#15322 Added support for default values in symbols in dynamic widgets #951
+
 ## 1.0.345
 
 *2022-03-25*
