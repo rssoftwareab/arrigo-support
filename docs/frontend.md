@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.345
+
+*2022-03-25*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15322/#15396 - Correct handling of logic bindings in widget ListViews (#950)
+
 ## 1.0.344
 
 *2022-03-24*
