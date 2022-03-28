@@ -55,13 +55,12 @@ We still have a breaking change:
 - `Web:` translates to `Shared:/web` in all views. If your project contains Controller web 2 projects, and your intensions are to use the views in Arrigo as well, you should move the shared resources from `web:` to `shared:` and change the file attributes from web to shared in all view files. For compatibility, this translation is a fallback, but not recommended.
 
 ### Builds (change logs)
-- Latest: [1.1.236](./arrigolocalinstaller.html#11236)
 
-- Stable Release Candidate: [1.1.236](./arrigolocalinstaller.html#11236)
-[Download 1.1.236 here!](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller-EXO2019Edition4_243-1.1.236.exe)
-> Note! This Release Candidate requires EXO service release EXO2019Edition4_243 to install
-
-- Stable: [1.1.169](./arrigolocalinstaller.html#11169)
+| Release                  | Version                                      | EXO2019 Edition 4 build 243 | EXO2019 Edition 4 build 226 | Download                                                     |
+| ------------------------ | -------------------------------------------- | :-------------------------: | :-------------------------: | ------------------------------------------------------------ |
+| Latest                   | [1.1.236](./arrigolocalinstaller.html#11236) |          Required           |             n/a             | Via installer (`--latest` flag provided)                     |
+| Stable Release Candidate | [1.1.236](./arrigolocalinstaller.html#11236) |          Required           |             n/a             | [Download](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller-EXO2019Edition4_243-1.1.236.exe) |
+| Old Stable               | [1.1.169](./arrigolocalinstaller.html#11169) |             n/a             |          Required           | Via installer                                                |
 
 ### End User License Agreement: 
 - [RS SOFTWARE SOFTWARE LICENSE TERMS](./RS_EULA_%203-04-2021%20_for%20distributionGeneric.pdf)
