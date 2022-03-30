@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.348
+
+*2022-03-30*
+
+### Fixes/Improvements
+
+- Fix: TP#9391 - Merge overridden theme props into the base theme (#953)
+
 ## 1.0.347
 
 *2022-03-25*
