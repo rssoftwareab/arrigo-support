@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.349
+
+*2022-03-30*
+
+### Fixes/Improvements
+
+- Hotfix: TP#8368 Language support and theme override for maintenance text #956
+
 ## 1.0.348
 
 *2022-03-30*
