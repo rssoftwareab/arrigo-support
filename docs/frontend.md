@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.350
+
+*2022-04-04*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15397 - Invalid click action when OpenLink on widget if url is absolute #955
+
 ## 1.0.349
 
 *2022-03-30*
