@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.351
+
+*2022-04-04*
+
+### Fixes/Improvements
+
+- Hotfix: TP-14879 SVG animation Style error on Min Value, blank picture #954
+
 ## 1.0.350
 
 *2022-04-04*
