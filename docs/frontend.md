@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.353
+
+*2022-04-06*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15123 - Sync of count and alarm list in alarm widget (#948)
+
 ## 1.0.351
 
 *2022-04-04*
