@@ -174,6 +174,6 @@ When I try open the User Administration panel I get an error. Why?
 ### Solution
 
 If you, in your browser instance/session (regardless of which tab), have navigated to the EXOscada login page and then try to open the UserAdmin from within Arrigo it will fail.
-EXOscada sets a cookie that we cannot manipulate and therefor the wrong cookie will be sent when trying to open the UA.
+EXOscada sets a cookie that we cannot manipulate and therefore the wrong cookie will be sent when trying to open the UA.
 
 If this happens you need to restart the browser (not just close the "infected" tab) for the cookie to be flushed.
