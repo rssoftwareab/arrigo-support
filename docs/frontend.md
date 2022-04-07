@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.354
+
+*2022-04-07*
+
+### Fixes/Improvements
+
+- Hotfix: TP#11094 Popups (#959)
+
 ## 1.0.353
 
 *2022-04-06*
