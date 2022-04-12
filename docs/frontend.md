@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.355
+
+*2022-04-12*
+
+### Fixes/Improvements
+
+- Removed git commit (#957)
+
 ## 1.0.354
 
 *2022-04-07*
