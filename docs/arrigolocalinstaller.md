@@ -21,6 +21,12 @@ description: Change Log
 
 - Required EXO installation: EXO 2019 Edition 4 Build [243](./arrigo.exo.releases.html#423)
 
+### Tools and Runtime
+
+- TP#14560: Virtual paths in AreaProperties.Exo (#12)
+- ViewAppLib: Language fixes in TimeChannelEditor
+- TP-15417:Fixed onManeuver code for Selector (interactive symbol)
+
 ## 1.1.236
 2022-03-11
 - Frontend: [1.0.346](./frontend.html#10346)
