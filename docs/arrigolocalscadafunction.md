@@ -7,6 +7,13 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+
+## 1.1.115
+
+*2021-03-16*
+
+* Hotfix: Attribute in wrong order in listviews (TP#14742)
+
 ## 1.1.114
 
 *2021-03-09*

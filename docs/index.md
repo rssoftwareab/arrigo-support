@@ -3,6 +3,14 @@ layout: main
 title: Releases.
 description: Releases and Change Log
 ---
+# 2022-03-25 Major stability issues on www.arrigo.se
+We have issues with prognosis and consumption calculations in EMS module on arrigo.se. This affects all clients. We are working on a solution.
+Prognosis calculation and consumption calculations will be offline until the problem is resolved.
+No data will be lost, we can backtrack and recalculate everything.
+If you need more details, please send an email to arrigosupport@rssoftware.se
+
+/The Arrigo Team
+
 # Download
 
 Contact your sales representative for the latest service release of EXO2019 Edition 4.
@@ -41,19 +49,18 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 
 # Arrigo Local
 ### Latest changes
-
+We have a new release candidate for a stable version!
 
 We still have a breaking change: 
-- `Web:` translates to `Shared:/web` in all views.
-Make sure you copy all your resources to your project Shared folder before.
-
-We have a **known issue** with *Icon support in Buttons*.
-
-If you encounter problems in your project, don't hesitate to get in touch with us.
+- `Web:` translates to `Shared:/web` in all views. If your project contains Controller web 2 projects, and your intensions are to use the views in Arrigo as well, you should move the shared resources from `web:` to `shared:` and change the file attributes from web to shared in all view files. For compatibility, this translation is a fallback, but not recommended.
 
 ### Builds (change logs)
-- Latest: [1.1.226](./arrigolocalinstaller.html#11226)
-- Stable: [1.1.169](./arrigolocalinstaller.html#11169)
+
+| Release                  | Version                                      | EXO2019 Edition 4 build 243 | EXO2019 Edition 4 build 226 | Download                                                     |
+| ------------------------ | -------------------------------------------- | :-------------------------: | :-------------------------: | ------------------------------------------------------------ |
+| Latest                   | [1.1.236](./arrigolocalinstaller.html#11236) |          Required           |             n/a             | Via installer (`--latest` flag provided)                     |
+| Stable Release Candidate | [1.1.236](./arrigolocalinstaller.html#11236) |          Required           |             n/a             | [Download](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller-EXO2019Edition4_243-1.1.236.exe) |
+| Old Stable               | [1.1.169](./arrigolocalinstaller.html#11169) |             n/a             |          Required           | Via installer                                                |
 
 ### End User License Agreement: 
 - [RS SOFTWARE SOFTWARE LICENSE TERMS](./RS_EULA_%203-04-2021%20_for%20distributionGeneric.pdf)

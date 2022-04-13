@@ -132,7 +132,13 @@ description: Put this in your theme folder
       "lg": "72px"
     }
   },
+  "notifications": {
+    "width": "370px",
+    "height": "65px"
+  },
   "forcePanelMode": "",
+  "hidePanelModeDivider": "",
+  "minimizeContainerPaddingForViewsOnMobile": "",
   "includeAnimationViewsInTheme": "",
   "helpers": {}
 }

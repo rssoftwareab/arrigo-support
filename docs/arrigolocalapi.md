@@ -7,6 +7,13 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+
+## 1.0.208
+
+*2022-03/25*
+
+* Hotfix: TP#13489 Added "SignalType" to analog filter (#131)
+
 ## 1.0.206
 
 *2022-02-17*
