@@ -58,7 +58,7 @@ We still have a breaking change:
 
 | Release                  | Version                                      | EXO2019 Edition 4 build 243 | EXO2019 Edition 4 build 226 | Download                                                     |
 | ------------------------ | -------------------------------------------- | :-------------------------: | :-------------------------: | ------------------------------------------------------------ |
-| Latest                   | [1.1.236](./arrigolocalinstaller.html#11236) |          Required           |             n/a             | Via installer (`--latest` flag provided)                     |
+| Latest                   | [1.1.238](./arrigolocalinstaller.html#11238) |          Required           |             n/a             | Via installer (`--latest` flag provided)                     |
 | Stable Release Candidate | [1.1.236](./arrigolocalinstaller.html#11236) |          Required           |             n/a             | [Download](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller-EXO2019Edition4_243-1.1.236.exe) |
 | Old Stable               | [1.1.169](./arrigolocalinstaller.html#11169) |             n/a             |          Required           | Via installer                                                |
 
