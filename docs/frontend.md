@@ -7,6 +7,86 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.357
+
+*2022-04-13*
+
+### Fixes/Improvements
+
+- Hotfix: Cleanup of Arrigo Id query value (#961)
+
+## 1.0.356
+
+*2022-04-13*
+
+### New Features
+
+- Feature: Add support for ArrigoId login (#960)
+
+## 1.0.355
+
+*2022-04-12*
+
+### Fixes/Improvements
+
+- Removed git commit (#957)
+
+## 1.0.354
+
+*2022-04-07*
+
+### Fixes/Improvements
+
+- Hotfix: TP#11094 Popups (#959)
+
+## 1.0.353
+
+*2022-04-06*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15123 - Sync of count and alarm list in alarm widget (#948)
+
+## 1.0.351
+
+*2022-04-04*
+
+### Fixes/Improvements
+
+- Hotfix: TP-14879 SVG animation Style error on Min Value, blank picture #954
+
+## 1.0.350
+
+*2022-04-04*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15397 - Invalid click action when OpenLink on widget if url is absolute #955
+
+## 1.0.349
+
+*2022-03-30*
+
+### Fixes/Improvements
+
+- Hotfix: TP#8368 Language support and theme override for maintenance text #956
+
+## 1.0.348
+
+*2022-03-30*
+
+### Fixes/Improvements
+
+- Fix: TP#9391 - Merge overridden theme props into the base theme (#953)
+
+## 1.0.347
+
+*2022-03-25*
+
+### Fixes/Improvements
+
+- Hotfix: solved issue with default values #952
+
 ## 1.0.346
 
 *2022-03-25*
