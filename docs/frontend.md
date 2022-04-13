@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.357
+
+*2022-04-13*
+
+### Fixes/Improvements
+
+- Hotfix: Cleanup of Arrigo Id query value (#961)
+
 ## 1.0.356
 
 *2022-04-13*
