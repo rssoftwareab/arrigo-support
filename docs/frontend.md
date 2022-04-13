@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.356
+
+*2022-04-13*
+
+### New Features
+
+- Feature: Add support for ArrigoId login (#960)
+
 ## 1.0.355
 
 *2022-04-12*
