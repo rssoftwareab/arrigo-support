@@ -10,9 +10,9 @@ description: Change Log
 
 ## 1.0.208
 
-*2022-03/25*
+*2022-03-25*
 
-* Hotfix: TP#13489 Added "SignalType" to analog filter (#131)
+* TP#13489 Added "SignalType" to analog filter (#131)
 
 ## 1.0.206
 
