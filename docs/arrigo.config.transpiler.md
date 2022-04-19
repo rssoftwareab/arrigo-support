@@ -7,6 +7,10 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+## 1.1.164
+*2022-02-24*
+- Hotfix: Fixed problems with threaded method invocations. More robust runtime. 
+
 ## 1.1.163
 *2022-02-24*
 - Fix: ClickAction OpenLink in widgets
