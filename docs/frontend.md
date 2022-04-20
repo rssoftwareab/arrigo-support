@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.358
+
+*2022-04-20*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15733 Energy widget size and text overflow (#962)
+
 ## 1.0.357
 
 *2022-04-13*
