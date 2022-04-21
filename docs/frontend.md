@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.359
+
+*2022-04-21*
+
+### Fixes/Improvements
+
+- Hotfix: Move removal of auth code from local storage (#965)
+
 ## 1.0.358
 
 *2022-04-20*
