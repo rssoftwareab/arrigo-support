@@ -92,6 +92,13 @@ Re-run the installer as another user to prevent this warning.
   
 If you are running ALI on a domain connected machine, please contact system administrator or IT organization to verify that you are also a local administrator.
 
+## 1012
+
+`Failed to prepare offline installation`
+
+The downloading and packaging of the offline installer failed.  
+Please check the output or installation logs for the actual error. If, for example, the download failed please verify that you have internet access.
+
 ## 2000
 
 `Installation aborted by user`
