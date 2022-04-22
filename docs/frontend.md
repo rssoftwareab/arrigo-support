@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.360
+
+*2022-04-22*
+
+### Fixes/Improvements
+
+- Hotfix: Persist ArrigoId local storage values (#966)
+
 ## 1.0.359
 
 *2022-04-21*
