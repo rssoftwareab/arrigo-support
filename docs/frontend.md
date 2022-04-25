@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.363
+
+*2022-04-25*
+
+### Fixes/Improvements
+
+- Hotfix: Lowercased wamp calls to chart service (#969)
+
 ## 1.0.361
 
 *2022-04-25*
