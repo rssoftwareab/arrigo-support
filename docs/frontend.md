@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.361
+
+*2022-04-25*
+
+### Fixes/Improvements
+
+- Hofix: Add ArrigoId link in user menu (#968)
+
 ## 1.0.360
 
 *2022-04-22*
