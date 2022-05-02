@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.364
+
+*2022-05-02*
+
+### Fixes/Improvements
+
+- Hotfix: TP#12315 Editable favorites added. (#963)
+
 ## 1.0.363
 
 *2022-04-25*
