@@ -7,6 +7,18 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.365
+
+*2022-05-02*
+
+### Fixes/Improvements
+
+- Hotfix: TP#8367 Arrigo BMS Animation view - Fit to view/Best fit like EXOscada (#974)
+- Hotfix: TP#11139 Ruler Legend avg calculation (#973)
+- Hotfix: TP#11973 Draw lines for alarms between ON -> OFF state (#972)
+- Hotfix: TP#10946 Added title position (Right and Below) to Numeric, Text, TextSelect and Date elements. (#971)
+- Hotfix: TP#15783 Arrigo Chart Pause button does not work as expected (#970)
+
 ## 1.0.364
 
 *2022-05-02*
