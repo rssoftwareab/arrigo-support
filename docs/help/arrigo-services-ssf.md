@@ -147,10 +147,10 @@ async function setStates(kwargs, callInfo){
     const state = callInfo.context.state;
     
     //set simple data to the state for this path
-    await state.set(23)
+    await state.set({ data: 23 })
     
     //set complex data to the state for this path
-    await state.set({ key1:"value1", key2:[1,2,3,4,5] })
+    await state.set({data: { key1:"value1", key2:[1,2,3,4,5] } })
     
     //set complex data to the state for this path
     await state.set({data:['a','b','c']})
