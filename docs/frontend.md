@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.366
+
+*2022-05-09*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15394 - Arrigo BMS - Widget List Items Change of Symbols not working (#975)
+
 ## 1.0.365
 
 *2022-05-02*
