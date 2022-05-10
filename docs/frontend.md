@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.367
+
+*2022-05-10*
+
+### Fixes/Improvements
+
+- Hotfix: CMA rework (#964)
+
 ## 1.0.366
 
 *2022-05-09*
