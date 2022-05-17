@@ -149,20 +149,6 @@ The installer failed to verify the pm2 installation.
 
 The installer found the pm2 binary but it was the wrong version.
 
-## 4002
-
-`pm2 was not found after offline installation`
-
-The installer failed to verify the pm2 installation.  
-Please check the output logs for any errors during the extraction.
-
-## 4003
-
-`Failed to detect required version after offline installation`
-
-The installer found the pm2 binary but it was the wrong version.  
-Please check the output logs for any errors during the extraction.
-
 ## 5000
 
 `Failed to download ApplicationRequestRouting from [link]`
