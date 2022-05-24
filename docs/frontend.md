@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.368
+
+*2022-05-24*
+
+### Fixes/Improvements
+
+- Hotfix: CMA Indicator query fix (#983)
+
 ## 1.0.367
 
 *2022-05-10*
