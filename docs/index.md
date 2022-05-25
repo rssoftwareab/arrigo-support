@@ -60,7 +60,6 @@ We still have a breaking change:
 | ------------------------ | -------------------------------------------- | :-------------------------: | ------------------------------------------------------------ |
 | Latest                   | [1.1.240](./arrigolocalinstaller.html#11240) |          Required           |  Via installer (`--latest` flag provided)                     |
 | Stable               | [1.1.238](./arrigolocalinstaller.html#11238) |             Required             | [Download](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe)
-|                                               |
 
 
 ### End User License Agreement: 
