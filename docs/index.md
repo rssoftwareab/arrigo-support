@@ -56,10 +56,12 @@ We still have a breaking change:
 
 ### Builds (change logs)
 
-| Release                  | Version                                      | EXO2019 Edition 4 build 253 |  Download                                                    |
-| ------------------------ | -------------------------------------------- | :-------------------------: | ------------------------------------------------------------ |
-| Latest                   | [1.1.240](./arrigolocalinstaller.html#11240) |          Required           |  Via installer (`--latest` flag provided)                     |
-| Stable               | [1.1.238](./arrigolocalinstaller.html#11238) |             Required             | [Download](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe)
+*Please note that **EXO2019 Edition 4 build 253** is required to install Arrigo Local*
+
+| Release                  | Version                                      |  Download                                                    |
+| ------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
+| Latest                   | [1.1.240](./arrigolocalinstaller.html#11240) |  Via installer (`--latest` flag provided)                     |
+| Stable               | [1.1.238](./arrigolocalinstaller.html#11238) | [Download](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe)|
 
 
 ### End User License Agreement: 
