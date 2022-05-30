@@ -7,6 +7,16 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.369
+
+*2022-05-30*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15946 - Chart legend overflow on tablet (#976)
+- Hotfix: Infinite scroll when zoomed (#984)
+- Hotfix: Alias update on re-order (#987)
+
 ## 1.0.368
 
 *2022-05-24*
