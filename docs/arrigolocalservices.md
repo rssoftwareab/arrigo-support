@@ -7,9 +7,26 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+
+## 1.1.205
+*2022-06-02*
+
+### arrigo-dc
+- Feature: support ArrigoId tokens.
+
+### arrigo-wamp-host
+- Feature: support ArrigoId tokens.
+
+### arrigo-services-state
+- Feature: Sync when adding content.
+
+### arrigo-services-ssf
+- Avoid crash when empty code in register call.
+- Feature: Added support for async functions in ssf attribute.
+
 ## 1.1.202
 *2021-12-10*
-- Hotfix: Corrected return value when calling register in ssf service
+- Hotfix: Corrected return value when calling register in ssf service.
 
 ## 1.1.201
 *2021-12-10*
