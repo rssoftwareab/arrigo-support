@@ -8,6 +8,14 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.213
+
+*2022-05-24*
+
+* TP#15913 Error handling improvement 
+* Fix: Ignore case sensitivity for static resources
+* Deprecate field 'publicVariableFiles' on 'Account' and 'Userarea'. Use new field 'publishedVariableLists' instead
+
 ## 1.0.208
 
 *2022-03-25*
