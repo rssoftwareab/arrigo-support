@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.371
+
+*2022-06-02*
+
+### Fixes/Improvements
+
+- Hotfix: Support title for link icons in sub menus in breadcrumb (#989)
+
 ## 1.0.370
 
 *2022-06-02*
