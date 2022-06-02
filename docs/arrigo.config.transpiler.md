@@ -8,6 +8,11 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.1.177
+*2022-06-02*
+- Fix: Added more supported binding attributes.
+- Fix: Resolve 'web:' (reading WebDomain attribute from AreaProperties file).
+
 ## 1.1.165
 *2022-04-21*
 - Fix: Included support for decimals attribute in expressions.
