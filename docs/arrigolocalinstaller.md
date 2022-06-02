@@ -24,7 +24,10 @@ description: Change Log
 
 - Required EXO installation: EXO 2019 Edition 4 Build [253](./arrigo.exo.releases.html#253)
 
-**Note**  
+### Installer
+
+- Fix: Using the sid instead of account name when setting folder permissions as BUILTIN\Administrators (better language support)
+- Minor fixes for "offline mode"
 
 
 ## 1.1.240
