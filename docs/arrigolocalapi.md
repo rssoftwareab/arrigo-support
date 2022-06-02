@@ -12,7 +12,7 @@ description: Change Log
 
 *2022-05-24*
 
-* TP#15913 Error handling improvement 
+* Error handling improvement (TP#15913)
 * Fix: Ignore case sensitivity for static resources
 * Deprecate field 'publicVariableFiles' on 'Account' and 'Userarea'. Use new field 'publishedVariableLists' instead
 
