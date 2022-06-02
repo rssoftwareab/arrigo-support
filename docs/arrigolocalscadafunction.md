@@ -8,6 +8,14 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.1.126
+
+*2022-05-23*
+
+* Fix: Error handling improvement (TP#15193)
+* Hotfix: Always activate bindings on root object
+* Added checks for explicitly defined connectionstrings 
+
 ## 1.1.115
 
 *2021-03-16*
