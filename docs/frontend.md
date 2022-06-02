@@ -7,6 +7,23 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.370
+
+*2022-06-02*
+
+### New Features
+
+- Feature: TP#11139 - Chart legend refactor (#980)
+- Feature: #11906 - Set Initial page after login (#985)
+- Feature: TP#15193 - Error handling improvements (#982)
+- Feature: TP#11906 Force setting for "First folder in project" (#978)
+### Fixes/Improvements
+
+- Hotfix: TP#15720 - Default Signal tolerance for Values in collection mode (#981)
+- Fix: Favorites LinkIcon can't be reached without feature in Url (#986)
+- Hotfix: Azure#603 - Fix Popup menu in panel mode (#979)
+- Hotfix: TP#15150 - Auto-close open popup menu when a new popup menu is clicked. (#977)
+
 ## 1.0.369
 
 *2022-05-30*
