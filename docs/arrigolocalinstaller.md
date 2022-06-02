@@ -8,21 +8,24 @@ description: Change Log
 ## Next release
 
 2022-XX-XX
-- Frontend: [1.0.354](./frontend.html#10354)
 
-- Arrigo Local API: [1.0.208](./arrigolocalapi.html#10208)
+## 1.1.???
 
-- Arrigo Local Scada Function: [1.1.115](./arrigolocalscadafunction.html#11115)
+2022-06-XX
+- Frontend: [1.0.371](./frontend.html#10371)
 
-- Arrigo Local Services: [1.0.202](./arrigolocalservices.html#10202)
+- Arrigo Local API: [1.0.213](./arrigolocalapi.html#10213)
 
-- Arrigo config transpiler: [1.0.165](./arrigo.config.transpiler.html#10165)
+- Arrigo Local Scada Function: [1.1.126](./arrigolocalscadafunction.html#11126)
 
-- Required EXO installation: EXO 2019 Edition 4 Build [243](./arrigo.exo.releases.html#423)
+- Arrigo Local Services: [1.0.205](./arrigolocalservices.html#10205)
+
+- Arrigo config transpiler: [1.0.177](./arrigo.config.transpiler.html#10177)
+
+- Required EXO installation: EXO 2019 Edition 4 Build [253](./arrigo.exo.releases.html#253)
 
 **Note**  
-This release will install a newer version of [Node.js](https://nodejs.org/dist/v16.15.0/node-v16.15.0-x64.msi) (16.15.0).  
-To succeessfully install this release on an _offline server_ you must also first download and install Node.js manually on the target machine.
+
 
 ## 1.1.240
 
