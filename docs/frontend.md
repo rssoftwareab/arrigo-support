@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.372
+
+*2022-06-03*
+
+### Fixes/Improvements
+
+- Hide meter change setting for calculated meters (#992)
+- Hotfix: Lockdate on yearly resolution (#994)
+
 ## 1.0.371
 
 *2022-06-02*
