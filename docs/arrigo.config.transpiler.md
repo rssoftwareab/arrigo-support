@@ -10,8 +10,8 @@ description: Change Log
 
 ## 1.1.179
 *2022-06-08*
-- Fix: Added more supported binding attributes.
-- Fix: Resolve 'web:' (reading WebDomain attribute from AreaProperties file).
+- Fix: Added more supported binding attributes. (Azure#660)
+- Fix: Resolve 'web:' (reading WebDomain attribute from AreaProperties file) (TP#15416)
 
 ## 1.1.165
 *2022-04-21*
