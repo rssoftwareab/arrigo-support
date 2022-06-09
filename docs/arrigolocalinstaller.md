@@ -12,15 +12,15 @@ description: Change Log
 ## 1.1.???
 
 2022-06-XX
-- Frontend: [1.0.371](./frontend.html#10371)
+- Frontend: [1.0.373](./frontend.html#10373)
 
-- Arrigo Local API: [1.0.213](./arrigolocalapi.html#10213)
+- Arrigo Local API: [1.0.215](./arrigolocalapi.html#10215)
 
-- Arrigo Local Scada Function: [1.1.126](./arrigolocalscadafunction.html#11126)
+- Arrigo Local Scada Function: [1.1.131](./arrigolocalscadafunction.html#11131)
 
-- Arrigo Local Services: [1.0.205](./arrigolocalservices.html#10205)
+- Arrigo Local Services: [1.0.208](./arrigolocalservices.html#10208)
 
-- Arrigo config transpiler: [1.0.177](./arrigo.config.transpiler.html#10177)
+- Arrigo config transpiler: [1.0.179](./arrigo.config.transpiler.html#10179)
 
 - Required EXO installation: EXO 2019 Edition 4 Build [253](./arrigo.exo.releases.html#253)
 
