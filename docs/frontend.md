@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.373
+
+*2022-06-09*
+
+### New Features
+
+- Feature: TP#15287 & TP#15107 - Zoom in views (#990)
+
 ## 1.0.372
 
 *2022-06-03*
