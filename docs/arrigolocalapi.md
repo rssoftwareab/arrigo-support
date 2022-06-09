@@ -7,6 +7,11 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+## 1.0.215
+
+*2022-06-08*
+
+* Auto-filtering on TimeLength for Analogs History (Azure#665)
 
 ## 1.0.213
 
