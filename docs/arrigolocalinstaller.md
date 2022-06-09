@@ -17,7 +17,7 @@ description: Change Log
 
 - Arrigo Local Scada Function: [1.1.131](./arrigolocalscadafunction.html#11131)
 
-- Arrigo Local Services: [1.0.208](./arrigolocalservices.html#10208)
+- Arrigo Local Services: [1.0.211](./arrigolocalservices.html#10211)
 
 - Arrigo config transpiler: [1.0.179](./arrigo.config.transpiler.html#10179)
 
