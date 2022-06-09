@@ -6,6 +6,73 @@ description: Change Log
 # Change Log
 
 ## Next release
+
+2022-XX-XX
+
+## 1.1.???
+
+2022-06-XX
+- Frontend: [1.0.373](./frontend.html#10373)
+
+- Arrigo Local API: [1.0.215](./arrigolocalapi.html#10215)
+
+- Arrigo Local Scada Function: [1.1.131](./arrigolocalscadafunction.html#11131)
+
+- Arrigo Local Services: [1.0.208](./arrigolocalservices.html#10208)
+
+- Arrigo config transpiler: [1.0.179](./arrigo.config.transpiler.html#10179)
+
+- Required EXO installation: EXO 2019 Edition 4 Build [253](./arrigo.exo.releases.html#253)
+
+### Installer
+
+- Fix: Using the sid instead of account name when setting folder permissions as BUILTIN\Administrators (better language support)
+- Minor fixes for "offline mode"
+
+
+## 1.1.240
+
+2022-05-25
+- Frontend: [1.0.354](./frontend.html#10354)
+
+- Arrigo Local API: [1.0.208](./arrigolocalapi.html#10208)
+
+- Arrigo Local Scada Function: [1.1.115](./arrigolocalscadafunction.html#11115)
+
+- Arrigo Local Services: [1.0.202](./arrigolocalservices.html#10202)
+
+- Arrigo config transpiler: [1.0.165](./arrigo.config.transpiler.html#10165)
+
+- Required EXO installation: EXO 2019 Edition 4 Build [253](./arrigo.exo.releases.html#253)
+
+**Note**  
+This release will install a newer version of [Node.js](https://nodejs.org/dist/v16.15.0/node-v16.15.0-x64.msi) (16.15.0).  
+To succeessfully install this release on an _offline server_ you must also first download and install Node.js manually on the target machine.
+
+## 1.1.238
+2022-05-25
+- Frontend: [1.0.354](./frontend.html#10354)
+
+- Arrigo Local API: [1.0.208](./arrigolocalapi.html#10208)
+
+- Arrigo Local Scada Function: [1.1.115](./arrigolocalscadafunction.html#11115)
+
+- Arrigo Local Services: [1.0.202](./arrigolocalservices.html#10202)
+
+- Arrigo config transpiler: [1.0.163](./arrigo.config.transpiler.html#10163)
+
+- Required EXO installation: EXO 2019 Edition 4 Build [253](./arrigo.exo.releases.html#253)
+
+**Note**  
+This release will install a newer version of [Node.js](https://nodejs.org/dist/v16.15.0/node-v16.15.0-x64.msi) (16.15.0).  
+To succeessfully install this release on an _offline server_ you must also first download and install Node.js manually on the target machine.
+
+### Tools and Runtime
+
+- TP#14560: Virtual paths in AreaProperties.Exo (#12)
+- ViewAppLib: Language fixes in TimeChannelEditor
+- TP-15417:Fixed onManeuver code for Selector (interactive symbol)
+
 ## 1.1.236
 2022-03-11
 - Frontend: [1.0.346](./frontend.html#10346)
@@ -18,7 +85,7 @@ description: Change Log
 
 - Arrigo config transpiler: [1.0.163](./arrigo.config.transpiler.html#10163)
 
-- Required EXO installation: EXO 2019 Edition 4 Build [243]](./arrigo.exo.releases.html#423)
+- Required EXO installation: EXO 2019 Edition 4 Build [243](./arrigo.exo.releases.html#423)
 
 ## 1.1.226
 2022-03-11

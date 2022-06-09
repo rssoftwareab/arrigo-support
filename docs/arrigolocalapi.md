@@ -7,12 +7,25 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+## 1.0.215
+
+*2022-06-08*
+
+* Auto-filtering on TimeLength for Analogs History (Azure#665)
+
+## 1.0.213
+
+*2022-05-24*
+
+* Error handling improvement (TP#15913)
+* Fix: Ignore case sensitivity for static resources
+* Deprecate field 'publicVariableFiles' on 'Account' and 'Userarea'. Use new field 'publishedVariableLists' instead
 
 ## 1.0.208
 
-*2022-03/25*
+*2022-03-25*
 
-* Hotfix: TP#13489 Added "SignalType" to analog filter (#131)
+* TP#13489 Added "SignalType" to analog filter (#131)
 
 ## 1.0.206
 

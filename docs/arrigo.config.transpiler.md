@@ -7,6 +7,20 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+
+## 1.1.177
+*2022-06-02*
+- Fix: Added more supported binding attributes.
+- Fix: Resolve 'web:' (reading WebDomain attribute from AreaProperties file).
+
+## 1.1.165
+*2022-04-21*
+- Fix: Included support for decimals attribute in expressions.
+
+## 1.1.164
+*2022-02-24*
+- Hotfix: Fixed problems with threaded method invocations. More robust runtime. 
+
 ## 1.1.163
 *2022-02-24*
 - Fix: ClickAction OpenLink in widgets
