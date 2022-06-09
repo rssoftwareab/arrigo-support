@@ -7,6 +7,142 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.373
+
+*2022-06-09*
+
+### New Features
+
+- Feature: TP#15287 & TP#15107 - Zoom in views (#990)
+
+## 1.0.372
+
+*2022-06-03*
+
+### Fixes/Improvements
+
+- Hide meter change setting for calculated meters (#992)
+- Hotfix: Lockdate on yearly resolution (#994)
+
+## 1.0.371
+
+*2022-06-02*
+
+### Fixes/Improvements
+
+- Hotfix: Support title for link icons in sub menus in breadcrumb (#989)
+
+## 1.0.370
+
+*2022-06-02*
+
+### New Features
+
+- Feature: TP#11139 - Chart legend refactor (#980)
+- Feature: #11906 - Set Initial page after login (#985)
+- Feature: TP#15193 - Error handling improvements (#982)
+- Feature: TP#11906 Force setting for "First folder in project" (#978)
+### Fixes/Improvements
+
+- Hotfix: TP#15720 - Default Signal tolerance for Values in collection mode (#981)
+- Fix: Favorites LinkIcon can't be reached without feature in Url (#986)
+- Hotfix: Azure#603 - Fix Popup menu in panel mode (#979)
+- Hotfix: TP#15150 - Auto-close open popup menu when a new popup menu is clicked. (#977)
+
+## 1.0.369
+
+*2022-05-30*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15946 - Chart legend overflow on tablet (#976)
+- Hotfix: Infinite scroll when zoomed (#984)
+- Hotfix: Alias update on re-order (#987)
+
+## 1.0.368
+
+*2022-05-24*
+
+### Fixes/Improvements
+
+- Hotfix: CMA Indicator query fix (#983)
+
+## 1.0.367
+
+*2022-05-10*
+
+### Fixes/Improvements
+
+- Hotfix: CMA rework (#964)
+
+## 1.0.366
+
+*2022-05-09*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15394 - Arrigo BMS - Widget List Items Change of Symbols not working (#975)
+
+## 1.0.365
+
+*2022-05-02*
+
+### Fixes/Improvements
+
+- Hotfix: TP#8367 Arrigo BMS Animation view - Fit to view/Best fit like EXOscada (#974)
+- Hotfix: TP#11139 Ruler Legend avg calculation (#973)
+- Hotfix: TP#11973 Draw lines for alarms between ON -> OFF state (#972)
+- Hotfix: TP#10946 Added title position (Right and Below) to Numeric, Text, TextSelect and Date elements. (#971)
+- Hotfix: TP#15783 Arrigo Chart Pause button does not work as expected (#970)
+
+## 1.0.364
+
+*2022-05-02*
+
+### Fixes/Improvements
+
+- Hotfix: TP#12315 Editable favorites added. (#963)
+
+## 1.0.363
+
+*2022-04-25*
+
+### Fixes/Improvements
+
+- Hotfix: Lowercased wamp calls to chart service (#969)
+
+## 1.0.361
+
+*2022-04-25*
+
+### Fixes/Improvements
+
+- Hofix: Add ArrigoId link in user menu (#968)
+
+## 1.0.360
+
+*2022-04-22*
+
+### Fixes/Improvements
+
+- Hotfix: Persist ArrigoId local storage values (#966)
+
+## 1.0.359
+
+*2022-04-21*
+
+### Fixes/Improvements
+
+- Hotfix: Move removal of auth code from local storage (#965)
+
+## 1.0.358
+
+*2022-04-20*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15733 Energy widget size and text overflow (#962)
+
 ## 1.0.357
 
 *2022-04-13*
