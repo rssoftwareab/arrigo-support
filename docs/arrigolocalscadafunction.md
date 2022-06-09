@@ -8,6 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.1.131
+
+*2022-06-08*
+
+* Fix: Translating 'web:' 
+
 ## 1.1.126
 
 *2022-05-23*
