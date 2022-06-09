@@ -7,9 +7,9 @@ description: Change Log
 
 ## Next release
 
-2022-XX-XX
+2022-06-09
 
-## 1.1.???
+## 1.1.261
 
 2022-06-XX
 - Frontend: [1.0.373](./frontend.html#10373)
