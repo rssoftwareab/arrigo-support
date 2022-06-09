@@ -7,11 +7,10 @@ description: Change Log
 
 ## Next release
 
-2022-06-09
 
 ## 1.1.261
 
-2022-06-XX
+2022-06-09
 - Frontend: [1.0.373](./frontend.html#10373)
 
 - Arrigo Local API: [1.0.215](./arrigolocalapi.html#10215)
