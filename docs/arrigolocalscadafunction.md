@@ -12,7 +12,7 @@ description: Change Log
 
 *2022-06-08*
 
-* Fix: Translating 'web:' 
+* Fix: Translating 'web:' (TP#15416)
 
 ## 1.1.126
 
