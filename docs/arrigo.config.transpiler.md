@@ -8,8 +8,8 @@ description: Change Log
 
 ## Upcoming releases
 
-## 1.1.177
-*2022-06-02*
+## 1.1.179
+*2022-06-08*
 - Fix: Added more supported binding attributes.
 - Fix: Resolve 'web:' (reading WebDomain attribute from AreaProperties file).
 
