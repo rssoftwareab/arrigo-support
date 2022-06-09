@@ -8,8 +8,8 @@ description: Change Log
 
 ## Upcoming releases
 
-## 1.1.205
-*2022-06-02*
+## 1.1.208
+*2022-06-07*
 
 ### arrigo-dc
 - Feature: support ArrigoId tokens.
