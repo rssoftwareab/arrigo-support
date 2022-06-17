@@ -7,6 +7,12 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+## 1.0.217
+
+*2022-06-17*
+
+* Fix: Authentication problems for static resources
+ 
 ## 1.0.215
 
 *2022-06-08*
