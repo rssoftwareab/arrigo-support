@@ -60,7 +60,7 @@ We still have a breaking change:
 
 | Release                  | Version                                      |  Download                                                    |
 | ------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
-| Latest                   | [1.1.261](./arrigolocalinstaller.html#11261) |  Via installer (`--latest` flag provided)                     |
+| Latest                   | [1.1.265](./arrigolocalinstaller.html#11265) |  Via installer (`--latest` flag provided)                     |
 | Stable               | [1.1.238](./arrigolocalinstaller.html#11238) | [Download](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe)|
 
 
