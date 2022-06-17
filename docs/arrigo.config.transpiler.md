@@ -7,6 +7,9 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+## 1.1.180
+*2022-06-17*
+- Fix: Translating 'web:' for view files
 
 ## 1.1.179
 *2022-06-08*
