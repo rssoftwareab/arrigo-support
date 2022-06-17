@@ -7,6 +7,17 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.374
+
+*2022-06-17*
+
+### Fixes/Improvements
+
+- Hotfix: TP#8453 Reports - Translations not implemented for SVG-report filters (labels) (#993)
+- Hotfix: TP#16769 Calculated meter inputs overflow container (#998)
+- Hotfix: TP#16770 Normal year data bug (#997)
+- Hotfix: TP#16768 Change calculation for energy widget (#996)
+
 ## 1.0.373
 
 *2022-06-09*
