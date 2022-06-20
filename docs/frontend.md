@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.375
+
+*2022-06-20*
+
+### New Features
+
+- Feature: Meter Recalculation (#1001)
+
 ## 1.0.374
 
 *2022-06-17*
