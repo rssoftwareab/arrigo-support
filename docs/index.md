@@ -49,11 +49,7 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 
 # Arrigo Local
 ### Latest changes
-We have a new release candidate for a stable version!
-
-We still have a breaking change: 
-- `Web:` translates to `Shared:/web` in all views. If your project contains Controller web 2 projects, and your intensions are to use the views in Arrigo as well, you should move the shared resources from `web:` to `shared:` and change the file attributes from web to shared in all view files. For compatibility, this translation is a fallback, but not recommended.
-
+    
 ### Builds (change logs)
 
 *Please note that **EXO2019 Edition 4 build 253** is required to install Arrigo Local*
