@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.376
+
+*2022-06-27*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#655 - View Popups misalign in Arrigo (#1003)
+
 ## 1.0.375
 
 *2022-06-20*
