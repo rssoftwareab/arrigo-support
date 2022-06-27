@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.377
+
+*2022-06-27*
+
+### New Features
+
+- Feature: TP#15406 & TP#15401 - CSV Export full details export (#995)
+
 ## 1.0.376
 
 *2022-06-27*
