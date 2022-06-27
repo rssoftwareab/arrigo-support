@@ -7,6 +7,41 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.377
+
+*2022-06-27*
+
+### New Features
+
+- Feature: TP#15406 & TP#15401 - CSV Export full details export (#995)
+
+## 1.0.376
+
+*2022-06-27*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#655 - View Popups misalign in Arrigo (#1003)
+
+## 1.0.375
+
+*2022-06-20*
+
+### New Features
+
+- Feature: Meter Recalculation (#1001)
+
+## 1.0.374
+
+*2022-06-17*
+
+### Fixes/Improvements
+
+- Hotfix: TP#8453 Reports - Translations not implemented for SVG-report filters (labels) (#993)
+- Hotfix: TP#16769 Calculated meter inputs overflow container (#998)
+- Hotfix: TP#16770 Normal year data bug (#997)
+- Hotfix: TP#16768 Change calculation for energy widget (#996)
+
 ## 1.0.373
 
 *2022-06-09*
