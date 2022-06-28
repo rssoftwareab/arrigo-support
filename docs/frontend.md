@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.378
+
+*2022-06-28*
+
+### New Features
+
+- Feature: TP#16679 Energy Prices (#1002)
+
 ## 1.0.377
 
 *2022-06-27*
