@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.379
+
+*2022-06-29*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#731 Invalid currency factor input type
+
 ## 1.0.378
 
 *2022-06-28*
