@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.380
+
+*2022-07-01*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#720 float number input validation (#1012)
+
 ## 1.0.379
 
 *2022-06-29*
