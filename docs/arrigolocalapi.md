@@ -18,13 +18,13 @@ description: Change Log
 
 *2022-07-01*
 
-* Feature: Added the option to provide a custom url for the legacy UA. This is needed if the server has a valid cert installed
+* Feature: TP#17330: Added the option to provide a custom url for the legacy UA. This is needed if the server has a valid cert installed
 
 ## 1.0.219
 
 *2022-06-30*
 
-* Fix: More validation on data/value messages internally
+* Fix: TP#17353: More validation on data/value messages internally
 
 ## 1.0.218
 
