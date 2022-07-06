@@ -7,6 +7,31 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+
+## 1.0.221
+
+*2022-07-06*
+
+* Fix: AZ#718: Handling cultural differences in decimals better
+
+## 1.0.220
+
+*2022-07-01*
+
+* Feature: Added the option to provide a custom url for the legacy UA. This is needed if the server has a valid cert installed
+
+## 1.0.219
+
+*2022-06-30*
+
+* Fix: More validation on data/value messages internally
+
+## 1.0.218
+
+*2022-06-27*
+
+* Fix: Prevents crash if columns in database are missing
+
 ## 1.0.217
 
 *2022-06-17*
