@@ -7,6 +7,30 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.380
+
+*2022-07-01*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#720 float number input validation (#1012)
+
+## 1.0.379
+
+*2022-06-29*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#731 Invalid currency factor input type
+
+## 1.0.378
+
+*2022-06-28*
+
+### New Features
+
+- Feature: TP#16679 Energy Prices (#1002)
+
 ## 1.0.377
 
 *2022-06-27*
