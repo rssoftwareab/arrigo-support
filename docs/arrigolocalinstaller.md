@@ -7,6 +7,9 @@ description: Change Log
 
 ## Next release
 
+**Note** 
+This release will install a newer version of the [.NET Windows Hosting Bundle](https://download.visualstudio.microsoft.com/download/pr/3f4a4c4f-f969-41b3-b9d5-0b889261646b/0c24d7226927c10847b5efecc3528ee0/dotnet-hosting-3.1.26-win.exe) (3.1.26).  
+
 ## 1.1.267
 
 2022-07-06
