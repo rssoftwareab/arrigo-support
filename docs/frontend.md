@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.381
+
+*2022-07-08*
+
+### Fixes/Improvements
+
+- Hotfix: Add null check to listedFolder in NavigationList (#1016)
+
 ## 1.0.380
 
 *2022-07-01*
