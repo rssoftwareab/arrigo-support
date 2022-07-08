@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.382
+
+*2022-07-08*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15110 Hidden navigation when panel mode and offlinebanner (#1010)
+
 ## 1.0.381
 
 *2022-07-08*
