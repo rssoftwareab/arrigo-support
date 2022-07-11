@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.383
+
+*2022-07-11*
+
+### Fixes/Improvements
+
+- Hotfix: Disable maintenance when !isBMS and isOffline (#1017)
+
 ## 1.0.382
 
 *2022-07-08*
