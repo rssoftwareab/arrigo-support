@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.385
+
+*2022-07-15*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#749 Infinite redirection bug (#1019)
+
 ## 1.0.384
 
 *2022-07-15*
