@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.384
+
+*2022-07-15*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#739 Maintain reading/consumption list state (#1018)
+
 ## 1.0.383
 
 *2022-07-11*
