@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.386
+
+*2022-07-15*
+
+### New Features
+
+- Feature: Azure#737 Metervalues date picker (#1020)
+
 ## 1.0.385
 
 *2022-07-15*
