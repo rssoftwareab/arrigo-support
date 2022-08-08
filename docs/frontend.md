@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.387
+
+*2022-08-08*
+
+### Fixes/Improvements
+
+- Hotfix: Added Norwegian and Danish language (#1023)
+
 ## 1.0.386
 
 *2022-07-15*
