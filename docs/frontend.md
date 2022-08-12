@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.388
+
+*2022-08-12*
+
+### New Features
+
+- Feature: added language from POEdit.com (#1024)
+
 ## 1.0.387
 
 *2022-08-08*
