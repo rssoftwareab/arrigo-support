@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.389
+
+*2022-08-12*
+
+### Fixes/Improvements
+
+- Hotfix: Lang update (#1026)
+
 ## 1.0.388
 
 *2022-08-12*
