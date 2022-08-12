@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.390
+
+*2022-08-12*
+
+### Fixes/Improvements
+
+- Hotfix: Corrected lowercase (#1027)
+
 ## 1.0.389
 
 *2022-08-12*
