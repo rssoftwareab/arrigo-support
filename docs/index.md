@@ -84,8 +84,17 @@ You may unsubscribe at anytime with the same link.
 [Latest update](https://mailchi.mp/a055d48c7233/final-test-arrigo-update-8985397)
 
 
+# License Manager
+### Latest changes
+    
+### Builds (change logs)
 
-# Offline licensing (beta)
+| Release                  | Version                                      |  Download                                                    |
+| ------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
+| Latest                   | [0.0.1](./licensemanager.html#001) |  Via installer (`--latest` flag provided)                     |
+| Stable               | [0.0.1](./licensemanager.html#001) | [Download](https://arrigo.blob.core.windows.net/arrigo/LicenseManagerInstaller.exe)|
+
+## Offline licensing (beta)
 
 - [Instructions](./offline_licensing.md)
 - [Activate license](https://www.activationportal.me/selfservice/activation.aspx?Type=1&cid=7544&pid=9211&lang=en-US)
