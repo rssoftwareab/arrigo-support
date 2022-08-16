@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.394
+
+*2022-08-16*
+
+### Fixes/Improvements
+
+- removed indicator until api and dbscript has been run (#1031)
+
 ## 1.0.393
 
 *2022-08-16*
