@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.391
+
+*2022-08-16*
+
+### New Features
+
+- Feature: Azure#13410 QR Component (#1021)
+
 ## 1.0.390
 
 *2022-08-12*
