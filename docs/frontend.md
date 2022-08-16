@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.392
+
+*2022-08-16*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#741 Rounding of meter values (#1013)
+
 ## 1.0.391
 
 *2022-08-16*
