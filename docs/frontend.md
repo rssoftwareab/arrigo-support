@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.393
+
+*2022-08-16*
+
+### New Features
+
+- Feature: Azure#725 Processing indicator to meters (#1025)
+
 ## 1.0.392
 
 *2022-08-16*
