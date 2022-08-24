@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.395
+
+*2022-08-24*
+
+### Fixes/Improvements
+
+- Hotfix: TP#17781 Refetch meter values after create or delete (#1036)
+
 ## 1.0.394
 
 *2022-08-16*
