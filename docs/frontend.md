@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.396
+
+*2022-08-25*
+
+### Fixes/Improvements
+
+- Adds sorting order on meterValueID (#1037)
+
 ## 1.0.395
 
 *2022-08-24*
