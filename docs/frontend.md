@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.397
+
+*2022-08-25*
+
+### Fixes/Improvements
+
+- Hotfix: Change required accesslevel for saving and deleting trends to Guest (#1032)
+- Hotfix: Remember collection mode type (#1035)
+
 ## 1.0.396
 
 *2022-08-25*
