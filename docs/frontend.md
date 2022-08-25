@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.398
+
+*2022-08-25*
+
+### Fixes/Improvements
+
+- Hotfix: Fix caching issue (#1033)
+
 ## 1.0.397
 
 *2022-08-25*
