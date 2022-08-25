@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.399
+
+*2022-08-25*
+
+### New Features
+
+- Feature: Azure#513 Energytype in MetersList (#1004)
+
 ## 1.0.398
 
 *2022-08-25*
