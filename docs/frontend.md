@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.400
+
+*2022-08-26*
+
+### Fixes/Improvements
+
+- Hotfix: Backlink for QR-generator (#1039)
+
 ## 1.0.399
 
 *2022-08-25*
