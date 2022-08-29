@@ -3,13 +3,6 @@ layout: main
 title: Releases.
 description: Releases and Change Log
 ---
-# 2022-03-25 Major stability issues on www.arrigo.se
-We have issues with prognosis and consumption calculations in EMS module on arrigo.se. This affects all clients. We are working on a solution.
-Prognosis calculation and consumption calculations will be offline until the problem is resolved.
-No data will be lost, we can backtrack and recalculate everything.
-If you need more details, please send an email to arrigosupport@rssoftware.se
-
-/The Arrigo Team
 
 # Download
 
@@ -56,7 +49,7 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 
 | Release                  | Version                                      |  Download                                                    |
 | ------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
-| Latest                   | [1.1.265](./arrigolocalinstaller.html#11265) |  Via installer (`--latest` flag provided)                     |
+| Latest                   | [1.1.267](./arrigolocalinstaller.html#11267) |  Via installer (`--latest` flag provided)                     |
 | Stable               | [1.1.238](./arrigolocalinstaller.html#11238) | [Download](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe)|
 
 
