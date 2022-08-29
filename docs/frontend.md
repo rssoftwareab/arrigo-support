@@ -7,6 +7,167 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.400
+
+*2022-08-26*
+
+### Fixes/Improvements
+
+- Hotfix: Backlink for QR-generator (#1039)
+
+## 1.0.399
+
+*2022-08-25*
+
+### New Features
+
+- Feature: Azure#513 Energytype in MetersList (#1004)
+
+## 1.0.398
+
+*2022-08-25*
+
+### Fixes/Improvements
+
+- Hotfix: Fix caching issue (#1033)
+
+## 1.0.397
+
+*2022-08-25*
+
+### Fixes/Improvements
+
+- Hotfix: Change required accesslevel for saving and deleting trends to Guest (#1032)
+- Hotfix: Remember collection mode type (#1035)
+
+## 1.0.396
+
+*2022-08-25*
+
+### Fixes/Improvements
+
+- Adds sorting order on meterValueID (#1037)
+
+## 1.0.395
+
+*2022-08-24*
+
+### Fixes/Improvements
+
+- Hotfix: TP#17781 Refetch meter values after create or delete (#1036)
+
+## 1.0.394
+
+*2022-08-16*
+
+### Fixes/Improvements
+
+- removed indicator until api and dbscript has been run (#1031)
+
+## 1.0.393
+
+*2022-08-16*
+
+### New Features
+
+- Feature: Azure#725 Processing indicator to meters (#1025)
+
+## 1.0.392
+
+*2022-08-16*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#741 Rounding of meter values (#1013)
+
+## 1.0.391
+
+*2022-08-16*
+
+### New Features
+
+- Feature: Azure#13410 QR Component (#1021)
+
+## 1.0.390
+
+*2022-08-12*
+
+### Fixes/Improvements
+
+- Hotfix: Corrected lowercase (#1027)
+
+## 1.0.389
+
+*2022-08-12*
+
+### Fixes/Improvements
+
+- Hotfix: Lang update (#1026)
+
+## 1.0.388
+
+*2022-08-12*
+
+### New Features
+
+- Feature: added language from POEdit.com (#1024)
+
+## 1.0.387
+
+*2022-08-08*
+
+### Fixes/Improvements
+
+- Hotfix: Added Norwegian and Danish language (#1023)
+
+## 1.0.386
+
+*2022-07-15*
+
+### New Features
+
+- Feature: Azure#737 Metervalues date picker (#1020)
+
+## 1.0.385
+
+*2022-07-15*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#749 Infinite redirection bug (#1019)
+
+## 1.0.384
+
+*2022-07-15*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#739 Maintain reading/consumption list state (#1018)
+
+## 1.0.383
+
+*2022-07-11*
+
+### Fixes/Improvements
+
+- Hotfix: Disable maintenance when !isBMS and isOffline (#1017)
+
+## 1.0.382
+
+*2022-07-08*
+
+### Fixes/Improvements
+
+- Hotfix: TP#15110 Hidden navigation when panel mode and offlinebanner (#1010)
+
+## 1.0.381
+
+*2022-07-08*
+
+### Fixes/Improvements
+
+- Hotfix: Add null check to listedFolder in NavigationList (#1016)
+
 ## 1.0.380
 
 *2022-07-01*
