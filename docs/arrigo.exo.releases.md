@@ -46,7 +46,7 @@ description: Change Log
 - **TP#9605**: Password style in List View not working.
 - **TP#10589**: View popup bring to front when popup is activated.
 - **TP#11348**: SVG:s smaller than 15 px misaligned in view.
-- **TP#12277**: TextSelect texts and Symbol pictures supports ExoScada default value syntax (||) .
+- **TP#12277**: TextSelect texts and Symbol pictures supports ExoScada default value syntax (`||`) .
 
 ## 108
 
