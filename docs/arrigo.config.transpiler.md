@@ -7,6 +7,11 @@ description: Change Log
 # Change Log
 
 ## Upcoming releases
+
+## 1.1.214
+*2022-08-25*
+- Fix: TP#17495: Now translating ALib and SLib
+
 ## 1.1.180
 *2022-06-17*
 - Fix: Translating 'web:' for view files
