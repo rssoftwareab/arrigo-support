@@ -6,8 +6,8 @@ description: Change Log
 
 # Change Log
 
-## 2XX
-*2022-XX-XX*
+## 289
+*2022-09-06*
 - **TP#10946**: Added title position (Right and Below) to Numeric, Text, TextSelect and Date elements
 - **TP#10547**: Arrigo Folder Views Tool - Comment - can not be edited for Link Icons
 - **TP#15298**: Arrigo View Design tools - Opens wrong folder for Pick from AppLib
