@@ -45,11 +45,11 @@ Contact your sales representative for the latest service release of EXO2019 Edit
     
 ### Builds (change logs)
 
-*Please note that **EXO2019 Edition 4 build 253** is required to install Arrigo Local*
+*Please note that **EXO2019 Edition 4 build 289** is required to install Arrigo Local*
 
 | Release                  | Version                                      |  Download                                                    |
 | ------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
-| Latest                   | [1.1.267](./arrigolocalinstaller.html#11267) |  Via installer (`--latest` flag provided)                     |
+| Latest                   | [1.1.269](./arrigolocalinstaller.html#11269) |  Via installer (`--latest` flag provided)                     |
 | Stable               | [1.1.238](./arrigolocalinstaller.html#11238) | [Download](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe)|
 
 
