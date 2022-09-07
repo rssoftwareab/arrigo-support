@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.401
+
+*2022-09-01*
+
+### Fixes/Improvements
+
+- Hotfix: TP#18004 Not possible to change meter type (#1042)
+
 ## 1.0.400
 
 *2022-08-26*
