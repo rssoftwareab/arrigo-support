@@ -13,7 +13,7 @@ This release will install a newer version of the [.NET Windows Hosting Bundle](h
 ## 1.1.269
 
 2022-09-07
-- Frontend: [1.0.380](./frontend.html#10380)
+- Frontend: [1.0.401](./frontend.html#10401)
 
 - Arrigo Local API: [1.0.222](./arrigolocalapi.html#10222)
 
