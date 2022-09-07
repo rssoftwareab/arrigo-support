@@ -10,6 +10,21 @@ description: Change Log
 **Note** 
 This release will install a newer version of the [.NET Windows Hosting Bundle](https://download.visualstudio.microsoft.com/download/pr/3f4a4c4f-f969-41b3-b9d5-0b889261646b/0c24d7226927c10847b5efecc3528ee0/dotnet-hosting-3.1.26-win.exe) (3.1.26).  
 
+## 1.1.269
+
+2022-09-07
+- Frontend: [1.0.401](./frontend.html#10401)
+
+- Arrigo Local API: [1.0.222](./arrigolocalapi.html#10222)
+
+- Arrigo Local Scada Function: [1.1.132](./arrigolocalscadafunction.html#11132)
+
+- Arrigo Local Services: [1.0.211](./arrigolocalservices.html#10211)
+
+- Arrigo config transpiler: [1.0.214](./arrigo.config.transpiler.html#10214)
+
+- Required EXO installation: EXO 2019 Edition 4 Build [289](./arrigo.exo.releases.html#289)
+
 ## 1.1.267
 
 2022-07-06

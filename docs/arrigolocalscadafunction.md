@@ -8,6 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.1.132
+
+*2022-08-25*
+
+* Fix: TP#17496: Now translating SLib and ALib.
+
 ## 1.1.131
 
 *2022-06-08*

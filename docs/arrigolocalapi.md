@@ -8,6 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.222
+
+*2022-08-31*
+
+* Fix: TP#17538: Analog events are now matched on TimeLength (#142)
+
 ## 1.0.221
 
 *2022-07-06*
