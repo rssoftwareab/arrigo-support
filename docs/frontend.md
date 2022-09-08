@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.402
+
+*2022-09-08*
+
+### Fixes/Improvements
+
+- Hotfix: Disable meter value save button on click
+- Hotfix: TP#15108 Visual style for editable List Items in widget (#1038)
+
 ## 1.0.401
 
 *2022-09-01*
