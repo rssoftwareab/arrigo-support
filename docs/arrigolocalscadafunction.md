@@ -8,6 +8,12 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.1.133
+
+*2022-09-08*
+
+* Fix: TP#16776: Handling doubles using invariant culture (#85)
+
 ## 1.1.132
 
 *2022-08-25*
