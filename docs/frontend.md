@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.403
+
+*2022-09-09*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#788 Add new event properties to Alarms and Digitals, Display time can now be toggled between absolute and relative (#1050)
+
 ## 1.0.402
 
 *2022-09-08*
