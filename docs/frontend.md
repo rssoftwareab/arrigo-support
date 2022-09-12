@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.404
+
+*2022-09-12*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#834 Meter data list not updating
+
 ## 1.0.403
 
 *2022-09-09*
