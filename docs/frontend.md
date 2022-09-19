@@ -7,6 +7,40 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.405
+
+*2022-09-19*
+
+### Fixes/Improvements
+
+- Hotfix: Add Swedish translations for new Alarm properties (#1055)
+- Hotfix: AZ#862 Change order-by for pop-up alarm query (#1052)
+
+## 1.0.404
+
+*2022-09-12*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#834 Meter data list not updating
+
+## 1.0.403
+
+*2022-09-09*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#788 Add new event properties to Alarms and Digitals, Display time can now be toggled between absolute and relative (#1050)
+
+## 1.0.402
+
+*2022-09-08*
+
+### Fixes/Improvements
+
+- Hotfix: Disable meter value save button on click
+- Hotfix: TP#15108 Visual style for editable List Items in widget (#1038)
+
 ## 1.0.401
 
 *2022-09-01*
