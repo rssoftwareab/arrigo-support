@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.406
+
+*2022-09-19*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#863 Alarm status list doesn't display latest alarms. (#1054)
+
 ## 1.0.405
 
 *2022-09-19*
