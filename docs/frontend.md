@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.405
+
+*2022-09-19*
+
+### Fixes/Improvements
+
+- Hotfix: Add Swedish translations for new Alarm properties (#1055)
+- Hotfix: AZ#862 Change order-by for pop-up alarm query (#1052)
+
 ## 1.0.404
 
 *2022-09-12*
