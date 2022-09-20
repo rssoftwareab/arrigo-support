@@ -8,7 +8,7 @@ description: Releases and Change Log
 
 Contact your sales representative for the latest service release of EXO2019 Edition 4.
 
-*System requirements, hardware recommendations and installation instructions can be fount at [docs.arrigo.se](https://docs.arrigo.se/Install%20and%20Configure).*
+*System requirements, hardware recommendations and installation instructions can be found at [docs.arrigo.se](https://docs.arrigo.se/Install%20and%20Configure).*
 
 [Security Statement](./securitystatement.md)
 
