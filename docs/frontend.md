@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.407
+
+*2022-09-20*
+
+### Fixes/Improvements
+
+- Even the BMS have to input arrigoId in the querystring to be able to see the login button (#1057)
+
 ## 1.0.406
 
 *2022-09-19*
