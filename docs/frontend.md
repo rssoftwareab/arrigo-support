@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.408
+
+*2022-09-20*
+
+### Fixes/Improvements
+
+- Hotfix: TP#16368 Icons in listview are behind text (#1053)
+
 ## 1.0.407
 
 *2022-09-20*
