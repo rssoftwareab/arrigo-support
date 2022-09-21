@@ -8,6 +8,17 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.223
+
+*2022-09-08*
+
+* Feature/AZ#781 (#143)
+    - Optimize sql queries for Alarms and Digitals
+    - Added new fields for Alarms EventTime and AlarmTime
+    - Added new fields for Digitals EventTime and SwitchedOnTime
+    - Added new order fields for Alarms and Digital
+
+
 ## 1.0.222
 
 *2022-08-31*
