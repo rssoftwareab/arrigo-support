@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.411
+
+*2022-09-21*
+
+### New Features
+
+- Feature: TP#17890 AZ#813 Pause in Alarms/digitals history (#1047)
+
 ## 1.0.410
 
 *2022-09-21*
