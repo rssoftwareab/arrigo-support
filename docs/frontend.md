@@ -7,6 +7,20 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.409
+
+*2022-09-21*
+
+### Fixes/Improvements
+
+- Merge pull request #1034 from rssoftwareab/fix/number-format-on-blur
+- Forgot to change the regex to save the decimal delimiter.
+- Fixed some weird edge cases and bugs reported.
+- Passing onblurhandler to singleinput.
+- Passing onblurhandler to singleinput.
+- Fixed small derps.
+- Moved number formatting to on blur.
+
 ## 1.0.408
 
 *2022-09-20*
