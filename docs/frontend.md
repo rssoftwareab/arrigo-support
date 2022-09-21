@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.410
+
+*2022-09-21*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#725 Add status indicators for all meters (#1058)
+- Hotfix: AZ#284 QR print fixes (#1056)
+
 ## 1.0.409
 
 *2022-09-21*
