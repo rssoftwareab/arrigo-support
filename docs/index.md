@@ -39,7 +39,7 @@ Contact your sales representative for the latest service release of EXO2019 Edit
     
 ### Builds (change logs)
 
-*Please note that **EXO2019 Edition 4 build 289** is required to install Arrigo Local*
+*Please note that **EXO2019 Edition 4 build 294** is required to install Arrigo Local*
 
 | Release                  | Version                                      |  Download                                                    |
 | ------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
