@@ -6,6 +6,12 @@ description: Change Log
 
 # Change Log
 
+## 294
+*2022-09-14*
+- **TP#16429**: Flash issues in View Designers (#16)
+Added a new exo.command to ArrigoBMSFolder (check and update EventTime in Alarm_Register and Digital_Register with latest event from Values_table)
+- **TP#16904**: Arrigo BMS Numeric element title position and alignment
+
 ## 289
 *2022-09-06*
 - **TP#10946**: Added title position (Right and Below) to Numeric, Text, TextSelect and Date elements
