@@ -7,6 +7,61 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.411
+
+*2022-09-21*
+
+### New Features
+
+- Feature: TP#17890 AZ#813 Pause in Alarms/digitals history (#1047)
+
+## 1.0.410
+
+*2022-09-21*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#725 Add status indicators for all meters (#1058)
+- Hotfix: AZ#284 QR print fixes (#1056)
+
+## 1.0.409
+
+*2022-09-21*
+
+### Fixes/Improvements
+
+- Merge pull request #1034 from rssoftwareab/fix/number-format-on-blur
+- Forgot to change the regex to save the decimal delimiter.
+- Fixed some weird edge cases and bugs reported.
+- Passing onblurhandler to singleinput.
+- Passing onblurhandler to singleinput.
+- Fixed small derps.
+- Moved number formatting to on blur.
+
+## 1.0.408
+
+*2022-09-20*
+
+### Fixes/Improvements
+
+- Hotfix: TP#16368 Icons in listview are behind text (#1053)
+
+## 1.0.407
+
+*2022-09-20*
+
+### Fixes/Improvements
+
+- Even the BMS have to input arrigoId in the querystring to be able to see the login button (#1057)
+
+## 1.0.406
+
+*2022-09-19*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#863 Alarm status list doesn't display latest alarms. (#1054)
+
 ## 1.0.405
 
 *2022-09-19*
