@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.412
+
+*2022-09-26*
+
+### Fixes/Improvements
+
+- Hotfix: Base last viewed alarm notification on AlarmTime (#1064)
+
 ## 1.0.411
 
 *2022-09-21*
