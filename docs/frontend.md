@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.413
+
+*2022-09-27*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#941 Faulty sort options for Alarms and Digitals (#1065)
+- Hotfix: AZ#827 issue with axis and signal missing unit (#1051)
+
 ## 1.0.412
 
 *2022-09-26*
