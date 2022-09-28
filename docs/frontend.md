@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.416
+
+*2022-09-28*
+
+### New Features
+
+- Feature: Azure#726 Handling items with relations (#1043)
+
 ## 1.0.415
 
 *2022-09-28*
