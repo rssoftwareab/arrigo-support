@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.414
+
+*2022-09-28*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#904 - CSV för Larm och Digital Historik & AZ#717 - Export chart data to locale format (#1060)
+
 ## 1.0.413
 
 *2022-09-27*
