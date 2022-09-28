@@ -21,41 +21,14 @@ description: Change Log
 
 - Fix: Title height added to Numeric,Text,TextSelect and Date element in rwav. (#1059)
 - Hotfix: TP#14632 Blinking text not working in runtime (#1061)
-- Conflicting translations when merged
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Updated Helm
 - Update azure-pipelines.yml for Azure Pipelines
 - Fix: Change translation for planned -> maintenance
 - Add null check for params (#1044)
 - TP16904 Arrigo BMS Numeric element title position and alignment (#1049)
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Rename helm chart
-- Updated helm chart
-- Update azure-pipelines.yml for Azure Pipelines
-- Helmchart for CD pipeline
-- Create .npmrc
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
 - Merge pull request #1014 from rssoftwareab/fix/xlsx-export-option
 - Added XLSX export.
-- Set up CI with Azure Pipelines
-
-## 1.0.414
-
-*2022-09-28*
-
-### Fixes/Improvements
-
-- Hotfix: AZ#904 - CSV för Larm och Digital Historik & AZ#717 - Export chart data to locale format (#1060)
+- Hotfix: AZ#904 - CSV för Larm och Digital Historik & AZ#717 
+- Export chart data to locale format (#1060)
 
 ## 1.0.413
 
