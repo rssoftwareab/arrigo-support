@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.417
+
+*2022-09-28*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#553 It is not clear enough how to acknowlege alarms (#1066)
+
 ## 1.0.416
 
 *2022-09-28*
