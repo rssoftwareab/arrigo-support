@@ -7,6 +7,70 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.418
+
+*2022-09-29*
+
+### Fixes/Improvements
+
+- Update Swedish translations (#1068)
+
+## 1.0.417
+
+*2022-09-28*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#553 It is not clear enough how to acknowlege alarms (#1066)
+
+## 1.0.416
+
+*2022-09-28*
+
+### New Features
+
+- Feature: Azure#726 Handling items with relations (#1043)
+
+## 1.0.415
+
+*2022-09-28*
+
+### New Features
+
+- Feature: Global Tooltip (#1041)
+- Feature: Activities Widget (#1030)
+- Feature: Adds URL query parameters (#1022)
+- Feature: Update CW2 package fetch location (#1011)
+### Fixes/Improvements
+
+- Fix: Title height added to Numeric,Text,TextSelect and Date element in rwav. (#1059)
+- Hotfix: TP#14632 Blinking text not working in runtime (#1061)
+- Update azure-pipelines.yml for Azure Pipelines
+- Fix: Change translation for planned -> maintenance
+- Add null check for params (#1044)
+- TP16904 Arrigo BMS Numeric element title position and alignment (#1049)
+- Merge pull request #1014 from rssoftwareab/fix/xlsx-export-option
+- Added XLSX export.
+- Hotfix: AZ#904 - CSV för Larm och Digital Historik & AZ#717 
+- Export chart data to locale format (#1060)
+
+## 1.0.413
+
+*2022-09-27*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#941 Faulty sort options for Alarms and Digitals (#1065)
+- Hotfix: AZ#827 issue with axis and signal missing unit (#1051)
+
+## 1.0.412
+
+*2022-09-26*
+
+### Fixes/Improvements
+
+- Hotfix: Base last viewed alarm notification on AlarmTime (#1064)
+
 ## 1.0.411
 
 *2022-09-21*
