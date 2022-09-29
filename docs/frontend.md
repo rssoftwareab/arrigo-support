@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.418
+
+*2022-09-29*
+
+### Fixes/Improvements
+
+- Update Swedish translations (#1068)
+
 ## 1.0.417
 
 *2022-09-28*
