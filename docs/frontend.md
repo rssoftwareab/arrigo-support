@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.420
+
+*2022-09-29*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#938 Authentication using stale/invalid tokens (#1070)
+
 ## 1.0.419
 
 *2022-09-29*
