@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.419
+
+*2022-09-29*
+
+### Fixes/Improvements
+
+- Hotfix: Change poll interval of Alarms Widget to 5 sec instead of 30 sec (#1069)
+
 ## 1.0.418
 
 *2022-09-29*
