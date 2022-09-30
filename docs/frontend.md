@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.422
+
+*2022-09-30*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#916 Meter unit group data type & AZ#940 EMS: meter reading / consumption has wrong data (#1067)
+
 ## 1.0.421
 
 *2022-09-30*
