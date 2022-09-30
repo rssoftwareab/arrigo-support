@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.421
+
+*2022-09-30*
+
+### Fixes/Improvements
+
+- Pull Request triggered from POEditor (#1071)
+
 ## 1.0.420
 
 *2022-09-29*
