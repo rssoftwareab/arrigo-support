@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.423
+
+*2022-10-04*
+
+### Fixes/Improvements
+
+- Hotfix: Remove debugger (#1073)
+
 ## 1.0.422
 
 *2022-09-30*
