@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.424
+
+*2022-10-05*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#1002 Uppercase user initials (#1077)
+
 ## 1.0.423
 
 *2022-10-04*
