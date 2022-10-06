@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.425
+
+*2022-10-06*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#1000 Number inputs do not fire onBlur (#1078)
+
 ## 1.0.424
 
 *2022-10-05*
