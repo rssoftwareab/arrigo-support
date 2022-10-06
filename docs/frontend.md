@@ -7,6 +7,16 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.429
+
+*2022-10-06*
+
+### Fixes/Improvements
+
+- Language update: Swe (#1082)
+- Hotfix: Exlude all language files from being prettified (#1081)
+- Fix: AZ#992 Alarms list and details overhaul  (#1076)
+
 ## 1.0.426
 
 *2022-10-06*
