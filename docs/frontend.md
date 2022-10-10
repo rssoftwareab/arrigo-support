@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.432
+
+*2022-10-10*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#966 MeterValue validation (#1084)
+
 ## 1.0.431
 
 *2022-10-10*
