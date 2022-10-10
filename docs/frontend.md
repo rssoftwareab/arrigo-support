@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.431
+
+*2022-10-10*
+
+### Fixes/Improvements
+
+- Hotfix: History pause button (#1083)
+- Hotfix: Disable meter sync button during calculations (#1075)
+
 ## 1.0.429
 
 *2022-10-06*
