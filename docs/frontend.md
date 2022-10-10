@@ -7,6 +7,97 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.432
+
+*2022-10-10*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#966 MeterValue validation (#1084)
+
+## 1.0.431
+
+*2022-10-10*
+
+### Fixes/Improvements
+
+- Hotfix: History pause button (#1083)
+- Hotfix: Disable meter sync button during calculations (#1075)
+
+## 1.0.429
+
+*2022-10-06*
+
+### Fixes/Improvements
+
+- Language update: Swe (#1082)
+- Hotfix: Exlude all language files from being prettified (#1081)
+- Fix: AZ#992 Alarms list and details overhaul  (#1076)
+
+## 1.0.426
+
+*2022-10-06*
+
+### Fixes/Improvements
+
+- Pull Request triggered from POEditor (#1080)
+
+## 1.0.425
+
+*2022-10-06*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#1000 Number inputs do not fire onBlur (#1078)
+
+## 1.0.424
+
+*2022-10-05*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#1002 Uppercase user initials (#1077)
+
+## 1.0.423
+
+*2022-10-04*
+
+### Fixes/Improvements
+
+- Hotfix: Remove debugger (#1073)
+
+## 1.0.422
+
+*2022-09-30*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#916 Meter unit group data type & AZ#940 EMS: meter reading / consumption has wrong data (#1067)
+
+## 1.0.421
+
+*2022-09-30*
+
+### Fixes/Improvements
+
+- Pull Request triggered from POEditor (#1071)
+
+## 1.0.420
+
+*2022-09-29*
+
+### Fixes/Improvements
+
+- Hotfix: Azure#938 Authentication using stale/invalid tokens (#1070)
+
+## 1.0.419
+
+*2022-09-29*
+
+### Fixes/Improvements
+
+- Hotfix: Change poll interval of Alarms Widget to 5 sec instead of 30 sec (#1069)
+
 ## 1.0.418
 
 *2022-09-29*
