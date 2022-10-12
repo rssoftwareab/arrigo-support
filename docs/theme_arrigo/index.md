@@ -140,6 +140,10 @@ description: Put this in your theme folder
   "hidePanelModeDivider": "",
   "minimizeContainerPaddingForViewsOnMobile": "",
   "includeAnimationViewsInTheme": "",
+  "maintenanceText": "",
+  "forceFirstFolder": "",
+  "autoRedirectToLastFolderVisitedTimeout": "01:30:00",
+  "showHelp": "Yes",
   "helpers": {}
 }
 
