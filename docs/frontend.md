@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.434
+
+*2022-10-12*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#995 Verify alarm titles in events and status list (#1089)
+
 ## 1.0.433
 
 *2022-10-12*
