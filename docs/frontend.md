@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.436
+
+*2022-10-12*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1058 Hide help section in header based on theme setting (#1092)
+
 ## 1.0.435
 
 *2022-10-12*
