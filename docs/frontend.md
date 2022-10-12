@@ -7,6 +7,16 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.433
+
+*2022-10-12*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#999 Tooltips for fullscreen, filter and usermenu icons wanted. (#1085)
+- Hotfix: AZ#1056 Mobile styling on alarm and digital rows (#1086)
+- Hotfix: AZ#1021 Show title not working in Views (#1088)
+
 ## 1.0.432
 
 *2022-10-10*
