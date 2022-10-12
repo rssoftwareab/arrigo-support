@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.438
+
+*2022-10-12*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1057 Formatting Date element in animation views (#1094)
+
 ## 1.0.437
 
 *2022-10-12*
