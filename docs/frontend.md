@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.435
+
+*2022-10-12*
+
+### Fixes/Improvements
+
+- Hotfix: Update swedish translations (POEditor.com) (#1090)
+
 ## 1.0.434
 
 *2022-10-12*
