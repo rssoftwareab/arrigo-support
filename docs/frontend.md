@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.437
+
+*2022-10-12*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#997 Put alarm status list in pause mode when not in top (#1091)
+
 ## 1.0.436
 
 *2022-10-12*
