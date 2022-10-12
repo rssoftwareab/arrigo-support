@@ -74,7 +74,10 @@ A couple of additional custom styling implementations has been made into Arrigo.
 | Property | Value | Description |
 | -------- | ----- | ----------- |
 | `forcePanelMode` | `Yes` |  This will prevent the user from using the original navigation in Arrigo, enforcing the use of the Panel mode navigation at the top of the page. |
-|`hidePanelModeDivider` | `Yes` | This will hide the divider line between the top header and the navigation part of the panel mode in Arrigo. |
+| `hidePanelModeDivider` | `Yes` | This will hide the divider line between the top header and the navigation part of the panel mode in Arrigo. |
 | `minimizeContainerPaddingForViewsOnMobile` | `Yes` | This will allow the Animation views from ExoScada to be rendered without any side padding at all in Arrigo, freeing up a couple of pixels of width. |
 | `includeAnimationViewsInTheme` | `Yes` | This will change the theme used in Animation views to be fetched from S00004001 instead of S00004000 |
 | `maintenanceText` | `Empty string` | This setting overrides current, translated, maintenance text when Arrigo is not available due to restart or shutdown. |
+| `forceFirstFolder` | `Empty string` | Redirects the user upon login to the first folder in the navigation tree if value is set to "Yes" |
+| `autoRedirectToLastFolderVisitedTimeout` | `01:30:00` | The time when a user will be redirected to the last folder vistited upon login |
+| `showHelp` | `Yes` | Setting this to "No" will hide the help icon (question mark) in the header |
