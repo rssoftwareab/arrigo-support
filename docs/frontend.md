@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.439
+
+*2022-10-13*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1060 Alarm status button redesign (#1093)
+
 ## 1.0.438
 
 *2022-10-12*
