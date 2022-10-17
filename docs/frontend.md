@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.440
+
+*2022-10-17*
+
+### Fixes/Improvements
+
+- Hotfix: Change internal development settings (#1097)
+- Hotfix: AZ#1137 Alarm status list infinite scroll does not work (#1095)
+
 ## 1.0.439
 
 *2022-10-13*
