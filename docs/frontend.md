@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.441
+
+*2022-10-18*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1136 Increase scroll threshold to pause alarm list (#1096)
+
 ## 1.0.440
 
 *2022-10-17*
