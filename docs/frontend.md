@@ -7,6 +7,23 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.442
+
+*2022-10-19*
+
+### New Features
+
+- Feature: AZ#559 Alarm notification center (#1098)
+- Feature: AZ#811 Handle multiple accounts and tabs (#1072)
+### Fixes/Improvements
+
+- Fix an issue with navigation list
+- Hotfix: Activity view bypasses overridden local storage (#1102)
+- Probably solves trailing websockets with revoked accesstokens
+- Hotfix: Display notification center tooltip
+- Merge changes
+- Fix: AZ#796 Rewrite global filters and sorting (#1074)
+
 ## 1.0.441
 
 *2022-10-18*
