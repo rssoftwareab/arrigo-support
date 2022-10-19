@@ -8,6 +8,18 @@ description: Change Log
 
 ## Upcoming releases
 
+## 1.0.225
+
+*2022-10-19*
+
+* Feature: Add support for Arrigo ID login
+
+## 1.0.224
+
+*2022-10-05*
+
+* Fix: AZ#950 (TP#18262)
+
 ## 1.0.223
 
 *2022-09-08*
