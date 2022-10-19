@@ -10,7 +10,7 @@ description: Change Log
 ## 1.1.???
 
 2022-10-11
-- Frontend: [1.0.432](./frontend.html#10432)
+- Frontend: [1.0.442](./frontend.html#10442)
 
 - Arrigo Local API: [1.0.225](./arrigolocalapi.html#10225)
 
