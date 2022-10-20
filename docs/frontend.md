@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.445
+
+*2022-10-20*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1174 Included in sum on meter card (#1103)
+- Hotfix: Notifications panel overflow behaviour (#1105)
+
 ## 1.0.444
 
 *2022-10-20*
