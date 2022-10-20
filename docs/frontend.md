@@ -31,7 +31,7 @@ description: Change Log
 
 ### Fixes/Improvements
 
-- Pull Request triggered from POEditor (#1106)
+- Localization: Swedish update (#1106)
 
 ## 1.0.443
 
@@ -166,7 +166,7 @@ description: Change Log
 
 ### Fixes/Improvements
 
-- Pull Request triggered from POEditor (#1080)
+- Localization: Swedish update (#1080)
 
 ## 1.0.425
 
@@ -206,7 +206,7 @@ description: Change Log
 
 ### Fixes/Improvements
 
-- Pull Request triggered from POEditor (#1071)
+- Localization: Swedish update (#1071)
 
 ## 1.0.420
 
