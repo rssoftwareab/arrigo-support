@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.447
+
+*2022-10-20*
+
+### Fixes/Improvements
+
+- Localization: Swedish update (#1107)
+- Hotfix: AZ#1139 Custom formula verification fix.  (#1099)
+
 ## 1.0.445
 
 *2022-10-20*
