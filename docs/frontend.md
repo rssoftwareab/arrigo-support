@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.443
+
+*2022-10-20*
+
+### Fixes/Improvements
+
+- Hotfix: Rename and change of functionality for "show new alarms" (#1104)
+
 ## 1.0.442
 
 *2022-10-19*
