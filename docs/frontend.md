@@ -7,6 +7,114 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.444
+
+*2022-10-20*
+
+### Fixes/Improvements
+
+- Pull Request triggered from POEditor (#1106)
+
+## 1.0.443
+
+*2022-10-20*
+
+### Fixes/Improvements
+
+- Hotfix: Rename and change of functionality for "show new alarms" (#1104)
+
+## 1.0.442
+
+*2022-10-19*
+
+### New Features
+
+- Feature: AZ#559 Alarm notification center (#1098)
+- Feature: AZ#811 Handle multiple accounts and tabs (#1072)
+### Fixes/Improvements
+
+- Fix an issue with navigation list
+- Hotfix: Activity view bypasses overridden local storage (#1102)
+- Probably solves trailing websockets with revoked accesstokens
+- Hotfix: Display notification center tooltip
+- Merge changes
+- Fix: AZ#796 Rewrite global filters and sorting (#1074)
+
+## 1.0.441
+
+*2022-10-18*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1136 Increase scroll threshold to pause alarm list (#1096)
+
+## 1.0.440
+
+*2022-10-17*
+
+### Fixes/Improvements
+
+- Hotfix: Change internal development settings (#1097)
+- Hotfix: AZ#1137 Alarm status list infinite scroll does not work (#1095)
+
+## 1.0.439
+
+*2022-10-13*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1060 Alarm status button redesign (#1093)
+
+## 1.0.438
+
+*2022-10-12*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1057 Formatting Date element in animation views (#1094)
+
+## 1.0.437
+
+*2022-10-12*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#997 Put alarm status list in pause mode when not in top (#1091)
+
+## 1.0.436
+
+*2022-10-12*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1058 Hide help section in header based on theme setting (#1092)
+
+## 1.0.435
+
+*2022-10-12*
+
+### Fixes/Improvements
+
+- Hotfix: Update swedish translations (POEditor.com) (#1090)
+
+## 1.0.434
+
+*2022-10-12*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#995 Verify alarm titles in events and status list (#1089)
+
+## 1.0.433
+
+*2022-10-12*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#999 Tooltips for fullscreen, filter and usermenu icons wanted. (#1085)
+- Hotfix: AZ#1056 Mobile styling on alarm and digital rows (#1086)
+- Hotfix: AZ#1021 Show title not working in Views (#1088)
+
 ## 1.0.432
 
 *2022-10-10*
