@@ -7,13 +7,31 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.447
+
+*2022-10-20*
+
+### Fixes/Improvements
+
+- Localization: Swedish update (#1107)
+- Hotfix: AZ#1139 Custom formula verification fix.  (#1099)
+
+## 1.0.445
+
+*2022-10-20*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1174 Included in sum on meter card (#1103)
+- Hotfix: Notifications panel overflow behaviour (#1105)
+
 ## 1.0.444
 
 *2022-10-20*
 
 ### Fixes/Improvements
 
-- Pull Request triggered from POEditor (#1106)
+- Localization: Swedish update (#1106)
 
 ## 1.0.443
 
@@ -148,7 +166,7 @@ description: Change Log
 
 ### Fixes/Improvements
 
-- Pull Request triggered from POEditor (#1080)
+- Localization: Swedish update (#1080)
 
 ## 1.0.425
 
@@ -188,7 +206,7 @@ description: Change Log
 
 ### Fixes/Improvements
 
-- Pull Request triggered from POEditor (#1071)
+- Localization: Swedish update (#1071)
 
 ## 1.0.420
 
