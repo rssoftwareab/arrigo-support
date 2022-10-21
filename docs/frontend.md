@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.450
+
+*2022-10-21*
+
+### Fixes/Improvements
+
+- Hotfix: Add fixed position to BurgerMenu component (#1112)
+
 ## 1.0.449
 
 *2022-10-21*
