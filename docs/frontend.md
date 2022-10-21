@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.449
+
+*2022-10-21*
+
+### Fixes/Improvements
+
+- Hotfix: Update with macro navigation for notifications (#1110)
+- Hotfix: Hide bad timestamps from database in status lists (#1111)
+
 ## 1.0.448
 
 *2022-10-21*
