@@ -5,13 +5,13 @@ description: Change Log
 ---
 # Change Log
 
-## Next release
+## 1.1.287
 
-- Frontend: [1.0.442](./frontend.html#10442)
+- Frontend: [1.0.450](./frontend.html#10450)
 
-- Arrigo Local API: [1.0.225](./arrigolocalapi.html#10225)
+- Arrigo Local API: [1.0.229](./arrigolocalapi.html#10229)
 
-- Arrigo Local Scada Function: [1.1.133](./arrigolocalscadafunction.html#11133)
+- Arrigo Local Scada Function: [1.1.135](./arrigolocalscadafunction.html#11135)
 
 - Arrigo Local Services: [1.0.211](./arrigolocalservices.html#10211)
 
