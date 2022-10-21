@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.448
+
+*2022-10-21*
+
+### Fixes/Improvements
+
+- Hotfix: Add collection mode tooltip (#1108)
+
 ## 1.0.447
 
 *2022-10-20*
