@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.451
+
+*2022-10-24*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1188 Cannot click mobile filter checkbox (#1114)
+
 ## 1.0.450
 
 *2022-10-21*
