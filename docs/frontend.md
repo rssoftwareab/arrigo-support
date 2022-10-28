@@ -7,6 +7,38 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.454
+
+*2022-10-28*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1192 Persist selected navigation type and visibility in local storage (#1116)
+
+## 1.0.453
+
+*2022-10-28*
+
+### Fixes/Improvements
+
+- Hotfix: Remove z-index from StyledListHeader (#1117)
+
+## 1.0.452
+
+*2022-10-28*
+
+### Fixes/Improvements
+
+- Hotfix: Notification icon is unique file (for replacement) (#1115)
+
+## 1.0.451
+
+*2022-10-24*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1188 Cannot click mobile filter checkbox (#1114)
+
 ## 1.0.450
 
 *2022-10-21*
@@ -80,7 +112,6 @@ description: Change Log
 - Hotfix: Activity view bypasses overridden local storage (#1102)
 - Probably solves trailing websockets with revoked accesstokens
 - Hotfix: Display notification center tooltip
-- Merge changes
 - Fix: AZ#796 Rewrite global filters and sorting (#1074)
 
 ## 1.0.441
