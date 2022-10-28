@@ -5,8 +5,9 @@ description: Change Log
 ---
 # Change Log
 
-## 1.1.???
+## 1.1.290
 
+2022-10-28
 - Frontend: [1.0.454](./frontend.html#10454)
 
 - Arrigo Local API: [1.0.230](./arrigolocalapi.html#10230)
@@ -22,6 +23,7 @@ description: Change Log
 
 ## 1.1.287
 
+2022-10-21
 - Frontend: [1.0.450](./frontend.html#10450)
 
 - Arrigo Local API: [1.0.229](./arrigolocalapi.html#10229)
