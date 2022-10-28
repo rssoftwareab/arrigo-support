@@ -112,7 +112,6 @@ description: Change Log
 - Hotfix: Activity view bypasses overridden local storage (#1102)
 - Probably solves trailing websockets with revoked accesstokens
 - Hotfix: Display notification center tooltip
-- Merge changes
 - Fix: AZ#796 Rewrite global filters and sorting (#1074)
 
 ## 1.0.441
