@@ -7,7 +7,7 @@ description: Change Log
 
 ## 1.1.???
 
-- Frontend: [1.0.450](./frontend.html#10450)
+- Frontend: [1.0.454](./frontend.html#10454)
 
 - Arrigo Local API: [1.0.230](./arrigolocalapi.html#10230)
 
