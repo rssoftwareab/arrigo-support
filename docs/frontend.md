@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.454
+
+*2022-10-28*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1192 Persist selected navigation type and visibility in local storage (#1116)
+
 ## 1.0.453
 
 *2022-10-28*
