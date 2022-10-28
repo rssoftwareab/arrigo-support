@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.452
+
+*2022-10-28*
+
+### Fixes/Improvements
+
+- Hotfix: Notification icon is unique file (for replacement) (#1115)
+
 ## 1.0.451
 
 *2022-10-24*
