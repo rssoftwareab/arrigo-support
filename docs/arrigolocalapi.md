@@ -6,7 +6,17 @@ description: Change Log
 
 # Change Log
 
-## Upcoming releases
+## 1.0.229
+
+*2022-10-20*
+
+* Various fixes regarding Refresh Tokens
+
+## 1.0.226
+
+*2022-10-20*
+
+* Fix: AZ#1175 check email as username (#145)
 
 ## 1.0.225
 

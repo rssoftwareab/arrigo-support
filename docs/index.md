@@ -43,7 +43,7 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 
 | Release                  | Version                                      |  Download                                                    |
 | ------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
-| Latest                   | [1.1.274](./arrigolocalinstaller.html#11274) |  Via installer (`--latest` flag provided)                     |
+| Latest                   | [1.1.287](./arrigolocalinstaller.html#11287) |  Via installer (`--latest` flag provided)                     |
 | Stable               | [1.1.274](./arrigolocalinstaller.html#11274) | [Download](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe)|
 
 

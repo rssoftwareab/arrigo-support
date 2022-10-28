@@ -6,7 +6,17 @@ description: Change Log
 
 # Change Log
 
-## Upcoming releases
+## 1.1.135
+
+*2022-10-21*
+
+* Fix: Better support for Central Time Channels and Central calendars
+
+## 1.1.134
+
+*2022-09-29*
+
+* Fix: Handling unsubscription of variables better
 
 ## 1.1.133
 
