@@ -8,7 +8,7 @@ description: Change Log
 
 ## 1.0.230
 
-*2022-10-21
+*2022-10-21*
 
 * Removed EXO build version from sysinfo endpoint 
 
