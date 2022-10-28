@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.453
+
+*2022-10-28*
+
+### Fixes/Improvements
+
+- Hotfix: Remove z-index from StyledListHeader (#1117)
+
 ## 1.0.452
 
 *2022-10-28*
