@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.455
+
+*2022-11-02*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1208 QR Scanner iPhone iOS16 update (#1120)
+- Hotfix: AZ#1207 Default navigation state (#1119)
+
 ## 1.0.454
 
 *2022-10-28*
