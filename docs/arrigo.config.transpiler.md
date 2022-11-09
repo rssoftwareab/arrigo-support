@@ -6,7 +6,9 @@ description: Change Log
 
 # Change Log
 
-## Upcoming releases
+## 1.1.218
+*2022-11-09*
+- Fix: AZ#960 TP#18558: The LARGEADDRESSAWARE flag is now set
 
 ## 1.1.214
 *2022-08-25*
