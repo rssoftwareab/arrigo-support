@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.456
+
+*2022-11-09*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1223 Incorrect CSV export (#1122)
+
 ## 1.0.455
 
 *2022-11-02*
