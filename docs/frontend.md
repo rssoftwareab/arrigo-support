@@ -7,6 +7,18 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.457
+
+*2022-11-10*
+
+### Fixes/Improvements
+
+- Merge pull request #1118 from rssoftwareab/fix/local-number-format
+- Fixed formatting and now saves correct values.
+- Update src/external/packages/eos/components/elements/numberInput/index.js
+- Now works for all languages except italian.
+- Local number format added.
+
 ## 1.0.456
 
 *2022-11-09*
