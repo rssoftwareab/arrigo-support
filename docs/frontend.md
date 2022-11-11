@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.458
+
+*2022-11-11*
+
+### Fixes/Improvements
+
+- Added helmchart for production (#1125)
+
 ## 1.0.457
 
 *2022-11-10*
