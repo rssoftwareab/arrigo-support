@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.459
+
+*2022-11-14*
+
+### Fixes/Improvements
+
+- Added www.arrigo.se to helmchart (#1126)
+
 ## 1.0.458
 
 *2022-11-11*
