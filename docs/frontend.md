@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.460
+
+*2022-11-15*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1218 - Enable chart calendar by default (#1121)
+
 ## 1.0.459
 
 *2022-11-14*
