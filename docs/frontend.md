@@ -7,6 +7,59 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.460
+
+*2022-11-15*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1218 - Enable chart calendar by default (#1121)
+
+## 1.0.459
+
+*2022-11-14*
+
+### Fixes/Improvements
+
+- Added www.arrigo.se to helmchart (#1126)
+
+## 1.0.458
+
+*2022-11-11*
+
+### Fixes/Improvements
+
+- Added helmchart for production (#1125)
+
+## 1.0.457
+
+*2022-11-10*
+
+### Fixes/Improvements
+
+- Merge pull request #1118 from rssoftwareab/fix/local-number-format
+- Fixed formatting and now saves correct values.
+- Update src/external/packages/eos/components/elements/numberInput/index.js
+- Now works for all languages except italian.
+- Local number format added.
+
+## 1.0.456
+
+*2022-11-09*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1223 Incorrect CSV export (#1122)
+
+## 1.0.455
+
+*2022-11-02*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1208 QR Scanner iPhone iOS16 update (#1120)
+- Hotfix: AZ#1207 Default navigation state (#1119)
+
 ## 1.0.454
 
 *2022-10-28*
