@@ -20,7 +20,9 @@ description: Change Log
 
 - Required EXO installation: EXO 2019 Edition 4 Build [315](./arrigo.exo.releases.html#315)
 
+### Installer
 
+- Fix: AZ#998 Check that processes that are not killed by EXOstop are killed before trying to overwrite them
 
 ## 1.1.290
 
