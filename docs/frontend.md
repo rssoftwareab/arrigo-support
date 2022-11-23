@@ -7,6 +7,17 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.462
+
+*2022-11-23*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1222 Collected signals amount and ChartLegend overflow behaviour (#1133)
+- Hotfix: AZ#1232 LinkIcon name no wrap (#1132)
+- Hotfix: AZ#1227 Missing time stamps show up as really old in Alarms list (#1131)
+- Hotfix:AZ#1233 Hidden title blocks underlying element (#1130)
+
 ## 1.0.461
 
 *2022-11-23*
