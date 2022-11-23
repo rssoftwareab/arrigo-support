@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.461
+
+*2022-11-23*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1236 Theme.json error on login screen (#1129)
+- Hotfix: AZ#1062 Link to self help (#1128)
+
 ## 1.0.460
 
 *2022-11-15*
