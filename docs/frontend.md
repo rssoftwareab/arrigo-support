@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.464
+
+*2022-11-24*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1279 Translations get an empty string from PO Editor (#1135)
+
 ## 1.0.463
 
 *2022-11-23*
