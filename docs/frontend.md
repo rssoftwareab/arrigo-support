@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.465
+
+*2022-11-25*
+
+### Fixes/Improvements
+
+- Hotfix: Table report document fix (#1136)
+
 ## 1.0.464
 
 *2022-11-24*
