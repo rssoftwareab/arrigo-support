@@ -6,6 +6,12 @@ description: Change Log
 
 # Change Log
 
+## 1.0.231
+
+*2022-11-16*
+
+* Added filter for unhandled WebSocketExceptions to prevent logging in Windows Event Log
+
 ## 1.0.230
 
 *2022-10-21*
