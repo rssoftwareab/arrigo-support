@@ -7,6 +7,58 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.466
+
+*2022-11-28*
+
+### Fixes/Improvements
+
+- Hotfix: Table report faulty header update (#1138)
+
+## 1.0.465
+
+*2022-11-25*
+
+### Fixes/Improvements
+
+- Hotfix: Table report document fix (#1136)
+
+## 1.0.464
+
+*2022-11-24*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1279 Translations get an empty string from PO Editor (#1135)
+
+## 1.0.463
+
+*2022-11-23*
+
+### Fixes/Improvements
+
+- Hotfix: Year resolution in Table Report (#1134)
+
+## 1.0.462
+
+*2022-11-23*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1222 Collected signals amount and ChartLegend overflow behaviour (#1133)
+- Hotfix: AZ#1232 LinkIcon name no wrap (#1132)
+- Hotfix: AZ#1227 Missing time stamps show up as really old in Alarms list (#1131)
+- Hotfix:AZ#1233 Hidden title blocks underlying element (#1130)
+
+## 1.0.461
+
+*2022-11-23*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1236 Theme.json error on login screen (#1129)
+- Hotfix: AZ#1062 Link to self help (#1128)
+
 ## 1.0.460
 
 *2022-11-15*
