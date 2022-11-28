@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.466
+
+*2022-11-28*
+
+### Fixes/Improvements
+
+- Hotfix: Table report faulty header update (#1138)
+
 ## 1.0.465
 
 *2022-11-25*
