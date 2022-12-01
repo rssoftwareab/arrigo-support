@@ -7,6 +7,19 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.467
+
+*2022-12-01*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1314 Add clickAction support to widgets saved in Favorites (#1144)
+- Hotfix: AZ#1317 Additional attributes to CSV Exports (#1143)
+- Hotfix: AZ#1055 Chart: Different formula for calculating avg value (#1142)
+- Hotfix: AZ#1303 Activities table column alignment (#1141)
+- Hotfix: AZ#1315 The Grinch has stolen the joy of Christmas (Jingle on login page is now muted as default) (#1140)
+- Hotfix: AZ#1302 Auto-focus on credential inputs when visiting login page (#1139)
+
 ## 1.0.466
 
 *2022-11-28*
