@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.468
+
+*2022-12-02*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1283 TP#9575: Notification on permission denied (#1146)
+
 ## 1.0.467
 
 *2022-12-01*
