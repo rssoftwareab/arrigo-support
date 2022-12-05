@@ -6,6 +6,10 @@ description: Change Log
 
 # Change Log
 
+## 1.1.225
+*2022-12-02*
+- Fix: AZ#1224 Resolving date macros (TP#20813)
+
 ## 1.1.218
 *2022-11-09*
 - Fix: AZ#960 TP#18558: The LARGEADDRESSAWARE flag is now set
