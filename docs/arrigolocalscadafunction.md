@@ -6,6 +6,12 @@ description: Change Log
 
 # Change Log
 
+## 1.1.136
+
+*2022-12-02*
+
+* Fix: AZ#1224 Resolving date macros (TP#20813)
+
 ## 1.1.135
 
 *2022-10-21*
