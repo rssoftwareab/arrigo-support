@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.469
+
+*2022-12-07*
+
+### Fixes/Improvements
+
+- Hotfix: Cap refresh timeout to prevent immediate execution (#1149)
+
 ## 1.0.468
 
 *2022-12-02*
