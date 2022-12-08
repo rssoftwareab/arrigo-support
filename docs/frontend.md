@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.470
+
+*2022-12-08*
+
+### Fixes/Improvements
+
+- Added env variable to build pipeline in devops for Wamp selection (#1152)
+
 ## 1.0.469
 
 *2022-12-07*
