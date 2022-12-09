@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.472
+
+*2022-12-09*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1356 Cannot view meter data on some languages (#1154)
+- Hotfix: AZ#1301 EMS Language not set correct (#1145)
+
 ## 1.0.471
 
 *2022-12-09*
