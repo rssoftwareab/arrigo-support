@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.471
+
+*2022-12-09*
+
+### Fixes/Improvements
+
+- Merge pull request #1151 from rssoftwareab/fix/local-number-format
+- Now takes both arrigo language and local in account. As it should be.
+
 ## 1.0.470
 
 *2022-12-08*
