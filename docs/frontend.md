@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.473
+
+*2022-12-12*
+
+### New Features
+
+- Feature: AZ#1362 Calculated meter custom formula extra variables (#1155)
+
 ## 1.0.472
 
 *2022-12-09*
