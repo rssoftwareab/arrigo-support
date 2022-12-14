@@ -7,6 +7,18 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.475
+
+*2022-12-14*
+
+### New Features
+
+- Feature: AZ#1245 Change alarm status list select behaviour (#1156)
+### Fixes/Improvements
+
+- Hotfix: AZ#1320 Filter overflow in ActivitiesList (#1148)
+- Hotfix: AZ#1458 Input title on Calculated Meter (#1157)
+
 ## 1.0.474
 
 *2022-12-14*
