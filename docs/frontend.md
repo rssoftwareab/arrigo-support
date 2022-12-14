@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.474
+
+*2022-12-14*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1333 Filter button missing (#1147)
+
 ## 1.0.473
 
 *2022-12-12*
