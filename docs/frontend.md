@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.479
+
+*2022-12-21*
+
+### Fixes/Improvements
+
+- Removed SSL redirects (#1163)
+
 ## 1.0.478
 
 *2022-12-21*
