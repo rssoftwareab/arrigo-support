@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.476
+
+*2022-12-21*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1497 Add production environment variable for add menu (#1161)
+
 ## 1.0.475
 
 *2022-12-14*
