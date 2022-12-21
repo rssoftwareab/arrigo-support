@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.477
+
+*2022-12-21*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1473 Correct faulty percentage calculation in energy widget (#1160)
+
 ## 1.0.476
 
 *2022-12-21*
