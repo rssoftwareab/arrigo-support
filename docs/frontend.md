@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.481
+
+*2023-01-02*
+
+### Fixes/Improvements
+
+- Added new Helmchart for qa (#1165)
+
 ## 1.0.480
 
 *2023-01-02*
