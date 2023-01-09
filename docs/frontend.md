@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.482
+
+*2023-01-09*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1506 Filter tools conditional max-width styling (#1169)
+
 ## 1.0.481
 
 *2023-01-02*
