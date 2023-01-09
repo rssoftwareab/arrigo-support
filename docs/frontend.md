@@ -7,6 +7,16 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.483
+
+*2023-01-09*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1460 BuildingQuery on Meter (#1158)
+- Hotfix: AZ#1361 Tooltip without click action does not show up (#1168)
+- Hotfix: AZ#1504 Energy widget dateranges (#1167)
+
 ## 1.0.482
 
 *2023-01-09*
