@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.484
+
+*2023-01-09*
+
+### Fixes/Improvements
+
+- Hotfix: Never disable meter sync button (#1170)
+
 ## 1.0.483
 
 *2023-01-09*
