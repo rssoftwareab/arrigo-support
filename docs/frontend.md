@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.486
+
+*2023-01-10*
+
+### Fixes/Improvements
+
+- Remove ssl qa (#1172)
+
 ## 1.0.485
 
 *2023-01-10*
