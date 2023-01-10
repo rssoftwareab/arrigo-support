@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.485
+
+*2023-01-10*
+
+### Fixes/Improvements
+
+- Update values_qa.yaml (#1171)
+
 ## 1.0.484
 
 *2023-01-09*
