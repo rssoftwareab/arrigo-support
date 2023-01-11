@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.487
+
+*2023-01-11*
+
+### Fixes/Improvements
+
+- Hotfix: AZ-1490 Missing REACT_APP_VERSION environment variable (#1173)
+
 ## 1.0.486
 
 *2023-01-10*
