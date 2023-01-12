@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.488
+
+*2023-01-12*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1519 Multiple scrollbars in chart (#1175)
+- Hotfix: AZ#1498 Not possible to delete climate data (#1174)
+
 ## 1.0.487
 
 *2023-01-11*
