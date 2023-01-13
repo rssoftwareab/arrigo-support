@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.489
+
+*2023-01-13*
+
+### Fixes/Improvements
+
+- Hotfix: #AZ1501 chart zoom axis decimals (#1176)
+
 ## 1.0.488
 
 *2023-01-12*
