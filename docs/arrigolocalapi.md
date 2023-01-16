@@ -6,13 +6,26 @@ description: Change Log
 
 # Change Log
 
+## 1.0.239
+*2022-01-09*
+
+Feature: Configurable log configurations
+
+## 1.0.238
+
+*2023-01-03*
+
+Fix: Error message to frontend (#153)
+
 ## 1.0.237
+
 *2022-11-16*
 
 * TP#21331 AZ#1318: No numerical limitation on returned folders. (#148)
 * Hotfix: Checking if token is parsable before trying to parse. Prevents explosions. (#149)
 * We're throwing, but not catching. So whenever this happens it ends up in the Event Log. (#150)
 * Hotfix: Memory greedy and CPU intense w3wp.exe AZ#1350,AZ#1355 (#151)
+
 ## 1.0.231
 
 *2022-11-16*
