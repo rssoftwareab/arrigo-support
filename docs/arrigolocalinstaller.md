@@ -4,6 +4,22 @@ title: Releases - Arrigo Local
 description: Change Log
 ---
 # Change Log
+
+## 1.1.???
+2023-01-16
+- Frontend: [1.0.489](./frontend.html#10489)
+
+- Arrigo Local API: [1.0.239](./arrigolocalapi.html#10239)
+
+- Arrigo Local Scada Function: [1.1.141](./arrigolocalscadafunction.html#11141)
+
+- Arrigo Local Services: [1.0.211](./arrigolocalservices.html#10211)
+
+- Arrigo config transpiler: [1.0.225](./arrigo.config.transpiler.html#10225)
+
+- Required EXO installation: EXO 2019 Edition 4 Build [323](./arrigo.exo.releases.html#323)
+
+
 ## 1.1.296
 
 2022-11-29
