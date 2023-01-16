@@ -15,7 +15,7 @@ Feature: Configurable log configurations
 
 *2023-01-03*
 
-Fix: Error message to frontend (#153)
+Fix: Better error message to frontend (#153)
 
 ## 1.0.237
 
