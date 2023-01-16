@@ -10,7 +10,7 @@ description: Change Log
 
 *2023-01-11*
 
-* Fix: AZ#1508 (#94)
+* Fix: AZ#1508 More stable startup(#94)
 * Feature: Better peeking and poking (#92)
 * Fix: Better cache for non existing files (#91)
 * Fix: AZ#1276 Fix cache level (#90)
