@@ -39,12 +39,12 @@ Contact your sales representative for the latest service release of EXO2019 Edit
     
 ### Builds (change logs)
 
-*Please note that **[EXO2019 Edition 4 build 315](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ESsmcmR5KulJltpIyVKUu8sB6ynsvVEtaqujlGKgrMR0BQ?e=BGdQq2)** is required to install Arrigo Local*
+*Please note that **[EXO2019 Edition 4 build 323](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ESsmcmR5KulJltpIyVKUu8sB6ynsvVEtaqujlGKgrMR0BQ?e=BGdQq2)** is required to install Arrigo Local*
 
 | Release                  | Version                                      |  Download                                                    |
 | ------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
-| Latest                   | [1.1.290](./arrigolocalinstaller.html#11290) |  Via installer (`--latest` flag provided)                     |
-| Stable               | [1.1.290](./arrigolocalinstaller.html#11290) | [Download](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe)|
+| Latest                   | [1.1.296](./arrigolocalinstaller.html#11296) |  Via installer (`--latest` flag provided)                     |
+| Stable               | [1.1.294](./arrigolocalinstaller.html#11294) | [Download](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe)|
 
 
 ### End User License Agreement: 

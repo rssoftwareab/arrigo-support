@@ -32,22 +32,6 @@ description: Change Log
 
 - Hotfix: AZ-1490 Missing REACT_APP_VERSION environment variable (#1173)
 
-## 1.0.486
-
-*2023-01-10*
-
-### Fixes/Improvements
-
-- Remove ssl qa (#1172)
-
-## 1.0.485
-
-*2023-01-10*
-
-### Fixes/Improvements
-
-- Update values_qa.yaml (#1171)
-
 ## 1.0.484
 
 *2023-01-09*
@@ -73,30 +57,6 @@ description: Change Log
 ### Fixes/Improvements
 
 - Hotfix: AZ#1506 Filter tools conditional max-width styling (#1169)
-
-## 1.0.481
-
-*2023-01-02*
-
-### Fixes/Improvements
-
-- Added new Helmchart for qa (#1165)
-
-## 1.0.480
-
-*2023-01-02*
-
-### Fixes/Improvements
-
-- Update values_qa.yaml (#1164)
-
-## 1.0.479
-
-*2022-12-21*
-
-### Fixes/Improvements
-
-- Removed SSL redirects (#1163)
 
 ## 1.0.478
 
@@ -165,16 +125,7 @@ description: Change Log
 
 ### Fixes/Improvements
 
-- Merge pull request #1151 from rssoftwareab/fix/local-number-format
 - Now takes both arrigo language and local in account. As it should be.
-
-## 1.0.470
-
-*2022-12-08*
-
-### Fixes/Improvements
-
-- Added env variable to build pipeline in devops for Wamp selection (#1152)
 
 ## 1.0.469
 
