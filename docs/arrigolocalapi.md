@@ -11,6 +11,11 @@ description: Change Log
 
 Feature: Configurable log configurations
 
+## 1.0.238
+*2022-01-03*
+
+* Error message fixes
+
 ## 1.0.237
 
 *2022-11-16*
