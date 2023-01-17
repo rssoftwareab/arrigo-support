@@ -11,12 +11,6 @@ description: Change Log
 
 Feature: Configurable log configurations
 
-## 1.0.238
-
-*2023-01-03*
-
-Fix: Better error message to frontend (#153)
-
 ## 1.0.237
 
 *2022-11-16*
