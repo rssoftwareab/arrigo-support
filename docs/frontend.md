@@ -7,6 +7,155 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.489
+
+*2023-01-13*
+
+### Fixes/Improvements
+
+- Hotfix: #AZ1501 chart zoom axis decimals (#1176)
+
+## 1.0.488
+
+*2023-01-12*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1519 Multiple scrollbars in chart (#1175)
+- Hotfix: AZ#1498 Not possible to delete climate data (#1174)
+
+## 1.0.487
+
+*2023-01-11*
+
+### Fixes/Improvements
+
+- Hotfix: AZ-1490 Missing REACT_APP_VERSION environment variable (#1173)
+
+## 1.0.484
+
+*2023-01-09*
+
+### Fixes/Improvements
+
+- Hotfix: Never disable meter sync button (#1170)
+
+## 1.0.483
+
+*2023-01-09*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1460 BuildingQuery on Meter (#1158)
+- Hotfix: AZ#1361 Tooltip without click action does not show up (#1168)
+- Hotfix: AZ#1504 Energy widget dateranges (#1167)
+
+## 1.0.482
+
+*2023-01-09*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1506 Filter tools conditional max-width styling (#1169)
+
+## 1.0.478
+
+*2022-12-21*
+
+### Fixes/Improvements
+
+- Hotfix: Invisible add menu items (#1162)
+
+## 1.0.477
+
+*2022-12-21*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1473 Correct faulty percentage calculation in energy widget (#1160)
+
+## 1.0.476
+
+*2022-12-21*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1497 Add production environment variable for add menu (#1161)
+
+## 1.0.475
+
+*2022-12-14*
+
+### New Features
+
+- Feature: AZ#1245 Change alarm status list select behaviour (#1156)
+### Fixes/Improvements
+
+- Hotfix: AZ#1320 Filter overflow in ActivitiesList (#1148)
+- Hotfix: AZ#1458 Input title on Calculated Meter (#1157)
+
+## 1.0.474
+
+*2022-12-14*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1333 Filter button missing (#1147)
+
+## 1.0.473
+
+*2022-12-12*
+
+### New Features
+
+- Feature: AZ#1362 Calculated meter custom formula extra variables (#1155)
+
+## 1.0.472
+
+*2022-12-09*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1356 Cannot view meter data on some languages (#1154)
+- Hotfix: AZ#1301 EMS Language not set correct (#1145)
+
+## 1.0.471
+
+*2022-12-09*
+
+### Fixes/Improvements
+
+- Now takes both arrigo language and local in account. As it should be.
+
+## 1.0.469
+
+*2022-12-07*
+
+### Fixes/Improvements
+
+- Hotfix: Cap refresh timeout to prevent immediate execution (#1149)
+
+## 1.0.468
+
+*2022-12-02*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1283 TP#9575: Notification on permission denied (#1146)
+
+## 1.0.467
+
+*2022-12-01*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1314 Add clickAction support to widgets saved in Favorites (#1144)
+- Hotfix: AZ#1317 Additional attributes to CSV Exports (#1143)
+- Hotfix: AZ#1055 Chart: Different formula for calculating avg value (#1142)
+- Hotfix: AZ#1303 Activities table column alignment (#1141)
+- Hotfix: AZ#1315 The Grinch has stolen the joy of Christmas (Jingle on login page is now muted as default) (#1140)
+- Hotfix: AZ#1302 Auto-focus on credential inputs when visiting login page (#1139)
+
 ## 1.0.466
 
 *2022-11-28*
