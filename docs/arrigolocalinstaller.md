@@ -5,7 +5,7 @@ description: Change Log
 ---
 # Change Log
 
-## 1.1.???
+## 1.1.298
 2023-01-16
 - Frontend: [1.0.489](./frontend.html#10489)
 
