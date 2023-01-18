@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.490
+
+*2023-01-18*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1529 Long signal names breaks the UI of the chart legend (#1179)
+
 ## 1.0.489
 
 *2023-01-13*
