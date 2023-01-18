@@ -5,6 +5,11 @@ description: Change Log
 ---
 
 # Change Log
+## 1.0.240
+
+*2022-01-18*
+
+Fix: Retrying 'Read' in 'setData' and 'writeData' 10 times instead of once.
 
 ## 1.0.239
 *2022-01-09*
