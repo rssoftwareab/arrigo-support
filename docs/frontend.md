@@ -7,6 +7,18 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.491
+
+*2023-01-19*
+
+### New Features
+
+- Feature: AZ#1507 Pass optional amount of years to recalculate (#1180)
+### Fixes/Improvements
+
+- Hotfix: AZ#1514 Mantissa on ValidateReading (#1178)
+- Hotfix: AZ#1527 Meter data update after mutation (#1181)
+
 ## 1.0.490
 
 *2023-01-18*
