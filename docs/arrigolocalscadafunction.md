@@ -6,11 +6,18 @@ description: Change Log
 
 # Change Log
 
+
+## 1.1.142
+
+*2023-01-18*
+
+Saving format files as json on startup. All this so that ViewDesigner doesn't have to do the dll mangling on every startup.
+
 ## 1.1.141
 
 *2023-01-11*
 
-* Fix: AZ#1508 More stable startup(#94)
+* Fix: AZ#1508 Ensure that the application has startup before exo send running command (#94)
 * Feature: Better peeking and poking (#92)
 * Fix: Better cache for non existing files (#91)
 * Fix: AZ#1276 Fix cache level (#90)

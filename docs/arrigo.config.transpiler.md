@@ -6,6 +6,10 @@ description: Change Log
 
 # Change Log
 
+## 1.1.227
+*2023-01-18*
+- Fix: Correct indexing of referenced variables
+
 ## 1.1.225
 *2022-12-02*
 - Fix: AZ#1224 Resolving date macros (TP#20813)
