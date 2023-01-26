@@ -18,34 +18,11 @@ description: Change Log
 - Feature: AZ#1347 Redesign chart export button (#1153)
 - Feature: AZ#1046 Co2 Widget (#1127)
 - Feature: AZ#1025 & AZ#1203 Licens banner and info box (#1137)
+
 ### Fixes/Improvements
 
-- Remove unused translation key
-- Update values_prod.yaml
-- Update azure-pipelines.yml for Azure Pipelines
-- Remove ssl redirect from dev
-- Put back a component that was missed in merge
-- Update values_prod.yaml
-- Update values_prod.yaml
-- Update values_prod.yaml
-- Removed SSL redirect for arrigo.se and arrigo-qa.rssoftware.se
-- Removed redirect from appgw in arrigo-dev.rssoftware.se
 - Fix: Remove custom set to timeoutExpiryDate (#1159)
-- Merge pull request #1150 from rssoftwareab/fix/export-xlsx-new-formatting
-- Update src/external/packages/eos/components/dynamicExport/index.js
-- Now only formats the CSV file to locale format.
-- Fixed the new formatting for XLSX.
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Update azure-pipelines.yml for Azure Pipelines
-- Create values_qa.yaml
-- Update azure-pipelines.yml for Azure Pipelines
+- Feature: AZ#1346 Excel export - user friendly format (#1150)
 - Added helmchart for production (#1124)
 - Hotfix: Increase delay before trying to refresh access tokens (#1113)
 
