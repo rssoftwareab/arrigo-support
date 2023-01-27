@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.493
+
+*2023-01-27*
+
+### Fixes/Improvements
+
+- Hotfix: Add a minimum height for Co2 widget on mobile (#1189)
+
 ## 1.0.490
 
 *2023-01-18*
