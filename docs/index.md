@@ -46,5 +46,3 @@ We have an automated notification service for your convenience. By subscribing w
 You may unsubscribe at anytime with the same link.
 
 [Sign-up link](http://eepurl.com/hTdlmX)
-
-[Latest update](https://mailchi.mp/a055d48c7233/final-test-arrigo-update-8985397)
