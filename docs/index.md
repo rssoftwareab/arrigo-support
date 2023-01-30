@@ -17,8 +17,8 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 # www.arrigo.se
 
 ## Current build (change logs): 
-- Frontend: [1.0.326](./frontend.html#10326)
-- Arrigo API: [1.0.54](./arrigoapi.html#1054)
+- [Frontend](./frontend.html)
+- [Arrigo API](./arrigoapi.html)
 
 ## SaaS License Agreement: 
 - [SOFTWARE AS A SERVICE AGREEMENT](./RS_SaaS-Terms%2024-03-2021.pdf)
