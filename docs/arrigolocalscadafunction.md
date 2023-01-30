@@ -6,6 +6,11 @@ description: Change Log
 
 # Change Log
 
+## 1.3.1
+
+*2023-01-30*
+
+* Feature: AZ#1023 License system
 
 ## 1.1.142
 

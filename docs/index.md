@@ -12,49 +12,27 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 
 [Security Statement](./securitystatement.md)
 
-[Arrigo Local Installation](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe). ArrigoLocalInstaller will automatically download and run the latest stable version.
-
 # www.arrigo.se
-### Latest changes
 
-**EMS Features**
+## Current build (change logs): 
+- [Frontend](./frontend.html)
+- [Arrigo API](./arrigoapi.html)
 
--
-
-**EMS Fixes/Improvements**
-- Speed improvements for tree structure/folders query
-- Refactoring and improvements for Calculated Meter Application
-
-### Current build (change logs): 
-- Frontend: [1.0.326](./frontend.html#10326)
-- Arrigo API: [1.0.54](./arrigoapi.html#1054)
-
-### SaaS License Agreement: 
+## SaaS License Agreement: 
 - [SOFTWARE AS A SERVICE AGREEMENT](./RS_SaaS-Terms%2024-03-2021.pdf)
 - [General Terms and Conditions](./2019%20-%20Eng%20IT%20Services%202014.pdf)
 
-
 # Arrigo Local
-### Latest changes
     
-### Builds (change logs)
+## Builds (change logs)
 
-*Please note that **[EXO2019 Edition 4 build 323](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ESsmcmR5KulJltpIyVKUu8sB6ynsvVEtaqujlGKgrMR0BQ?e=BGdQq2)** is required to install Arrigo Local*
+| Release  | Version                                      | Required EXO installation | Download |
+| -------- | -------------------------------------------- | ------------------------- | --------------------------------- |
+| Latest   | [1.1.299](./arrigolocalinstaller.html#11299) | [EXO2019 Edition 4 build 323](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ESsmcmR5KulJltpIyVKUu8sB6ynsvVEtaqujlGKgrMR0BQ?e=BGdQq2) | Via installer (`--latest` flag provided)                     |
+| Stable   | [1.1.294](./arrigolocalinstaller.html#11294) | [EXO2019 Edition 4 build 323](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ESsmcmR5KulJltpIyVKUu8sB6ynsvVEtaqujlGKgrMR0BQ?e=BGdQq2) | [Download](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe)|
 
-| Release                  | Version                                      |  Download                                                    |
-| ------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
-| Latest                   | [1.1.299](./arrigolocalinstaller.html#11299) |  Via installer (`--latest` flag provided)                     |
-| Stable               | [1.1.294](./arrigolocalinstaller.html#11294) | [Download](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe)|
-
-
-### End User License Agreement: 
+## End User License Agreement: 
 - [RS SOFTWARE SOFTWARE LICENSE TERMS](./RS_EULA_%203-04-2021%20_for%20distributionGeneric.pdf)
-
-
-# Tips and tricks
-
-- [Theming in Arrigo](./theme_arrigo.md)
-- [Common questions and answers](./support/index.md)
 
 # Video Tutorials
 
