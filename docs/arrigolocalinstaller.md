@@ -5,13 +5,13 @@ description: Change Log
 ---
 # Change Log
 
-## 1.3.304
+## 1.3.1
 2023-01-30
 - Frontend: [1.0.493](./frontend.html#10493)
 
-- Arrigo Local API: [1.3.243](./arrigolocalapi.html#13.243)
+- Arrigo Local API: [1.3.1](./arrigolocalapi.html#131)
 
-- Arrigo Local Scada Function: [1.3.144](./arrigolocalscadafunction.html#13144)
+- Arrigo Local Scada Function: [1.3.1](./arrigolocalscadafunction.html#131)
 
 - Arrigo Local Services: [1.0.211](./arrigolocalservices.html#10211)
 
