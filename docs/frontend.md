@@ -15,14 +15,6 @@ description: Change Log
 
 - Hotfix: Add a minimum height for Co2 widget on mobile (#1189)
 
-## 1.0.490
-
-*2023-01-18*
-
-### Fixes/Improvements
-
-- Hotfix: AZ#1529 Long signal names breaks the UI of the chart legend (#1179)
-
 ## 1.0.492
 
 *2023-01-26*
