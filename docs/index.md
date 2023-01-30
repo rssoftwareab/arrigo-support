@@ -9,8 +9,7 @@ description: Releases and Change Log
 ## Arrigo Local Installer
 
 | Release  | Version                                      | Required EXO installation | Download |
-| -------- | -------------------------------------------- | ------------------------- | --------------------------------- |
-| Latest   | [1.3.1](./arrigolocalinstaller.html#131) | [EXO2022 Edition 1 build 13] | Via installer (`--latest` flag provided)                     |
+| -------- | -------------------------------------------- | ------------------------- | --------                    |
 | Stable   | [1.3.1](./arrigolocalinstaller.html#131) | [EXO2022 Edition 1 build 13] | [Download](https://arrigo.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2022Edition1_13-1.3.1.exe) |
 | Legacy | [1.1.299](./arrigolocalinstaller.html#11299) | [EXO2019 Edition 4 build 323] | [Download](https://arrigo.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2019Edition4_323-1.1.299.exe) |
 
