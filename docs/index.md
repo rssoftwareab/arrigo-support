@@ -12,8 +12,6 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 
 [Security Statement](./securitystatement.md)
 
-[Arrigo Local Installation](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe). ArrigoLocalInstaller will automatically download and run the latest stable version.
-
 # www.arrigo.se
 
 ## Current build (change logs): 
