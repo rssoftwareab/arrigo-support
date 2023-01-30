@@ -50,12 +50,6 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 ### End User License Agreement: 
 - [RS SOFTWARE SOFTWARE LICENSE TERMS](./RS_EULA_%203-04-2021%20_for%20distributionGeneric.pdf)
 
-
-# Tips and tricks
-
-- [Theming in Arrigo](./theme_arrigo.md)
-- [Common questions and answers](./support/index.md)
-
 # Video Tutorials
 
 [YouTube playlist](https://www.youtube.com/playlist?list=PLi1Lr1f_Ih7z9Cg7ZH_zZYBwdyMvfj6nq)
