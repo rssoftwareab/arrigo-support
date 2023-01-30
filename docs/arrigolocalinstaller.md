@@ -17,7 +17,7 @@ description: Change Log
 
 - Arrigo config transpiler: [1.0.227](./arrigo.config.transpiler.html#10227)
 
-- Required EXO installation: EXO 2022 Edition 1 Build [13](./arrigo.exo.releases.html#323)
+- Required EXO installation: [EXO 2022 Edition 1 Build 13](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/EU9Zh4__YLNFkFpa4KS4PLUBEBKjme8gcxy0BH1M1QSAbQ?e=hJmgcr)
 
 
 ## 1.1.299
