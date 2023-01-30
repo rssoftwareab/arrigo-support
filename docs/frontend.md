@@ -7,6 +7,45 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.493
+
+*2023-01-27*
+
+### Fixes/Improvements
+
+- Hotfix: Add a minimum height for Co2 widget on mobile (#1189)
+
+## 1.0.492
+
+*2023-01-26*
+
+### New Features
+
+- Feature: File Manager (#967)
+- Feature: Change property that license type is based on (#1166)
+- Feature: AZ#1347 Redesign chart export button (#1153)
+- Feature: AZ#1046 Co2 Widget (#1127)
+- Feature: AZ#1025 & AZ#1203 Licens banner and info box (#1137)
+
+### Fixes/Improvements
+
+- Fix: Remove custom set to timeoutExpiryDate (#1159)
+- Feature: AZ#1346 Excel export - user friendly format (#1150)
+- Added helmchart for production (#1124)
+- Hotfix: Increase delay before trying to refresh access tokens (#1113)
+
+## 1.0.491
+
+*2023-01-19*
+
+### New Features
+
+- Feature: AZ#1507 Pass optional amount of years to recalculate (#1180)
+### Fixes/Improvements
+
+- Hotfix: AZ#1514 Mantissa on ValidateReading (#1178)
+- Hotfix: AZ#1527 Meter data update after mutation (#1181)
+
 ## 1.0.490
 
 *2023-01-18*
