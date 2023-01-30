@@ -1,16 +1,28 @@
 ---
 layout: main
-title: Releases.
+title: Releases
 description: Releases and Change Log
 ---
 
-# Download
+# Downloads
 
-Contact your sales representative for the latest service release of EXO2019 Edition 4.
+## Arrigo Local Installer
+
+| Release  | Version                                      | Required EXO installation | Download |
+| -------- | -------------------------------------------- | ------------------------- | --------------------------------- |
+| Latest   | [1.3.XXX](./arrigolocalinstaller.html#13XXX) | [EXO2022 Edition 1 build 13] | Via installer (`--latest` flag provided)                     |
+| Stable   | [1.3.XXX](./arrigolocalinstaller.html#13XXX) | [EXO2022 Edition 1 build 13] | [Download](https://arrigo.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2022Edition1_13-1.2.XXX.exe) |
+| Legacy | [1.1.299](./arrigolocalinstaller.html#11299) | [EXO2019 Edition 4 build 323] | [Download](https://arrigo.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2019Edition4_323-1.1.299.exe) |
 
 *System requirements, hardware recommendations and installation instructions can be found at [docs.arrigo.se](https://docs.arrigo.se/Install%20and%20Configure).*
 
-[Security Statement](./securitystatement.md)
+## Arrigo License Manager
+
+| Release  | Version                                      |  Download |
+| -------- | -------------------------------------------- |  --------------------------------- |
+| Current  | [1.0.69](./arrigolicensemanager.html#1069)   |  [Download](https://arrigo.blob.core.windows.net/arrigo/stable/License-Manager-Installer.1.0.69.exe) |
+
+*Installation instructions and general help can be found at [docs.arrigo.se](https://docs.arrigo.se/Install%20and%20Configure/02_Arrigo%20License%20Manager%20installer).*
 
 # www.arrigo.se
 
@@ -22,23 +34,13 @@ Contact your sales representative for the latest service release of EXO2019 Edit
 - [SOFTWARE AS A SERVICE AGREEMENT](./RS_SaaS-Terms%2024-03-2021.pdf)
 - [General Terms and Conditions](./2019%20-%20Eng%20IT%20Services%202014.pdf)
 
-# Arrigo Local
-    
-## Builds (change logs)
-
-| Release  | Version                                      | Required EXO installation | Download |
-| -------- | -------------------------------------------- | ------------------------- | --------------------------------- |
-| Latest   | [1.1.299](./arrigolocalinstaller.html#11299) | [EXO2019 Edition 4 build 323](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ESsmcmR5KulJltpIyVKUu8sB6ynsvVEtaqujlGKgrMR0BQ?e=BGdQq2) | Via installer (`--latest` flag provided)                     |
-| Stable   | [1.1.294](./arrigolocalinstaller.html#11294) | [EXO2019 Edition 4 build 323](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ESsmcmR5KulJltpIyVKUu8sB6ynsvVEtaqujlGKgrMR0BQ?e=BGdQq2) | [Download](https://arrigo.blob.core.windows.net/arrigo/ArrigoLocalInstaller.exe)|
-
 ## End User License Agreement: 
 - [RS SOFTWARE SOFTWARE LICENSE TERMS](./RS_EULA_%203-04-2021%20_for%20distributionGeneric.pdf)
 
-# Video Tutorials
+## Security statement
+- [Security Statement](./securitystatement.md)
 
-[YouTube playlist](https://www.youtube.com/playlist?list=PLi1Lr1f_Ih7z9Cg7ZH_zZYBwdyMvfj6nq)
-
-# Subscribe to notifications
+# Release newsletter
 
 We have an automated notification service for your convenience. By subscribing we will notify you as soon as we have a new release available of Arrigo or any other applicable information in regards to Arrigo or its services.
 
@@ -47,12 +49,3 @@ You may unsubscribe at anytime with the same link.
 [Sign-up link](http://eepurl.com/hTdlmX)
 
 [Latest update](https://mailchi.mp/a055d48c7233/final-test-arrigo-update-8985397)
-
-
-
-# Offline licensing (beta)
-
-- [Instructions](./offline_licensing.md)
-- [Activate license](https://www.activationportal.me/selfservice/activation.aspx?Type=1&cid=7544&pid=9211&lang=en-US)
-- [Deactivate license](https://www.activationportal.me/selfservice/deactivation.aspx?Type=2&cid=7544&pid=9211&lang=en-US)
-
