@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.494
+
+*2023-01-31*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1591 Use license banner to display account info message (#1191)
+
 ## 1.0.493
 
 *2023-01-27*
