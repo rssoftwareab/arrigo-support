@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.495
+
+*2023-01-31*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1571 EMS MeterChange value control faulty (#1184)
+
 ## 1.0.494
 
 *2023-01-31*
