@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.496
+
+*2023-01-31*
+
+### Fixes/Improvements
+
+- Added nodeselector and memory limits to QA and Prod (#1192)
+
 ## 1.0.495
 
 *2023-01-31*
