@@ -5,6 +5,20 @@ description: Change Log
 ---
 # Change Log
 
+## 1.3.2
+2023-02-02
+- Frontend: [1.0.493](./frontend.html#10493)
+
+- Arrigo Local API: [1.3.1](./arrigolocalapi.html#131)
+
+- Arrigo Local Scada Function: [1.3.1](./arrigolocalscadafunction.html#131)
+
+- Arrigo Local Services: [1.0.211](./arrigolocalservices.html#10211)
+
+- Arrigo config transpiler: [1.0.228](./arrigo.config.transpiler.html#10228)
+
+- Required EXO installation: [EXO 2022 Edition 1 - 0013](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/EU9Zh4__YLNFkFpa4KS4PLUBEBKjme8gcxy0BH1M1QSAbQ?e=hJmgcr)
+
 ## 1.3.1
 2023-01-30
 - Frontend: [1.0.493](./frontend.html#10493)
@@ -19,6 +33,19 @@ description: Change Log
 
 - Required EXO installation: [EXO 2022 Edition 1 - 0013](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/EU9Zh4__YLNFkFpa4KS4PLUBEBKjme8gcxy0BH1M1QSAbQ?e=hJmgcr)
 
+## 1.1.304
+2023-02-02
+- Frontend: [1.0.490](./frontend.html#10490)
+
+- Arrigo Local API: [1.0.240](./arrigolocalapi.html#10240)
+
+- Arrigo Local Scada Function: [1.1.142](./arrigolocalscadafunction.html#11142)
+
+- Arrigo Local Services: [1.0.211](./arrigolocalservices.html#10211)
+
+- Arrigo config transpiler: [1.0.228](./arrigo.config.transpiler.html#10228)
+
+- Required EXO installation: EXO 2019 Edition 4 Build [323](./arrigo.exo.releases.html#323)
 
 ## 1.1.299
 2023-01-18
