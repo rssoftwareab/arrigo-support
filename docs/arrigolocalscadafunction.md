@@ -6,6 +6,12 @@ description: Change Log
 
 # Change Log
 
+## 1.3.3 , 1.1.146 (Legacy)
+
+*2023-02-08*
+
+* Fix: AZ#1674 Local API has problems starting up (ArrigoAppPool needs to be restarted for the api to start up correctly)
+
 ## 1.3.1
 
 *2023-01-30*
