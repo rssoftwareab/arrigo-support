@@ -7,6 +7,41 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.497
+
+*2023-02-13*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1621 Arrigo BMS: Chart: Same value is shown regardless of where the cursor is placed (#1195)
+- Hotfix: AZ#1661 Date filter element - visible attribute does not work (#1194)
+- Hotfix: AZ#1618 Christmas theme on login page is now removed forever (#1193)
+- Hotfix: AZ#1622 Filter button not always shown (#1185)
+
+## 1.0.496
+
+*2023-01-31*
+
+### Fixes/Improvements
+
+- Added nodeselector and memory limits to QA and Prod (#1192)
+
+## 1.0.495
+
+*2023-01-31*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1571 EMS MeterChange value control faulty (#1184)
+
+## 1.0.494
+
+*2023-01-31*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1591 Use license banner to display account info message (#1191)
+
 ## 1.0.493
 
 *2023-01-27*
