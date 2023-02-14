@@ -6,6 +6,14 @@ description: Change Log
 
 # Change Log
 
+## 1.3.2
+*2023-02-14*
+
+
+## 1.1.311
+*2023-02-14*
+
+
 ## 1.1.228
 *2023-02-02*
 - Fix: More fixes regarding indexing of referenced variables
