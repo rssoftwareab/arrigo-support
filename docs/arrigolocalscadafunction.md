@@ -10,7 +10,7 @@ description: Change Log
 
 *2023-02-08*
 
-* Fix: AZ#1674: Local API has problems starting up (ArrigoAppPool needs to be restarted for the API to start up correctly)
+* Fix: AZ#1674: Arrigo Local API has problems starting up (ArrigoAppPool needs to be restarted for the API to start up correctly)
 
 ## 1.3.1
 
@@ -18,11 +18,11 @@ description: Change Log
 
 * Feature: AZ#1023 License system
 
-## 1.1.146 (Legacy)
+## 1.1.146
 
 *2023-02-08*
 
-* Fix: AZ#1674: Local API has problems starting up (ArrigoAppPool needs to be restarted for the API to start up correctly)
+* Fix: AZ#1674: Arrigo Local API has problems starting up (ArrigoAppPool needs to be restarted for the API to start up correctly)
 
 ## 1.1.142
 
