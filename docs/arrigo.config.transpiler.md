@@ -8,11 +8,11 @@ description: Change Log
 
 ## 1.3.2
 *2023-02-14*
-- Fix: Fixed a bug that, under certain circumstances, could prevent variables to be written to. This bug was introduced in v1.1.228
+- Fix: Fixed a bug that, under certain circumstances, could prevent variables to be written to. This bug was introduced in v1.0.228
 
 ## 1.0.234
 *2023-02-14*
-- Fix: Fixed a bug that, under certain circumstances, could prevent variables to be written to. This bug was introduced in v1.1.228
+- Fix: Fixed a bug that, under certain circumstances, could prevent variables to be written to. This bug was introduced in v1.0.228
 
 ## 1.0.228
 *2023-02-02*
