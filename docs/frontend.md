@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.498
+
+*2023-02-16*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1727 Charts no longer visible under tabs layout (#1198)
+
 ## 1.0.497
 
 *2023-02-13*
