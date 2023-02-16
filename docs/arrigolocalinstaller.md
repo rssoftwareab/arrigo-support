@@ -63,7 +63,7 @@ description: Change Log
 
 ## 1.1.312
 2023-02-16
-- Frontend: [1.0.498](./frontend.html#10498)
+- Frontend: [1.0.498](./frontend.html#10498-legacy)
 
 - Arrigo Local API: [1.0.240](./arrigolocalapi.html#10240)
 
