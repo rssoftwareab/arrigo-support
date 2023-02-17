@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.499
+
+*2023-02-17*
+
+### Fixes/Improvements
+
+- Add temporary error message (#1199)
+
 ## 1.0.498
 
 *2023-02-16*
