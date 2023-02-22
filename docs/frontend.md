@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.500
+
+*2023-02-22*
+
+### Fixes/Improvements
+
+- Hotfix: New temporary informational message (#1201)
+
 ## 1.0.499
 
 *2023-02-17*
