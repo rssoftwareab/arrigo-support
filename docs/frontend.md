@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.501
+
+*2023-02-23*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1617 Year zero date on alarms (#1196)
+- Hotfix: TP#22332 Bookmarked page doesn't bring you to where you want (#1197)
+
 ## 1.0.500
 
 *2023-02-22*
