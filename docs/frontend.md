@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.503
+
+*2023-03-01*
+
+### Fixes/Improvements
+
+- Hotfix: Updated CW2 Package (#1204)
+
 ## 1.0.502
 
 *2023-03-01*
