@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.502
+
+*2023-03-01*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1650 chart digital signals enhancements (#1202)
+
 ## 1.0.501
 
 *2023-02-23*
