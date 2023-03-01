@@ -5,7 +5,7 @@ description: Change Log
 ---
 # Change Log
 
-## 1.0.95
+## 1.0.96
 
 *2023-03-01*
 
