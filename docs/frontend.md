@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.504
+
+*2023-03-08*
+
+### Fixes/Improvements
+
+- Pull Request triggered from POEditor (#1203)
+- Hotfix: AZ#1611 various filter bugs (#1205)
+
 ## 1.0.503
 
 *2023-03-01*
