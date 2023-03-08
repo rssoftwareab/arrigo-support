@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.505
+
+*2023-03-08*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1545 - Frontend tries to refresh stale tokens (#1206)
+
 ## 1.0.504
 
 *2023-03-08*
