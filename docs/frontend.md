@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.506
+
+*2023-03-13*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1696 Energy type conversion factor (#1207)
+
 ## 1.0.505
 
 *2023-03-08*
