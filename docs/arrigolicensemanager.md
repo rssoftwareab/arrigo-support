@@ -5,6 +5,13 @@ description: Change Log
 ---
 # Change Log
 
+## 1.0.99
+
+*2023-03-13*
+
+### Fixes/Improvements
+- Fix: Upgrade to .Net 7 for the arrigo-wamp-host.
+
 ## 1.0.96
 
 *2023-03-01*
