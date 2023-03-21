@@ -7,6 +7,27 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.508
+
+*2023-03-21*
+
+### New Features
+
+- Feature: AZ#1688 User config refactor (#1209)
+- Feature: AZ#1807 Scroll to selected tree view node (#1211)
+- Feature: AZ#1601 License manager limitations for meters and buildings (#1210)
+- Feature: AZ#1700 Global search (#1208)
+- Feature: AZ#1127 (Internal) Breakout ReginAnimator (#1188)
+- Feature: AZ#1543 Remove caching and offline support (#1187)
+### Fixes/Improvements
+
+- Fix: Incorrect reducer reference for adminToolState (#1200)
+- Partial revert of 16862d3
+- Update docstring
+- Remove console.log and debuggers
+- Fix: AZ#1655 Remove eos-admin-dependency from dashboard (#1190)
+- AZ#1494 show error messages on 403
+
 ## 1.0.507
 
 *2023-03-21*
