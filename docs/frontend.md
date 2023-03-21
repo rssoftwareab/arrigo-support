@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.510
+
+*2023-03-21*
+
+### Fixes/Improvements
+
+- Update translations (#1215)
+
 ## 1.0.509
 
 *2023-03-21*
