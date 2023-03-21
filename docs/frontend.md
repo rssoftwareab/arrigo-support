@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.507
+
+*2023-03-21*
+
+### Fixes/Improvements
+
+- Merge pull request #1213 from rssoftwareab/hotfix/account-message-change
+- Change planned maintenance message
+
 ## 1.0.506
 
 *2023-03-13*
