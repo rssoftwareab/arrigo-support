@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.511
+
+*2023-03-29*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1824 ET report filters. (#1216)
+
 ## 1.0.510
 
 *2023-03-21*
