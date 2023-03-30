@@ -29,7 +29,7 @@ description: Releases and Change Log
 
 | Release  | Version                                      |  Download |
 | -------- | -------------------------------------------- |  --------------------------------- |
-| Current  | [1.0.99](./arrigolicensemanager.html#1091)   |  [Download](https://arrigo.blob.core.windows.net/arrigo/stable/License-Manager-Installer.1.0.99.exe) |
+| Current  | [3.00.27]   |  [Download](https://arrigo.blob.core.windows.net/downloads/Nimbus_Alarm_Server_3.00.27_for_Arrigo_Setup.exe) |
 
 # www.arrigo.se
 
