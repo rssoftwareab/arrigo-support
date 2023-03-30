@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.512
+
+*2023-03-30*
+
+### Fixes/Improvements
+
+- Hotfix: Energy report error (#1221)
+
 ## 1.0.511
 
 *2023-03-29*
