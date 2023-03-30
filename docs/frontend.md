@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.513
+
+*2023-03-30*
+
+### Fixes/Improvements
+
+- Hotfix: Teo#1024 Only show maintenance message during service window (#1222)
+
 ## 1.0.512
 
 *2023-03-30*
