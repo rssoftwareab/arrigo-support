@@ -29,7 +29,7 @@ description: Releases and Change Log
 
 | Release  | Version                                      |  Download |
 | -------- | -------------------------------------------- |  --------------------------------- |
-| Current  | 3.00.27   |  [Download](https://arrigo.blob.core.windows.net/downloads/Nimbus-AlarmServer3.00.27-ArrigoSetup.exe) |
+| Current  | 3.00.27   |  [Download](https://arrigo.blob.core.windows.net/arrigo/Nimbus-AlarmServer3.00.27-ArrigoSetup.exe) |
 
 # www.arrigo.se
 
