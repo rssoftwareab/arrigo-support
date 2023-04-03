@@ -5,7 +5,7 @@ description: Change Log
 ---
 # Change Log
 
-## 1.3.??
+## 1.3.20
 2023-04-03
 - Frontend: [1.0.511](./frontend.html#10511)
 
@@ -17,8 +17,7 @@ description: Change Log
 
 - Arrigo config transpiler: [1.3.2](./arrigo.config.transpiler.html#132)
 
-- Required EXO installation: [EXO 2023 Edition 1 - 0024](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/EU9Zh4__YLNFkFpa4KS4PLUBEBKjme8gcxy0BH1M1QSAbQ?e=hJmgcr)
-
+- Required EXO installation: [EXO 2023 Edition 1 - 0027](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/EU9Zh4__YLNFkFpa4KS4PLUBEBKjme8gcxy0BH1M1QSAbQ?e=hJmgcr)
 
 ## 1.3.5
 2023-02-16
