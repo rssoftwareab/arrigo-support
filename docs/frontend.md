@@ -59,6 +59,7 @@ description: Change Log
 - Feature: AZ#1700 Global search (#1208)
 - Feature: AZ#1127 (Internal) Breakout ReginAnimator (#1188)
 - Feature: AZ#1543 Remove caching and offline support (#1187)
+
 ### Fixes/Improvements
 
 - Fix: Incorrect reducer reference for adminToolState (#1200)

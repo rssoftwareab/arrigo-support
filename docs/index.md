@@ -10,9 +10,9 @@ description: Releases and Change Log
 
 | Release  | Version                                      | Required EXO installation | Download |
 | -------- | -------------------------------------------- | ------------------------- | --------    
-| Latest   | [1.3.2](./arrigolocalinstaller.html#132) | EXO2022 Edition 1 build 13 | Via installer (`--latest` flag provided) |
-| Stable   | [1.3.2](./arrigolocalinstaller.html#132) | EXO2022 Edition 1 build 13 | [Download](https://arrigo.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2022Edition1_13-1.3.2.exe) |
-| Legacy | [1.1.304](./arrigolocalinstaller.html#11304) | EXO2019 Edition 4 build 323 | [Download](https://arrigo.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2019Edition4_323-1.1.304.exe) |
+| Latest   | [1.3.5](./arrigolocalinstaller.html#135) | EXO2022 Edition 1 build 13 | Via installer (`--latest` flag provided) |
+| Stable   | [1.3.4](./arrigolocalinstaller.html#134) | EXO2022 Edition 1 build 13 | [Download](https://arrigo.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2022Edition1_13-1.3.4.exe) |
+| Legacy | [1.1.312](./arrigolocalinstaller.html#11312) | EXO2019 Edition 4 build 323 | [Download](https://arrigo.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2019Edition4_323-1.1.312.exe) |
 
 *System requirements, hardware recommendations and installation instructions can be found at [docs.arrigo.se](https://docs.arrigo.se/Install%20and%20Configure).*
 
@@ -20,7 +20,7 @@ description: Releases and Change Log
 
 | Release  | Version                                      |  Download |
 | -------- | -------------------------------------------- |  --------------------------------- |
-| Current  | [1.0.69](./arrigolicensemanager.html#1069)   |  [Download](https://arrigo.blob.core.windows.net/arrigo/stable/License-Manager-Installer.1.0.69.exe) |
+| Current  | [1.0.99](./arrigolicensemanager.html#1091)   |  [Download](https://arrigo.blob.core.windows.net/arrigo/stable/License-Manager-Installer.1.0.99.exe) |
 
 *Installation instructions and general help can be found at [docs.arrigo.se](https://docs.arrigo.se/Install%20and%20Configure/02_Arrigo%20License%20Manager%20installer/).*
 
