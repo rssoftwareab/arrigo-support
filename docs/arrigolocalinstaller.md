@@ -17,7 +17,8 @@ description: Change Log
 
 - Arrigo config transpiler: [1.3.2](./arrigo.config.transpiler.html#132)
 
-- Required EXO installation: [EXO 2023 Edition 1 - 0027](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/EU9Zh4__YLNFkFpa4KS4PLUBEBKjme8gcxy0BH1M1QSAbQ?e=hJmgcr)
+- Required EXO installation: [EXO 2023 Edition 1 - 0027]
+(https://abregin.sharepoint.com/:b:/s/ReginSoftwareDistribution/EZumEJZS5VtGr-KLctV0B9QBmz533nMCGBY1UptyYePmQQ?e=QNPwHs)
 
 ## 1.3.5
 2023-02-16
