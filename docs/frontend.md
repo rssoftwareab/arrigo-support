@@ -5,15 +5,146 @@ description: Change Log
 ---
 # Change Log
 
-## 1.0.498
+## Next Releases
 
-*2023-02-16*
+## 1.0.513
+
+*2023-03-30*
 
 ### Fixes/Improvements
 
-- Hotfix: AZ#1727 Charts no longer visible under tabs layout (#1198)
+- Hotfix: Teo#1024 Only show maintenance message during service window (#1222)
 
-## 1.0.498 (Legacy)
+## 1.0.512
+
+*2023-03-30*
+
+### Fixes/Improvements
+
+- Hotfix: Energy report error (#1221)
+
+## 1.0.511
+
+*2023-03-29*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1824 ET report filters. (#1216)
+
+## 1.0.510
+
+*2023-03-21*
+
+### Fixes/Improvements
+
+- Update translations (#1215)
+
+## 1.0.509
+
+*2023-03-21*
+
+### Fixes/Improvements
+
+- Update translations
+
+## 1.0.508
+
+*2023-03-21*
+
+### New Features
+
+- Feature: AZ#1688 User config refactor (#1209)
+- Feature: AZ#1807 Scroll to selected tree view node (#1211)
+- Feature: AZ#1601 License manager limitations for meters and buildings (#1210)
+- Feature: AZ#1700 Global search (#1208)
+- Feature: AZ#1127 (Internal) Breakout ReginAnimator (#1188)
+- Feature: AZ#1543 Remove caching and offline support (#1187)
+
+### Fixes/Improvements
+
+- Fix: Incorrect reducer reference for adminToolState (#1200)
+- Partial revert of 16862d3
+- Update docstring
+- Remove console.log and debuggers
+- Fix: AZ#1655 Remove eos-admin-dependency from dashboard (#1190)
+- AZ#1494 show error messages on 403
+
+## 1.0.507
+
+*2023-03-21*
+
+### Fixes/Improvements
+
+- Merge pull request #1213 from rssoftwareab/hotfix/account-message-change
+- Change planned maintenance message
+
+## 1.0.506
+
+*2023-03-13*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1696 Energy type conversion factor (#1207)
+
+## 1.0.505
+
+*2023-03-08*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1545 - Frontend tries to refresh stale tokens (#1206)
+
+## 1.0.504
+
+*2023-03-08*
+
+### Fixes/Improvements
+
+- Pull Request triggered from POEditor (#1203)
+- Hotfix: AZ#1611 various filter bugs (#1205)
+
+## 1.0.503
+
+*2023-03-01*
+
+### Fixes/Improvements
+
+- Hotfix: Updated CW2 Package (#1204)
+
+## 1.0.502
+
+*2023-03-01*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1650 chart digital signals enhancements (#1202)
+
+## 1.0.501
+
+*2023-02-23*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1617 Year zero date on alarms (#1196)
+- Hotfix: TP#22332 Bookmarked page doesn't bring you to where you want (#1197)
+
+## 1.0.500
+
+*2023-02-22*
+
+### Fixes/Improvements
+
+- Hotfix: New temporary informational message (#1201)
+
+## 1.0.499
+
+*2023-02-17*
+
+### Fixes/Improvements
+
+- Add temporary error message (#1199)
+
+## 1.0.498
 
 *2023-02-16*
 
