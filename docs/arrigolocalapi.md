@@ -10,13 +10,14 @@ description: Change Log
 
 *2023-03-22*
 
-Fix: AZ#1715: Chart export (#163)
-Fix: Defaulting to signal name if signal text is null (#162)
-Fix: AZ#1650  Chart: Digital signals are shown incorrectly if on/off isn't inside current interval (#159) 
-Fix: AZ#1617 "Jesus time" on alarm details (0000-01-01T00:00:00Z) (#158)
+Fix: AZ#1715: Chart export (#163)  
+Fix: Defaulting to signal name if signal text is null (#162)  
+Fix: AZ#1650: Chart: Digital signals are shown incorrectly if on/off isn't inside current interval (#159)  
+Fix: AZ#1617: Year zero date on alarms (0000-01-01T00:00:00Z) (#158)  
 Feature: AZ#1751 Global search (#160)
 
 ## 1.3.1
+
 *2023-01-30*
 
 Feature: AZ#1023 License system
