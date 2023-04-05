@@ -18,7 +18,8 @@ description: Change Log
 - Arrigo config transpiler: [1.3.2](./arrigo.config.transpiler.html#132)
 
 ### arrigo-attach-project
-- Aborting if trying to attach to attach Arrigo to a project that is not the currently attached EXO project (#10)
+
+- Fix: Aborting if trying to attach to attach Arrigo to a project that is not the currently attached EXO project (#10)
 
 - Required EXO installation: [EXO 2023 Edition 1 - 0028](https://abregin.sharepoint.com/:b:/s/ReginSoftwareDistribution/EZumEJZS5VtGr-KLctV0B9QBmz533nMCGBY1UptyYePmQQ?e=QNPwHs)
 
