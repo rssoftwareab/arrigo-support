@@ -7,7 +7,7 @@ description: Change Log
 
 ## 1.3.21
 2023-04-05
-- Frontend: [1.0.511](./frontend.html#10511)
+- Frontend: [1.0.514](./frontend.html#10514)
 
 - Arrigo Local API: [1.3.10](./arrigolocalapi.html#1310)
 
