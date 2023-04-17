@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.514
+
+*2023-04-05*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1902 Issue with user permissions on "Browse" nodes (#1225)
+
 ## 1.0.513
 
 *2023-03-30*
