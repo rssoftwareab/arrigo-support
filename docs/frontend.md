@@ -7,6 +7,17 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.516
+
+*2023-04-18*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1881 Min Max parameters not working with Values (#1230)
+- Hotfix: AZ#1897 Can't use space with Arrigo filter (#1229)
+- Hotfix: TP#1887 Missing filter:day translation key (#1227)
+- Hotfix: AZ#1843 User menu not working when awating license validation (#1220)
+
 ## 1.0.515
 
 *2023-04-18*
