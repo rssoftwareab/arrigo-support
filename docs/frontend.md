@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.515
+
+*2023-04-18*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1817 auto apply building to meter (#1219)
+
 ## 1.0.514
 
 *2023-04-05*
