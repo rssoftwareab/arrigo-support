@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.517
+
+*2023-04-19*
+
+### Fixes/Improvements
+
+- Hotfix:#AZ1908 collecting signals undefined route (#1232)
+
 ## 1.0.516
 
 *2023-04-18*
