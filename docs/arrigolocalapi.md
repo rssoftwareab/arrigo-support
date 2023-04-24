@@ -24,17 +24,17 @@ description: Change Log
 
 ## 1.0.240
 
-*2022-01-18*
+*2023-01-18*
 
 * Fix: Retrying 'Read' in 'setData' and 'writeData' 10 times instead of once.
 
 ## 1.0.239
-*2022-01-09*
+*2023-01-09*
 
 * Feature: Configurable log configurations
 
 ## 1.0.238
-*2022-01-03*
+*2023-01-03*
 
 * Error message fixes
 
