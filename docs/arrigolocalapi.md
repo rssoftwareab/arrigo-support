@@ -6,6 +6,12 @@ description: Change Log
 
 # Change Log
 
+## 1.3.12
+
+*2023-04-06*
+
+* Feature: AZ#1878 Implement EXO user groups for ArrigoID (#164)
+
 ## 1.3.10
 
 *2023-03-22*
