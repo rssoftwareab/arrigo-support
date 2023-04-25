@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.518
+
+*2023-04-25*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1944 Fix an issue when logging in with another account from ArrigoId (#1237)
+
 ## 1.0.517
 
 *2023-04-19*
