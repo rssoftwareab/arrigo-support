@@ -5,6 +5,20 @@ description: Change Log
 ---
 # Change Log
 
+## 1.3.25
+2023-04-25
+- Frontend: [1.0.514](./frontend.html#10514)
+
+- Arrigo Local API: [1.3.12](./arrigolocalapi.html#1312)
+
+- Arrigo Local Scada Function: [1.3.5](./arrigolocalscadafunction.html#135)
+
+- Arrigo Local Services: [1.0.211](./arrigolocalservices.html#10211)
+
+- Arrigo config transpiler: [1.3.2](./arrigo.config.transpiler.html#132)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0035](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=VZqiUE)
+
 ## 1.3.24
 2023-04-13
 - Frontend: [1.0.514](./frontend.html#10514)
