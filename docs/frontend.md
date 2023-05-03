@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.520
+
+*2023-05-03*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1964 Lowering chart tolerance yields NaN if no tolerance specified (#1239)
+
 ## 1.0.519
 
 *2023-05-03*
