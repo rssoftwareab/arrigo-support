@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.519
+
+*2023-05-03*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1960 Navigation context menu not visible (#1238)
+- Hotfix: #AZ1901 meters list filters behaviour (#1235)
+
 ## 1.0.518
 
 *2023-04-25*
