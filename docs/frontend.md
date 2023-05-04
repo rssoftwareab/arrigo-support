@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.521
+
+*2023-05-04*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1983 Filter button missing for generic feature view (#1243)
+
 ## 1.0.520
 
 *2023-05-03*
