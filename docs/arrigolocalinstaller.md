@@ -5,6 +5,116 @@ description: Change Log
 ---
 # Change Log
 
+## 1.3.27
+2023-04-26
+- Frontend: [1.0.514](./frontend.html#10514)
+
+- Arrigo Local API: [1.3.12](./arrigolocalapi.html#1312)
+
+- Arrigo Local Scada Function: [1.3.5](./arrigolocalscadafunction.html#135)
+
+- Arrigo Local Services: [1.0.211](./arrigolocalservices.html#10211)
+
+- Arrigo config transpiler: [1.3.2](./arrigo.config.transpiler.html#132)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0039](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=VZqiUE)
+
+## 1.3.26
+2023-04-26
+- Frontend: [1.0.514](./frontend.html#10514)
+
+- Arrigo Local API: [1.3.10](./arrigolocalapi.html#1310)
+
+- Arrigo Local Scada Function: [1.3.5](./arrigolocalscadafunction.html#135)
+
+- Arrigo Local Services: [1.0.211](./arrigolocalservices.html#10211)
+
+- Arrigo config transpiler: [1.3.2](./arrigo.config.transpiler.html#132)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0039](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=VZqiUE)
+
+**Note that** this version has no added functionality or fixes. It is only the required EXO installation/release that has changed.
+
+## 1.3.25
+2023-04-25
+- Frontend: [1.0.514](./frontend.html#10514)
+
+- Arrigo Local API: [1.3.12](./arrigolocalapi.html#1312)
+
+- Arrigo Local Scada Function: [1.3.5](./arrigolocalscadafunction.html#135)
+
+- Arrigo Local Services: [1.0.211](./arrigolocalservices.html#10211)
+
+- Arrigo config transpiler: [1.3.2](./arrigo.config.transpiler.html#132)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0035](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=VZqiUE)
+
+## 1.3.24
+2023-04-13
+- Frontend: [1.0.514](./frontend.html#10514)
+
+- Arrigo Local API: [1.3.10](./arrigolocalapi.html#1310)
+
+- Arrigo Local Scada Function: [1.3.5](./arrigolocalscadafunction.html#135)
+
+- Arrigo Local Services: [1.0.211](./arrigolocalservices.html#10211)
+
+- Arrigo config transpiler: [1.3.2](./arrigo.config.transpiler.html#132)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0035](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=VZqiUE)
+
+**Note that** this version has no added functionality or fixes. It is only the required EXO installation/release that has changed.
+
+## 1.3.23
+2023-04-12
+- Frontend: [1.0.514](./frontend.html#10514)
+
+- Arrigo Local API: [1.3.10](./arrigolocalapi.html#1310)
+
+- Arrigo Local Scada Function: [1.3.5](./arrigolocalscadafunction.html#135)
+
+- Arrigo Local Services: [1.0.211](./arrigolocalservices.html#10211)
+
+- Arrigo config transpiler: [1.3.2](./arrigo.config.transpiler.html#132)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0028](https://abregin.sharepoint.com/:b:/s/ReginSoftwareDistribution/EZumEJZS5VtGr-KLctV0B9QBmz533nMCGBY1UptyYePmQQ?e=QNPwHs)
+
+### arrigo-attach-project
+
+- Hotfix: Only check for project path correctness when attaching project
+
+## 1.3.21
+2023-04-05
+- Frontend: [1.0.514](./frontend.html#10514)
+
+- Arrigo Local API: [1.3.10](./arrigolocalapi.html#1310)
+
+- Arrigo Local Scada Function: [1.3.5](./arrigolocalscadafunction.html#135)
+
+- Arrigo Local Services: [1.0.211](./arrigolocalservices.html#10211)
+
+- Arrigo config transpiler: [1.3.2](./arrigo.config.transpiler.html#132)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0028](https://abregin.sharepoint.com/:b:/s/ReginSoftwareDistribution/EZumEJZS5VtGr-KLctV0B9QBmz533nMCGBY1UptyYePmQQ?e=QNPwHs)
+
+### arrigo-attach-project
+
+- Fix: Aborting if trying to attach to attach Arrigo to a project that is not the currently attached EXO project (#10)
+
+## 1.3.20
+2023-04-03
+- Frontend: [1.0.511](./frontend.html#10511)
+
+- Arrigo Local API: [1.3.10](./arrigolocalapi.html#1310)
+
+- Arrigo Local Scada Function: [1.3.5](./arrigolocalscadafunction.html#135)
+
+- Arrigo Local Services: [1.0.211](./arrigolocalservices.html#10211)
+
+- Arrigo config transpiler: [1.3.2](./arrigo.config.transpiler.html#132)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0027](https://abregin.sharepoint.com/:b:/s/ReginSoftwareDistribution/EZumEJZS5VtGr-KLctV0B9QBmz533nMCGBY1UptyYePmQQ?e=QNPwHs)
+
 ## 1.3.5
 2023-02-16
 - Frontend: [1.0.498](./frontend.html#10498)

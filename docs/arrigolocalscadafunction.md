@@ -6,6 +6,18 @@ description: Change Log
 
 # Change Log
 
+## 1.3.5
+
+*2023-03-22*
+
+* Fix: Solves the problem when we stop the function (invalid license) while the function is starting
+
+## 1.3.4
+
+*2023-03-21*
+
+* Fix: Update EXOGeneralLibrary library to be compatible with EXO2023. This fixes the multiple instance issue
+ 
 ## 1.3.3
 
 *2023-02-08*

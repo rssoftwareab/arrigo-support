@@ -6,24 +6,41 @@ description: Change Log
 
 # Change Log
 
+## 1.3.12
+
+*2023-04-06*
+
+* Feature: AZ#1878 Implement EXO user groups for ArrigoID (#164)
+
+## 1.3.10
+
+*2023-03-22*
+
+* Fix: AZ#1715: Chart export (#163)
+* Fix: Defaulting to signal name if signal text is null (#162)
+* Fix: AZ#1650: Chart: Digital signals are shown incorrectly if on/off isn't inside current interval (#159)
+* Fix: AZ#1617: Year zero date on alarms (0000-01-01T00:00:00Z) (#158)
+* Feature: AZ#1751 Global search (#160)
+
 ## 1.3.1
+
 *2023-01-30*
 
-Feature: AZ#1023 License system
+* Feature: AZ#1023 License system
 
 ## 1.0.240
 
-*2022-01-18*
+*2023-01-18*
 
-Fix: Retrying 'Read' in 'setData' and 'writeData' 10 times instead of once.
+* Fix: Retrying 'Read' in 'setData' and 'writeData' 10 times instead of once.
 
 ## 1.0.239
-*2022-01-09*
+*2023-01-09*
 
-Feature: Configurable log configurations
+* Feature: Configurable log configurations
 
 ## 1.0.238
-*2022-01-03*
+*2023-01-03*
 
 * Error message fixes
 
