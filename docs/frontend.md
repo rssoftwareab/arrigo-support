@@ -7,6 +7,66 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.521
+
+*2023-05-04*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1983 Filter button missing for generic feature view (#1243)
+
+## 1.0.520
+
+*2023-05-03*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1964 Lowering chart tolerance yields NaN if no tolerance specified (#1239)
+
+## 1.0.519
+
+*2023-05-03*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1960 Navigation context menu not visible (#1238)
+- Hotfix: #AZ1901 meters list filters behaviour (#1235)
+
+## 1.0.518
+
+*2023-04-25*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1944 Fix an issue when logging in with another account from ArrigoId (#1237)
+
+## 1.0.517
+
+*2023-04-19*
+
+### Fixes/Improvements
+
+- Hotfix:#AZ1908 collecting signals undefined route (#1232)
+
+## 1.0.516
+
+*2023-04-18*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1881 Min Max parameters not working with Values (#1230)
+- Hotfix: AZ#1897 Can't use space with Arrigo filter (#1229)
+- Hotfix: TP#1887 Missing filter:day translation key (#1227)
+- Hotfix: AZ#1843 User menu not working when awating license validation (#1220)
+
+## 1.0.515
+
+*2023-04-18*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1817 auto apply building to meter (#1219)
+
 ## 1.0.514
 
 *2023-04-05*
