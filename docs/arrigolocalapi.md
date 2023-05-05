@@ -6,6 +6,12 @@ description: Change Log
 
 # Change Log
 
+## 1.3.15
+
+*2023-05-03*
+
+* Feature: AZ#1573: Common log config folder (#156)
+
 ## 1.3.12
 
 *2023-04-06*

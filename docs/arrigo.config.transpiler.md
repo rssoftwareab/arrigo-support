@@ -6,6 +6,10 @@ description: Change Log
 
 # Change Log
 
+## 1.3.7
+*2023-05-02*
+- Feature: AZ#1573: Common log config folder (#15)
+
 ## 1.3.2
 *2023-02-14*
 - Fix: Fixed a bug that, under certain circumstances, could prevent variables to be written to. This bug was introduced in v1.0.228

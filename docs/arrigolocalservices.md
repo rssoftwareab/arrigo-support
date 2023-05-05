@@ -6,7 +6,29 @@ description: Change Log
 
 # Change Log
 
-## Upcoming releases
+## 1.1.233
+*2023-05-03*
+
+### arrigo-dc
+- Feature: AZ#1573: Common log config folder
+
+### arrigo-wamp-host
+- Feature: AZ#1573: Common log config folder
+
+### arrigo-services-state
+- Feature: AZ#1573: Common log config folder
+
+### arrigo-services-ssf
+- Feature: AZ#1573: Common log config folder
+
+### arrigo-services-chart
+- Feature: AZ#1573: Common log config folder
+
+### arrigo-services-volume
+- Feature: AZ#1573: Common log config folder
+
+### arrigo-services-db
+- Feature: AZ#1573: Common log config folder
 
 ## 1.1.211
 *2022-06-07*
