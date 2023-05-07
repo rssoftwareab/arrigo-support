@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.522
+
+*2023-05-07*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1962 Chart: No dates when scrolling back in time (#1242)
+
 ## 1.0.521
 
 *2023-05-04*
