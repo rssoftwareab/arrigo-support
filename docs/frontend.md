@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.523
+
+*2023-05-08*
+
+### Fixes/Improvements
+
+- Pull Request triggered from POEditor (#1234)
+- Hotfix: Update temporary maintenance message (#1244)
+
 ## 1.0.522
 
 *2023-05-07*
