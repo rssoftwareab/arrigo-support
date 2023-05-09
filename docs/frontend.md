@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.524
+
+*2023-05-09*
+
+### New Features
+
+- Feature: AZ#1715 Add extra chart export options and missing empty entries timestamps (#1218)
+
 ## 1.0.523
 
 *2023-05-08*
