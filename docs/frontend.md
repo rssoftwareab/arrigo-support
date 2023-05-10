@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.525
+
+*2023-05-10*
+
+### Fixes/Improvements
+
+- Hotfix: #AZ2002 Generic filters are not visible and enabled by default (#1250)
+
 ## 1.0.524
 
 *2023-05-09*
