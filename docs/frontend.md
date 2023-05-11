@@ -7,6 +7,16 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.527
+
+*2023-05-11*
+
+### Fixes/Improvements
+
+- Minimizing Downtime During Deployments (#1223)
+- Hotfix: AZ#1998 X-axis domain does not honor the filter range (#1247)
+- Hotfix: AZ#1989 EnergyPricelist fix (#1248)
+
 ## 1.0.526
 
 *2023-05-11*
