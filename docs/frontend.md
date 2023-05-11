@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.526
+
+*2023-05-11*
+
+### Fixes/Improvements
+
+- Hotfix: Restore temp info message (#1251)
+
 ## 1.0.525
 
 *2023-05-10*
