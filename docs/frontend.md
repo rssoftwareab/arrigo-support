@@ -7,6 +7,65 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.528
+
+*2023-05-11*
+
+### Fixes/Improvements
+
+- Pull Request triggered from POEditor (#1252)
+
+## 1.0.527
+
+*2023-05-11*
+
+### Fixes/Improvements
+
+- Minimizing Downtime During Deployments (#1223)
+- Hotfix: AZ#1998 X-axis domain does not honor the filter range (#1247)
+- Hotfix: AZ#1989 EnergyPricelist fix (#1248)
+
+## 1.0.526
+
+*2023-05-11*
+
+### Fixes/Improvements
+
+- Hotfix: Restore temp info message (#1251)
+
+## 1.0.525
+
+*2023-05-10*
+
+### Fixes/Improvements
+
+- Hotfix: #AZ2002 Generic filters are not visible and enabled by default (#1250)
+
+## 1.0.524
+
+*2023-05-09*
+
+### New Features
+
+- Feature: AZ#1715 Add extra chart export options and missing empty entries timestamps (#1218)
+
+## 1.0.523
+
+*2023-05-08*
+
+### Fixes/Improvements
+
+- Pull Request triggered from POEditor (#1234)
+- Hotfix: Update temporary maintenance message (#1244)
+
+## 1.0.522
+
+*2023-05-07*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1962 Chart: No dates when scrolling back in time (#1242)
+
 ## 1.0.521
 
 *2023-05-04*
