@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.531
+
+*2023-05-31*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2009 - Fix issues with User Administration login (#1256)
+- Hotfix: AZ#1626 Support the OpenLinkInBrowser click action on link icons (#1263)
+
 ## 1.0.530
 
 *2023-05-31*
