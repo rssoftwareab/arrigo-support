@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.530
+
+*2023-05-31*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2058 Chart - Min/Max is rendered twice (#1266)
+
 ## 1.0.529
 
 *2023-05-15*
