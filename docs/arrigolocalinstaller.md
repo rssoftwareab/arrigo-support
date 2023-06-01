@@ -5,6 +5,12 @@ description: Change Log
 ---
 # Change Log
 
+## 1.3.??
+2023-06-??
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0053](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=etZpaa)
+
+
 ## 1.3.48
 2023-05-12
 - Frontend: [1.0.528](./frontend.html#10528)
