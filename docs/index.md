@@ -17,7 +17,7 @@ description: Releases and Change Log
 
 *System requirements, hardware recommendations and installation instructions can be found at [docs.arrigo.se](https://docs.arrigo.se/Install%20and%20Configure).*
 
-*There is some important information regarding Arrigo Connect. It can be found at [docs.arrigo.se}(https://docs.arrigo.se/Troubleshooting/Arrigo%20Local/01_ArrigoConnect/)*
+*There is some important information regarding Arrigo Connect. It can be found at [docs.arrigo.se](https://docs.arrigo.se/Troubleshooting/Arrigo%20Local/01_ArrigoConnect/)*
 
 ## Arrigo License Manager
 
