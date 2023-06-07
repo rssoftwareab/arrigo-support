@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.532
+
+*2023-06-07*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2053 Disable and hide notification center (BMS) based on theme (#1269)
+
 ## 1.0.531
 
 *2023-05-31*
