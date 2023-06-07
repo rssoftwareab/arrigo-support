@@ -6,6 +6,30 @@ description: Change Log
 
 # Change Log
 
+## 1.1.263
+*2023-06-02*
+
+### arrigo-dc
+- Dotnet 7 compatible
+
+### arrigo-wamp-host
+- Dotnet 7 compatible
+
+### arrigo-services-state
+- Dotnet 7 compatible
+
+### arrigo-services-ssf
+- Dotnet 7 compatible
+
+### arrigo-services-chart
+- Dotnet 7 compatible
+
+### arrigo-services-volume
+- Dotnet 7 compatible
+
+### arrigo-services-db
+- Dotnet 7 compatible
+
 ## 1.1.233
 *2023-05-03*
 
