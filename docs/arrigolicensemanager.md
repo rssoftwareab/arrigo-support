@@ -14,8 +14,6 @@ description: Change Log
 - Fix: The license manager no longer uses the machine name over the WAMP, resolves issues with too long machine names.
 - Fix: The shortcut for the license manager now gets the correct path to the icon, delete the icon before updating the license manager to get the correct path if it's already installed.
 
-# Change Log
-
 ## 1.0.99
 
 *2023-03-13*
