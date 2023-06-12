@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.533
+
+*2023-06-12*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2030 replace date with signal titles (#1273)
+
 ## 1.0.532
 
 *2023-06-07*
