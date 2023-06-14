@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.529
+
+*2023-05-15*
+
+### Fixes/Improvements
+
+- AZ1924 Added support for macro %MaxWidth% and %MaxHeight% (#1253)
+
 ## 1.0.528
 
 *2023-05-11*
