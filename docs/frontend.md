@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.535
+
+*2023-06-15*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2031 Large alarm buttons (#1271)
+
 ## 1.0.534
 
 *2023-06-14*
