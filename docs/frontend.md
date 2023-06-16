@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.537
+
+*2023-06-16*
+
+### Fixes/Improvements
+
+- Infra: Sync CI pipeline (#1282)
+
 ## 1.0.536
 
 *2023-06-15*
