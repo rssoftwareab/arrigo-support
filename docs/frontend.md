@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.538
+
+*2023-06-19*
+
+### Fixes/Improvements
+
+- Hotfix: Add background to make it clearer item is active (#1278)
+
 ## 1.0.537
 
 *2023-06-16*
