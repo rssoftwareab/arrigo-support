@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.539
+
+*2023-06-19*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2060 Chart signal colors (#1281)
+
 ## 1.0.538
 
 *2023-06-19*
