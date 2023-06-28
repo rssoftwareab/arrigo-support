@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.540
+
+*2023-06-28*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1961 Reversed alarm titles user setting (#1249)
+
 ## 1.0.539
 
 *2023-06-19*
