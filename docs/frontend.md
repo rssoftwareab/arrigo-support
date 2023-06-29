@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.544
+
+*2023-06-29*
+
+### Fixes/Improvements
+
+- Revert "Release 2023-06-29 (#1288)"
+
 ## 1.0.543
 
 *2023-06-29*
