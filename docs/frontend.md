@@ -22,18 +22,17 @@ description: Change Log
 ### New Features
 
 - Feature: Graph Widgets (#1260)
+
 ### Fixes/Improvements
 
 - Merge pull request #1289 from rssoftwareab/dev
-- Reinstate previous yarn.lock file
-- Update yarn.lock
-- styling fixes for tree
+- Styling fixes for tree
 - Fix: Graph widgets test fixes (#1283)
 - Fix: Autobahn ping implementation (#1277)
 - Chore: Udpate yarn.lock (#1276)
 - Use internal autobahn-js package (#1275)
 - Fix/folder settings fixes (#1268)
-- fixed misspelling in mutation
+- Fixed misspelling in mutation
 - Theme setting for hiding navigation icon and force tree to be closed,… (#1261)
 - Merge pull request #1265 from rssoftwareab/feature/playwright
 - Added tests for arrigo local.
@@ -45,7 +44,6 @@ description: Change Log
 - Removed unused fetch
 - Got it working
 - Trying some stuff
-- asd
 - Merge pull request #1259 from rssoftwareab/feature-2024/favorites-theme-setting
 - Add theme setting for favorites view
 - Changed yarn lock
@@ -61,26 +59,7 @@ description: Change Log
 
 ### Fixes/Improvements
 
-- Revert "Release 2023-06-29 (#1288)"
-
-## 1.0.543
-
-*2023-06-29*
-
-## 1.0.542
-
-*2023-06-29*
-
-### Fixes/Improvements
-
 - Hotfix: AZ#2124 Charts: Save dialog appears behind content (#1286)
-
-## 1.0.541
-
-*2023-06-29*
-
-### Fixes/Improvements
-
 - Hotfix: Hide search section based on theme (#1285)
 
 ## 1.0.540
@@ -90,77 +69,13 @@ description: Change Log
 ### Fixes/Improvements
 
 - Hotfix: AZ#1961 Reversed alarm titles user setting (#1249)
-
-## 1.0.539
-
-*2023-06-19*
-
-### Fixes/Improvements
-
 - Hotfix: AZ#2060 Chart signal colors (#1281)
-
-## 1.0.538
-
-*2023-06-19*
-
-### Fixes/Improvements
-
 - Hotfix: Add background to make it clearer item is active (#1278)
-
-## 1.0.537
-
-*2023-06-16*
-
-### Fixes/Improvements
-
-- Infra: Sync CI pipeline (#1282)
-
-## 1.0.536
-
-*2023-06-15*
-
-### Fixes/Improvements
-
 - Hotfix/az#2031 large alarm buttons (#1280)
-
-## 1.0.535
-
-*2023-06-15*
-
-### Fixes/Improvements
-
 - Hotfix: AZ#2031 Large alarm buttons (#1271)
-
-## 1.0.534
-
-*2023-06-14*
-
-### Fixes/Improvements
-
 - HotFix: Symbol rotation error. (#1279)
-
-## 1.0.533
-
-*2023-06-12*
-
-### Fixes/Improvements
-
 - Hotfix: AZ#2030 replace date with signal titles (#1273)
-
-## 1.0.532
-
-*2023-06-07*
-
-### Fixes/Improvements
-
 - Hotfix: AZ#2053 Disable and hide notification center (BMS) based on theme (#1269)
-
-## 1.0.531
-
-*2023-05-31*
-
-### Fixes/Improvements
-
 - Hotfix: AZ#2009 - Fix issues with User Administration login (#1256)
 - Hotfix: AZ#1626 Support the OpenLinkInBrowser click action on link icons (#1263)
 
