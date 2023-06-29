@@ -7,6 +7,10 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.543
+
+*2023-06-29*
+
 ## 1.0.542
 
 *2023-06-29*
