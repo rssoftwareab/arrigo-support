@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.548
+
+*2023-06-29*
+
+### Fixes/Improvements
+
+- Hotfix: Build 18 (#1294)
+
 ## 1.0.547
 
 *2023-06-29*
