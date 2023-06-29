@@ -7,6 +7,238 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.546
+
+*2023-06-29*
+
+### Fixes/Improvements
+
+- Pull Request triggered from POEditor (#1290)
+
+## 1.0.545
+
+*2023-06-29*
+
+### New Features
+
+- Feature: Graph Widgets (#1260)
+### Fixes/Improvements
+
+- Merge pull request #1289 from rssoftwareab/dev
+- Reinstate previous yarn.lock file
+- Update yarn.lock
+- styling fixes for tree
+- Fix: Graph widgets test fixes (#1283)
+- Fix: Autobahn ping implementation (#1277)
+- Chore: Udpate yarn.lock (#1276)
+- Use internal autobahn-js package (#1275)
+- Fix/folder settings fixes (#1268)
+- fixed misspelling in mutation
+- Theme setting for hiding navigation icon and force tree to be closed,… (#1261)
+- Merge pull request #1265 from rssoftwareab/feature/playwright
+- Added tests for arrigo local.
+- Added playwright skeleton.
+- Feature/AZ#2020 (#1264)
+- Local folders resolver (#1258)
+- Merge pull request #1241 from rssoftwareab/trying-to-speed-some-stuff-up
+- Some small changes and cleanup
+- Removed unused fetch
+- Got it working
+- Trying some stuff
+- asd
+- Merge pull request #1259 from rssoftwareab/feature-2024/favorites-theme-setting
+- Add theme setting for favorites view
+- Changed yarn lock
+- Update azure-pipelines.yml for Azure Pipelines
+- Hotfix: AZ#1781 Redirect to login page after restarting IIS (#1236)
+- Frontend changes for new energytype mappings (#1245)
+- Hotifx: Remove cw2, bump animator (#1240)
+- Minimizing Downtime During Deployments and adding liveness probe
+
+## 1.0.544
+
+*2023-06-29*
+
+### Fixes/Improvements
+
+- Revert "Release 2023-06-29 (#1288)"
+
+## 1.0.543
+
+*2023-06-29*
+
+## 1.0.542
+
+*2023-06-29*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2124 Charts: Save dialog appears behind content (#1286)
+
+## 1.0.541
+
+*2023-06-29*
+
+### Fixes/Improvements
+
+- Hotfix: Hide search section based on theme (#1285)
+
+## 1.0.540
+
+*2023-06-28*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1961 Reversed alarm titles user setting (#1249)
+
+## 1.0.539
+
+*2023-06-19*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2060 Chart signal colors (#1281)
+
+## 1.0.538
+
+*2023-06-19*
+
+### Fixes/Improvements
+
+- Hotfix: Add background to make it clearer item is active (#1278)
+
+## 1.0.537
+
+*2023-06-16*
+
+### Fixes/Improvements
+
+- Infra: Sync CI pipeline (#1282)
+
+## 1.0.536
+
+*2023-06-15*
+
+### Fixes/Improvements
+
+- Hotfix/az#2031 large alarm buttons (#1280)
+
+## 1.0.535
+
+*2023-06-15*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2031 Large alarm buttons (#1271)
+
+## 1.0.534
+
+*2023-06-14*
+
+### Fixes/Improvements
+
+- HotFix: Symbol rotation error. (#1279)
+
+## 1.0.533
+
+*2023-06-12*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2030 replace date with signal titles (#1273)
+
+## 1.0.532
+
+*2023-06-07*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2053 Disable and hide notification center (BMS) based on theme (#1269)
+
+## 1.0.531
+
+*2023-05-31*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2009 - Fix issues with User Administration login (#1256)
+- Hotfix: AZ#1626 Support the OpenLinkInBrowser click action on link icons (#1263)
+
+## 1.0.530
+
+*2023-05-31*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2058 Chart - Min/Max is rendered twice (#1266)
+
+## 1.0.529
+
+*2023-05-15*
+
+### Fixes/Improvements
+
+- AZ1924 Added support for macro %MaxWidth% and %MaxHeight% (#1253)
+
+## 1.0.528
+
+*2023-05-11*
+
+### Fixes/Improvements
+
+- Pull Request triggered from POEditor (#1252)
+
+## 1.0.527
+
+*2023-05-11*
+
+### Fixes/Improvements
+
+- Minimizing Downtime During Deployments (#1223)
+- Hotfix: AZ#1998 X-axis domain does not honor the filter range (#1247)
+- Hotfix: AZ#1989 EnergyPricelist fix (#1248)
+
+## 1.0.526
+
+*2023-05-11*
+
+### Fixes/Improvements
+
+- Hotfix: Restore temp info message (#1251)
+
+## 1.0.525
+
+*2023-05-10*
+
+### Fixes/Improvements
+
+- Hotfix: #AZ2002 Generic filters are not visible and enabled by default (#1250)
+
+## 1.0.524
+
+*2023-05-09*
+
+### New Features
+
+- Feature: AZ#1715 Add extra chart export options and missing empty entries timestamps (#1218)
+
+## 1.0.523
+
+*2023-05-08*
+
+### Fixes/Improvements
+
+- Pull Request triggered from POEditor (#1234)
+- Hotfix: Update temporary maintenance message (#1244)
+
+## 1.0.522
+
+*2023-05-07*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1962 Chart: No dates when scrolling back in time (#1242)
+
 ## 1.0.534
 
 *2023-06-14*
