@@ -29,8 +29,6 @@ description: Change Log
 - Styling fixes for tree
 - Fix: Graph widgets test fixes (#1283)
 - Fix: Autobahn ping implementation (#1277)
-- Chore: Udpate yarn.lock (#1276)
-- Use internal autobahn-js package (#1275)
 - Fix/folder settings fixes (#1268)
 - Fixed misspelling in mutation
 - Theme setting for hiding navigation icon and force tree to be closed,… (#1261)
@@ -39,12 +37,6 @@ description: Change Log
 - Added playwright skeleton.
 - Feature/AZ#2020 (#1264)
 - Local folders resolver (#1258)
-- Merge pull request #1241 from rssoftwareab/trying-to-speed-some-stuff-up
-- Some small changes and cleanup
-- Removed unused fetch
-- Got it working
-- Trying some stuff
-- Merge pull request #1259 from rssoftwareab/feature-2024/favorites-theme-setting
 - Add theme setting for favorites view
 - Changed yarn lock
 - Update azure-pipelines.yml for Azure Pipelines
@@ -71,7 +63,6 @@ description: Change Log
 - Hotfix: AZ#1961 Reversed alarm titles user setting (#1249)
 - Hotfix: AZ#2060 Chart signal colors (#1281)
 - Hotfix: Add background to make it clearer item is active (#1278)
-- Hotfix/az#2031 large alarm buttons (#1280)
 - Hotfix: AZ#2031 Large alarm buttons (#1271)
 - HotFix: Symbol rotation error. (#1279)
 - Hotfix: AZ#2030 replace date with signal titles (#1273)
