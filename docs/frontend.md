@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.547
+
+*2023-06-29*
+
+### Fixes/Improvements
+
+- Revert "Hotfix: Update build command" (#1292)
+- Hotfix: Update build command (#1291)
+
 ## 1.0.546
 
 *2023-06-29*
