@@ -7,6 +7,46 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.545
+
+*2023-06-29*
+
+### New Features
+
+- Feature: Graph Widgets (#1260)
+### Fixes/Improvements
+
+- Merge pull request #1289 from rssoftwareab/dev
+- Reinstate previous yarn.lock file
+- Update yarn.lock
+- styling fixes for tree
+- Fix: Graph widgets test fixes (#1283)
+- Fix: Autobahn ping implementation (#1277)
+- Chore: Udpate yarn.lock (#1276)
+- Use internal autobahn-js package (#1275)
+- Fix/folder settings fixes (#1268)
+- fixed misspelling in mutation
+- Theme setting for hiding navigation icon and force tree to be closed,… (#1261)
+- Merge pull request #1265 from rssoftwareab/feature/playwright
+- Added tests for arrigo local.
+- Added playwright skeleton.
+- Feature/AZ#2020 (#1264)
+- Local folders resolver (#1258)
+- Merge pull request #1241 from rssoftwareab/trying-to-speed-some-stuff-up
+- Some small changes and cleanup
+- Removed unused fetch
+- Got it working
+- Trying some stuff
+- asd
+- Merge pull request #1259 from rssoftwareab/feature-2024/favorites-theme-setting
+- Add theme setting for favorites view
+- Changed yarn lock
+- Update azure-pipelines.yml for Azure Pipelines
+- Hotfix: AZ#1781 Redirect to login page after restarting IIS (#1236)
+- Frontend changes for new energytype mappings (#1245)
+- Hotifx: Remove cw2, bump animator (#1240)
+- Minimizing Downtime During Deployments and adding liveness probe
+
 ## 1.0.544
 
 *2023-06-29*
