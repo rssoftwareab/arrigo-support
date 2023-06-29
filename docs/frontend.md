@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.542
+
+*2023-06-29*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2124 Charts: Save dialog appears behind content (#1286)
+
 ## 1.0.541
 
 *2023-06-29*
