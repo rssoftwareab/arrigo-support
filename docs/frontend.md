@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.541
+
+*2023-06-29*
+
+### Fixes/Improvements
+
+- Hotfix: Hide search section based on theme (#1285)
+
 ## 1.0.540
 
 *2023-06-28*
