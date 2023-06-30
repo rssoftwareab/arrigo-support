@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.552
+
+*2023-06-30*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2147 Fix issue with nested alarm Links in AlarmsWidget (#1295)
+
 ## 1.0.548
 
 *2023-06-29*
