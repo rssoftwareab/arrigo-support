@@ -7,6 +7,18 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.554
+
+*2023-06-30*
+
+### New Features
+
+- Feature: AZ#2024 Theme setting for Show RGSV filters (#1296)
+### Fixes/Improvements
+
+- Hotfix: AZ#2101 Signal settings on chart is configurable by theme (#1298)
+- Hotfix: AZ#2144 Hide navigation icons and favorite icon when in panel mode (#1297)
+
 ## 1.0.552
 
 *2023-06-30*
