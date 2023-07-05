@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.555
+
+*2023-07-05*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2095 Scroll refresh (#1301)
+
 ## 1.0.554
 
 *2023-06-30*
