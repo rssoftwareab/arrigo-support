@@ -70,28 +70,13 @@ description: Change Log
 ### Fixes/Improvements
 
 - Merge pull request #1289 from rssoftwareab/dev
-- Reinstate previous yarn.lock file
-- Update yarn.lock
-- styling fixes for tree
 - Fix: Graph widgets test fixes (#1283)
 - Fix: Autobahn ping implementation (#1277)
 - Chore: Udpate yarn.lock (#1276)
 - Use internal autobahn-js package (#1275)
 - Fix/folder settings fixes (#1268)
-- fixed misspelling in mutation
-- Theme setting for hiding navigation icon and force tree to be closed,… (#1261)
-- Merge pull request #1265 from rssoftwareab/feature/playwright
-- Added tests for arrigo local.
-- Added playwright skeleton.
-- Feature/AZ#2020 (#1264)
+- Theme setting for hiding navigation icon and force tree to be closed (#1261)
 - Local folders resolver (#1258)
-- Merge pull request #1241 from rssoftwareab/trying-to-speed-some-stuff-up
-- Some small changes and cleanup
-- Removed unused fetch
-- Got it working
-- Trying some stuff
-- asd
-- Merge pull request #1259 from rssoftwareab/feature-2024/favorites-theme-setting
 - Add theme setting for favorites view
 - Changed yarn lock
 - Update azure-pipelines.yml for Azure Pipelines
