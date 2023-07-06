@@ -5,6 +5,101 @@ description: Change Log
 ---
 # Change Log
 
+## 1.3.85
+2023-07-06
+- Frontend: [1.0.554](./frontend.html#10554)
+
+- Arrigo Local API: [1.3.24](./arrigolocalapi.html#1324)
+
+- Arrigo Local Scada Function: [1.3.11](./arrigolocalscadafunction.html#1311)
+
+- Arrigo Local Services: [1.0.263](./arrigolocalservices.html#10263)
+
+- Arrigo config transpiler: [1.3.7](./arrigo.config.transpiler.html#137)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0053](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=etZpaa)
+
+
+## 1.3.74
+2023-06-14
+- Frontend: [1.0.534](./frontend.html#10534)
+
+- Arrigo Local API: [1.3.24](./arrigolocalapi.html#1324)
+
+- Arrigo Local Scada Function: [1.3.11](./arrigolocalscadafunction.html#1311)
+
+- Arrigo Local Services: [1.0.263](./arrigolocalservices.html#10263)
+
+- Arrigo config transpiler: [1.3.7](./arrigo.config.transpiler.html#137)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0053](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=etZpaa)
+
+## 1.3.73
+2023-06-14
+- Frontend: [1.0.529](./frontend.html#10529)
+
+- Arrigo Local API: [1.3.24](./arrigolocalapi.html#1324)
+
+- Arrigo Local Scada Function: [1.3.11](./arrigolocalscadafunction.html#1311)
+
+- Arrigo Local Services: [1.0.263](./arrigolocalservices.html#10263)
+
+- Arrigo config transpiler: [1.3.7](./arrigo.config.transpiler.html#137)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0053](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=etZpaa)
+
+
+## 1.3.72
+2023-06-07
+- Frontend: [1.0.528](./frontend.html#10528)
+
+- Arrigo Local API: [1.3.24](./arrigolocalapi.html#1324)
+
+- Arrigo Local Scada Function: [1.3.11](./arrigolocalscadafunction.html#1311)
+
+- Arrigo Local Services: [1.0.263](./arrigolocalservices.html#10263)
+
+- Arrigo config transpiler: [1.3.7](./arrigo.config.transpiler.html#137)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0053](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=etZpaa)
+
+### General
+
+All services and the API are now Dotnet 7 compatible.  
+This release will install a newer version of the [Dotnet Windows Hosting Bundle](https://download.visualstudio.microsoft.com/download/pr/19927e80-7df2-4906-badd-439502008177/cb55d49c06a3691965b4bcf934ead822/dotnet-hosting-7.0.5-win.exe) (7.0.5).
+
+## 1.3.48
+2023-05-12
+- Frontend: [1.0.528](./frontend.html#10528)
+
+- Arrigo Local API: [1.3.15](./arrigolocalapi.html#1315)
+
+- Arrigo Local Scada Function: [1.3.11](./arrigolocalscadafunction.html#1311)
+
+- Arrigo Local Services: [1.0.233](./arrigolocalservices.html#10233)
+
+- Arrigo config transpiler: [1.3.7](./arrigo.config.transpiler.html#137)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0039](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=VZqiUE)
+
+## 1.3.44
+2023-05-08
+- Frontend: [1.0.521](./frontend.html#10521)
+
+- Arrigo Local API: [1.3.15](./arrigolocalapi.html#1315)
+
+- Arrigo Local Scada Function: [1.3.11](./arrigolocalscadafunction.html#1311)
+
+- Arrigo Local Services: [1.0.233](./arrigolocalservices.html#10233)
+
+- Arrigo config transpiler: [1.3.7](./arrigo.config.transpiler.html#137)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0039](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=VZqiUE)
+
+### Installer
+
+- Fix: Removing the EXOSERVICE_PM2 env.var (#48)
+
 ## 1.3.43
 2023-05-05
 - Frontend: [1.0.521](./frontend.html#10521)

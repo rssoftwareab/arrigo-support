@@ -3,7 +3,16 @@ layout: main
 title: Releases - Arrigo Licens Manager
 description: Change Log
 ---
+
 # Change Log
+
+## 1.0.121
+
+*2023-06-08*
+
+### Fixes/Improvements
+- Fix: The license manager no longer uses the machine name over the WAMP, resolves issues with too long machine names.
+- Fix: The shortcut for the license manager now gets the correct path to the icon, delete the icon before updating the license manager to get the correct path if it's already installed.
 
 ## 1.0.99
 

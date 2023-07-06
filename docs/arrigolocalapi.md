@@ -6,6 +6,12 @@ description: Change Log
 
 # Change Log
 
+## 1.3.24
+
+*2023-05-23*
+
+* Dotnet 7 compatible
+
 ## 1.3.15
 
 *2023-05-03*

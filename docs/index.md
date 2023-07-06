@@ -10,18 +10,20 @@ description: Releases and Change Log
 
 | Release  | Version                                      | Required EXO installation | Download |
 | -------- | -------------------------------------------- | ------------------------- | --------    
-| Latest   | [1.3.27](./arrigolocalinstaller.html#1327) | EXO2023 Edition 1 build 39 | Via installer (`--latest` flag provided) |
-| Stable   | [1.3.26](./arrigolocalinstaller.html#1326) | EXO2023 Edition 1 build 39 | [Download](https://arrigo.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2023Edition1_39-1.3.26.exe) |
+| Latest   | [1.3.74](./arrigolocalinstaller.html#1374) | EXO2023 Edition 1 build 53 | Via installer (`--latest` flag provided) |
+| Stable   | [1.3.74](./arrigolocalinstaller.html#1374) | EXO2023 Edition 1 build 53 | [Download](https://arrigo.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2023Edition1_53-1.3.74.exe) |
 | Legacy | [1.3.5](./arrigolocalinstaller.html#135) | EXO2022 Edition 1 build 13 | [Download](https://arrigo.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2022Edition1_13-1.3.5.exe) |
 | Legacy | [1.1.312](./arrigolocalinstaller.html#11312) | EXO2019 Edition 4 build 323 | [Download](https://arrigo.blob.core.windows.net/arrigo/stable/ArrigoLocalInstaller-EXO2019Edition4_323-1.1.312.exe) |
 
 *System requirements, hardware recommendations and installation instructions can be found at [docs.arrigo.se](https://docs.arrigo.se/Install%20and%20Configure).*
 
+*We have some important information regarding Arrigo Connect. It can be found at [docs.arrigo.se](https://docs.arrigo.se/Troubleshooting/Arrigo%20Local/01_ArrigoConnect/)*
+
 ## Arrigo License Manager
 
 | Release  | Version                                      |  Download |
 | -------- | -------------------------------------------- |  --------------------------------- |
-| Current  | [1.0.99](./arrigolicensemanager.html#1099)   |  [Download](https://arrigo.blob.core.windows.net/arrigo/stable/License-Manager-Installer.1.0.99.exe) |
+| Current  | [1.0.121](./arrigolicensemanager.html#10121)   |  [Download](https://arrigo.blob.core.windows.net/arrigo/stable/License-Manager-Installer.1.0.121.exe) |
 
 *Installation instructions and general help can be found at [docs.arrigo.se](https://docs.arrigo.se/Install%20and%20Configure/02_Arrigo%20License%20Manager%20installer/).*
 
