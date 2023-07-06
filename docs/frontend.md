@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.556
+
+*2023-07-06*
+
+### Fixes/Improvements
+
+- Hotfix: GraphWidgets- Remaining fixes after testing. (#1299)
+
 ## 1.0.555
 
 *2023-07-05*
