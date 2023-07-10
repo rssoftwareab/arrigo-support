@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.558
+
+*2023-07-10*
+
+### Fixes/Improvements
+
+- Move handling for  local frontend to the end. Fix REACT_APP_AUTOBAHN_… (#1304)
+
 ## 1.0.557
 
 *2023-07-06*
