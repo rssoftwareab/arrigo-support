@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.559
+
+*2023-07-13*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2160 - Allow empty string value for localFolder upsert (#1302)
+
 ## 1.0.558
 
 *2023-07-10*
