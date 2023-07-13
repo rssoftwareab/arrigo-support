@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.560
+
+*2023-07-13*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2174 Chart - Better error handling (#1308)
+- Hotfix: AZ#2091 Real-time trendning issues (#1305)
+
 ## 1.0.559
 
 *2023-07-13*
