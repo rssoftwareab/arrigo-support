@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.562
+
+*2023-08-09*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2202 ListItems not visible (#1314)
+
 ## 1.0.561
 
 *2023-08-09*
