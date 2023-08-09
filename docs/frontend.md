@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.561
+
+*2023-08-09*
+
+### Fixes/Improvements
+
+- Hotfix: Indicator title fix (#1313)
+
 ## 1.0.560
 
 *2023-07-13*
