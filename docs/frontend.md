@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.563
+
+*2023-08-16*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2067 Tooltip lingers on (#1316)
+
 ## 1.0.562
 
 *2023-08-09*
