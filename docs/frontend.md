@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.565
+
+*2023-08-23*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2205-show-parent-level (#1318)
+
 ## 1.0.564
 
 *2023-08-23*
