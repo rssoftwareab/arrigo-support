@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.564
+
+*2023-08-23*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2184 Dynamic chart yAxis (#1307)
+- Added newlines around the fn wrapper to allow for comments on last li… (#1312)
+
 ## 1.0.563
 
 *2023-08-16*
