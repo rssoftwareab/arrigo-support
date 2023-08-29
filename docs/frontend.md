@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.566
+
+*2023-08-29*
+
+### Fixes/Improvements
+
+- Hotfix: Change Google Maps API Key (#1325)
+
 ## 1.0.565
 
 *2023-08-23*
