@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.567
+
+*2023-09-04*
+
+### Fixes/Improvements
+
+- Hotfix: Empty titles not allowed (#1322)
+- Hotfix: Fix ArrigoID multiple account issue (#1320)
+
 ## 1.0.566
 
 *2023-08-29*
