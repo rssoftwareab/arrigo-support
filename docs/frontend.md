@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.568
+
+*2023-09-05*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2208 Graph widget feedback (#1336)
+
 ## 1.0.567
 
 *2023-09-04*
