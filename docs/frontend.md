@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.569
+
+*2023-09-06*
+
+### Fixes/Improvements
+
+- Hotfix: Set folder id on local match object for linkbuilder (#1339)
+
 ## 1.0.568
 
 *2023-09-05*
