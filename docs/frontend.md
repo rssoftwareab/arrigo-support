@@ -7,6 +7,19 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.572
+
+*2023-09-13*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2201 Widget incorrect limit when missing min/max limits  (#1317)
+- Hotfix: Show loading indicator right away if its a redirect form arrigoid (#1321)
+- Hotfix: AZ#2233 BMS: Widget TextSelect (#1330) (#1344)
+- Pull Request triggered from POEditor (#1343)
+- Hotfix: AZ#22467 Role identifiers (#1335)
+- Hotfix: AZ#2255 temperature bms connection null value (#1341)
+
 ## 1.0.569
 
 *2023-09-06*
