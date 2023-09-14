@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.573
+
+*2023-09-14*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1055 Chart average value calculations (#1333)
+
 ## 1.0.572
 
 *2023-09-13*
