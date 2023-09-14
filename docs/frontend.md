@@ -7,6 +7,53 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.577
+
+*2023-09-14*
+
+### New Features
+
+- Feature: AZ#2187 Bulk action "Acknowledge" should be active when all alarms are selected (#1311)
+- Feature: CMA Information View (#1334)
+- Feature: AZ#1467 Manual Meter Import (#1284)
+- Feature: AZ#1664 User log export (#1267)
+### Fixes/Improvements
+
+- Fix: AZ#2284 Remove subscription from imported list items (#1355)
+- Hotfix: AZ#2282 Global tooltip lingers (#1354)
+- Fix: AZ#2259 Move Meter Import to new Import/export icon in header (#1350)
+- Fix: Limit uploads in MeterImports (#1351)
+- Dont import values that's before meters lockedUntilDate (#1348)
+- Hotfix: Meterimport invalid translation keys (#1347)
+- Fix: AZ#2224 Move unit to value header (#1346)
+- Hotfix: Meterimport error message presentation (#1345)
+- Meterimport removed filterbutton (#1340)
+- Hotfix: AZ#2233 BMS: Widget TextSelect (#1330)
+- Formatting export dates to local datetime. Not ISO. (#1342)
+- Hotfix: Revert duplicate fix (#1338)
+- Fix: Cma information view bug (#1337)
+- Hotfix: Add menu permission check fails for BMS (#1331)
+- Hotfix: Meterimport fix meter link (#1332)
+- Read arrigoid url from env variable (#1329)
+- Hotfix: Add meny should not get permissions when on BMS
+- Hotfix: AZ#2221 Meter import strange visual feeling on the status indications (#1324)
+- Hotfix: AZ#2222 Meterimport start validation yields error (#1327)
+- Hotfix: AZ#2215 "Go to meter ->" link on meter row in result (#1328)
+- Make error visible on files in list
+- Hotfix: AZ#2232 Meter import list invalid dates (#1323)
+- Added WAF exclude for frontend like backend API
+- Fix: Fallback to account if mainProject is missing (#1310)
+- Fix: AZ#2191 Using the main project name as account when calling service.chart wamp procedures instead of account from the token. (#1309)
+- Reset folder config on logout
+- Update azure-pipelines.yml for Azure Pipelines
+- Update azure-pipelines.yml for Azure Pipelines
+- Update azure-pipelines.yml for Azure Pipelines
+- Update azure-pipelines.yml for Azure Pipelines
+- Fix: AZ#2142 hide linkicons based on user (#1300)
+- Update azure-pipelines.yml for Azure Pipelines
+- Update azure-pipelines.yml for Azure Pipelines
+- Update azure-pipelines.yml for Azure Pipelines
+
 ## 1.0.576
 
 *2023-09-14*
