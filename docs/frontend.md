@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.576
+
+*2023-09-14*
+
+### Fixes/Improvements
+
+- Read arrigoid url from env variable (#1361)
+- Added env. variables to make the frontend work in the Azure pipeline (#1358)
+
 ## 1.0.575
 
 *2023-09-14*
