@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.574
+
+*2023-09-14*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1893 PDF files display issue on iPad/iPhone (#1231)
+
 ## 1.0.573
 
 *2023-09-14*
