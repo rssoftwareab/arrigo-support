@@ -7,6 +7,88 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.565
+
+*2023-08-23*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2205-show-parent-level (#1318)
+
+## 1.0.564
+
+*2023-08-23*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2184 Dynamic chart yAxis (#1307)
+- Added newlines around the fn wrapper to allow for comments on last li… (#1312)
+
+## 1.0.563
+
+*2023-08-16*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2067 Tooltip lingers on (#1316)
+
+## 1.0.562
+
+*2023-08-09*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2202 ListItems not visible (#1314)
+
+## 1.0.561
+
+*2023-08-09*
+
+### Fixes/Improvements
+
+- Hotfix: Indicator title fix (#1313)
+
+## 1.0.560
+
+*2023-07-13*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2174 Chart - Better error handling (#1308)
+- Hotfix: AZ#2091 Real-time trendning issues (#1305)
+
+## 1.0.559
+
+*2023-07-13*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2160 - Allow empty string value for localFolder upsert (#1302)
+
+## 1.0.558
+
+*2023-07-10*
+
+### Fixes/Improvements
+
+- Move handling for  local frontend to the end. Fix REACT_APP_AUTOBAHN_… (#1304)
+
+## 1.0.557
+
+*2023-07-06*
+
+### Fixes/Improvements
+
+- Pull Request triggered from POEditor (#1303)
+
+## 1.0.556
+
+*2023-07-06*
+
+### Fixes/Improvements
+
+- Hotfix: GraphWidgets- Remaining fixes after testing. (#1299)
+
 ## 1.0.555
 
 *2023-07-05*
