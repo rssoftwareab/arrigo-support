@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.578
+
+*2023-09-15*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2268 Unit format style (#1357)
+
 ## 1.0.577
 
 *2023-09-14*
