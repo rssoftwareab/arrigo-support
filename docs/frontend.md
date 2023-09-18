@@ -7,6 +7,76 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.575
+
+*2023-09-14*
+
+### Fixes/Improvements
+
+- Hotfix-AZ2263 No icons on popup windows (#1360)
+
+## 1.0.574
+
+*2023-09-14*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1893 PDF files display issue on iPad/iPhone (#1231)
+
+## 1.0.573
+
+*2023-09-14*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#1055 Chart average value calculations (#1333)
+
+## 1.0.572
+
+*2023-09-13*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2201 Widget incorrect limit when missing min/max limits  (#1317)
+- Hotfix: Show loading indicator right away if its a redirect form arrigoid (#1321)
+- Hotfix: AZ#2233 BMS: Widget TextSelect (#1330) (#1344)
+- Pull Request triggered from POEditor (#1343)
+- Hotfix: AZ#22467 Role identifiers (#1335)
+- Hotfix: AZ#2255 temperature bms connection null value (#1341)
+
+## 1.0.569
+
+*2023-09-06*
+
+### Fixes/Improvements
+
+- Hotfix: Set folder id on local match object for linkbuilder (#1339)
+
+## 1.0.568
+
+*2023-09-05*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2208 Graph widget feedback (#1336)
+
+## 1.0.567
+
+*2023-09-04*
+
+### Fixes/Improvements
+
+- Hotfix: Empty titles not allowed (#1322)
+- Hotfix: Fix ArrigoID multiple account issue (#1320)
+
+## 1.0.566
+
+*2023-08-29*
+
+### Fixes/Improvements
+
+- Hotfix: Change Google Maps API Key (#1325)
+
 ## 1.0.565
 
 *2023-08-23*
