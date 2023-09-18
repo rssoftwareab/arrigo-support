@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.580
+
+*2023-09-18*
+
+### Fixes/Improvements
+
+- Hotfix: Fix faulty comparison (#1363)
+
 ## 1.0.579
 
 *2023-09-18*
