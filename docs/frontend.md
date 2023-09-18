@@ -7,14 +7,6 @@ description: Change Log
 
 ## Next Releases
 
-## 1.0.575
-
-*2023-09-14*
-
-### Fixes/Improvements
-
-- Hotfix-AZ2263 No icons on popup windows (#1360)
-
 ## 1.0.574
 
 *2023-09-14*
