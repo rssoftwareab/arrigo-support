@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.581
+
+*2023-09-19*
+
+### Fixes/Improvements
+
+- Hotfix: Multiple query parameters for arrigoID (#1352)
+
 ## 1.0.580
 
 *2023-09-18*
