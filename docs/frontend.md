@@ -7,6 +7,14 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.582
+
+*2023-09-25*
+
+### New Features
+
+- Feature: Password change and password expire (#1366)
+
 ## 1.0.581
 
 *2023-09-19*
