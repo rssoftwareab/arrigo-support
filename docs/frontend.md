@@ -7,6 +7,15 @@ description: Change Log
 
 ## Next Releases
 
+## 1.0.583
+
+*2023-09-25*
+
+### Fixes/Improvements
+
+- Hotfix: AZ#2315: Chart ruler legend date time (#1365)
+- Hotfix: AZ#2272 Load work with axis config filter panel issue (#1364)
+
 ## 1.0.582
 
 *2023-09-25*
