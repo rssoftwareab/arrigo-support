@@ -6,9 +6,17 @@ description: Change Log
 
 # Change Log
 
-## 1.0.121
+## 1.0.128
 
 *2023-06-08*
+
+### Fixes/Improvements
+- Fix: Added a clear error message if the License Manager fails to initiate due to a broken certificate.
+- Fix: Clarified "Created" to "Added" before the date a license was addedon the License Cards.
+
+## 1.0.121
+
+*2023-10-04*
 
 ### Fixes/Improvements
 - Fix: The license manager no longer uses the machine name over the WAMP, resolves issues with too long machine names.
