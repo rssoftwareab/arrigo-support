@@ -15,13 +15,13 @@ description: Change Log
 
 - Arrigo config transpiler: [1.4.4](./arrigo.config.transpiler.html#144)
 
-- Arrigo Local Services:  
-  - Wamp Host: [1.0.92](./arrigo-wamp-host.html#1092)
-  - Domain Controller: [1.0.7](./arrigo-domain-controller.html#107)
-  - Volumes: [1.1.42](./arrigo-volumes.html#1142)
-  - Chart Service: [1.0.2](./arrigo-services-chart.html#102)
-  - State Service: [1.0.3](./arrigo-services-state.html#103)
-  - DB Service: [1.0.2](./arrigo-db-service.html#102)
+- Arrigo Local Services  
+  - Wamp Host: [1.0.92](./services/arrigo-wamp-host.html#1092)
+  - Domain Controller: [1.0.7](./services/arrigo-domain-controller.html#107)
+  - Volumes: [1.1.42](./services/arrigo-volumes.html#1142)
+  - Chart Service: [1.0.2](./services/arrigo-services-chart.html#102)
+  - State Service: [1.0.3](./services/arrigo-services-state.html#103)
+  - DB Service: [1.0.2](./services/arrigo-services-db.html#102)
   - Server-Side Functions: [1.0.0](./arrigo-serverside-functions.html#100)
 
 - Required EXO installation: [EXO 2023 Edition 1 - 0198](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=etZpaa)
