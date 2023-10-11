@@ -6,6 +6,14 @@ description: Change Log
 
 # Change Log
 
+## 1.4.4
+*2023-09-26*
+- Migration to new build system
+
+## 1.3.9
+*2023-06-15*
+- Hotfix: AZ#1905 Arrigo BMS: Texts are interpreted as dates
+
 ## 1.3.7
 *2023-05-02*
 - Feature: AZ#1573: Common log config folder (#15)

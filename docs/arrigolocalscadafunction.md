@@ -6,6 +6,18 @@ description: Change Log
 
 # Change Log
 
+## 1.4.12
+
+*2023-09-18*
+
+* Fix: Improved startup procedure to prevent loss of kernel events
+
+## 1.4.11
+
+*2023-09-18*
+
+* Feature: ArrigoHome functionality
+
 ## 1.3.11
 
 *2023-05-04*
