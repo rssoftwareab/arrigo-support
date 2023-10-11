@@ -6,6 +6,18 @@ description: Change Log
 
 # Change Log
 
+## 1.4.43
+
+*2023-09-29*
+
+* Feature: Change password and password expire (#173)
+
+## 1.4.23
+
+*2023-09-18*
+
+* Feature: ArrigoHome functionality
+
 ## 1.3.24
 
 *2023-05-23*

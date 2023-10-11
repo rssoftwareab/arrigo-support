@@ -5,7 +5,76 @@ description: Change Log
 ---
 # Change Log
 
-## Next Releases
+## 1.1.113
+
+*2023-10-04*
+
+- Merged PR 398: Pull Request triggered from POEditor
+
+## 1.1.101
+
+*2023-09-25*
+
+- Hotfix: AZ#2315: Chart ruler legend date time (#1365)
+
+## 1.1.100
+
+*2023-09-25*
+
+- Hotfix: AZ#2272 Load work with axis config filter panel issue (#1364)
+
+## 1.1.98
+
+*2023-09-25*
+
+- Feature: Password change and password expire (#1366)
+
+## 1.1.94
+
+*2023-09-18*
+
+- Hotfix: Fix faulty comparison (#1363)
+
+## 1.1.93
+
+*2023-09-18*
+
+- Pull Request triggered from POEditor (#1362)
+
+## 1.1.92
+
+*2023-09-15*
+
+- Hotfix: AZ#2268 Unit format style (#1357)
+
+## 1.1.91
+
+*2023-09-14*
+
+- Feature: AZ#2187 Bulk action "Acknowledge" should be active when all alarms are selected (#1311)
+- Fix: AZ#2284 Remove subscription from imported list items (#1355)
+- Hotfix: AZ#2282 Global tooltip lingers (#1354)
+- Fix: AZ#2259 Move Meter Import to new Import/export icon in header (#1350)
+- Fix: AZ#2224 Move unit to value header (#1346)
+- Hotfix: AZ#2233 BMS: Widget TextSelect (#1330)
+- Formatting export dates to local datetime. Not ISO. (#1342)
+- Feature: CMA Information View (#1334)
+- Hotfix: Add menu permission check fails for BMS (#1331)
+- Hotfix: Meterimport fix meter link (#1332)
+- Hotfix: AZ#2221 Meter import strange visual feeling on the status indications (#1324)
+- Hotfix: AZ#2222 Meterimport start validation yields error (#1327)
+- Hotfix: AZ#2215 "Go to meter ->" link on meter row in result (#1328)
+- Hotfix: AZ#2232 Meter import list invalid dates (#1323)
+- Feature: AZ#1467 Manual Meter Import (#1284)
+- Fix: AZ#2191 Using the main project name as account when calling service.chart wamp procedures instead of account from the token. (#1309)
+- Fix: AZ#2142 hide linkicons based on user (#1300)
+- Feature: AZ#1664 User log export (#1267)
+
+## 1.1.87
+
+*2023-09-14*
+
+- Hotfix: AZ#2263 No icons on popup windows (#1360)
 
 ## 1.0.574
 
