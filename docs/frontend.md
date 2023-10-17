@@ -5,6 +5,48 @@ description: Change Log
 ---
 # Change Log
 
+## 1.1.130
+
+*2023-10-16*
+
+- Merged PR 468: Hotfix: Check Authtoken in useFileUpload before string replacing
+
+# #1.1.129
+
+*2023-10-16*
+
+- Merged PR 467: Hotfix: Inactivate feature "password change"
+
+## 1.1.128
+
+*2023-10-12*
+
+- Merged PR 459: Hotfix: MeterUnit and rendering fix for CMA info
+
+## 1.1.127
+
+*2023-10-11*
+
+- Numpad and Maneuver panel
+
+## 1.1.123
+
+*2023-10-06*
+
+- Merged PR 427: Only show temperatures when single building is selected
+
+## 1.1.116
+
+*2023-10-05*
+
+- Merged PR 410: Fix: CMA information fix
+
+## 1.1.115
+
+*2023-10-04*
+
+- Allow whitespace for GenericText element (AZ#2266)
+
 ## 1.1.113
 
 *2023-10-04*
