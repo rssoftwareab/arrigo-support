@@ -6,7 +6,7 @@ description: Change Log
 
 # Change Log
 
-## 1.1.42
+## 1.1.142
 
 *2023-09-05*
 
