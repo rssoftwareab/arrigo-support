@@ -107,6 +107,22 @@ ALI failed to find or copy one of the files needed for an offline installation.
 Please check the output logs for details about the missing file and then verify that the file is present in the extraction folder.  
 If the file is missing there you can try to extract the files again, or run ALI on a coumputer with internet access to generate a new package.
 
+## 1014
+
+`Failed to stop Arrigo Scada Function`
+
+ALI failed to stop the Arrigo Scada Function (process name: 'EOSAPIFunction.exe').  
+Run EXOstop.exe and then use the Task Manager to verify that the process has stopped.  
+If all else fails, use the Task Manager to manually end all processes named 'EOSAPIFunction.exe'.
+
+## 1015
+
+`Arrigo Scada Function was not updated correctly. Found version (X.X.X.X) but expected (Y.Y.Y.Y)`
+
+ALI failed to copy the correct version of the Arrigo Scada Function.  
+Follow the instructions from [#1014](#1014) to stop the Arrigo Scada Function process, 
+then run the installer again.
+
 ## 2000
 
 `Installation aborted by user`
