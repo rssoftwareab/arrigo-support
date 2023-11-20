@@ -123,6 +123,13 @@ ALI failed to copy the correct version of the Arrigo Scada Function.
 Follow the instructions from [#1014](#1014) to stop the Arrigo Scada Function process, 
 then run the installer again.
 
+## 1016
+
+`Arrigo Scada API was not updated correctly. Found version (X.X.X) but expected (Y.Y.Y)`
+
+ALI failed to copy the correct version of the Arrigo Scada API.  
+Follow the instructions [docs.arrigo.se]https://docs.arrigo.se/Troubleshooting/Arrigo%20Local/00_Restarting%20the%20AppPool/) to stop the Arrigo app pool (but do not start it, per the instructions), then run the installer again.
+
 ## 2000
 
 `Installation aborted by user`
