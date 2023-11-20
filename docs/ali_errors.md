@@ -128,7 +128,7 @@ then run the installer again.
 `Arrigo Scada API was not updated correctly. Found version (X.X.X) but expected (Y.Y.Y)`
 
 ALI failed to copy the correct version of the Arrigo Scada API.  
-Follow the instructions [docs.arrigo.se](https://docs.arrigo.se/Troubleshooting/Arrigo%20Local/00_Restarting%20the%20AppPool/) to stop the Arrigo app pool (but do not start it, per the instructions), then run the installer again.
+Follow the instructions [docs.arrigo.se](https://docs.arrigo.se/Troubleshooting/Arrigo%20Local/00_Restarting%20the%20AppPool/) to stop the Arrigo app pool (but do not start it, as per the given instructions), then run the installer again.
 
 ## 2000
 
