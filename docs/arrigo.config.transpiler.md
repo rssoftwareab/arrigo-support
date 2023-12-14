@@ -6,6 +6,10 @@ description: Change Log
 
 # Change Log
 
+## 1.4.7
+*2023-12-13*
+- Feature: AZ#2112, AZ#2204: Now indicating if the "Tolerance" attribute on signals is in its default state
+
 ## 1.4.4
 *2023-09-26*
 - Migration to new build system
