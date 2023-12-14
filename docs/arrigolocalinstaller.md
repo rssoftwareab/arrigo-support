@@ -13,7 +13,7 @@ description: Change Log
 
 - Arrigo Local Scada Function: [1.4.16](./arrigolocalscadafunction.html#1416)
 
-- Arrigo config transpiler: [1.4.4](./arrigo.config.transpiler.html#144)
+- Arrigo config transpiler: [1.4.7](./arrigo.config.transpiler.html#147)
 
 - Arrigo Local Services  
   - Wamp Host: [1.0.92](./services/arrigo-wamp-host.html#1092)
