@@ -6,8 +6,8 @@ description: Change Log
 
 # Change Log
 
-## 1.4.86
-*2023-12-11*
+## 1.4.88
+*2023-12-18*
 
 * Feature: Localized "Action Templates" (currently available in English and Swedish) are used to display texts in the audit log. If no localization is found for the current user language, texts from the database are displayed.
 
