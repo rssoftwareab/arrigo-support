@@ -5,7 +5,80 @@ description: Change Log
 ---
 # Change Log
 
+## 1.1.188
+*2023-12-08*
 
+- Merged PR 617: Hotfix: AutoLogout component
+
+## 1.1.187
+*2023-12-05*
+
+- Merged PR 611: Release: 2023-12-05 Dev to Production
+
+## 1.1.183
+*2023-11-30*
+
+- Merged PR 604: Hotfix: AZ#2609 Dynamic widget not showing any values
+
+## 1.1.179
+*2023-11-28*
+
+- Merged PR 597: Added missing translation
+
+## 1.1.178
+*2023-11-28*
+
+- Merged PR 595: Fixed matchfield
+
+## 1.1.177
+*2023-11-24*
+
+- Merged PR 564: Feature: Filters for ImportJobs
+
+## 1.1.176
+*2023-11-24*
+
+- Merged PR 588: Hotfix: Dispatch to set language instead, to make sure current account is set
+
+## 1.1.175
+*2023-11-22*
+
+- Merged PR 577: Fix: Read locale from query string when coming from arrigohome
+
+## 1.1.174
+*2023-11-22*
+
+- Merged PR 578: Hotfix: Default resolution to table report
+
+## 1.1.172
+*2023-11-22*
+
+- Merged PR 558: Hotfix: AZ2317 - Chart: Export: Resolution menu selection resets itself
+
+## 1.1.171
+*2023-11-22*
+
+- Merged PR 575: Revert 'Hotfix: Set locale from ArrigoHome'
+
+## 1.1.169
+*2023-11-21*
+
+- Merged PR 570: Hotfix: Set locale from ArrigoHome
+
+## 1.1.168
+*2023-11-21*
+
+- Merged PR 406: Remove websocket connection for all Clients except BMS
+
+## 1.1.167
+*2023-11-20*
+
+- Merged PR 390: Read ArrigoHome url from theme
+
+## 1.1.166
+*2023-11-20*
+
+- Merged PR 482: Changed the caption for the navigate button to 'ArrigoHome'
 
 ## 1.1.161
 *2023-11-16*
