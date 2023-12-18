@@ -7,6 +7,46 @@ description: Change Log
 
 
 
+## 1.1.161
+*2023-11-16*
+
+- Merged PR 557: Hotfix: AZ#2465 - Chart Y-axis scaling
+
+## 1.1.160
+*2023-11-16*
+
+- Merged PR 548: Hotfix: AZ#2493 Chart collection mode yields unnecessary trafic
+
+## 1.1.159
+*2023-11-15*
+
+- Merged PR 534: Hotfix: AZ#2516 - Calculated meter input date
+
+## 1.1.158
+*2023-11-15*
+
+- Merged PR 476: Hotfix: AZ#2182 Delete Alarms
+
+## 1.1.156
+*2023-11-13*
+
+- Merged PR 549: Hotfix: AZ2431 No icons on popup window
+
+## 1.1.155
+*2023-11-13*
+
+- Merged PR 451: Hotfix: AZ#2270 TP#26413 Licensebanner overlapping
+
+## 1.1.154
+*2023-11-13*
+
+- Merged PR 499: REQ8: Password change
+
+## 1.1.153
+*2023-11-13*
+
+- Merged PR 520: Release: 2023-11-13 Dev to Production
+
 ## 1.1.150
 *2023-11-08*
 
