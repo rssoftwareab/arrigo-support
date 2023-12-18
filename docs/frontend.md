@@ -5,6 +5,51 @@ description: Change Log
 ---
 # Change Log
 
+## 1.1.198
+*2023-12-14*
+
+- Merged PR 601: Hotfix: AZ#2316 Chart widget as favorite results in empty chart widget
+
+## 1.1.197
+*2023-12-14*
+
+- Merged PR 632: Hotfix: Always perform login if oauth code
+
+## 1.1.196
+*2023-12-13*
+
+- Merged PR 461: Pull Request triggered from POEditor
+
+## 1.1.195
+*2023-12-13*
+
+- Merged PR 628: Hotfix: CFR part 11 expirezone
+
+## 1.1.193
+*2023-12-13*
+
+- Merged PR 627: Hotfix: CRF part 11 translation
+
+## 1.1.192
+*2023-12-13*
+
+- Merged PR 621: Hotfix: CFR Part 11 Password expire panel
+
+## 1.1.191
+*2023-12-13*
+
+- Merged PR 622: Added ToleranceIsDefault and moved check
+
+## 1.1.190
+*2023-12-12*
+
+- Merged PR 620: Hotfix: Default decimals should be 0
+
+## 1.1.189
+*2023-12-11*
+
+- Merged PR 618: Hotfix: CFR Part 11 minor fixes
+
 ## 1.1.188
 *2023-12-08*
 
