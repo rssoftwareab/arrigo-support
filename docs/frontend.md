@@ -5,13 +5,75 @@ description: Change Log
 ---
 # Change Log
 
+
+
+## 1.1.150
+*2023-11-08*
+
+- Merged PR 508: Hotfix: AZ#2517 - GraphWidgets on meter level
+
+## 1.1.147
+*2023-10-31*
+
+- Merged PR 501: Hotfix: AZ#2540 Error on ACL create
+
+## 1.1.144
+*2023-10-30*
+
+- Merged PR 495: User role identifier and access level settings
+
+## 1.1.142
+*2023-10-27*
+
+- Merged PR 497: Hotfix: AZ#2080 - Rewrite useKeypress hook
+
+## 1.1.141
+*2023-10-26*
+
+- Merged PR 496: Hotfix: AZ#2354 - Add access check for publically saved chart configs
+
+## 1.1.140
+*2023-10-26*
+
+- Merged PR 402: Hotfix: AZ#2168: User log pause behaviour
+
+## 1.1.136
+*2023-10-24*
+
+- Merged PR 478: Show only selected configuration (from jobdocument) if disabled
+
+## 1.1.135
+*2023-10-23*
+
+- Merged PR 480: Add validation on whitelisted emails
+
+## 1.1.134
+*2023-10-23*
+
+- Merged PR 481: Allow headerLines to be 0
+
+## 1.1.133
+*2023-10-19*
+
+- Merged PR 474: Hotfix: Reflect deleted, updated and created jobs in MeterImportList
+
+## 1.1.132
+*2023-10-19*
+
+- Merged PR 471: Show buttons on email-imports
+
+## 1.1.131
+*2023-10-18*
+
+- Merged PR 472: Set field to copyable and use readOnly instead of disabled (to be able to copy)
+
 ## 1.1.130
 
 *2023-10-16*
 
 - Merged PR 468: Hotfix: Check Authtoken in useFileUpload before string replacing
 
-# #1.1.129
+## 1.1.129
 
 *2023-10-16*
 

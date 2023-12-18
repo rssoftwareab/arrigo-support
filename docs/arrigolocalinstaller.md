@@ -6,10 +6,10 @@ description: Change Log
 # Change Log
 
 ## 1.4.??
-2023-12-14
+2023-12-19
 - Frontend: [1.1.??](./frontend.html#11???)
 
-- Arrigo Local API: [1.4.54](./arrigolocalapi.html#1454)
+- Arrigo Local API: [1.4.88](./arrigolocalapi.html#1488)
 
 - Arrigo Local Scada Function: [1.4.16](./arrigolocalscadafunction.html#1416)
 
@@ -18,11 +18,11 @@ description: Change Log
 - Arrigo Local Services  
   - Wamp Host: [1.0.92](./services/arrigo-wamp-host.html#1092)
   - Domain Controller: [1.0.7](./services/arrigo-domain-controller.html#107)
-  - Volumes: [1.1.142](./services/arrigo-volumes.html#11142)
+  - Volumes: [1.1.151](./services/arrigo-volumes.html#11151)
   - Chart Service: [1.0.2](./services/arrigo-services-chart.html#102)
   - State Service: [1.0.3](./services/arrigo-services-state.html#103)
   - DB Service: [1.0.2](./services/arrigo-services-db.html#102)
-  - Server-Side Functions: [1.0.0](./arrigo-serverside-functions.html#100)
+  - Server-Side Functions: [1.0.2](./arrigo-serverside-functions.html#102)
 
 - Required EXO installation: [EXO 2023 Edition 1 - 0198](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=etZpaa)
 
