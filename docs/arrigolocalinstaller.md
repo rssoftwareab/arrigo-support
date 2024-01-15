@@ -5,15 +5,15 @@ description: Change Log
 ---
 # Change Log
 
-## 1.4.??
-2023-12-19
-- Frontend: [1.1.??](./frontend.html#11???)
+## 1.4.69
+2024-01-15
+- Frontend: [1.1.243](./frontend.html#11243)
 
-- Arrigo Local API: [1.4.88](./arrigolocalapi.html#1488)
+- Arrigo Local API: [1.4.90](./arrigolocalapi.html#1490)
 
 - Arrigo Local Scada Function: [1.4.16](./arrigolocalscadafunction.html#1416)
 
-- Arrigo config transpiler: [1.4.7](./arrigo.config.transpiler.html#147)
+- Arrigo config transpiler: [1.4.9](./arrigo.config.transpiler.html#149)
 
 - Arrigo Local Services  
   - Wamp Host: [1.0.92](./services/arrigo-wamp-host.html#1092)
