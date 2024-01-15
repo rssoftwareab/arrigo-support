@@ -6,6 +6,41 @@ description: Change Log
 
 # Change Log
 
+## 1.4.90
+*2023-12-19*
+
+* Fix: Safe-guarding when getting EXOscadaWeb settings (#189).
+
+## 1.4.88
+*2023-12-18*
+
+* Feature: Localized "Action Templates" (currently available in English and Swedish) are used to display texts in the audit log. If no localization is found for the current user language, texts from the database are displayed.
+
+## 1.4.85
+*2023-12-11*
+
+* Feature: CFR Part 11, again. Now also with auto logout functionality to complete all requirements.
+
+## 1.4.56
+*2023-11-30*
+
+* Fix: Fixes bug where the first login after server restart would fail to write in the audit log (#180)
+
+## 1.4.55
+*2023-11-30*
+
+* Fix: TP#28825: Fixes bug where changing interval in digital chart could result in an error depending on the regional settings of the server (#179)
+
+## 1.4.51
+*2023-11-08*
+
+* Fix: AZ#2561: Areas configured with "ShowInScada=No" are no longer displayed in the search results (#178)
+
+## 1.4.49
+*2023-10-27*
+
+* Fix: AZ#1905: Fixes bug where text entered into Text or Static elements could be parsed as dates (#175)
+
 ## 1.4.43
 
 *2023-09-29*

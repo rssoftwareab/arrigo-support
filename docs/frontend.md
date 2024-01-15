@@ -5,13 +5,343 @@ description: Change Log
 ---
 # Change Log
 
+## 1.1.243
+*2024-01-15*
+
+- Merged PR 699: Only show maneuver comment field if ManeuverPanel has been activated
+
+## 1.1.242
+*2024-01-12*
+
+- Merged PR 696: Hotfix: CFR part 11 password fix
+
+## 1.1.241
+*2024-01-12*
+
+- Merged PR 692: Hotfix: AZ#2679 Tolerance support for collected signals
+
+## 1.1.240
+*2024-01-12*
+
+- Merged PR 693: CFR part 11 - more fixes
+
+## 1.1.238
+*2024-01-12*
+
+- Merged PR 688: Hotfix: Proceed with import if meter does not match
+
+## 1.1.237
+*2024-01-12*
+
+- Merged PR 683: Hotfix: AZ#2614 Submeter inheritance
+
+## 1.1.236
+*2024-01-11*
+
+- Merged PR 684: Hotfix: Table report default value
+
+## 1.1.235
+*2024-01-11*
+
+- Merged PR 690: Hotfix: AZ#2674 No signal values are plotted since frontend release 226
+
+## 1.1.234
+*2024-01-10*
+
+- Merged PR 665: Hotfix: Chart export signals order
+
+## 1.1.233
+*2024-01-10*
+
+- Merged PR 689: Hotfix: AZ#2664 Enable loginbutton after failed login
+
+## 1.1.232
+*2024-01-10*
+
+- Merged PR 685: Hotfix: AZ#2663 Collecting alarm signal yields error
+
+## 1.1.231
+*2024-01-09*
+
+- Merged PR 677: Hotfix: Extend export window form
+
+## 1.1.230
+*2024-01-09*
+
+- Merged PR 678: Hotfix: Export title from configuration and folder titles
+
+## 1.1.228
+*2024-01-05*
+
+- Merged PR 674: Feature: Meter import add culture select
+
+## 1.1.227
+*2023-12-22*
+
+- Merged PR 668: Hotfix: Remove dead code
+
+## 1.1.226
+*2023-12-22*
+
+- Merged PR 667: Hotfix: use correct tolerance values
+
+## 1.1.225
+*2023-12-22*
+
+- Merged PR 660: Changed column header title
+
+## 1.1.224
+*2023-12-21*
+
+- Merged PR 663: Hotfix: Export UI fixes
+
+## 1.1.223
+*2023-12-21*
+
+- Merged PR 664: Hotfix: incorrect reference of function
+
+## 1.1.221
+*2023-12-19*
+
+- Merged PR 655: Release 2023-12-19
+
+## 1.1.217
+*2023-12-18*
+
+- Merged PR 654: CFR Part 11
+
+## 1.1.210
+*2023-12-18*
+
+- Merged PR 645: Hotfix: Hide "Arrigo identifier" match type from MeterImportAdmin
+
+## 1.1.198
+*2023-12-14*
+
+- Merged PR 601: Hotfix: AZ#2316 Chart widget as favorite results in empty chart widget
+
+## 1.1.197
+*2023-12-14*
+
+- Merged PR 632: Hotfix: Always perform login if oauth code
+
+## 1.1.196
+*2023-12-13*
+
+- Merged PR 461: Pull Request triggered from POEditor
+
+## 1.1.195
+*2023-12-13*
+
+- Merged PR 628: Hotfix: CFR part 11 expirezone
+
+## 1.1.193
+*2023-12-13*
+
+- Merged PR 627: Hotfix: CRF part 11 translation
+
+## 1.1.192
+*2023-12-13*
+
+- Merged PR 621: Hotfix: CFR Part 11 Password expire panel
+
+## 1.1.191
+*2023-12-13*
+
+- Merged PR 622: Added ToleranceIsDefault and moved check
+
+## 1.1.190
+*2023-12-12*
+
+- Merged PR 620: Hotfix: Default decimals should be 0
+
+## 1.1.189
+*2023-12-11*
+
+- Merged PR 618: Hotfix: CFR Part 11 minor fixes
+
+## 1.1.188
+*2023-12-08*
+
+- Merged PR 617: Hotfix: AutoLogout component
+
+## 1.1.187
+*2023-12-05*
+
+- Merged PR 611: Release: 2023-12-05 Dev to Production
+
+## 1.1.183
+*2023-11-30*
+
+- Merged PR 604: Hotfix: AZ#2609 Dynamic widget not showing any values
+
+## 1.1.179
+*2023-11-28*
+
+- Merged PR 597: Added missing translation
+
+## 1.1.178
+*2023-11-28*
+
+- Merged PR 595: Fixed matchfield
+
+## 1.1.177
+*2023-11-24*
+
+- Merged PR 564: Feature: Filters for ImportJobs
+
+## 1.1.176
+*2023-11-24*
+
+- Merged PR 588: Hotfix: Dispatch to set language instead, to make sure current account is set
+
+## 1.1.175
+*2023-11-22*
+
+- Merged PR 577: Fix: Read locale from query string when coming from arrigohome
+
+## 1.1.174
+*2023-11-22*
+
+- Merged PR 578: Hotfix: Default resolution to table report
+
+## 1.1.172
+*2023-11-22*
+
+- Merged PR 558: Hotfix: AZ2317 - Chart: Export: Resolution menu selection resets itself
+
+## 1.1.171
+*2023-11-22*
+
+- Merged PR 575: Revert 'Hotfix: Set locale from ArrigoHome'
+
+## 1.1.169
+*2023-11-21*
+
+- Merged PR 570: Hotfix: Set locale from ArrigoHome
+
+## 1.1.168
+*2023-11-21*
+
+- Merged PR 406: Remove websocket connection for all Clients except BMS
+
+## 1.1.167
+*2023-11-20*
+
+- Merged PR 390: Read ArrigoHome url from theme
+
+## 1.1.166
+*2023-11-20*
+
+- Merged PR 482: Changed the caption for the navigate button to 'ArrigoHome'
+
+## 1.1.161
+*2023-11-16*
+
+- Merged PR 557: Hotfix: AZ#2465 - Chart Y-axis scaling
+
+## 1.1.160
+*2023-11-16*
+
+- Merged PR 548: Hotfix: AZ#2493 Chart collection mode yields unnecessary trafic
+
+## 1.1.159
+*2023-11-15*
+
+- Merged PR 534: Hotfix: AZ#2516 - Calculated meter input date
+
+## 1.1.158
+*2023-11-15*
+
+- Merged PR 476: Hotfix: AZ#2182 Delete Alarms
+
+## 1.1.156
+*2023-11-13*
+
+- Merged PR 549: Hotfix: AZ2431 No icons on popup window
+
+## 1.1.155
+*2023-11-13*
+
+- Merged PR 451: Hotfix: AZ#2270 TP#26413 Licensebanner overlapping
+
+## 1.1.154
+*2023-11-13*
+
+- Merged PR 499: REQ8: Password change
+
+## 1.1.153
+*2023-11-13*
+
+- Merged PR 520: Release: 2023-11-13 Dev to Production
+
+## 1.1.150
+*2023-11-08*
+
+- Merged PR 508: Hotfix: AZ#2517 - GraphWidgets on meter level
+
+## 1.1.147
+*2023-10-31*
+
+- Merged PR 501: Hotfix: AZ#2540 Error on ACL create
+
+## 1.1.144
+*2023-10-30*
+
+- Merged PR 495: User role identifier and access level settings
+
+## 1.1.142
+*2023-10-27*
+
+- Merged PR 497: Hotfix: AZ#2080 - Rewrite useKeypress hook
+
+## 1.1.141
+*2023-10-26*
+
+- Merged PR 496: Hotfix: AZ#2354 - Add access check for publically saved chart configs
+
+## 1.1.140
+*2023-10-26*
+
+- Merged PR 402: Hotfix: AZ#2168: User log pause behaviour
+
+## 1.1.136
+*2023-10-24*
+
+- Merged PR 478: Show only selected configuration (from jobdocument) if disabled
+
+## 1.1.135
+*2023-10-23*
+
+- Merged PR 480: Add validation on whitelisted emails
+
+## 1.1.134
+*2023-10-23*
+
+- Merged PR 481: Allow headerLines to be 0
+
+## 1.1.133
+*2023-10-19*
+
+- Merged PR 474: Hotfix: Reflect deleted, updated and created jobs in MeterImportList
+
+## 1.1.132
+*2023-10-19*
+
+- Merged PR 471: Show buttons on email-imports
+
+## 1.1.131
+*2023-10-18*
+
+- Merged PR 472: Set field to copyable and use readOnly instead of disabled (to be able to copy)
+
 ## 1.1.130
 
 *2023-10-16*
 
 - Merged PR 468: Hotfix: Check Authtoken in useFileUpload before string replacing
 
-# #1.1.129
+## 1.1.129
 
 *2023-10-16*
 

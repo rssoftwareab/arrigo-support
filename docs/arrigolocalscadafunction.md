@@ -6,6 +6,11 @@ description: Change Log
 
 # Change Log
 
+## 1.4.16
+*2023-12-05*
+
+* Feature: The Arrigo Scada Function does not peek variables anymore, as this could hide underlying communication problems
+
 ## 1.4.12
 
 *2023-09-18*
