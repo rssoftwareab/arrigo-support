@@ -6,6 +6,11 @@ description: Change Log
 
 # Change Log
 
+## 1.4.90
+*2023-12-19*
+
+* Fix: Safe-guarding when getting EXOscadaWeb settings (#189).
+
 ## 1.4.88
 *2023-12-18*
 
