@@ -5,6 +5,116 @@ description: Change Log
 ---
 # Change Log
 
+## 1.1.243
+*2024-01-15*
+
+- Merged PR 699: Only show maneuver comment field if ManeuverPanel has been activated
+
+## 1.1.242
+*2024-01-12*
+
+- Merged PR 696: Hotfix: CFR part 11 password fix
+
+## 1.1.241
+*2024-01-12*
+
+- Merged PR 692: Hotfix: AZ#2679 Tolerance support for collected signals
+
+## 1.1.240
+*2024-01-12*
+
+- Merged PR 693: CFR part 11 - more fixes
+
+## 1.1.238
+*2024-01-12*
+
+- Merged PR 688: Hotfix: Proceed with import if meter does not match
+
+## 1.1.237
+*2024-01-12*
+
+- Merged PR 683: Hotfix: AZ#2614 Submeter inheritance
+
+## 1.1.236
+*2024-01-11*
+
+- Merged PR 684: Hotfix: Table report default value
+
+## 1.1.235
+*2024-01-11*
+
+- Merged PR 690: Hotfix: AZ#2674 No signal values are plotted since frontend release 226
+
+## 1.1.234
+*2024-01-10*
+
+- Merged PR 665: Hotfix: Chart export signals order
+
+## 1.1.233
+*2024-01-10*
+
+- Merged PR 689: Hotfix: AZ#2664 Enable loginbutton after failed login
+
+## 1.1.232
+*2024-01-10*
+
+- Merged PR 685: Hotfix: AZ#2663 Collecting alarm signal yields error
+
+## 1.1.231
+*2024-01-09*
+
+- Merged PR 677: Hotfix: Extend export window form
+
+## 1.1.230
+*2024-01-09*
+
+- Merged PR 678: Hotfix: Export title from configuration and folder titles
+
+## 1.1.228
+*2024-01-05*
+
+- Merged PR 674: Feature: Meter import add culture select
+
+## 1.1.227
+*2023-12-22*
+
+- Merged PR 668: Hotfix: Remove dead code
+
+## 1.1.226
+*2023-12-22*
+
+- Merged PR 667: Hotfix: use correct tolerance values
+
+## 1.1.225
+*2023-12-22*
+
+- Merged PR 660: Changed column header title
+
+## 1.1.224
+*2023-12-21*
+
+- Merged PR 663: Hotfix: Export UI fixes
+
+## 1.1.223
+*2023-12-21*
+
+- Merged PR 664: Hotfix: incorrect reference of function
+
+## 1.1.221
+*2023-12-19*
+
+- Merged PR 655: Release 2023-12-19
+
+## 1.1.217
+*2023-12-18*
+
+- Merged PR 654: CFR Part 11
+
+## 1.1.210
+*2023-12-18*
+
+- Merged PR 645: Hotfix: Hide "Arrigo identifier" match type from MeterImportAdmin
+
 ## 1.1.198
 *2023-12-14*
 
