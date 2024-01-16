@@ -5,6 +5,11 @@ description: Change Log
 ---
 # Change Log
 
+## 1.1.244
+*2024-01-16*
+
+- Merged PR 701: Only a default tolerance value in the bundled theme
+
 ## 1.1.243
 *2024-01-15*
 
