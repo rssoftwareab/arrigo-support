@@ -5,6 +5,21 @@ description: Change Log
 ---
 # Change Log
 
+## 1.1.248
+*2024-01-17*
+
+- Merged PR 704: Hotfix: AutoLogout - Add check if timeout exists
+
+## 1.1.247
+*2024-01-16*
+
+- Merged PR 662: Hotfix: Update multiple fields at once
+
+## 1.1.245
+*2024-01-16*
+
+- Merged PR 700: Hotfix: Map selected export area to navigation
+
 ## 1.1.244
 *2024-01-16*
 
