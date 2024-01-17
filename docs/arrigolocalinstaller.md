@@ -5,6 +5,48 @@ description: Change Log
 ---
 # Change Log
 
+## 1.4.76
+2024-01-17
+- Frontend: [1.1.248](./frontend.html#11248)
+
+- Arrigo Local API: [1.4.90](./arrigolocalapi.html#1490)
+
+- Arrigo Local Scada Function: [1.4.16](./arrigolocalscadafunction.html#1416)
+
+- Arrigo config transpiler: [1.4.9](./arrigo.config.transpiler.html#149)
+
+- Arrigo Local Services  
+  - Wamp Host: [1.0.92](./services/arrigo-wamp-host.html#1092)
+  - Domain Controller: [1.0.7](./services/arrigo-domain-controller.html#107)
+  - Volumes: [1.1.151](./services/arrigo-volumes.html#11151)
+  - Chart Service: [1.0.2](./services/arrigo-services-chart.html#102)
+  - State Service: [1.0.3](./services/arrigo-services-state.html#103)
+  - DB Service: [1.0.2](./services/arrigo-services-db.html#102)
+  - Server-Side Functions: [1.0.2](./arrigo-serverside-functions.html#102)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0224](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=etZpaa)
+
+## 1.4.75
+2024-01-17
+- Frontend: [1.1.248](./frontend.html#11248)
+
+- Arrigo Local API: [1.4.90](./arrigolocalapi.html#1490)
+
+- Arrigo Local Scada Function: [1.4.16](./arrigolocalscadafunction.html#1416)
+
+- Arrigo config transpiler: [1.4.9](./arrigo.config.transpiler.html#149)
+
+- Arrigo Local Services  
+  - Wamp Host: [1.0.92](./services/arrigo-wamp-host.html#1092)
+  - Domain Controller: [1.0.7](./services/arrigo-domain-controller.html#107)
+  - Volumes: [1.1.151](./services/arrigo-volumes.html#11151)
+  - Chart Service: [1.0.2](./services/arrigo-services-chart.html#102)
+  - State Service: [1.0.3](./services/arrigo-services-state.html#103)
+  - DB Service: [1.0.2](./services/arrigo-services-db.html#102)
+  - Server-Side Functions: [1.0.2](./arrigo-serverside-functions.html#102)
+
+- Required EXO installation: [EXO 2023 Edition 1 - 0198](https://abregin.sharepoint.com/:u:/s/ReginSoftwareDistribution/ERrkxf-WOwxLq1ZMkCZLxeoBi9qA2lVyGw2X-ixvJLzx_w?e=etZpaa)
+
 ## 1.4.73
 2024-01-16
 - Frontend: [1.1.244](./frontend.html#11244)
