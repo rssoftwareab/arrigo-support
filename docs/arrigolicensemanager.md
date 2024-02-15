@@ -6,6 +6,14 @@ description: Change Log
 
 # Change Log
 
+## 1.0.131
+
+*2024-02-15*
+
+### Fixes/Improvements
+- Fix: Copy and paste buttons for certificates.
+- Fix: Various fixes to reduce operator errors during offline activation/deactivation.
+  
 ## 1.0.128
 
 *2023-10-04*
