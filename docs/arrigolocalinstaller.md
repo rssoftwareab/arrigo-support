@@ -7,13 +7,13 @@ description: Change Log
 
 ## 1.4.83
 2024-03-11
-- *Frontend: [1.1.305](./frontend.html#11305)
+- Frontend: [1.1.305](./frontend.html#11305)
 
-- *Arrigo Local API: [1.4.109](./arrigolocalapi.html#14109)
+- Arrigo Local API: [1.4.109](./arrigolocalapi.html#14109)
 
-- *Arrigo Local Scada Function: [1.4.21](./arrigolocalscadafunction.html#1421)
+- Arrigo Local Scada Function: [1.4.21](./arrigolocalscadafunction.html#1421)
 
-- *Arrigo config transpiler: [1.4.10](./arrigo.config.transpiler.html#1410)
+- Arrigo config transpiler: [1.4.10](./arrigo.config.transpiler.html#1410)
 
 - Arrigo Local Services  
   - Wamp Host: [1.0.92](./services/arrigo-wamp-host.html#1092)
