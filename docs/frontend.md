@@ -5,6 +5,109 @@ description: Change Log
 ---
 # Change Log
 
+## 1.1.305
+*2024-03-06*
+
+Merged PR 800: Release 2024-03-05
+
+Related work items: #2534, #2572, #2574, #2575, #2616, #2696
+
+Add missing CRUDAccess from merge
+
+
+Merged PR 793: Hotfix: #285EMS Mobile Adjustments
+
+
+
+Merged PR 669: Add new bool value on ImportConfigurations so we support SystemConfigs
+
+
+
+Merged PR 698: #2681 Added link icon title and folder title to export name
+
+
+
+Merged PR 794: Feature: Add widget and link icon visibility subscriptions
+
+
+Merged PR 637:  #2572, #2574, #2575 Default settings
+
+
+Merged PR 797: New pass Added check for bad request
+
+
+Merged PR 795: Feature: #2769 Add ability to add OAuth configuration
+
+
+Merged PR 792: Hotfix: Add missing submeterLevel filter prop
+
+
+Merged PR 756: Feature: AZ#2696 Documents and Notes list views
+
+
+
+Merged PR 741: Pull Request triggered from POEditor
+Merged PR 788: Hotfix: AZ#2762 View graphwidget data on submeter level
+
+Merged PR 786: Hotfix: AZ#2760 Access check for pause and resume
+
+
+Merged PR 785: Hotfix: AZ#2761 FolderRouter issue
+
+
+
+
+Merged PR 783: Hotfix: MobileOverlayPanel z-index
+
+Merged PR 781: Hotfix: Signal color picker in BMS
+
+Merged PR 777: Hotfix: Add chart nullcheck
+
+
+Merged PR 778: Hotfix: #2746 Fix broken sticky linkicons
+
+
+Merged PR 760: Hotfix: AZ#2692 Manual setting/adjustments of axis scales
+
+Merged PR 776: Hotfix: #2719Default value for email recipient
+
+Merged PR 773: Hotfix: #2747 Signals not trending
+
+Merged PR 770: Hotfix: AZ#2748 Maneuverpanel decimals fix
+
+Merged PR 772: Hotfix: #2717 Highlight drop area when dragging folder to Export tool
+
+Merged PR 771: Hotfix: Tooltip unit fix
+Merged PR 769: Hotfix: #2719 FTP recipient in meter export
+
+
+
+Merged PR 703: REQ8: AZ#2676 Export Reliability
+Merged PR 718: Hotfix: AZ#2694 Time/Value indication for points
+Merged PR 737: Hotfix: AZ#2707 new portal for maneuverpanel
+Merged PR 755: Hotfix: AZ#2683 Change color in runtime
+Merged PR 748: Hotfix: AZ#2708 Password requirement check before login
+Merged PR 757: Hotfix:  #2716 Changes to exported columns from feedback
+Merged PR 764: Hotfix: AZ#2741 Graph widgets are missing imported values
+Fixed the account problem when changing Arrigo projects in ArrigoHome
+Merged PR 754: Hotfix #AZ2729 Access rights on activites
+Merged PR 750: Hotfix:#2705 Add more in progress translations for Meter import
+Merged PR 749: Fix: MeterImport uploads and new logic compatibility
+Merged PR 746: Hotfix:  #2702 Make the import value result table header sticky
+Merged PR 744: Hotfix: Disable fields on export start
+Merged PR 743: Hotfix:  #2712 Number formating of imported values
+Hotfix: AZ#2687Make it possible to select "All" as energy type
+Hotfix: AZ#2598 Change translations for co2 emissions
+Reverted portal location as the changes broke the EMS.
+Hotfix: AZ#2707 Popup in maneuver
+Fix: Skip files fetch if referenceId is missing
+Fix: Incorrect filename when downloading document
+Feature: AZ#2616 Files, Protocols and Documents support for activities
+Hotfix: AZ#2695 Partially load MeterValues in Import UI
+Hotfix: Password change fixes
+AZ#2678 Added support for File and WidgetFile
+
+
 ## 1.1.248
 *2024-01-17*
 
