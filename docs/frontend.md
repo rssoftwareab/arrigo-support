@@ -8,64 +8,64 @@ description: Change Log
 ## 1.1.305
 *2024-03-06*
 
-Feature: AZ#2616 Files, Protocols and Documents support for activities
-Feature: #2769 Add ability to add OAuth configuration
-Feature: AZ#2696 Documents and Notes list views
-Feature: AZ#2681 Added link icon title and folder title to export name
-Feature: Add widget and link icon visibility subscriptions
+Feature: AZ#2616 Files, Protocols and Documents support for activities  
+Feature: #2769 Add ability to add OAuth configuration  
+Feature: AZ#2696 Documents and Notes list views  
+Feature: AZ#2681 Added link icon title and folder title to export name  
+Feature: Add widget and link icon visibility subscriptions  
 
 Fix: Add new bool value on ImportConfigurations so we support SystemConfigs
 
-Hotfix: AZ#2753 ET report not showing any data
-Merged PR 800: Release 2024-03-05
-Related work items: #2534, #2572, #2574, #2575, #2616, #2696
-Add missing CRUDAccess from merge
+Hotfix: AZ#2753 ET report not showing any data  
+Merged PR 800: Release 2024-03-05  
+Related work items: #2534, #2572, #2574, #2575, #2616, #2696  
+Add missing CRUDAccess from merge  
 Hotfix: #285EMS Mobile Adjustments
 
 
-Merged PR 637:  #2572, #2574, #2575 Default settings
+Merged PR 637:  #2572, #2574, #2575 Default settings  
 New pass Added check for bad request
 
-Hotfix: Add missing submeterLevel filter prop
+Hotfix: Add missing submeterLevel filter prop  
 
-Pull Request triggered from POEditor
-Hotfix: AZ#2762 View graphwidget data on submeter level
-Hotfix: AZ#2760 Access check for pause and resume
-Hotfix: AZ#2761 FolderRouter issue
-Hotfix: MobileOverlayPanel z-index
-Hotfix: Signal color picker in BMS
-Hotfix: Add chart nullcheck
-Hotfix: #2746 Fix broken sticky linkicons
-Hotfix: AZ#2692 Manual setting/adjustments of axis scales
-Hotfix: #2719Default value for email recipient
-Hotfix: #2747 Signals not trending
-Hotfix: AZ#2748 Maneuverpanel decimals fix
-Hotfix: #2717 Highlight drop area when dragging folder to Export tool
-Hotfix: Tooltip unit fix
-Hotfix: #2719 FTP recipient in meter export
-REQ8: AZ#2676 Export Reliability
-Hotfix: AZ#2694 Time/Value indication for points
-Hotfix: AZ#2707 new portal for maneuverpanel
-Hotfix: AZ#2683 Change color in runtime
-Hotfix: AZ#2708 Password requirement check before login
-Hotfix:  #2716 Changes to exported columns from feedback
-Hotfix: AZ#2741 Graph widgets are missing imported values
-Fix: Fixed the account problem when changing Arrigo projects in ArrigoHome
-Hotfix: #AZ2729 Access rights on activites
-Hotfix: #2705 Add more in progress translations for Meter import
-Fix: MeterImport uploads and new logic compatibility
-Hotfix:  #2702 Make the import value result table header sticky
-Hotfix: Disable fields on export start
-Hotfix:  #2712 Number formating of imported values
-Hotfix: AZ#2687Make it possible to select "All" as energy type
-Hotfix: AZ#2598 Change translations for co2 emissions
-Reverted portal location as the changes broke the EMS.
-Hotfix: AZ#2707 Popup in maneuver
-Fix: Skip files fetch if referenceId is missing
+Pull Request triggered from POEditor  
+Hotfix: AZ#2762 View graphwidget data on submeter level  
+Hotfix: AZ#2760 Access check for pause and resume  
+Hotfix: AZ#2761 FolderRouter issue  
+Hotfix: MobileOverlayPanel z-index  
+Hotfix: Signal color picker in BMS  
+Hotfix: Add chart nullcheck  
+Hotfix: #2746 Fix broken sticky linkicons  
+Hotfix: AZ#2692 Manual setting/adjustments of axis scales  
+Hotfix: #2719Default value for email recipient  
+Hotfix: #2747 Signals not trending  
+Hotfix: AZ#2748 Maneuverpanel decimals fix  
+Hotfix: #2717 Highlight drop area when dragging folder to Export tool  
+Hotfix: Tooltip unit fix  
+Hotfix: #2719 FTP recipient in meter export  
+REQ8: AZ#2676 Export Reliability  
+Hotfix: AZ#2694 Time/Value indication for points  
+Hotfix: AZ#2707 new portal for maneuverpanel  
+Hotfix: AZ#2683 Change color in runtime  
+Hotfix: AZ#2708 Password requirement check before login  
+Hotfix:  #2716 Changes to exported columns from feedback  
+Hotfix: AZ#2741 Graph widgets are missing imported values  
+Fix: Fixed the account problem when changing Arrigo projects in ArrigoHome  
+Hotfix: #AZ2729 Access rights on activites  
+Hotfix: #2705 Add more in progress translations for Meter import  
+Fix: MeterImport uploads and new logic compatibility  
+Hotfix:  #2702 Make the import value result table header sticky  
+Hotfix: Disable fields on export start  
+Hotfix:  #2712 Number formating of imported values  
+Hotfix: AZ#2687Make it possible to select "All" as energy type  
+Hotfix: AZ#2598 Change translations for co2 emissions  
+Reverted portal location as the changes broke the EMS.  
+Hotfix: AZ#2707 Popup in maneuver  
+Fix: Skip files fetch if referenceId is missing  
 Fix: Incorrect filename when downloading document
 
-Hotfix: AZ#2695 Partially load MeterValues in Import UI
-Hotfix: Password change fixes
+Hotfix: AZ#2695 Partially load MeterValues in Import UI  
+Hotfix: Password change fixes  
 AZ#2678 Added support for File and WidgetFile
 
 
