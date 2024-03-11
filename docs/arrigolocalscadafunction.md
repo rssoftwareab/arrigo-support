@@ -6,6 +6,11 @@ description: Change Log
 
 # Change Log
 
+## 1.4.21
+*2024-02-19*
+
+* Removing unused code
+
 ## 1.4.16
 *2023-12-05*
 
