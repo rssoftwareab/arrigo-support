@@ -6,8 +6,8 @@ description: Change Log
 
 # Change Log
 
-## 1.4.109
-*2024-03-04*
+## 1.4.111
+*2024-03-12*
 
 * Feature: AZ#2612,TP#27810: Replace Account-node with project root node(RootArea) (#188)
 * Feature: AZ#2515: ArrigoHome projects implementation (#190)
