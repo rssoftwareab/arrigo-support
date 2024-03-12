@@ -5,9 +5,9 @@ description: Change Log
 ---
 # Change Log
 
-## 1.1.305
-*2024-03-06*
-
+## 1.1.309
+*2024-03-11*
+- Merged PR 815: Feature: AZ#2758 Add ability to optionally retain filters after navigation
 - Merged PR 811: Hotfix: Fix API crash on MeterImport config admin view Remove isSystemConfiguration from MeterImportDescriptionsQuery
 - Merged PR 810: Hotfix: Minor overflow fix Hotfix: Minor overflow fix
 - Merged PR 802: Hotfix: AZ#2753 ET report not showing any data ET report does not show any data, allthough the query delivers data.
