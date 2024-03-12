@@ -6,6 +6,15 @@ description: Change Log
 
 # Change Log
 
+## 1.4.111
+*2024-03-12*
+
+* Feature: AZ#2612,TP#27810: Replace Account-node with project root node(RootArea) (#188)
+* Feature: AZ#2515: ArrigoHome projects implementation (#190)
+* Fix: Storing maneuver comments (#193)
+* Fix: Safeguarding if entries are missing in Users.ExoXml (#191)
+* Fix: Slow event queries on big databases (#196)
+  
 ## 1.4.90
 *2023-12-19*
 

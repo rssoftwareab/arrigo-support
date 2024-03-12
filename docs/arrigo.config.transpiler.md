@@ -6,6 +6,10 @@ description: Change Log
 
 # Change Log
 
+## 1.4.10
+*2024-02-06*
+- Hotfix: AZ#2431 No icons on popup windows (#20)
+
 ## 1.4.9
 *2023-12-21*
 - Feature: AZ#2112: Setting "ToleranceIsDefault" attribute when `showDefaults == false`
