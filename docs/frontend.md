@@ -8,68 +8,54 @@ description: Change Log
 ## 1.1.305
 *2024-03-06*
 
-- Feature: AZ#2616 Files, Protocols and Documents support for activities
-- Feature: AZ#2769 Add ability to add OAuth configuration
-- Feature: AZ#2696 Documents and Notes list views
-- Feature: AZ#2681 Added link icon title and folder title to export name
-- Feature: Add widget and link icon visibility subscriptions
-- Feature: AZ#2678 Added support for File and WidgetFile
+- Merged PR 811: Hotfix: Fix API crash on MeterImport config admin view Remove isSystemConfiguration from MeterImportDescriptionsQuery
+- Merged PR 810: Hotfix: Minor overflow fix Hotfix: Minor overflow fix
+- Merged PR 802: Hotfix: AZ#2753 ET report not showing any data ET report does not show any data, allthough the query delivers data.
+- Merged PR 800: AZ#2534, AZ#2572, AZ#2574, AZ#2575, AZ#2616, AZ#2696
+- Merged PR 793: Hotfix: AZ#285 EMS Mobile Adjustments Various mobile adjustments
+- Merged PR 698: AZ#2681 Added link icon title and folder title to export name Added link icon title and folder title to export name
+- Merged PR 794: Feature: Add widget and link icon visibility subscriptions Add Widget Visibility subscription from config
+- Merged PR 797: New pass Added check for bad request Added check for bad request
+- Merged PR 795: AZ#2769 Feature: Add ability to add OAuth configuration Hidden pi icon
+- Merged PR 792: Hotfix: Add missing submeterLevel filter prop
+- Merged PR 741: Pull Request triggered from POEditor
+- Merged PR 788: Hotfix: AZ#2762 View graphwidget data on submeter level
+- Merged PR 786: Hotfix: AZ#2760 Access check for pause and resume Add access check for pause and resume functionality of activities
+- Merged PR 785: Hotfix: AZ#2761 FolderRouter issue Not checking if File attribute exists before trying to perform .toLowerCase(), causes the application to crash.
+- Merged PR 783: Hotfix: MobileOverlayPanel z-index Hotfix: MobileOverlayPanel z-index
+updated the z-index so that the datepicker works from sidepanels
+- Merged PR 781: Hotfix: Signal color picker in BMS colorpicker was visible in ET report and it caused some failure
+- Merged PR 777: Hotfix: Add chart nullcheck add nullcheck
+- Merged PR 778: Hotfix: AZ#2746 Fix broken sticky linkicons
+- Merged PR 760: Hotfix: AZ#2692 Manual setting/adjustments of axis scales
+- Merged PR 776: Hotfix: AZ#2719 Default value for email recipient Hotfix: Default value for email recipient
+- Merged PR 773: Hotfix: AZ#2747 Signals not trending Hotfix: Signals not trending
+with this fix, all signals will have an initial  realtime value to show a "dot" in the chart.
+not sure if this solves the issue per se, but the signals I've tried with are trending.
+- Merged PR 770: Hotfix: AZ#2748 Maneuverpanel decimals fix
+- Merged PR 772: Hotfix: AZ#2717 Highlight drop area when dragging folder to Export tool Highlight drop area when dragging folder and add icon to admin config form
+- Merged PR 771: Hotfix: Tooltip unit fix Hotfix: Tooltip unit fix
+- Merged PR 769: Hotfix: AZ##2719 FTP recipient in meter export Hotfix: FTP recipient in meter export
+- Merged PR 703: REQ8: AZ#2676 Export Reliability 
+- Merged PR 718: Hotfix: AZ#2694 Time/Value indication for points 
+- Merged PR 737: Hotfix: AZ#2707 new portal for maneuverpanel
+- Merged PR 755: Hotfix: AZ#2683 Change color in runtime
+- Merged PR 748: Hotfix: AZ#2708 Password requirement check before login Now checking for password requirements before logging in.
+- Merged PR 757: Hotfix: AZ#2716 Changes to exported columns from feedback
+- Merged PR 764: Hotfix: AZ#2741 Graph widgets are missing imported values Include imported values for Graph widgets
+- Merged PR 754: Hotfix: AZ#2729 Access rights on activites Apply CRUDAccess to activities
+- Merged PR 750: Hotfix: AZ#2705 Add more in progress translations for Meter import Add more in progress translations
+- Merged PR 746: Hotfix: AZ#2702 Make the import value result table header sticky
+- Merged PR 744: Hotfix: Disable fields on export start Disable fields on export start
+- Merged PR 743: Hotfix: AZ#2712 Number formating of imported values Fix meter value format for imported values
+- Merged PR 738: Hotfix: AZ #2687 Make it possible to select "All" as energy type Make it possible to select all as energy type
+- Merged PR 603: Hotfix: AZ#2598 Change translations for co2 emissions **NOTE!**
+- Merged PR 735: Reverted portal location Reverted portal location as the changes broke the EMS.
+- Merged PR 732: Hotfix: AZ#2707 Popup in maneuver 
+- Merged PR 721: Hotfix: AZ#2695 Partially load MeterValues in Import UI 
+- Merged PR 712: Hotfix: Password change fixes added some notifications and made the change password part available as well as the request new password from mail.
+- Merged PR 702: AZ#2678 Added support for File and WidgetFile Added support for File and WidgetFile in chart widget to support different chart config when opening the view.
 
-- Fix: Add new bool value on ImportConfigurations so we support SystemConfigs
-- Fix: Fixed the account problem when changing Arrigo projects in ArrigoHome
-- Fix: MeterImport uploads and new logic compatibility
-- Fix: Skip files fetch if referenceId is missing
-- Fix: Incorrect filename when downloading document
-  
-- Hotfix: AZ#2753 ET report not showing any data
-- Hotfix: AZ#285 EMS Mobile Adjustments
-- Hotfix: Add missing submeterLevel filter prop
-- Hotfix: AZ#2762 View graphwidget data on submeter level
-- Hotfix: AZ#2760 Access check for pause and resume
-- Hotfix: AZ#2761 FolderRouter issue
-- Hotfix: MobileOverlayPanel z-index
-- Hotfix: Signal color picker in BMS
-- Hotfix: Add chart nullcheck
-- Hotfix: AZ#2746 Fix broken sticky linkicons
-- Hotfix: AZ#2762 View graphwidget data on submeter level
-- Hotfix: AZ#2760 Access check for pause and resume
-- Hotfix: AZ#2761 FolderRouter issue
-- Hotfix: MobileOverlayPanel z-index
-- Hotfix: Signal color picker in BMS
-- Hotfix: Add chart nullcheck
-- Hotfix: AZ#2746 Fix broken sticky linkicons
-- Hotfix: AZ#2692 Manual setting/adjustments of axis scales
-- Hotfix: AZ#2719 Default value for email recipient
-- Hotfix: AZ#2747 Signals not trending
-- Hotfix: AZ#2748 Maneuverpanel decimals fix
-- Hotfix: AZ#2717 Highlight drop area when dragging folder to Export tool
-- Hotfix: Tooltip unit fix
-- Hotfix: AZ#2719 FTP recipient in meter export
-- Hotfix: AZ#2694 Time/Value indication for points
-- Hotfix: AZ#2707 new portal for maneuverpanel
-- Hotfix: AZ#2683 Change color in runtime
-- Hotfix: AZ#2708 Password requirement check before login
-- Hotfix: AZ#2716 Changes to exported columns from feedback
-- Hotfix: AZ#2741 Graph widgets are missing imported values
-- Hotfix: #AZ2729 Access rights on activites
-- Hotfix: AZ#2705 Add more in progress translations for Meter import
-- Hotfix: AZ#2702 Make the import value result table header sticky
-- Hotfix: Disable fields on export start
-- Hotfix: AZ#2712 Number formating of imported values
-- Hotfix: AZ#2687Make it possible to select "All" as energy type
-- Hotfix: AZ#2598 Change translations for co2 emissions
-- Hotfix: AZ#2707 Popup in maneuver
-- Hotfix: AZ#2695 Partially load MeterValues in Import UI
-- Hotfix: Password change fixes
-
-
-- Reverted portal location as the changes broke the EMS.
-- Merged PR 800: Release 2024-03-05 Related work items: #2534, #2572, #2574, #2575, #2616, #2696
-- Add missing CRUDAccess from merge
-- Merged PR 637:  #2572, #2574, #2575 Default settings
-- New pass Added check for bad request
-- Pull Request triggered from POEditor
-- REQ8: AZ#2676 Export Reliability
 
 
 ## 1.1.248
