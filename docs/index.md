@@ -6,6 +6,10 @@ description: Releases and Change Log
 
 # Downloads
 
+## We are moving!
+As per 2024-03-13 all further information about Arrigo Local, Arrigo Local installer, License manager, Nimbus and other on-premise software released by RS Software are moving to Regin.
+Please follow [this link](https://arrigoreleases.regincontrols.com) to obtain the latest information. This page will still be online for arrigo.se, EMS and FMS updates. The upcoming release emails from Arrigo will not contain any information about Arrigo Local.
+
 ## Arrigo Local Installer
 
 | Release  | Version                                      | Required EXO installation | Download |
